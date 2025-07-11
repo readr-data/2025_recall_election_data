@@ -1,0 +1,3271 @@
+{
+ "updatedAt": "2025-07-10 10:33:00",
+"is_running": false,
+"is_started": true,
+"districts": [
+ {
+ "range": "臺東縣 第01選區 臺東市文化里",
+"area_nickname": "臺東市、成功鎮、關山鎮、卑南鄉、鹿野鄉、池上鄉、東河鄉、長濱鄉、太麻里鄉、大武鄉、綠島鄉、海端鄉、延平鄉、金峰鄉、達仁鄉、蘭嶼鄉",
+"county": "10014",
+"area": "01",
+"town": "010",
+"vill": "023",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "黃建賓",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "臺東縣 第01選區 臺東市民族里",
+"area_nickname": "臺東市、成功鎮、關山鎮、卑南鄉、鹿野鄉、池上鄉、東河鄉、長濱鄉、太麻里鄉、大武鄉、綠島鄉、海端鄉、延平鄉、金峰鄉、達仁鄉、蘭嶼鄉",
+"county": "10014",
+"area": "01",
+"town": "010",
+"vill": "013",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "黃建賓",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "臺東縣 第01選區 臺東市自強里",
+"area_nickname": "臺東市、成功鎮、關山鎮、卑南鄉、鹿野鄉、池上鄉、東河鄉、長濱鄉、太麻里鄉、大武鄉、綠島鄉、海端鄉、延平鄉、金峰鄉、達仁鄉、蘭嶼鄉",
+"county": "10014",
+"area": "01",
+"town": "010",
+"vill": "012",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "黃建賓",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "臺東縣 第01選區 臺東市民生里",
+"area_nickname": "臺東市、成功鎮、關山鎮、卑南鄉、鹿野鄉、池上鄉、東河鄉、長濱鄉、太麻里鄉、大武鄉、綠島鄉、海端鄉、延平鄉、金峰鄉、達仁鄉、蘭嶼鄉",
+"county": "10014",
+"area": "01",
+"town": "010",
+"vill": "008",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "黃建賓",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "臺東縣 第01選區 臺東市寶桑里",
+"area_nickname": "臺東市、成功鎮、關山鎮、卑南鄉、鹿野鄉、池上鄉、東河鄉、長濱鄉、太麻里鄉、大武鄉、綠島鄉、海端鄉、延平鄉、金峰鄉、達仁鄉、蘭嶼鄉",
+"county": "10014",
+"area": "01",
+"town": "010",
+"vill": "009",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "黃建賓",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "臺東縣 第01選區 臺東市中華里",
+"area_nickname": "臺東市、成功鎮、關山鎮、卑南鄉、鹿野鄉、池上鄉、東河鄉、長濱鄉、太麻里鄉、大武鄉、綠島鄉、海端鄉、延平鄉、金峰鄉、達仁鄉、蘭嶼鄉",
+"county": "10014",
+"area": "01",
+"town": "010",
+"vill": "015",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "黃建賓",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "臺東縣 第01選區 臺東市成功里",
+"area_nickname": "臺東市、成功鎮、關山鎮、卑南鄉、鹿野鄉、池上鄉、東河鄉、長濱鄉、太麻里鄉、大武鄉、綠島鄉、海端鄉、延平鄉、金峰鄉、達仁鄉、蘭嶼鄉",
+"county": "10014",
+"area": "01",
+"town": "010",
+"vill": "022",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "黃建賓",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "臺東縣 第01選區 臺東市建國里",
+"area_nickname": "臺東市、成功鎮、關山鎮、卑南鄉、鹿野鄉、池上鄉、東河鄉、長濱鄉、太麻里鄉、大武鄉、綠島鄉、海端鄉、延平鄉、金峰鄉、達仁鄉、蘭嶼鄉",
+"county": "10014",
+"area": "01",
+"town": "010",
+"vill": "017",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "黃建賓",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "臺東縣 第01選區 臺東市中正里",
+"area_nickname": "臺東市、成功鎮、關山鎮、卑南鄉、鹿野鄉、池上鄉、東河鄉、長濱鄉、太麻里鄉、大武鄉、綠島鄉、海端鄉、延平鄉、金峰鄉、達仁鄉、蘭嶼鄉",
+"county": "10014",
+"area": "01",
+"town": "010",
+"vill": "020",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "黃建賓",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "臺東縣 第01選區 臺東市中山里",
+"area_nickname": "臺東市、成功鎮、關山鎮、卑南鄉、鹿野鄉、池上鄉、東河鄉、長濱鄉、太麻里鄉、大武鄉、綠島鄉、海端鄉、延平鄉、金峰鄉、達仁鄉、蘭嶼鄉",
+"county": "10014",
+"area": "01",
+"town": "010",
+"vill": "024",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "黃建賓",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "臺東縣 第01選區 臺東市東海里",
+"area_nickname": "臺東市、成功鎮、關山鎮、卑南鄉、鹿野鄉、池上鄉、東河鄉、長濱鄉、太麻里鄉、大武鄉、綠島鄉、海端鄉、延平鄉、金峰鄉、達仁鄉、蘭嶼鄉",
+"county": "10014",
+"area": "01",
+"town": "010",
+"vill": "036",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "黃建賓",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "臺東縣 第01選區 臺東市新興里",
+"area_nickname": "臺東市、成功鎮、關山鎮、卑南鄉、鹿野鄉、池上鄉、東河鄉、長濱鄉、太麻里鄉、大武鄉、綠島鄉、海端鄉、延平鄉、金峰鄉、達仁鄉、蘭嶼鄉",
+"county": "10014",
+"area": "01",
+"town": "010",
+"vill": "037",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "黃建賓",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "臺東縣 第01選區 臺東市新生里",
+"area_nickname": "臺東市、成功鎮、關山鎮、卑南鄉、鹿野鄉、池上鄉、東河鄉、長濱鄉、太麻里鄉、大武鄉、綠島鄉、海端鄉、延平鄉、金峰鄉、達仁鄉、蘭嶼鄉",
+"county": "10014",
+"area": "01",
+"town": "010",
+"vill": "007",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "黃建賓",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "臺東縣 第01選區 臺東市中心里",
+"area_nickname": "臺東市、成功鎮、關山鎮、卑南鄉、鹿野鄉、池上鄉、東河鄉、長濱鄉、太麻里鄉、大武鄉、綠島鄉、海端鄉、延平鄉、金峰鄉、達仁鄉、蘭嶼鄉",
+"county": "10014",
+"area": "01",
+"town": "010",
+"vill": "011",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "黃建賓",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "臺東縣 第01選區 臺東市馬蘭里",
+"area_nickname": "臺東市、成功鎮、關山鎮、卑南鄉、鹿野鄉、池上鄉、東河鄉、長濱鄉、太麻里鄉、大武鄉、綠島鄉、海端鄉、延平鄉、金峰鄉、達仁鄉、蘭嶼鄉",
+"county": "10014",
+"area": "01",
+"town": "010",
+"vill": "010",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "黃建賓",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "臺東縣 第01選區 臺東市光明里",
+"area_nickname": "臺東市、成功鎮、關山鎮、卑南鄉、鹿野鄉、池上鄉、東河鄉、長濱鄉、太麻里鄉、大武鄉、綠島鄉、海端鄉、延平鄉、金峰鄉、達仁鄉、蘭嶼鄉",
+"county": "10014",
+"area": "01",
+"town": "010",
+"vill": "032",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "黃建賓",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "臺東縣 第01選區 臺東市豐年里",
+"area_nickname": "臺東市、成功鎮、關山鎮、卑南鄉、鹿野鄉、池上鄉、東河鄉、長濱鄉、太麻里鄉、大武鄉、綠島鄉、海端鄉、延平鄉、金峰鄉、達仁鄉、蘭嶼鄉",
+"county": "10014",
+"area": "01",
+"town": "010",
+"vill": "031",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "黃建賓",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "臺東縣 第01選區 臺東市豐樂里",
+"area_nickname": "臺東市、成功鎮、關山鎮、卑南鄉、鹿野鄉、池上鄉、東河鄉、長濱鄉、太麻里鄉、大武鄉、綠島鄉、海端鄉、延平鄉、金峰鄉、達仁鄉、蘭嶼鄉",
+"county": "10014",
+"area": "01",
+"town": "010",
+"vill": "033",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "黃建賓",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "臺東縣 第01選區 臺東市永樂里",
+"area_nickname": "臺東市、成功鎮、關山鎮、卑南鄉、鹿野鄉、池上鄉、東河鄉、長濱鄉、太麻里鄉、大武鄉、綠島鄉、海端鄉、延平鄉、金峰鄉、達仁鄉、蘭嶼鄉",
+"county": "10014",
+"area": "01",
+"town": "010",
+"vill": "034",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "黃建賓",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "臺東縣 第01選區 臺東市康樂里",
+"area_nickname": "臺東市、成功鎮、關山鎮、卑南鄉、鹿野鄉、池上鄉、東河鄉、長濱鄉、太麻里鄉、大武鄉、綠島鄉、海端鄉、延平鄉、金峰鄉、達仁鄉、蘭嶼鄉",
+"county": "10014",
+"area": "01",
+"town": "010",
+"vill": "035",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "黃建賓",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "臺東縣 第01選區 臺東市豐榮里",
+"area_nickname": "臺東市、成功鎮、關山鎮、卑南鄉、鹿野鄉、池上鄉、東河鄉、長濱鄉、太麻里鄉、大武鄉、綠島鄉、海端鄉、延平鄉、金峰鄉、達仁鄉、蘭嶼鄉",
+"county": "10014",
+"area": "01",
+"town": "010",
+"vill": "038",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "黃建賓",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "臺東縣 第01選區 臺東市豐谷里",
+"area_nickname": "臺東市、成功鎮、關山鎮、卑南鄉、鹿野鄉、池上鄉、東河鄉、長濱鄉、太麻里鄉、大武鄉、綠島鄉、海端鄉、延平鄉、金峰鄉、達仁鄉、蘭嶼鄉",
+"county": "10014",
+"area": "01",
+"town": "010",
+"vill": "039",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "黃建賓",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "臺東縣 第01選區 臺東市豐里里",
+"area_nickname": "臺東市、成功鎮、關山鎮、卑南鄉、鹿野鄉、池上鄉、東河鄉、長濱鄉、太麻里鄉、大武鄉、綠島鄉、海端鄉、延平鄉、金峰鄉、達仁鄉、蘭嶼鄉",
+"county": "10014",
+"area": "01",
+"town": "010",
+"vill": "040",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "黃建賓",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "臺東縣 第01選區 臺東市豐原里",
+"area_nickname": "臺東市、成功鎮、關山鎮、卑南鄉、鹿野鄉、池上鄉、東河鄉、長濱鄉、太麻里鄉、大武鄉、綠島鄉、海端鄉、延平鄉、金峰鄉、達仁鄉、蘭嶼鄉",
+"county": "10014",
+"area": "01",
+"town": "010",
+"vill": "041",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "黃建賓",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "臺東縣 第01選區 臺東市富岡里",
+"area_nickname": "臺東市、成功鎮、關山鎮、卑南鄉、鹿野鄉、池上鄉、東河鄉、長濱鄉、太麻里鄉、大武鄉、綠島鄉、海端鄉、延平鄉、金峰鄉、達仁鄉、蘭嶼鄉",
+"county": "10014",
+"area": "01",
+"town": "010",
+"vill": "001",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "黃建賓",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "臺東縣 第01選區 臺東市南榮里",
+"area_nickname": "臺東市、成功鎮、關山鎮、卑南鄉、鹿野鄉、池上鄉、東河鄉、長濱鄉、太麻里鄉、大武鄉、綠島鄉、海端鄉、延平鄉、金峰鄉、達仁鄉、蘭嶼鄉",
+"county": "10014",
+"area": "01",
+"town": "010",
+"vill": "006",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "黃建賓",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "臺東縣 第01選區 臺東市岩灣里",
+"area_nickname": "臺東市、成功鎮、關山鎮、卑南鄉、鹿野鄉、池上鄉、東河鄉、長濱鄉、太麻里鄉、大武鄉、綠島鄉、海端鄉、延平鄉、金峰鄉、達仁鄉、蘭嶼鄉",
+"county": "10014",
+"area": "01",
+"town": "010",
+"vill": "003",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "黃建賓",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "臺東縣 第01選區 臺東市卑南里",
+"area_nickname": "臺東市、成功鎮、關山鎮、卑南鄉、鹿野鄉、池上鄉、東河鄉、長濱鄉、太麻里鄉、大武鄉、綠島鄉、海端鄉、延平鄉、金峰鄉、達仁鄉、蘭嶼鄉",
+"county": "10014",
+"area": "01",
+"town": "010",
+"vill": "005",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "黃建賓",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "臺東縣 第01選區 臺東市南王里",
+"area_nickname": "臺東市、成功鎮、關山鎮、卑南鄉、鹿野鄉、池上鄉、東河鄉、長濱鄉、太麻里鄉、大武鄉、綠島鄉、海端鄉、延平鄉、金峰鄉、達仁鄉、蘭嶼鄉",
+"county": "10014",
+"area": "01",
+"town": "010",
+"vill": "004",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "黃建賓",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "臺東縣 第01選區 臺東市豐田里",
+"area_nickname": "臺東市、成功鎮、關山鎮、卑南鄉、鹿野鄉、池上鄉、東河鄉、長濱鄉、太麻里鄉、大武鄉、綠島鄉、海端鄉、延平鄉、金峰鄉、達仁鄉、蘭嶼鄉",
+"county": "10014",
+"area": "01",
+"town": "010",
+"vill": "030",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "黃建賓",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "臺東縣 第01選區 臺東市新園里",
+"area_nickname": "臺東市、成功鎮、關山鎮、卑南鄉、鹿野鄉、池上鄉、東河鄉、長濱鄉、太麻里鄉、大武鄉、綠島鄉、海端鄉、延平鄉、金峰鄉、達仁鄉、蘭嶼鄉",
+"county": "10014",
+"area": "01",
+"town": "010",
+"vill": "029",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "黃建賓",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "臺東縣 第01選區 臺東市建和里",
+"area_nickname": "臺東市、成功鎮、關山鎮、卑南鄉、鹿野鄉、池上鄉、東河鄉、長濱鄉、太麻里鄉、大武鄉、綠島鄉、海端鄉、延平鄉、金峰鄉、達仁鄉、蘭嶼鄉",
+"county": "10014",
+"area": "01",
+"town": "010",
+"vill": "042",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "黃建賓",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "臺東縣 第01選區 臺東市建興里",
+"area_nickname": "臺東市、成功鎮、關山鎮、卑南鄉、鹿野鄉、池上鄉、東河鄉、長濱鄉、太麻里鄉、大武鄉、綠島鄉、海端鄉、延平鄉、金峰鄉、達仁鄉、蘭嶼鄉",
+"county": "10014",
+"area": "01",
+"town": "010",
+"vill": "043",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "黃建賓",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "臺東縣 第01選區 臺東市知本里",
+"area_nickname": "臺東市、成功鎮、關山鎮、卑南鄉、鹿野鄉、池上鄉、東河鄉、長濱鄉、太麻里鄉、大武鄉、綠島鄉、海端鄉、延平鄉、金峰鄉、達仁鄉、蘭嶼鄉",
+"county": "10014",
+"area": "01",
+"town": "010",
+"vill": "045",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "黃建賓",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "臺東縣 第01選區 臺東市建農里",
+"area_nickname": "臺東市、成功鎮、關山鎮、卑南鄉、鹿野鄉、池上鄉、東河鄉、長濱鄉、太麻里鄉、大武鄉、綠島鄉、海端鄉、延平鄉、金峰鄉、達仁鄉、蘭嶼鄉",
+"county": "10014",
+"area": "01",
+"town": "010",
+"vill": "046",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "黃建賓",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "臺東縣 第01選區 成功鎮信義里",
+"area_nickname": "臺東市、成功鎮、關山鎮、卑南鄉、鹿野鄉、池上鄉、東河鄉、長濱鄉、太麻里鄉、大武鄉、綠島鄉、海端鄉、延平鄉、金峰鄉、達仁鄉、蘭嶼鄉",
+"county": "10014",
+"area": "01",
+"town": "020",
+"vill": "008",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "黃建賓",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "臺東縣 第01選區 成功鎮和平里",
+"area_nickname": "臺東市、成功鎮、關山鎮、卑南鄉、鹿野鄉、池上鄉、東河鄉、長濱鄉、太麻里鄉、大武鄉、綠島鄉、海端鄉、延平鄉、金峰鄉、達仁鄉、蘭嶼鄉",
+"county": "10014",
+"area": "01",
+"town": "020",
+"vill": "007",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "黃建賓",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "臺東縣 第01選區 成功鎮忠仁里",
+"area_nickname": "臺東市、成功鎮、關山鎮、卑南鄉、鹿野鄉、池上鄉、東河鄉、長濱鄉、太麻里鄉、大武鄉、綠島鄉、海端鄉、延平鄉、金峰鄉、達仁鄉、蘭嶼鄉",
+"county": "10014",
+"area": "01",
+"town": "020",
+"vill": "006",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "黃建賓",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "臺東縣 第01選區 成功鎮忠智里",
+"area_nickname": "臺東市、成功鎮、關山鎮、卑南鄉、鹿野鄉、池上鄉、東河鄉、長濱鄉、太麻里鄉、大武鄉、綠島鄉、海端鄉、延平鄉、金峰鄉、達仁鄉、蘭嶼鄉",
+"county": "10014",
+"area": "01",
+"town": "020",
+"vill": "005",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "黃建賓",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "臺東縣 第01選區 成功鎮三民里",
+"area_nickname": "臺東市、成功鎮、關山鎮、卑南鄉、鹿野鄉、池上鄉、東河鄉、長濱鄉、太麻里鄉、大武鄉、綠島鄉、海端鄉、延平鄉、金峰鄉、達仁鄉、蘭嶼鄉",
+"county": "10014",
+"area": "01",
+"town": "020",
+"vill": "004",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "黃建賓",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "臺東縣 第01選區 成功鎮三仙里",
+"area_nickname": "臺東市、成功鎮、關山鎮、卑南鄉、鹿野鄉、池上鄉、東河鄉、長濱鄉、太麻里鄉、大武鄉、綠島鄉、海端鄉、延平鄉、金峰鄉、達仁鄉、蘭嶼鄉",
+"county": "10014",
+"area": "01",
+"town": "020",
+"vill": "003",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "黃建賓",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "臺東縣 第01選區 成功鎮忠孝里",
+"area_nickname": "臺東市、成功鎮、關山鎮、卑南鄉、鹿野鄉、池上鄉、東河鄉、長濱鄉、太麻里鄉、大武鄉、綠島鄉、海端鄉、延平鄉、金峰鄉、達仁鄉、蘭嶼鄉",
+"county": "10014",
+"area": "01",
+"town": "020",
+"vill": "002",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "黃建賓",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "臺東縣 第01選區 成功鎮博愛里",
+"area_nickname": "臺東市、成功鎮、關山鎮、卑南鄉、鹿野鄉、池上鄉、東河鄉、長濱鄉、太麻里鄉、大武鄉、綠島鄉、海端鄉、延平鄉、金峰鄉、達仁鄉、蘭嶼鄉",
+"county": "10014",
+"area": "01",
+"town": "020",
+"vill": "001",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "黃建賓",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "臺東縣 第01選區 關山鎮里壠里",
+"area_nickname": "臺東市、成功鎮、關山鎮、卑南鄉、鹿野鄉、池上鄉、東河鄉、長濱鄉、太麻里鄉、大武鄉、綠島鄉、海端鄉、延平鄉、金峰鄉、達仁鄉、蘭嶼鄉",
+"county": "10014",
+"area": "01",
+"town": "030",
+"vill": "005",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "黃建賓",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "臺東縣 第01選區 關山鎮中福里",
+"area_nickname": "臺東市、成功鎮、關山鎮、卑南鄉、鹿野鄉、池上鄉、東河鄉、長濱鄉、太麻里鄉、大武鄉、綠島鄉、海端鄉、延平鄉、金峰鄉、達仁鄉、蘭嶼鄉",
+"county": "10014",
+"area": "01",
+"town": "030",
+"vill": "004",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "黃建賓",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "臺東縣 第01選區 關山鎮新福里",
+"area_nickname": "臺東市、成功鎮、關山鎮、卑南鄉、鹿野鄉、池上鄉、東河鄉、長濱鄉、太麻里鄉、大武鄉、綠島鄉、海端鄉、延平鄉、金峰鄉、達仁鄉、蘭嶼鄉",
+"county": "10014",
+"area": "01",
+"town": "030",
+"vill": "003",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "黃建賓",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "臺東縣 第01選區 關山鎮豐泉里",
+"area_nickname": "臺東市、成功鎮、關山鎮、卑南鄉、鹿野鄉、池上鄉、東河鄉、長濱鄉、太麻里鄉、大武鄉、綠島鄉、海端鄉、延平鄉、金峰鄉、達仁鄉、蘭嶼鄉",
+"county": "10014",
+"area": "01",
+"town": "030",
+"vill": "002",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "黃建賓",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "臺東縣 第01選區 關山鎮月眉里",
+"area_nickname": "臺東市、成功鎮、關山鎮、卑南鄉、鹿野鄉、池上鄉、東河鄉、長濱鄉、太麻里鄉、大武鄉、綠島鄉、海端鄉、延平鄉、金峰鄉、達仁鄉、蘭嶼鄉",
+"county": "10014",
+"area": "01",
+"town": "030",
+"vill": "007",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "黃建賓",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "臺東縣 第01選區 關山鎮德高里",
+"area_nickname": "臺東市、成功鎮、關山鎮、卑南鄉、鹿野鄉、池上鄉、東河鄉、長濱鄉、太麻里鄉、大武鄉、綠島鄉、海端鄉、延平鄉、金峰鄉、達仁鄉、蘭嶼鄉",
+"county": "10014",
+"area": "01",
+"town": "030",
+"vill": "001",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "黃建賓",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "臺東縣 第01選區 關山鎮電光里",
+"area_nickname": "臺東市、成功鎮、關山鎮、卑南鄉、鹿野鄉、池上鄉、東河鄉、長濱鄉、太麻里鄉、大武鄉、綠島鄉、海端鄉、延平鄉、金峰鄉、達仁鄉、蘭嶼鄉",
+"county": "10014",
+"area": "01",
+"town": "030",
+"vill": "006",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "黃建賓",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "臺東縣 第01選區 卑南鄉賓朗村",
+"area_nickname": "臺東市、成功鎮、關山鎮、卑南鄉、鹿野鄉、池上鄉、東河鄉、長濱鄉、太麻里鄉、大武鄉、綠島鄉、海端鄉、延平鄉、金峰鄉、達仁鄉、蘭嶼鄉",
+"county": "10014",
+"area": "01",
+"town": "040",
+"vill": "008",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "黃建賓",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "臺東縣 第01選區 卑南鄉美農村",
+"area_nickname": "臺東市、成功鎮、關山鎮、卑南鄉、鹿野鄉、池上鄉、東河鄉、長濱鄉、太麻里鄉、大武鄉、綠島鄉、海端鄉、延平鄉、金峰鄉、達仁鄉、蘭嶼鄉",
+"county": "10014",
+"area": "01",
+"town": "040",
+"vill": "007",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "黃建賓",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "臺東縣 第01選區 卑南鄉初鹿村",
+"area_nickname": "臺東市、成功鎮、關山鎮、卑南鄉、鹿野鄉、池上鄉、東河鄉、長濱鄉、太麻里鄉、大武鄉、綠島鄉、海端鄉、延平鄉、金峰鄉、達仁鄉、蘭嶼鄉",
+"county": "10014",
+"area": "01",
+"town": "040",
+"vill": "006",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "黃建賓",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "臺東縣 第01選區 卑南鄉明峰村",
+"area_nickname": "臺東市、成功鎮、關山鎮、卑南鄉、鹿野鄉、池上鄉、東河鄉、長濱鄉、太麻里鄉、大武鄉、綠島鄉、海端鄉、延平鄉、金峰鄉、達仁鄉、蘭嶼鄉",
+"county": "10014",
+"area": "01",
+"town": "040",
+"vill": "005",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "黃建賓",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "臺東縣 第01選區 卑南鄉嘉豐村",
+"area_nickname": "臺東市、成功鎮、關山鎮、卑南鄉、鹿野鄉、池上鄉、東河鄉、長濱鄉、太麻里鄉、大武鄉、綠島鄉、海端鄉、延平鄉、金峰鄉、達仁鄉、蘭嶼鄉",
+"county": "10014",
+"area": "01",
+"town": "040",
+"vill": "001",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "黃建賓",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "臺東縣 第01選區 卑南鄉太平村",
+"area_nickname": "臺東市、成功鎮、關山鎮、卑南鄉、鹿野鄉、池上鄉、東河鄉、長濱鄉、太麻里鄉、大武鄉、綠島鄉、海端鄉、延平鄉、金峰鄉、達仁鄉、蘭嶼鄉",
+"county": "10014",
+"area": "01",
+"town": "040",
+"vill": "010",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "黃建賓",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "臺東縣 第01選區 卑南鄉泰安村",
+"area_nickname": "臺東市、成功鎮、關山鎮、卑南鄉、鹿野鄉、池上鄉、東河鄉、長濱鄉、太麻里鄉、大武鄉、綠島鄉、海端鄉、延平鄉、金峰鄉、達仁鄉、蘭嶼鄉",
+"county": "10014",
+"area": "01",
+"town": "040",
+"vill": "009",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "黃建賓",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "臺東縣 第01選區 卑南鄉利嘉村",
+"area_nickname": "臺東市、成功鎮、關山鎮、卑南鄉、鹿野鄉、池上鄉、東河鄉、長濱鄉、太麻里鄉、大武鄉、綠島鄉、海端鄉、延平鄉、金峰鄉、達仁鄉、蘭嶼鄉",
+"county": "10014",
+"area": "01",
+"town": "040",
+"vill": "011",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "黃建賓",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "臺東縣 第01選區 卑南鄉東興村",
+"area_nickname": "臺東市、成功鎮、關山鎮、卑南鄉、鹿野鄉、池上鄉、東河鄉、長濱鄉、太麻里鄉、大武鄉、綠島鄉、海端鄉、延平鄉、金峰鄉、達仁鄉、蘭嶼鄉",
+"county": "10014",
+"area": "01",
+"town": "040",
+"vill": "012",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "黃建賓",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "臺東縣 第01選區 卑南鄉溫泉村",
+"area_nickname": "臺東市、成功鎮、關山鎮、卑南鄉、鹿野鄉、池上鄉、東河鄉、長濱鄉、太麻里鄉、大武鄉、綠島鄉、海端鄉、延平鄉、金峰鄉、達仁鄉、蘭嶼鄉",
+"county": "10014",
+"area": "01",
+"town": "040",
+"vill": "013",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "黃建賓",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "臺東縣 第01選區 卑南鄉富山村",
+"area_nickname": "臺東市、成功鎮、關山鎮、卑南鄉、鹿野鄉、池上鄉、東河鄉、長濱鄉、太麻里鄉、大武鄉、綠島鄉、海端鄉、延平鄉、金峰鄉、達仁鄉、蘭嶼鄉",
+"county": "10014",
+"area": "01",
+"town": "040",
+"vill": "003",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "黃建賓",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "臺東縣 第01選區 卑南鄉富源村",
+"area_nickname": "臺東市、成功鎮、關山鎮、卑南鄉、鹿野鄉、池上鄉、東河鄉、長濱鄉、太麻里鄉、大武鄉、綠島鄉、海端鄉、延平鄉、金峰鄉、達仁鄉、蘭嶼鄉",
+"county": "10014",
+"area": "01",
+"town": "040",
+"vill": "004",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "黃建賓",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "臺東縣 第01選區 卑南鄉利吉村",
+"area_nickname": "臺東市、成功鎮、關山鎮、卑南鄉、鹿野鄉、池上鄉、東河鄉、長濱鄉、太麻里鄉、大武鄉、綠島鄉、海端鄉、延平鄉、金峰鄉、達仁鄉、蘭嶼鄉",
+"county": "10014",
+"area": "01",
+"town": "040",
+"vill": "002",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "黃建賓",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "臺東縣 第01選區 鹿野鄉鹿野村",
+"area_nickname": "臺東市、成功鎮、關山鎮、卑南鄉、鹿野鄉、池上鄉、東河鄉、長濱鄉、太麻里鄉、大武鄉、綠島鄉、海端鄉、延平鄉、金峰鄉、達仁鄉、蘭嶼鄉",
+"county": "10014",
+"area": "01",
+"town": "050",
+"vill": "006",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "黃建賓",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "臺東縣 第01選區 鹿野鄉龍田村",
+"area_nickname": "臺東市、成功鎮、關山鎮、卑南鄉、鹿野鄉、池上鄉、東河鄉、長濱鄉、太麻里鄉、大武鄉、綠島鄉、海端鄉、延平鄉、金峰鄉、達仁鄉、蘭嶼鄉",
+"county": "10014",
+"area": "01",
+"town": "050",
+"vill": "007",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "黃建賓",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "臺東縣 第01選區 鹿野鄉永安村",
+"area_nickname": "臺東市、成功鎮、關山鎮、卑南鄉、鹿野鄉、池上鄉、東河鄉、長濱鄉、太麻里鄉、大武鄉、綠島鄉、海端鄉、延平鄉、金峰鄉、達仁鄉、蘭嶼鄉",
+"county": "10014",
+"area": "01",
+"town": "050",
+"vill": "004",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "黃建賓",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "臺東縣 第01選區 鹿野鄉瑞隆村",
+"area_nickname": "臺東市、成功鎮、關山鎮、卑南鄉、鹿野鄉、池上鄉、東河鄉、長濱鄉、太麻里鄉、大武鄉、綠島鄉、海端鄉、延平鄉、金峰鄉、達仁鄉、蘭嶼鄉",
+"county": "10014",
+"area": "01",
+"town": "050",
+"vill": "005",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "黃建賓",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "臺東縣 第01選區 鹿野鄉瑞源村",
+"area_nickname": "臺東市、成功鎮、關山鎮、卑南鄉、鹿野鄉、池上鄉、東河鄉、長濱鄉、太麻里鄉、大武鄉、綠島鄉、海端鄉、延平鄉、金峰鄉、達仁鄉、蘭嶼鄉",
+"county": "10014",
+"area": "01",
+"town": "050",
+"vill": "003",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "黃建賓",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "臺東縣 第01選區 鹿野鄉瑞和村",
+"area_nickname": "臺東市、成功鎮、關山鎮、卑南鄉、鹿野鄉、池上鄉、東河鄉、長濱鄉、太麻里鄉、大武鄉、綠島鄉、海端鄉、延平鄉、金峰鄉、達仁鄉、蘭嶼鄉",
+"county": "10014",
+"area": "01",
+"town": "050",
+"vill": "001",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "黃建賓",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "臺東縣 第01選區 鹿野鄉瑞豐村",
+"area_nickname": "臺東市、成功鎮、關山鎮、卑南鄉、鹿野鄉、池上鄉、東河鄉、長濱鄉、太麻里鄉、大武鄉、綠島鄉、海端鄉、延平鄉、金峰鄉、達仁鄉、蘭嶼鄉",
+"county": "10014",
+"area": "01",
+"town": "050",
+"vill": "002",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "黃建賓",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "臺東縣 第01選區 池上鄉福原村",
+"area_nickname": "臺東市、成功鎮、關山鎮、卑南鄉、鹿野鄉、池上鄉、東河鄉、長濱鄉、太麻里鄉、大武鄉、綠島鄉、海端鄉、延平鄉、金峰鄉、達仁鄉、蘭嶼鄉",
+"county": "10014",
+"area": "01",
+"town": "060",
+"vill": "005",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "黃建賓",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "臺東縣 第01選區 池上鄉福文村",
+"area_nickname": "臺東市、成功鎮、關山鎮、卑南鄉、鹿野鄉、池上鄉、東河鄉、長濱鄉、太麻里鄉、大武鄉、綠島鄉、海端鄉、延平鄉、金峰鄉、達仁鄉、蘭嶼鄉",
+"county": "10014",
+"area": "01",
+"town": "060",
+"vill": "001",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "黃建賓",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "臺東縣 第01選區 池上鄉慶豐村",
+"area_nickname": "臺東市、成功鎮、關山鎮、卑南鄉、鹿野鄉、池上鄉、東河鄉、長濱鄉、太麻里鄉、大武鄉、綠島鄉、海端鄉、延平鄉、金峰鄉、達仁鄉、蘭嶼鄉",
+"county": "10014",
+"area": "01",
+"town": "060",
+"vill": "002",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "黃建賓",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "臺東縣 第01選區 池上鄉大坡村",
+"area_nickname": "臺東市、成功鎮、關山鎮、卑南鄉、鹿野鄉、池上鄉、東河鄉、長濱鄉、太麻里鄉、大武鄉、綠島鄉、海端鄉、延平鄉、金峰鄉、達仁鄉、蘭嶼鄉",
+"county": "10014",
+"area": "01",
+"town": "060",
+"vill": "003",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "黃建賓",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "臺東縣 第01選區 池上鄉大埔村",
+"area_nickname": "臺東市、成功鎮、關山鎮、卑南鄉、鹿野鄉、池上鄉、東河鄉、長濱鄉、太麻里鄉、大武鄉、綠島鄉、海端鄉、延平鄉、金峰鄉、達仁鄉、蘭嶼鄉",
+"county": "10014",
+"area": "01",
+"town": "060",
+"vill": "004",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "黃建賓",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "臺東縣 第01選區 池上鄉新興村",
+"area_nickname": "臺東市、成功鎮、關山鎮、卑南鄉、鹿野鄉、池上鄉、東河鄉、長濱鄉、太麻里鄉、大武鄉、綠島鄉、海端鄉、延平鄉、金峰鄉、達仁鄉、蘭嶼鄉",
+"county": "10014",
+"area": "01",
+"town": "060",
+"vill": "007",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "黃建賓",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "臺東縣 第01選區 池上鄉錦園村",
+"area_nickname": "臺東市、成功鎮、關山鎮、卑南鄉、鹿野鄉、池上鄉、東河鄉、長濱鄉、太麻里鄉、大武鄉、綠島鄉、海端鄉、延平鄉、金峰鄉、達仁鄉、蘭嶼鄉",
+"county": "10014",
+"area": "01",
+"town": "060",
+"vill": "006",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "黃建賓",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "臺東縣 第01選區 池上鄉萬安村",
+"area_nickname": "臺東市、成功鎮、關山鎮、卑南鄉、鹿野鄉、池上鄉、東河鄉、長濱鄉、太麻里鄉、大武鄉、綠島鄉、海端鄉、延平鄉、金峰鄉、達仁鄉、蘭嶼鄉",
+"county": "10014",
+"area": "01",
+"town": "060",
+"vill": "008",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "黃建賓",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "臺東縣 第01選區 池上鄉富興村",
+"area_nickname": "臺東市、成功鎮、關山鎮、卑南鄉、鹿野鄉、池上鄉、東河鄉、長濱鄉、太麻里鄉、大武鄉、綠島鄉、海端鄉、延平鄉、金峰鄉、達仁鄉、蘭嶼鄉",
+"county": "10014",
+"area": "01",
+"town": "060",
+"vill": "009",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "黃建賓",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "臺東縣 第01選區 池上鄉振興村",
+"area_nickname": "臺東市、成功鎮、關山鎮、卑南鄉、鹿野鄉、池上鄉、東河鄉、長濱鄉、太麻里鄉、大武鄉、綠島鄉、海端鄉、延平鄉、金峰鄉、達仁鄉、蘭嶼鄉",
+"county": "10014",
+"area": "01",
+"town": "060",
+"vill": "010",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "黃建賓",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "臺東縣 第01選區 東河鄉都蘭村",
+"area_nickname": "臺東市、成功鎮、關山鎮、卑南鄉、鹿野鄉、池上鄉、東河鄉、長濱鄉、太麻里鄉、大武鄉、綠島鄉、海端鄉、延平鄉、金峰鄉、達仁鄉、蘭嶼鄉",
+"county": "10014",
+"area": "01",
+"town": "070",
+"vill": "007",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "黃建賓",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "臺東縣 第01選區 東河鄉興昌村",
+"area_nickname": "臺東市、成功鎮、關山鎮、卑南鄉、鹿野鄉、池上鄉、東河鄉、長濱鄉、太麻里鄉、大武鄉、綠島鄉、海端鄉、延平鄉、金峰鄉、達仁鄉、蘭嶼鄉",
+"county": "10014",
+"area": "01",
+"town": "070",
+"vill": "006",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "黃建賓",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "臺東縣 第01選區 東河鄉隆昌村",
+"area_nickname": "臺東市、成功鎮、關山鎮、卑南鄉、鹿野鄉、池上鄉、東河鄉、長濱鄉、太麻里鄉、大武鄉、綠島鄉、海端鄉、延平鄉、金峰鄉、達仁鄉、蘭嶼鄉",
+"county": "10014",
+"area": "01",
+"town": "070",
+"vill": "005",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "黃建賓",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "臺東縣 第01選區 東河鄉東河村",
+"area_nickname": "臺東市、成功鎮、關山鎮、卑南鄉、鹿野鄉、池上鄉、東河鄉、長濱鄉、太麻里鄉、大武鄉、綠島鄉、海端鄉、延平鄉、金峰鄉、達仁鄉、蘭嶼鄉",
+"county": "10014",
+"area": "01",
+"town": "070",
+"vill": "003",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "黃建賓",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "臺東縣 第01選區 東河鄉泰源村",
+"area_nickname": "臺東市、成功鎮、關山鎮、卑南鄉、鹿野鄉、池上鄉、東河鄉、長濱鄉、太麻里鄉、大武鄉、綠島鄉、海端鄉、延平鄉、金峰鄉、達仁鄉、蘭嶼鄉",
+"county": "10014",
+"area": "01",
+"town": "070",
+"vill": "002",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "黃建賓",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "臺東縣 第01選區 東河鄉北源村",
+"area_nickname": "臺東市、成功鎮、關山鎮、卑南鄉、鹿野鄉、池上鄉、東河鄉、長濱鄉、太麻里鄉、大武鄉、綠島鄉、海端鄉、延平鄉、金峰鄉、達仁鄉、蘭嶼鄉",
+"county": "10014",
+"area": "01",
+"town": "070",
+"vill": "001",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "黃建賓",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "臺東縣 第01選區 東河鄉尚德村",
+"area_nickname": "臺東市、成功鎮、關山鎮、卑南鄉、鹿野鄉、池上鄉、東河鄉、長濱鄉、太麻里鄉、大武鄉、綠島鄉、海端鄉、延平鄉、金峰鄉、達仁鄉、蘭嶼鄉",
+"county": "10014",
+"area": "01",
+"town": "070",
+"vill": "004",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "黃建賓",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "臺東縣 第01選區 長濱鄉寧埔村",
+"area_nickname": "臺東市、成功鎮、關山鎮、卑南鄉、鹿野鄉、池上鄉、東河鄉、長濱鄉、太麻里鄉、大武鄉、綠島鄉、海端鄉、延平鄉、金峰鄉、達仁鄉、蘭嶼鄉",
+"county": "10014",
+"area": "01",
+"town": "080",
+"vill": "006",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "黃建賓",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "臺東縣 第01選區 長濱鄉竹湖村",
+"area_nickname": "臺東市、成功鎮、關山鎮、卑南鄉、鹿野鄉、池上鄉、東河鄉、長濱鄉、太麻里鄉、大武鄉、綠島鄉、海端鄉、延平鄉、金峰鄉、達仁鄉、蘭嶼鄉",
+"county": "10014",
+"area": "01",
+"town": "080",
+"vill": "005",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "黃建賓",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "臺東縣 第01選區 長濱鄉長濱村",
+"area_nickname": "臺東市、成功鎮、關山鎮、卑南鄉、鹿野鄉、池上鄉、東河鄉、長濱鄉、太麻里鄉、大武鄉、綠島鄉、海端鄉、延平鄉、金峰鄉、達仁鄉、蘭嶼鄉",
+"county": "10014",
+"area": "01",
+"town": "080",
+"vill": "004",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "黃建賓",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "臺東縣 第01選區 長濱鄉忠勇村",
+"area_nickname": "臺東市、成功鎮、關山鎮、卑南鄉、鹿野鄉、池上鄉、東河鄉、長濱鄉、太麻里鄉、大武鄉、綠島鄉、海端鄉、延平鄉、金峰鄉、達仁鄉、蘭嶼鄉",
+"county": "10014",
+"area": "01",
+"town": "080",
+"vill": "003",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "黃建賓",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "臺東縣 第01選區 長濱鄉三間村",
+"area_nickname": "臺東市、成功鎮、關山鎮、卑南鄉、鹿野鄉、池上鄉、東河鄉、長濱鄉、太麻里鄉、大武鄉、綠島鄉、海端鄉、延平鄉、金峰鄉、達仁鄉、蘭嶼鄉",
+"county": "10014",
+"area": "01",
+"town": "080",
+"vill": "002",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "黃建賓",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "臺東縣 第01選區 長濱鄉樟原村",
+"area_nickname": "臺東市、成功鎮、關山鎮、卑南鄉、鹿野鄉、池上鄉、東河鄉、長濱鄉、太麻里鄉、大武鄉、綠島鄉、海端鄉、延平鄉、金峰鄉、達仁鄉、蘭嶼鄉",
+"county": "10014",
+"area": "01",
+"town": "080",
+"vill": "001",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "黃建賓",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "臺東縣 第01選區 太麻里鄉美和村",
+"area_nickname": "臺東市、成功鎮、關山鎮、卑南鄉、鹿野鄉、池上鄉、東河鄉、長濱鄉、太麻里鄉、大武鄉、綠島鄉、海端鄉、延平鄉、金峰鄉、達仁鄉、蘭嶼鄉",
+"county": "10014",
+"area": "01",
+"town": "090",
+"vill": "001",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "黃建賓",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "臺東縣 第01選區 太麻里鄉三和村",
+"area_nickname": "臺東市、成功鎮、關山鎮、卑南鄉、鹿野鄉、池上鄉、東河鄉、長濱鄉、太麻里鄉、大武鄉、綠島鄉、海端鄉、延平鄉、金峰鄉、達仁鄉、蘭嶼鄉",
+"county": "10014",
+"area": "01",
+"town": "090",
+"vill": "002",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "黃建賓",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "臺東縣 第01選區 太麻里鄉華源村",
+"area_nickname": "臺東市、成功鎮、關山鎮、卑南鄉、鹿野鄉、池上鄉、東河鄉、長濱鄉、太麻里鄉、大武鄉、綠島鄉、海端鄉、延平鄉、金峰鄉、達仁鄉、蘭嶼鄉",
+"county": "10014",
+"area": "01",
+"town": "090",
+"vill": "003",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "黃建賓",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "臺東縣 第01選區 太麻里鄉北里村",
+"area_nickname": "臺東市、成功鎮、關山鎮、卑南鄉、鹿野鄉、池上鄉、東河鄉、長濱鄉、太麻里鄉、大武鄉、綠島鄉、海端鄉、延平鄉、金峰鄉、達仁鄉、蘭嶼鄉",
+"county": "10014",
+"area": "01",
+"town": "090",
+"vill": "004",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "黃建賓",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "臺東縣 第01選區 太麻里鄉大王村",
+"area_nickname": "臺東市、成功鎮、關山鎮、卑南鄉、鹿野鄉、池上鄉、東河鄉、長濱鄉、太麻里鄉、大武鄉、綠島鄉、海端鄉、延平鄉、金峰鄉、達仁鄉、蘭嶼鄉",
+"county": "10014",
+"area": "01",
+"town": "090",
+"vill": "006",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "黃建賓",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "臺東縣 第01選區 太麻里鄉泰和村",
+"area_nickname": "臺東市、成功鎮、關山鎮、卑南鄉、鹿野鄉、池上鄉、東河鄉、長濱鄉、太麻里鄉、大武鄉、綠島鄉、海端鄉、延平鄉、金峰鄉、達仁鄉、蘭嶼鄉",
+"county": "10014",
+"area": "01",
+"town": "090",
+"vill": "005",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "黃建賓",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "臺東縣 第01選區 太麻里鄉香蘭村",
+"area_nickname": "臺東市、成功鎮、關山鎮、卑南鄉、鹿野鄉、池上鄉、東河鄉、長濱鄉、太麻里鄉、大武鄉、綠島鄉、海端鄉、延平鄉、金峰鄉、達仁鄉、蘭嶼鄉",
+"county": "10014",
+"area": "01",
+"town": "090",
+"vill": "007",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "黃建賓",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "臺東縣 第01選區 太麻里鄉金崙村",
+"area_nickname": "臺東市、成功鎮、關山鎮、卑南鄉、鹿野鄉、池上鄉、東河鄉、長濱鄉、太麻里鄉、大武鄉、綠島鄉、海端鄉、延平鄉、金峰鄉、達仁鄉、蘭嶼鄉",
+"county": "10014",
+"area": "01",
+"town": "090",
+"vill": "008",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "黃建賓",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "臺東縣 第01選區 太麻里鄉多良村",
+"area_nickname": "臺東市、成功鎮、關山鎮、卑南鄉、鹿野鄉、池上鄉、東河鄉、長濱鄉、太麻里鄉、大武鄉、綠島鄉、海端鄉、延平鄉、金峰鄉、達仁鄉、蘭嶼鄉",
+"county": "10014",
+"area": "01",
+"town": "090",
+"vill": "009",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "黃建賓",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "臺東縣 第01選區 大武鄉南興村",
+"area_nickname": "臺東市、成功鎮、關山鎮、卑南鄉、鹿野鄉、池上鄉、東河鄉、長濱鄉、太麻里鄉、大武鄉、綠島鄉、海端鄉、延平鄉、金峰鄉、達仁鄉、蘭嶼鄉",
+"county": "10014",
+"area": "01",
+"town": "100",
+"vill": "005",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "黃建賓",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "臺東縣 第01選區 大武鄉尚武村",
+"area_nickname": "臺東市、成功鎮、關山鎮、卑南鄉、鹿野鄉、池上鄉、東河鄉、長濱鄉、太麻里鄉、大武鄉、綠島鄉、海端鄉、延平鄉、金峰鄉、達仁鄉、蘭嶼鄉",
+"county": "10014",
+"area": "01",
+"town": "100",
+"vill": "004",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "黃建賓",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "臺東縣 第01選區 大武鄉大武村",
+"area_nickname": "臺東市、成功鎮、關山鎮、卑南鄉、鹿野鄉、池上鄉、東河鄉、長濱鄉、太麻里鄉、大武鄉、綠島鄉、海端鄉、延平鄉、金峰鄉、達仁鄉、蘭嶼鄉",
+"county": "10014",
+"area": "01",
+"town": "100",
+"vill": "003",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "黃建賓",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "臺東縣 第01選區 大武鄉大鳥村",
+"area_nickname": "臺東市、成功鎮、關山鎮、卑南鄉、鹿野鄉、池上鄉、東河鄉、長濱鄉、太麻里鄉、大武鄉、綠島鄉、海端鄉、延平鄉、金峰鄉、達仁鄉、蘭嶼鄉",
+"county": "10014",
+"area": "01",
+"town": "100",
+"vill": "002",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "黃建賓",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "臺東縣 第01選區 大武鄉大竹村",
+"area_nickname": "臺東市、成功鎮、關山鎮、卑南鄉、鹿野鄉、池上鄉、東河鄉、長濱鄉、太麻里鄉、大武鄉、綠島鄉、海端鄉、延平鄉、金峰鄉、達仁鄉、蘭嶼鄉",
+"county": "10014",
+"area": "01",
+"town": "100",
+"vill": "001",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "黃建賓",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "臺東縣 第01選區 綠島鄉南寮村",
+"area_nickname": "臺東市、成功鎮、關山鎮、卑南鄉、鹿野鄉、池上鄉、東河鄉、長濱鄉、太麻里鄉、大武鄉、綠島鄉、海端鄉、延平鄉、金峰鄉、達仁鄉、蘭嶼鄉",
+"county": "10014",
+"area": "01",
+"town": "110",
+"vill": "003",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "黃建賓",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "臺東縣 第01選區 綠島鄉中寮村",
+"area_nickname": "臺東市、成功鎮、關山鎮、卑南鄉、鹿野鄉、池上鄉、東河鄉、長濱鄉、太麻里鄉、大武鄉、綠島鄉、海端鄉、延平鄉、金峰鄉、達仁鄉、蘭嶼鄉",
+"county": "10014",
+"area": "01",
+"town": "110",
+"vill": "002",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "黃建賓",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "臺東縣 第01選區 綠島鄉公舘村",
+"area_nickname": "臺東市、成功鎮、關山鎮、卑南鄉、鹿野鄉、池上鄉、東河鄉、長濱鄉、太麻里鄉、大武鄉、綠島鄉、海端鄉、延平鄉、金峰鄉、達仁鄉、蘭嶼鄉",
+"county": "10014",
+"area": "01",
+"town": "110",
+"vill": "001",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "黃建賓",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "臺東縣 第01選區 海端鄉加拿村",
+"area_nickname": "臺東市、成功鎮、關山鎮、卑南鄉、鹿野鄉、池上鄉、東河鄉、長濱鄉、太麻里鄉、大武鄉、綠島鄉、海端鄉、延平鄉、金峰鄉、達仁鄉、蘭嶼鄉",
+"county": "10014",
+"area": "01",
+"town": "120",
+"vill": "006",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "黃建賓",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "臺東縣 第01選區 海端鄉崁頂村",
+"area_nickname": "臺東市、成功鎮、關山鎮、卑南鄉、鹿野鄉、池上鄉、東河鄉、長濱鄉、太麻里鄉、大武鄉、綠島鄉、海端鄉、延平鄉、金峰鄉、達仁鄉、蘭嶼鄉",
+"county": "10014",
+"area": "01",
+"town": "120",
+"vill": "005",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "黃建賓",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "臺東縣 第01選區 海端鄉海端村",
+"area_nickname": "臺東市、成功鎮、關山鎮、卑南鄉、鹿野鄉、池上鄉、東河鄉、長濱鄉、太麻里鄉、大武鄉、綠島鄉、海端鄉、延平鄉、金峰鄉、達仁鄉、蘭嶼鄉",
+"county": "10014",
+"area": "01",
+"town": "120",
+"vill": "004",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "黃建賓",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "臺東縣 第01選區 海端鄉廣原村",
+"area_nickname": "臺東市、成功鎮、關山鎮、卑南鄉、鹿野鄉、池上鄉、東河鄉、長濱鄉、太麻里鄉、大武鄉、綠島鄉、海端鄉、延平鄉、金峰鄉、達仁鄉、蘭嶼鄉",
+"county": "10014",
+"area": "01",
+"town": "120",
+"vill": "001",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "黃建賓",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "臺東縣 第01選區 海端鄉霧鹿村",
+"area_nickname": "臺東市、成功鎮、關山鎮、卑南鄉、鹿野鄉、池上鄉、東河鄉、長濱鄉、太麻里鄉、大武鄉、綠島鄉、海端鄉、延平鄉、金峰鄉、達仁鄉、蘭嶼鄉",
+"county": "10014",
+"area": "01",
+"town": "120",
+"vill": "002",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "黃建賓",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "臺東縣 第01選區 海端鄉利稻村",
+"area_nickname": "臺東市、成功鎮、關山鎮、卑南鄉、鹿野鄉、池上鄉、東河鄉、長濱鄉、太麻里鄉、大武鄉、綠島鄉、海端鄉、延平鄉、金峰鄉、達仁鄉、蘭嶼鄉",
+"county": "10014",
+"area": "01",
+"town": "120",
+"vill": "003",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "黃建賓",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "臺東縣 第01選區 延平鄉桃源村",
+"area_nickname": "臺東市、成功鎮、關山鎮、卑南鄉、鹿野鄉、池上鄉、東河鄉、長濱鄉、太麻里鄉、大武鄉、綠島鄉、海端鄉、延平鄉、金峰鄉、達仁鄉、蘭嶼鄉",
+"county": "10014",
+"area": "01",
+"town": "130",
+"vill": "005",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "黃建賓",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "臺東縣 第01選區 延平鄉紅葉村",
+"area_nickname": "臺東市、成功鎮、關山鎮、卑南鄉、鹿野鄉、池上鄉、東河鄉、長濱鄉、太麻里鄉、大武鄉、綠島鄉、海端鄉、延平鄉、金峰鄉、達仁鄉、蘭嶼鄉",
+"county": "10014",
+"area": "01",
+"town": "130",
+"vill": "003",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "黃建賓",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "臺東縣 第01選區 延平鄉永康村",
+"area_nickname": "臺東市、成功鎮、關山鎮、卑南鄉、鹿野鄉、池上鄉、東河鄉、長濱鄉、太麻里鄉、大武鄉、綠島鄉、海端鄉、延平鄉、金峰鄉、達仁鄉、蘭嶼鄉",
+"county": "10014",
+"area": "01",
+"town": "130",
+"vill": "002",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "黃建賓",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "臺東縣 第01選區 延平鄉武陵村",
+"area_nickname": "臺東市、成功鎮、關山鎮、卑南鄉、鹿野鄉、池上鄉、東河鄉、長濱鄉、太麻里鄉、大武鄉、綠島鄉、海端鄉、延平鄉、金峰鄉、達仁鄉、蘭嶼鄉",
+"county": "10014",
+"area": "01",
+"town": "130",
+"vill": "001",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "黃建賓",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "臺東縣 第01選區 延平鄉鸞山村",
+"area_nickname": "臺東市、成功鎮、關山鎮、卑南鄉、鹿野鄉、池上鄉、東河鄉、長濱鄉、太麻里鄉、大武鄉、綠島鄉、海端鄉、延平鄉、金峰鄉、達仁鄉、蘭嶼鄉",
+"county": "10014",
+"area": "01",
+"town": "130",
+"vill": "004",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "黃建賓",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "臺東縣 第01選區 金峰鄉嘉蘭村",
+"area_nickname": "臺東市、成功鎮、關山鎮、卑南鄉、鹿野鄉、池上鄉、東河鄉、長濱鄉、太麻里鄉、大武鄉、綠島鄉、海端鄉、延平鄉、金峰鄉、達仁鄉、蘭嶼鄉",
+"county": "10014",
+"area": "01",
+"town": "140",
+"vill": "003",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "黃建賓",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "臺東縣 第01選區 金峰鄉正興村",
+"area_nickname": "臺東市、成功鎮、關山鎮、卑南鄉、鹿野鄉、池上鄉、東河鄉、長濱鄉、太麻里鄉、大武鄉、綠島鄉、海端鄉、延平鄉、金峰鄉、達仁鄉、蘭嶼鄉",
+"county": "10014",
+"area": "01",
+"town": "140",
+"vill": "002",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "黃建賓",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "臺東縣 第01選區 金峰鄉新興村",
+"area_nickname": "臺東市、成功鎮、關山鎮、卑南鄉、鹿野鄉、池上鄉、東河鄉、長濱鄉、太麻里鄉、大武鄉、綠島鄉、海端鄉、延平鄉、金峰鄉、達仁鄉、蘭嶼鄉",
+"county": "10014",
+"area": "01",
+"town": "140",
+"vill": "001",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "黃建賓",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "臺東縣 第01選區 金峰鄉賓茂村",
+"area_nickname": "臺東市、成功鎮、關山鎮、卑南鄉、鹿野鄉、池上鄉、東河鄉、長濱鄉、太麻里鄉、大武鄉、綠島鄉、海端鄉、延平鄉、金峰鄉、達仁鄉、蘭嶼鄉",
+"county": "10014",
+"area": "01",
+"town": "140",
+"vill": "004",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "黃建賓",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "臺東縣 第01選區 金峰鄉歷坵村",
+"area_nickname": "臺東市、成功鎮、關山鎮、卑南鄉、鹿野鄉、池上鄉、東河鄉、長濱鄉、太麻里鄉、大武鄉、綠島鄉、海端鄉、延平鄉、金峰鄉、達仁鄉、蘭嶼鄉",
+"county": "10014",
+"area": "01",
+"town": "140",
+"vill": "005",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "黃建賓",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "臺東縣 第01選區 達仁鄉安朔村",
+"area_nickname": "臺東市、成功鎮、關山鎮、卑南鄉、鹿野鄉、池上鄉、東河鄉、長濱鄉、太麻里鄉、大武鄉、綠島鄉、海端鄉、延平鄉、金峰鄉、達仁鄉、蘭嶼鄉",
+"county": "10014",
+"area": "01",
+"town": "150",
+"vill": "004",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "黃建賓",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "臺東縣 第01選區 達仁鄉南田村",
+"area_nickname": "臺東市、成功鎮、關山鎮、卑南鄉、鹿野鄉、池上鄉、東河鄉、長濱鄉、太麻里鄉、大武鄉、綠島鄉、海端鄉、延平鄉、金峰鄉、達仁鄉、蘭嶼鄉",
+"county": "10014",
+"area": "01",
+"town": "150",
+"vill": "006",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "黃建賓",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "臺東縣 第01選區 達仁鄉森永村",
+"area_nickname": "臺東市、成功鎮、關山鎮、卑南鄉、鹿野鄉、池上鄉、東河鄉、長濱鄉、太麻里鄉、大武鄉、綠島鄉、海端鄉、延平鄉、金峰鄉、達仁鄉、蘭嶼鄉",
+"county": "10014",
+"area": "01",
+"town": "150",
+"vill": "005",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "黃建賓",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "臺東縣 第01選區 達仁鄉新化村",
+"area_nickname": "臺東市、成功鎮、關山鎮、卑南鄉、鹿野鄉、池上鄉、東河鄉、長濱鄉、太麻里鄉、大武鄉、綠島鄉、海端鄉、延平鄉、金峰鄉、達仁鄉、蘭嶼鄉",
+"county": "10014",
+"area": "01",
+"town": "150",
+"vill": "003",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "黃建賓",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "臺東縣 第01選區 達仁鄉台坂村",
+"area_nickname": "臺東市、成功鎮、關山鎮、卑南鄉、鹿野鄉、池上鄉、東河鄉、長濱鄉、太麻里鄉、大武鄉、綠島鄉、海端鄉、延平鄉、金峰鄉、達仁鄉、蘭嶼鄉",
+"county": "10014",
+"area": "01",
+"town": "150",
+"vill": "001",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "黃建賓",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "臺東縣 第01選區 達仁鄉土坂村",
+"area_nickname": "臺東市、成功鎮、關山鎮、卑南鄉、鹿野鄉、池上鄉、東河鄉、長濱鄉、太麻里鄉、大武鄉、綠島鄉、海端鄉、延平鄉、金峰鄉、達仁鄉、蘭嶼鄉",
+"county": "10014",
+"area": "01",
+"town": "150",
+"vill": "002",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "黃建賓",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "臺東縣 第01選區 蘭嶼鄉椰油村",
+"area_nickname": "臺東市、成功鎮、關山鎮、卑南鄉、鹿野鄉、池上鄉、東河鄉、長濱鄉、太麻里鄉、大武鄉、綠島鄉、海端鄉、延平鄉、金峰鄉、達仁鄉、蘭嶼鄉",
+"county": "10014",
+"area": "01",
+"town": "160",
+"vill": "004",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "黃建賓",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "臺東縣 第01選區 蘭嶼鄉紅頭村",
+"area_nickname": "臺東市、成功鎮、關山鎮、卑南鄉、鹿野鄉、池上鄉、東河鄉、長濱鄉、太麻里鄉、大武鄉、綠島鄉、海端鄉、延平鄉、金峰鄉、達仁鄉、蘭嶼鄉",
+"county": "10014",
+"area": "01",
+"town": "160",
+"vill": "003",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "黃建賓",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "臺東縣 第01選區 蘭嶼鄉東清村",
+"area_nickname": "臺東市、成功鎮、關山鎮、卑南鄉、鹿野鄉、池上鄉、東河鄉、長濱鄉、太麻里鄉、大武鄉、綠島鄉、海端鄉、延平鄉、金峰鄉、達仁鄉、蘭嶼鄉",
+"county": "10014",
+"area": "01",
+"town": "160",
+"vill": "001",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "黃建賓",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "臺東縣 第01選區 蘭嶼鄉朗島村",
+"area_nickname": "臺東市、成功鎮、關山鎮、卑南鄉、鹿野鄉、池上鄉、東河鄉、長濱鄉、太麻里鄉、大武鄉、綠島鄉、海端鄉、延平鄉、金峰鄉、達仁鄉、蘭嶼鄉",
+"county": "10014",
+"area": "01",
+"town": "160",
+"vill": "002",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "黃建賓",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+} 
+] 
+}

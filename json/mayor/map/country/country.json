@@ -1,0 +1,28 @@
+{
+ "updatedAt": "2025-07-09 22:15:09",
+"is_started": true,
+"is_running": false,
+"districts": [
+{
+ "range": "新竹市",
+"county": "10018",
+"town": null,
+"vill": null,
+"profRate":null,
+"votePop": null,
+"candidates": [
+{
+ "candNo": "1",
+"name": "高虹安",
+"party": "台灣民眾黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null
+} 
+] 
+} 
+] 
+}

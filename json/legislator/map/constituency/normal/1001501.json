@@ -1,0 +1,4207 @@
+{
+ "updatedAt": "2025-07-10 10:33:00",
+"is_running": false,
+"is_started": true,
+"districts": [
+ {
+ "range": "花蓮縣 第01選區 花蓮市民德里",
+"area_nickname": "花蓮市、新城鄉、秀林鄉、吉安鄉、壽豐鄉、鳳林鎮、光復鄉、豐濱鄉、萬榮鄉、瑞穗鄉、玉里鎮、富里鄉、卓溪鄉",
+"county": "10015",
+"area": "01",
+"town": "010",
+"vill": "009",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "傅崐萁",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "花蓮縣 第01選區 花蓮市民勤里",
+"area_nickname": "花蓮市、新城鄉、秀林鄉、吉安鄉、壽豐鄉、鳳林鎮、光復鄉、豐濱鄉、萬榮鄉、瑞穗鄉、玉里鎮、富里鄉、卓溪鄉",
+"county": "10015",
+"area": "01",
+"town": "010",
+"vill": "018",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "傅崐萁",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "花蓮縣 第01選區 花蓮市民意里",
+"area_nickname": "花蓮市、新城鄉、秀林鄉、吉安鄉、壽豐鄉、鳳林鎮、光復鄉、豐濱鄉、萬榮鄉、瑞穗鄉、玉里鎮、富里鄉、卓溪鄉",
+"county": "10015",
+"area": "01",
+"town": "010",
+"vill": "010",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "傅崐萁",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "花蓮縣 第01選區 花蓮市民心里",
+"area_nickname": "花蓮市、新城鄉、秀林鄉、吉安鄉、壽豐鄉、鳳林鎮、光復鄉、豐濱鄉、萬榮鄉、瑞穗鄉、玉里鎮、富里鄉、卓溪鄉",
+"county": "10015",
+"area": "01",
+"town": "010",
+"vill": "025",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "傅崐萁",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "花蓮縣 第01選區 花蓮市民享里",
+"area_nickname": "花蓮市、新城鄉、秀林鄉、吉安鄉、壽豐鄉、鳳林鎮、光復鄉、豐濱鄉、萬榮鄉、瑞穗鄉、玉里鎮、富里鄉、卓溪鄉",
+"county": "10015",
+"area": "01",
+"town": "010",
+"vill": "033",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "傅崐萁",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "花蓮縣 第01選區 花蓮市民孝里",
+"area_nickname": "花蓮市、新城鄉、秀林鄉、吉安鄉、壽豐鄉、鳳林鎮、光復鄉、豐濱鄉、萬榮鄉、瑞穗鄉、玉里鎮、富里鄉、卓溪鄉",
+"county": "10015",
+"area": "01",
+"town": "010",
+"vill": "045",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "傅崐萁",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "花蓮縣 第01選區 花蓮市民運里",
+"area_nickname": "花蓮市、新城鄉、秀林鄉、吉安鄉、壽豐鄉、鳳林鎮、光復鄉、豐濱鄉、萬榮鄉、瑞穗鄉、玉里鎮、富里鄉、卓溪鄉",
+"county": "10015",
+"area": "01",
+"town": "010",
+"vill": "002",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "傅崐萁",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "花蓮縣 第01選區 花蓮市民政里",
+"area_nickname": "花蓮市、新城鄉、秀林鄉、吉安鄉、壽豐鄉、鳳林鎮、光復鄉、豐濱鄉、萬榮鄉、瑞穗鄉、玉里鎮、富里鄉、卓溪鄉",
+"county": "10015",
+"area": "01",
+"town": "010",
+"vill": "017",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "傅崐萁",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "花蓮縣 第01選區 花蓮市民立里",
+"area_nickname": "花蓮市、新城鄉、秀林鄉、吉安鄉、壽豐鄉、鳳林鎮、光復鄉、豐濱鄉、萬榮鄉、瑞穗鄉、玉里鎮、富里鄉、卓溪鄉",
+"county": "10015",
+"area": "01",
+"town": "010",
+"vill": "001",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "傅崐萁",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "花蓮縣 第01選區 花蓮市民樂里",
+"area_nickname": "花蓮市、新城鄉、秀林鄉、吉安鄉、壽豐鄉、鳳林鎮、光復鄉、豐濱鄉、萬榮鄉、瑞穗鄉、玉里鎮、富里鄉、卓溪鄉",
+"county": "10015",
+"area": "01",
+"town": "010",
+"vill": "026",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "傅崐萁",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "花蓮縣 第01選區 花蓮市民有里",
+"area_nickname": "花蓮市、新城鄉、秀林鄉、吉安鄉、壽豐鄉、鳳林鎮、光復鄉、豐濱鄉、萬榮鄉、瑞穗鄉、玉里鎮、富里鄉、卓溪鄉",
+"county": "10015",
+"area": "01",
+"town": "010",
+"vill": "034",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "傅崐萁",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "花蓮縣 第01選區 花蓮市民主里",
+"area_nickname": "花蓮市、新城鄉、秀林鄉、吉安鄉、壽豐鄉、鳳林鎮、光復鄉、豐濱鄉、萬榮鄉、瑞穗鄉、玉里鎮、富里鄉、卓溪鄉",
+"county": "10015",
+"area": "01",
+"town": "010",
+"vill": "027",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "傅崐萁",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "花蓮縣 第01選區 花蓮市民族里",
+"area_nickname": "花蓮市、新城鄉、秀林鄉、吉安鄉、壽豐鄉、鳳林鎮、光復鄉、豐濱鄉、萬榮鄉、瑞穗鄉、玉里鎮、富里鄉、卓溪鄉",
+"county": "10015",
+"area": "01",
+"town": "010",
+"vill": "003",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "傅崐萁",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "花蓮縣 第01選區 花蓮市民生里",
+"area_nickname": "花蓮市、新城鄉、秀林鄉、吉安鄉、壽豐鄉、鳳林鎮、光復鄉、豐濱鄉、萬榮鄉、瑞穗鄉、玉里鎮、富里鄉、卓溪鄉",
+"county": "10015",
+"area": "01",
+"town": "010",
+"vill": "019",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "傅崐萁",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "花蓮縣 第01選區 花蓮市主商里",
+"area_nickname": "花蓮市、新城鄉、秀林鄉、吉安鄉、壽豐鄉、鳳林鎮、光復鄉、豐濱鄉、萬榮鄉、瑞穗鄉、玉里鎮、富里鄉、卓溪鄉",
+"county": "10015",
+"area": "01",
+"town": "010",
+"vill": "020",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "傅崐萁",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "花蓮縣 第01選區 花蓮市主勤里",
+"area_nickname": "花蓮市、新城鄉、秀林鄉、吉安鄉、壽豐鄉、鳳林鎮、光復鄉、豐濱鄉、萬榮鄉、瑞穗鄉、玉里鎮、富里鄉、卓溪鄉",
+"county": "10015",
+"area": "01",
+"town": "010",
+"vill": "028",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "傅崐萁",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "花蓮縣 第01選區 花蓮市主工里",
+"area_nickname": "花蓮市、新城鄉、秀林鄉、吉安鄉、壽豐鄉、鳳林鎮、光復鄉、豐濱鄉、萬榮鄉、瑞穗鄉、玉里鎮、富里鄉、卓溪鄉",
+"county": "10015",
+"area": "01",
+"town": "010",
+"vill": "013",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "傅崐萁",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "花蓮縣 第01選區 花蓮市主信里",
+"area_nickname": "花蓮市、新城鄉、秀林鄉、吉安鄉、壽豐鄉、鳳林鎮、光復鄉、豐濱鄉、萬榮鄉、瑞穗鄉、玉里鎮、富里鄉、卓溪鄉",
+"county": "10015",
+"area": "01",
+"town": "010",
+"vill": "004",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "傅崐萁",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "花蓮縣 第01選區 花蓮市主計里",
+"area_nickname": "花蓮市、新城鄉、秀林鄉、吉安鄉、壽豐鄉、鳳林鎮、光復鄉、豐濱鄉、萬榮鄉、瑞穗鄉、玉里鎮、富里鄉、卓溪鄉",
+"county": "10015",
+"area": "01",
+"town": "010",
+"vill": "036",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "傅崐萁",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "花蓮縣 第01選區 花蓮市主和里",
+"area_nickname": "花蓮市、新城鄉、秀林鄉、吉安鄉、壽豐鄉、鳳林鎮、光復鄉、豐濱鄉、萬榮鄉、瑞穗鄉、玉里鎮、富里鄉、卓溪鄉",
+"county": "10015",
+"area": "01",
+"town": "010",
+"vill": "006",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "傅崐萁",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "花蓮縣 第01選區 花蓮市主學里",
+"area_nickname": "花蓮市、新城鄉、秀林鄉、吉安鄉、壽豐鄉、鳳林鎮、光復鄉、豐濱鄉、萬榮鄉、瑞穗鄉、玉里鎮、富里鄉、卓溪鄉",
+"county": "10015",
+"area": "01",
+"town": "010",
+"vill": "021",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "傅崐萁",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "花蓮縣 第01選區 花蓮市主農里",
+"area_nickname": "花蓮市、新城鄉、秀林鄉、吉安鄉、壽豐鄉、鳳林鎮、光復鄉、豐濱鄉、萬榮鄉、瑞穗鄉、玉里鎮、富里鄉、卓溪鄉",
+"county": "10015",
+"area": "01",
+"town": "010",
+"vill": "014",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "傅崐萁",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "花蓮縣 第01選區 花蓮市主安里",
+"area_nickname": "花蓮市、新城鄉、秀林鄉、吉安鄉、壽豐鄉、鳳林鎮、光復鄉、豐濱鄉、萬榮鄉、瑞穗鄉、玉里鎮、富里鄉、卓溪鄉",
+"county": "10015",
+"area": "01",
+"town": "010",
+"vill": "042",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "傅崐萁",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "花蓮縣 第01選區 花蓮市主權里",
+"area_nickname": "花蓮市、新城鄉、秀林鄉、吉安鄉、壽豐鄉、鳳林鎮、光復鄉、豐濱鄉、萬榮鄉、瑞穗鄉、玉里鎮、富里鄉、卓溪鄉",
+"county": "10015",
+"area": "01",
+"town": "010",
+"vill": "037",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "傅崐萁",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "花蓮縣 第01選區 花蓮市主力里",
+"area_nickname": "花蓮市、新城鄉、秀林鄉、吉安鄉、壽豐鄉、鳳林鎮、光復鄉、豐濱鄉、萬榮鄉、瑞穗鄉、玉里鎮、富里鄉、卓溪鄉",
+"county": "10015",
+"area": "01",
+"town": "010",
+"vill": "029",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "傅崐萁",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "花蓮縣 第01選區 花蓮市國風里",
+"area_nickname": "花蓮市、新城鄉、秀林鄉、吉安鄉、壽豐鄉、鳳林鎮、光復鄉、豐濱鄉、萬榮鄉、瑞穗鄉、玉里鎮、富里鄉、卓溪鄉",
+"county": "10015",
+"area": "01",
+"town": "010",
+"vill": "008",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "傅崐萁",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "花蓮縣 第01選區 花蓮市國威里",
+"area_nickname": "花蓮市、新城鄉、秀林鄉、吉安鄉、壽豐鄉、鳳林鎮、光復鄉、豐濱鄉、萬榮鄉、瑞穗鄉、玉里鎮、富里鄉、卓溪鄉",
+"county": "10015",
+"area": "01",
+"town": "010",
+"vill": "007",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "傅崐萁",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "花蓮縣 第01選區 花蓮市國治里",
+"area_nickname": "花蓮市、新城鄉、秀林鄉、吉安鄉、壽豐鄉、鳳林鎮、光復鄉、豐濱鄉、萬榮鄉、瑞穗鄉、玉里鎮、富里鄉、卓溪鄉",
+"county": "10015",
+"area": "01",
+"town": "010",
+"vill": "015",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "傅崐萁",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "花蓮縣 第01選區 花蓮市國安里",
+"area_nickname": "花蓮市、新城鄉、秀林鄉、吉安鄉、壽豐鄉、鳳林鎮、光復鄉、豐濱鄉、萬榮鄉、瑞穗鄉、玉里鎮、富里鄉、卓溪鄉",
+"county": "10015",
+"area": "01",
+"town": "010",
+"vill": "030",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "傅崐萁",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "花蓮縣 第01選區 花蓮市國光里",
+"area_nickname": "花蓮市、新城鄉、秀林鄉、吉安鄉、壽豐鄉、鳳林鎮、光復鄉、豐濱鄉、萬榮鄉、瑞穗鄉、玉里鎮、富里鄉、卓溪鄉",
+"county": "10015",
+"area": "01",
+"town": "010",
+"vill": "022",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "傅崐萁",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "花蓮縣 第01選區 花蓮市國防里",
+"area_nickname": "花蓮市、新城鄉、秀林鄉、吉安鄉、壽豐鄉、鳳林鎮、光復鄉、豐濱鄉、萬榮鄉、瑞穗鄉、玉里鎮、富里鄉、卓溪鄉",
+"county": "10015",
+"area": "01",
+"town": "010",
+"vill": "039",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "傅崐萁",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "花蓮縣 第01選區 花蓮市國華里",
+"area_nickname": "花蓮市、新城鄉、秀林鄉、吉安鄉、壽豐鄉、鳳林鎮、光復鄉、豐濱鄉、萬榮鄉、瑞穗鄉、玉里鎮、富里鄉、卓溪鄉",
+"county": "10015",
+"area": "01",
+"town": "010",
+"vill": "038",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "傅崐萁",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "花蓮縣 第01選區 花蓮市國魂里",
+"area_nickname": "花蓮市、新城鄉、秀林鄉、吉安鄉、壽豐鄉、鳳林鎮、光復鄉、豐濱鄉、萬榮鄉、瑞穗鄉、玉里鎮、富里鄉、卓溪鄉",
+"county": "10015",
+"area": "01",
+"town": "010",
+"vill": "031",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "傅崐萁",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "花蓮縣 第01選區 花蓮市國聯里",
+"area_nickname": "花蓮市、新城鄉、秀林鄉、吉安鄉、壽豐鄉、鳳林鎮、光復鄉、豐濱鄉、萬榮鄉、瑞穗鄉、玉里鎮、富里鄉、卓溪鄉",
+"county": "10015",
+"area": "01",
+"town": "010",
+"vill": "023",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "傅崐萁",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "花蓮縣 第01選區 花蓮市國盛里",
+"area_nickname": "花蓮市、新城鄉、秀林鄉、吉安鄉、壽豐鄉、鳳林鎮、光復鄉、豐濱鄉、萬榮鄉、瑞穗鄉、玉里鎮、富里鄉、卓溪鄉",
+"county": "10015",
+"area": "01",
+"town": "010",
+"vill": "043",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "傅崐萁",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "花蓮縣 第01選區 花蓮市國強里",
+"area_nickname": "花蓮市、新城鄉、秀林鄉、吉安鄉、壽豐鄉、鳳林鎮、光復鄉、豐濱鄉、萬榮鄉、瑞穗鄉、玉里鎮、富里鄉、卓溪鄉",
+"county": "10015",
+"area": "01",
+"town": "010",
+"vill": "024",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "傅崐萁",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "花蓮縣 第01選區 花蓮市國富里",
+"area_nickname": "花蓮市、新城鄉、秀林鄉、吉安鄉、壽豐鄉、鳳林鎮、光復鄉、豐濱鄉、萬榮鄉、瑞穗鄉、玉里鎮、富里鄉、卓溪鄉",
+"county": "10015",
+"area": "01",
+"town": "010",
+"vill": "016",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "傅崐萁",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "花蓮縣 第01選區 花蓮市國裕里",
+"area_nickname": "花蓮市、新城鄉、秀林鄉、吉安鄉、壽豐鄉、鳳林鎮、光復鄉、豐濱鄉、萬榮鄉、瑞穗鄉、玉里鎮、富里鄉、卓溪鄉",
+"county": "10015",
+"area": "01",
+"town": "010",
+"vill": "041",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "傅崐萁",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "花蓮縣 第01選區 花蓮市國慶里",
+"area_nickname": "花蓮市、新城鄉、秀林鄉、吉安鄉、壽豐鄉、鳳林鎮、光復鄉、豐濱鄉、萬榮鄉、瑞穗鄉、玉里鎮、富里鄉、卓溪鄉",
+"county": "10015",
+"area": "01",
+"town": "010",
+"vill": "032",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "傅崐萁",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "花蓮縣 第01選區 花蓮市國興里",
+"area_nickname": "花蓮市、新城鄉、秀林鄉、吉安鄉、壽豐鄉、鳳林鎮、光復鄉、豐濱鄉、萬榮鄉、瑞穗鄉、玉里鎮、富里鄉、卓溪鄉",
+"county": "10015",
+"area": "01",
+"town": "010",
+"vill": "044",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "傅崐萁",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "花蓮縣 第01選區 花蓮市國福里",
+"area_nickname": "花蓮市、新城鄉、秀林鄉、吉安鄉、壽豐鄉、鳳林鎮、光復鄉、豐濱鄉、萬榮鄉、瑞穗鄉、玉里鎮、富里鄉、卓溪鄉",
+"county": "10015",
+"area": "01",
+"town": "010",
+"vill": "040",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "傅崐萁",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "花蓮縣 第01選區 新城鄉新城村",
+"area_nickname": "花蓮市、新城鄉、秀林鄉、吉安鄉、壽豐鄉、鳳林鎮、光復鄉、豐濱鄉、萬榮鄉、瑞穗鄉、玉里鎮、富里鄉、卓溪鄉",
+"county": "10015",
+"area": "01",
+"town": "040",
+"vill": "001",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "傅崐萁",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "花蓮縣 第01選區 新城鄉順安村",
+"area_nickname": "花蓮市、新城鄉、秀林鄉、吉安鄉、壽豐鄉、鳳林鎮、光復鄉、豐濱鄉、萬榮鄉、瑞穗鄉、玉里鎮、富里鄉、卓溪鄉",
+"county": "10015",
+"area": "01",
+"town": "040",
+"vill": "002",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "傅崐萁",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "花蓮縣 第01選區 新城鄉康樂村",
+"area_nickname": "花蓮市、新城鄉、秀林鄉、吉安鄉、壽豐鄉、鳳林鎮、光復鄉、豐濱鄉、萬榮鄉、瑞穗鄉、玉里鎮、富里鄉、卓溪鄉",
+"county": "10015",
+"area": "01",
+"town": "040",
+"vill": "003",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "傅崐萁",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "花蓮縣 第01選區 新城鄉大漢村",
+"area_nickname": "花蓮市、新城鄉、秀林鄉、吉安鄉、壽豐鄉、鳳林鎮、光復鄉、豐濱鄉、萬榮鄉、瑞穗鄉、玉里鎮、富里鄉、卓溪鄉",
+"county": "10015",
+"area": "01",
+"town": "040",
+"vill": "008",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "傅崐萁",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "花蓮縣 第01選區 新城鄉北埔村",
+"area_nickname": "花蓮市、新城鄉、秀林鄉、吉安鄉、壽豐鄉、鳳林鎮、光復鄉、豐濱鄉、萬榮鄉、瑞穗鄉、玉里鎮、富里鄉、卓溪鄉",
+"county": "10015",
+"area": "01",
+"town": "040",
+"vill": "004",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "傅崐萁",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "花蓮縣 第01選區 新城鄉佳林村",
+"area_nickname": "花蓮市、新城鄉、秀林鄉、吉安鄉、壽豐鄉、鳳林鎮、光復鄉、豐濱鄉、萬榮鄉、瑞穗鄉、玉里鎮、富里鄉、卓溪鄉",
+"county": "10015",
+"area": "01",
+"town": "040",
+"vill": "005",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "傅崐萁",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "花蓮縣 第01選區 新城鄉嘉里村",
+"area_nickname": "花蓮市、新城鄉、秀林鄉、吉安鄉、壽豐鄉、鳳林鎮、光復鄉、豐濱鄉、萬榮鄉、瑞穗鄉、玉里鎮、富里鄉、卓溪鄉",
+"county": "10015",
+"area": "01",
+"town": "040",
+"vill": "006",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "傅崐萁",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "花蓮縣 第01選區 新城鄉嘉新村",
+"area_nickname": "花蓮市、新城鄉、秀林鄉、吉安鄉、壽豐鄉、鳳林鎮、光復鄉、豐濱鄉、萬榮鄉、瑞穗鄉、玉里鎮、富里鄉、卓溪鄉",
+"county": "10015",
+"area": "01",
+"town": "040",
+"vill": "007",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "傅崐萁",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "花蓮縣 第01選區 秀林鄉和平村",
+"area_nickname": "花蓮市、新城鄉、秀林鄉、吉安鄉、壽豐鄉、鳳林鎮、光復鄉、豐濱鄉、萬榮鄉、瑞穗鄉、玉里鎮、富里鄉、卓溪鄉",
+"county": "10015",
+"area": "01",
+"town": "110",
+"vill": "009",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "傅崐萁",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "花蓮縣 第01選區 秀林鄉崇德村",
+"area_nickname": "花蓮市、新城鄉、秀林鄉、吉安鄉、壽豐鄉、鳳林鎮、光復鄉、豐濱鄉、萬榮鄉、瑞穗鄉、玉里鎮、富里鄉、卓溪鄉",
+"county": "10015",
+"area": "01",
+"town": "110",
+"vill": "001",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "傅崐萁",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "花蓮縣 第01選區 秀林鄉富世村",
+"area_nickname": "花蓮市、新城鄉、秀林鄉、吉安鄉、壽豐鄉、鳳林鎮、光復鄉、豐濱鄉、萬榮鄉、瑞穗鄉、玉里鎮、富里鄉、卓溪鄉",
+"county": "10015",
+"area": "01",
+"town": "110",
+"vill": "002",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "傅崐萁",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "花蓮縣 第01選區 秀林鄉秀林村",
+"area_nickname": "花蓮市、新城鄉、秀林鄉、吉安鄉、壽豐鄉、鳳林鎮、光復鄉、豐濱鄉、萬榮鄉、瑞穗鄉、玉里鎮、富里鄉、卓溪鄉",
+"county": "10015",
+"area": "01",
+"town": "110",
+"vill": "003",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "傅崐萁",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "花蓮縣 第01選區 秀林鄉景美村",
+"area_nickname": "花蓮市、新城鄉、秀林鄉、吉安鄉、壽豐鄉、鳳林鎮、光復鄉、豐濱鄉、萬榮鄉、瑞穗鄉、玉里鎮、富里鄉、卓溪鄉",
+"county": "10015",
+"area": "01",
+"town": "110",
+"vill": "007",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "傅崐萁",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "花蓮縣 第01選區 秀林鄉佳民村",
+"area_nickname": "花蓮市、新城鄉、秀林鄉、吉安鄉、壽豐鄉、鳳林鎮、光復鄉、豐濱鄉、萬榮鄉、瑞穗鄉、玉里鎮、富里鄉、卓溪鄉",
+"county": "10015",
+"area": "01",
+"town": "110",
+"vill": "008",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "傅崐萁",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "花蓮縣 第01選區 秀林鄉水源村",
+"area_nickname": "花蓮市、新城鄉、秀林鄉、吉安鄉、壽豐鄉、鳳林鎮、光復鄉、豐濱鄉、萬榮鄉、瑞穗鄉、玉里鎮、富里鄉、卓溪鄉",
+"county": "10015",
+"area": "01",
+"town": "110",
+"vill": "004",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "傅崐萁",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "花蓮縣 第01選區 秀林鄉銅門村",
+"area_nickname": "花蓮市、新城鄉、秀林鄉、吉安鄉、壽豐鄉、鳳林鎮、光復鄉、豐濱鄉、萬榮鄉、瑞穗鄉、玉里鎮、富里鄉、卓溪鄉",
+"county": "10015",
+"area": "01",
+"town": "110",
+"vill": "005",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "傅崐萁",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "花蓮縣 第01選區 秀林鄉文蘭村",
+"area_nickname": "花蓮市、新城鄉、秀林鄉、吉安鄉、壽豐鄉、鳳林鎮、光復鄉、豐濱鄉、萬榮鄉、瑞穗鄉、玉里鎮、富里鄉、卓溪鄉",
+"county": "10015",
+"area": "01",
+"town": "110",
+"vill": "006",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "傅崐萁",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "花蓮縣 第01選區 吉安鄉永安村",
+"area_nickname": "花蓮市、新城鄉、秀林鄉、吉安鄉、壽豐鄉、鳳林鎮、光復鄉、豐濱鄉、萬榮鄉、瑞穗鄉、玉里鎮、富里鄉、卓溪鄉",
+"county": "10015",
+"area": "01",
+"town": "050",
+"vill": "004",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "傅崐萁",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "花蓮縣 第01選區 吉安鄉太昌村",
+"area_nickname": "花蓮市、新城鄉、秀林鄉、吉安鄉、壽豐鄉、鳳林鎮、光復鄉、豐濱鄉、萬榮鄉、瑞穗鄉、玉里鎮、富里鄉、卓溪鄉",
+"county": "10015",
+"area": "01",
+"town": "050",
+"vill": "003",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "傅崐萁",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "花蓮縣 第01選區 吉安鄉慶豐村",
+"area_nickname": "花蓮市、新城鄉、秀林鄉、吉安鄉、壽豐鄉、鳳林鎮、光復鄉、豐濱鄉、萬榮鄉、瑞穗鄉、玉里鎮、富里鄉、卓溪鄉",
+"county": "10015",
+"area": "01",
+"town": "050",
+"vill": "005",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "傅崐萁",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "花蓮縣 第01選區 吉安鄉吉安村",
+"area_nickname": "花蓮市、新城鄉、秀林鄉、吉安鄉、壽豐鄉、鳳林鎮、光復鄉、豐濱鄉、萬榮鄉、瑞穗鄉、玉里鎮、富里鄉、卓溪鄉",
+"county": "10015",
+"area": "01",
+"town": "050",
+"vill": "006",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "傅崐萁",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "花蓮縣 第01選區 吉安鄉福興村",
+"area_nickname": "花蓮市、新城鄉、秀林鄉、吉安鄉、壽豐鄉、鳳林鎮、光復鄉、豐濱鄉、萬榮鄉、瑞穗鄉、玉里鎮、富里鄉、卓溪鄉",
+"county": "10015",
+"area": "01",
+"town": "050",
+"vill": "007",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "傅崐萁",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "花蓮縣 第01選區 吉安鄉南華村",
+"area_nickname": "花蓮市、新城鄉、秀林鄉、吉安鄉、壽豐鄉、鳳林鎮、光復鄉、豐濱鄉、萬榮鄉、瑞穗鄉、玉里鎮、富里鄉、卓溪鄉",
+"county": "10015",
+"area": "01",
+"town": "050",
+"vill": "008",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "傅崐萁",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "花蓮縣 第01選區 吉安鄉干城村",
+"area_nickname": "花蓮市、新城鄉、秀林鄉、吉安鄉、壽豐鄉、鳳林鎮、光復鄉、豐濱鄉、萬榮鄉、瑞穗鄉、玉里鎮、富里鄉、卓溪鄉",
+"county": "10015",
+"area": "01",
+"town": "050",
+"vill": "009",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "傅崐萁",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "花蓮縣 第01選區 吉安鄉永興村",
+"area_nickname": "花蓮市、新城鄉、秀林鄉、吉安鄉、壽豐鄉、鳳林鎮、光復鄉、豐濱鄉、萬榮鄉、瑞穗鄉、玉里鎮、富里鄉、卓溪鄉",
+"county": "10015",
+"area": "01",
+"town": "050",
+"vill": "010",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "傅崐萁",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "花蓮縣 第01選區 吉安鄉稻香村",
+"area_nickname": "花蓮市、新城鄉、秀林鄉、吉安鄉、壽豐鄉、鳳林鎮、光復鄉、豐濱鄉、萬榮鄉、瑞穗鄉、玉里鎮、富里鄉、卓溪鄉",
+"county": "10015",
+"area": "01",
+"town": "050",
+"vill": "011",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "傅崐萁",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "花蓮縣 第01選區 吉安鄉南昌村",
+"area_nickname": "花蓮市、新城鄉、秀林鄉、吉安鄉、壽豐鄉、鳳林鎮、光復鄉、豐濱鄉、萬榮鄉、瑞穗鄉、玉里鎮、富里鄉、卓溪鄉",
+"county": "10015",
+"area": "01",
+"town": "050",
+"vill": "012",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "傅崐萁",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "花蓮縣 第01選區 吉安鄉宜昌村",
+"area_nickname": "花蓮市、新城鄉、秀林鄉、吉安鄉、壽豐鄉、鳳林鎮、光復鄉、豐濱鄉、萬榮鄉、瑞穗鄉、玉里鎮、富里鄉、卓溪鄉",
+"county": "10015",
+"area": "01",
+"town": "050",
+"vill": "013",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "傅崐萁",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "花蓮縣 第01選區 吉安鄉北昌村",
+"area_nickname": "花蓮市、新城鄉、秀林鄉、吉安鄉、壽豐鄉、鳳林鎮、光復鄉、豐濱鄉、萬榮鄉、瑞穗鄉、玉里鎮、富里鄉、卓溪鄉",
+"county": "10015",
+"area": "01",
+"town": "050",
+"vill": "001",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "傅崐萁",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "花蓮縣 第01選區 吉安鄉勝安村",
+"area_nickname": "花蓮市、新城鄉、秀林鄉、吉安鄉、壽豐鄉、鳳林鎮、光復鄉、豐濱鄉、萬榮鄉、瑞穗鄉、玉里鎮、富里鄉、卓溪鄉",
+"county": "10015",
+"area": "01",
+"town": "050",
+"vill": "002",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "傅崐萁",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "花蓮縣 第01選區 吉安鄉仁里村",
+"area_nickname": "花蓮市、新城鄉、秀林鄉、吉安鄉、壽豐鄉、鳳林鎮、光復鄉、豐濱鄉、萬榮鄉、瑞穗鄉、玉里鎮、富里鄉、卓溪鄉",
+"county": "10015",
+"area": "01",
+"town": "050",
+"vill": "014",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "傅崐萁",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "花蓮縣 第01選區 吉安鄉東昌村",
+"area_nickname": "花蓮市、新城鄉、秀林鄉、吉安鄉、壽豐鄉、鳳林鎮、光復鄉、豐濱鄉、萬榮鄉、瑞穗鄉、玉里鎮、富里鄉、卓溪鄉",
+"county": "10015",
+"area": "01",
+"town": "050",
+"vill": "015",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "傅崐萁",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "花蓮縣 第01選區 吉安鄉仁安村",
+"area_nickname": "花蓮市、新城鄉、秀林鄉、吉安鄉、壽豐鄉、鳳林鎮、光復鄉、豐濱鄉、萬榮鄉、瑞穗鄉、玉里鎮、富里鄉、卓溪鄉",
+"county": "10015",
+"area": "01",
+"town": "050",
+"vill": "016",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "傅崐萁",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "花蓮縣 第01選區 吉安鄉仁和村",
+"area_nickname": "花蓮市、新城鄉、秀林鄉、吉安鄉、壽豐鄉、鳳林鎮、光復鄉、豐濱鄉、萬榮鄉、瑞穗鄉、玉里鎮、富里鄉、卓溪鄉",
+"county": "10015",
+"area": "01",
+"town": "050",
+"vill": "017",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "傅崐萁",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "花蓮縣 第01選區 吉安鄉光華村",
+"area_nickname": "花蓮市、新城鄉、秀林鄉、吉安鄉、壽豐鄉、鳳林鎮、光復鄉、豐濱鄉、萬榮鄉、瑞穗鄉、玉里鎮、富里鄉、卓溪鄉",
+"county": "10015",
+"area": "01",
+"town": "050",
+"vill": "018",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "傅崐萁",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "花蓮縣 第01選區 壽豐鄉溪口村",
+"area_nickname": "花蓮市、新城鄉、秀林鄉、吉安鄉、壽豐鄉、鳳林鎮、光復鄉、豐濱鄉、萬榮鄉、瑞穗鄉、玉里鎮、富里鄉、卓溪鄉",
+"county": "10015",
+"area": "01",
+"town": "060",
+"vill": "002",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "傅崐萁",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "花蓮縣 第01選區 壽豐鄉樹湖村",
+"area_nickname": "花蓮市、新城鄉、秀林鄉、吉安鄉、壽豐鄉、鳳林鎮、光復鄉、豐濱鄉、萬榮鄉、瑞穗鄉、玉里鎮、富里鄉、卓溪鄉",
+"county": "10015",
+"area": "01",
+"town": "060",
+"vill": "001",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "傅崐萁",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "花蓮縣 第01選區 壽豐鄉豐山村",
+"area_nickname": "花蓮市、新城鄉、秀林鄉、吉安鄉、壽豐鄉、鳳林鎮、光復鄉、豐濱鄉、萬榮鄉、瑞穗鄉、玉里鎮、富里鄉、卓溪鄉",
+"county": "10015",
+"area": "01",
+"town": "060",
+"vill": "003",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "傅崐萁",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "花蓮縣 第01選區 壽豐鄉豐裡村",
+"area_nickname": "花蓮市、新城鄉、秀林鄉、吉安鄉、壽豐鄉、鳳林鎮、光復鄉、豐濱鄉、萬榮鄉、瑞穗鄉、玉里鎮、富里鄉、卓溪鄉",
+"county": "10015",
+"area": "01",
+"town": "060",
+"vill": "004",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "傅崐萁",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "花蓮縣 第01選區 壽豐鄉豐坪村",
+"area_nickname": "花蓮市、新城鄉、秀林鄉、吉安鄉、壽豐鄉、鳳林鎮、光復鄉、豐濱鄉、萬榮鄉、瑞穗鄉、玉里鎮、富里鄉、卓溪鄉",
+"county": "10015",
+"area": "01",
+"town": "060",
+"vill": "005",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "傅崐萁",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "花蓮縣 第01選區 壽豐鄉壽豐村",
+"area_nickname": "花蓮市、新城鄉、秀林鄉、吉安鄉、壽豐鄉、鳳林鎮、光復鄉、豐濱鄉、萬榮鄉、瑞穗鄉、玉里鎮、富里鄉、卓溪鄉",
+"county": "10015",
+"area": "01",
+"town": "060",
+"vill": "007",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "傅崐萁",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "花蓮縣 第01選區 壽豐鄉共和村",
+"area_nickname": "花蓮市、新城鄉、秀林鄉、吉安鄉、壽豐鄉、鳳林鎮、光復鄉、豐濱鄉、萬榮鄉、瑞穗鄉、玉里鎮、富里鄉、卓溪鄉",
+"county": "10015",
+"area": "01",
+"town": "060",
+"vill": "006",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "傅崐萁",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "花蓮縣 第01選區 壽豐鄉光榮村",
+"area_nickname": "花蓮市、新城鄉、秀林鄉、吉安鄉、壽豐鄉、鳳林鎮、光復鄉、豐濱鄉、萬榮鄉、瑞穗鄉、玉里鎮、富里鄉、卓溪鄉",
+"county": "10015",
+"area": "01",
+"town": "060",
+"vill": "008",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "傅崐萁",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "花蓮縣 第01選區 壽豐鄉池南村",
+"area_nickname": "花蓮市、新城鄉、秀林鄉、吉安鄉、壽豐鄉、鳳林鎮、光復鄉、豐濱鄉、萬榮鄉、瑞穗鄉、玉里鎮、富里鄉、卓溪鄉",
+"county": "10015",
+"area": "01",
+"town": "060",
+"vill": "009",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "傅崐萁",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "花蓮縣 第01選區 壽豐鄉平和村",
+"area_nickname": "花蓮市、新城鄉、秀林鄉、吉安鄉、壽豐鄉、鳳林鎮、光復鄉、豐濱鄉、萬榮鄉、瑞穗鄉、玉里鎮、富里鄉、卓溪鄉",
+"county": "10015",
+"area": "01",
+"town": "060",
+"vill": "010",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "傅崐萁",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "花蓮縣 第01選區 壽豐鄉志學村",
+"area_nickname": "花蓮市、新城鄉、秀林鄉、吉安鄉、壽豐鄉、鳳林鎮、光復鄉、豐濱鄉、萬榮鄉、瑞穗鄉、玉里鎮、富里鄉、卓溪鄉",
+"county": "10015",
+"area": "01",
+"town": "060",
+"vill": "011",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "傅崐萁",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "花蓮縣 第01選區 壽豐鄉米棧村",
+"area_nickname": "花蓮市、新城鄉、秀林鄉、吉安鄉、壽豐鄉、鳳林鎮、光復鄉、豐濱鄉、萬榮鄉、瑞穗鄉、玉里鎮、富里鄉、卓溪鄉",
+"county": "10015",
+"area": "01",
+"town": "060",
+"vill": "012",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "傅崐萁",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "花蓮縣 第01選區 壽豐鄉月眉村",
+"area_nickname": "花蓮市、新城鄉、秀林鄉、吉安鄉、壽豐鄉、鳳林鎮、光復鄉、豐濱鄉、萬榮鄉、瑞穗鄉、玉里鎮、富里鄉、卓溪鄉",
+"county": "10015",
+"area": "01",
+"town": "060",
+"vill": "013",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "傅崐萁",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "花蓮縣 第01選區 壽豐鄉鹽寮村",
+"area_nickname": "花蓮市、新城鄉、秀林鄉、吉安鄉、壽豐鄉、鳳林鎮、光復鄉、豐濱鄉、萬榮鄉、瑞穗鄉、玉里鎮、富里鄉、卓溪鄉",
+"county": "10015",
+"area": "01",
+"town": "060",
+"vill": "015",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "傅崐萁",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "花蓮縣 第01選區 壽豐鄉水璉村",
+"area_nickname": "花蓮市、新城鄉、秀林鄉、吉安鄉、壽豐鄉、鳳林鎮、光復鄉、豐濱鄉、萬榮鄉、瑞穗鄉、玉里鎮、富里鄉、卓溪鄉",
+"county": "10015",
+"area": "01",
+"town": "060",
+"vill": "014",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "傅崐萁",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "花蓮縣 第01選區 鳳林鎮鳳仁里",
+"area_nickname": "花蓮市、新城鄉、秀林鄉、吉安鄉、壽豐鄉、鳳林鎮、光復鄉、豐濱鄉、萬榮鄉、瑞穗鄉、玉里鎮、富里鄉、卓溪鄉",
+"county": "10015",
+"area": "01",
+"town": "020",
+"vill": "001",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "傅崐萁",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "花蓮縣 第01選區 鳳林鎮鳳義里",
+"area_nickname": "花蓮市、新城鄉、秀林鄉、吉安鄉、壽豐鄉、鳳林鎮、光復鄉、豐濱鄉、萬榮鄉、瑞穗鄉、玉里鎮、富里鄉、卓溪鄉",
+"county": "10015",
+"area": "01",
+"town": "020",
+"vill": "002",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "傅崐萁",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "花蓮縣 第01選區 鳳林鎮鳳禮里",
+"area_nickname": "花蓮市、新城鄉、秀林鄉、吉安鄉、壽豐鄉、鳳林鎮、光復鄉、豐濱鄉、萬榮鄉、瑞穗鄉、玉里鎮、富里鄉、卓溪鄉",
+"county": "10015",
+"area": "01",
+"town": "020",
+"vill": "003",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "傅崐萁",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "花蓮縣 第01選區 鳳林鎮鳳智里",
+"area_nickname": "花蓮市、新城鄉、秀林鄉、吉安鄉、壽豐鄉、鳳林鎮、光復鄉、豐濱鄉、萬榮鄉、瑞穗鄉、玉里鎮、富里鄉、卓溪鄉",
+"county": "10015",
+"area": "01",
+"town": "020",
+"vill": "004",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "傅崐萁",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "花蓮縣 第01選區 鳳林鎮鳳信里",
+"area_nickname": "花蓮市、新城鄉、秀林鄉、吉安鄉、壽豐鄉、鳳林鎮、光復鄉、豐濱鄉、萬榮鄉、瑞穗鄉、玉里鎮、富里鄉、卓溪鄉",
+"county": "10015",
+"area": "01",
+"town": "020",
+"vill": "005",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "傅崐萁",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "花蓮縣 第01選區 鳳林鎮山興里",
+"area_nickname": "花蓮市、新城鄉、秀林鄉、吉安鄉、壽豐鄉、鳳林鎮、光復鄉、豐濱鄉、萬榮鄉、瑞穗鄉、玉里鎮、富里鄉、卓溪鄉",
+"county": "10015",
+"area": "01",
+"town": "020",
+"vill": "006",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "傅崐萁",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "花蓮縣 第01選區 鳳林鎮大榮里",
+"area_nickname": "花蓮市、新城鄉、秀林鄉、吉安鄉、壽豐鄉、鳳林鎮、光復鄉、豐濱鄉、萬榮鄉、瑞穗鄉、玉里鎮、富里鄉、卓溪鄉",
+"county": "10015",
+"area": "01",
+"town": "020",
+"vill": "007",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "傅崐萁",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "花蓮縣 第01選區 鳳林鎮北林里",
+"area_nickname": "花蓮市、新城鄉、秀林鄉、吉安鄉、壽豐鄉、鳳林鎮、光復鄉、豐濱鄉、萬榮鄉、瑞穗鄉、玉里鎮、富里鄉、卓溪鄉",
+"county": "10015",
+"area": "01",
+"town": "020",
+"vill": "008",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "傅崐萁",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "花蓮縣 第01選區 鳳林鎮南平里",
+"area_nickname": "花蓮市、新城鄉、秀林鄉、吉安鄉、壽豐鄉、鳳林鎮、光復鄉、豐濱鄉、萬榮鄉、瑞穗鄉、玉里鎮、富里鄉、卓溪鄉",
+"county": "10015",
+"area": "01",
+"town": "020",
+"vill": "009",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "傅崐萁",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "花蓮縣 第01選區 鳳林鎮林榮里",
+"area_nickname": "花蓮市、新城鄉、秀林鄉、吉安鄉、壽豐鄉、鳳林鎮、光復鄉、豐濱鄉、萬榮鄉、瑞穗鄉、玉里鎮、富里鄉、卓溪鄉",
+"county": "10015",
+"area": "01",
+"town": "020",
+"vill": "010",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "傅崐萁",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "花蓮縣 第01選區 鳳林鎮長橋里",
+"area_nickname": "花蓮市、新城鄉、秀林鄉、吉安鄉、壽豐鄉、鳳林鎮、光復鄉、豐濱鄉、萬榮鄉、瑞穗鄉、玉里鎮、富里鄉、卓溪鄉",
+"county": "10015",
+"area": "01",
+"town": "020",
+"vill": "011",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "傅崐萁",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "花蓮縣 第01選區 鳳林鎮森榮里",
+"area_nickname": "花蓮市、新城鄉、秀林鄉、吉安鄉、壽豐鄉、鳳林鎮、光復鄉、豐濱鄉、萬榮鄉、瑞穗鄉、玉里鎮、富里鄉、卓溪鄉",
+"county": "10015",
+"area": "01",
+"town": "020",
+"vill": "012",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "傅崐萁",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "花蓮縣 第01選區 光復鄉大華村",
+"area_nickname": "花蓮市、新城鄉、秀林鄉、吉安鄉、壽豐鄉、鳳林鎮、光復鄉、豐濱鄉、萬榮鄉、瑞穗鄉、玉里鎮、富里鄉、卓溪鄉",
+"county": "10015",
+"area": "01",
+"town": "070",
+"vill": "002",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "傅崐萁",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "花蓮縣 第01選區 光復鄉大安村",
+"area_nickname": "花蓮市、新城鄉、秀林鄉、吉安鄉、壽豐鄉、鳳林鎮、光復鄉、豐濱鄉、萬榮鄉、瑞穗鄉、玉里鎮、富里鄉、卓溪鄉",
+"county": "10015",
+"area": "01",
+"town": "070",
+"vill": "001",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "傅崐萁",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "花蓮縣 第01選區 光復鄉大平村",
+"area_nickname": "花蓮市、新城鄉、秀林鄉、吉安鄉、壽豐鄉、鳳林鎮、光復鄉、豐濱鄉、萬榮鄉、瑞穗鄉、玉里鎮、富里鄉、卓溪鄉",
+"county": "10015",
+"area": "01",
+"town": "070",
+"vill": "003",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "傅崐萁",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "花蓮縣 第01選區 光復鄉大馬村",
+"area_nickname": "花蓮市、新城鄉、秀林鄉、吉安鄉、壽豐鄉、鳳林鎮、光復鄉、豐濱鄉、萬榮鄉、瑞穗鄉、玉里鎮、富里鄉、卓溪鄉",
+"county": "10015",
+"area": "01",
+"town": "070",
+"vill": "004",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "傅崐萁",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "花蓮縣 第01選區 光復鄉大同村",
+"area_nickname": "花蓮市、新城鄉、秀林鄉、吉安鄉、壽豐鄉、鳳林鎮、光復鄉、豐濱鄉、萬榮鄉、瑞穗鄉、玉里鎮、富里鄉、卓溪鄉",
+"county": "10015",
+"area": "01",
+"town": "070",
+"vill": "005",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "傅崐萁",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "花蓮縣 第01選區 光復鄉東富村",
+"area_nickname": "花蓮市、新城鄉、秀林鄉、吉安鄉、壽豐鄉、鳳林鎮、光復鄉、豐濱鄉、萬榮鄉、瑞穗鄉、玉里鎮、富里鄉、卓溪鄉",
+"county": "10015",
+"area": "01",
+"town": "070",
+"vill": "011",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "傅崐萁",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "花蓮縣 第01選區 光復鄉西富村",
+"area_nickname": "花蓮市、新城鄉、秀林鄉、吉安鄉、壽豐鄉、鳳林鎮、光復鄉、豐濱鄉、萬榮鄉、瑞穗鄉、玉里鎮、富里鄉、卓溪鄉",
+"county": "10015",
+"area": "01",
+"town": "070",
+"vill": "012",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "傅崐萁",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "花蓮縣 第01選區 光復鄉南富村",
+"area_nickname": "花蓮市、新城鄉、秀林鄉、吉安鄉、壽豐鄉、鳳林鎮、光復鄉、豐濱鄉、萬榮鄉、瑞穗鄉、玉里鎮、富里鄉、卓溪鄉",
+"county": "10015",
+"area": "01",
+"town": "070",
+"vill": "013",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "傅崐萁",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "花蓮縣 第01選區 光復鄉北富村",
+"area_nickname": "花蓮市、新城鄉、秀林鄉、吉安鄉、壽豐鄉、鳳林鎮、光復鄉、豐濱鄉、萬榮鄉、瑞穗鄉、玉里鎮、富里鄉、卓溪鄉",
+"county": "10015",
+"area": "01",
+"town": "070",
+"vill": "014",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "傅崐萁",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "花蓮縣 第01選區 光復鄉大進村",
+"area_nickname": "花蓮市、新城鄉、秀林鄉、吉安鄉、壽豐鄉、鳳林鎮、光復鄉、豐濱鄉、萬榮鄉、瑞穗鄉、玉里鎮、富里鄉、卓溪鄉",
+"county": "10015",
+"area": "01",
+"town": "070",
+"vill": "006",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "傅崐萁",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "花蓮縣 第01選區 光復鄉大全村",
+"area_nickname": "花蓮市、新城鄉、秀林鄉、吉安鄉、壽豐鄉、鳳林鎮、光復鄉、豐濱鄉、萬榮鄉、瑞穗鄉、玉里鎮、富里鄉、卓溪鄉",
+"county": "10015",
+"area": "01",
+"town": "070",
+"vill": "007",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "傅崐萁",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "花蓮縣 第01選區 光復鄉大興村",
+"area_nickname": "花蓮市、新城鄉、秀林鄉、吉安鄉、壽豐鄉、鳳林鎮、光復鄉、豐濱鄉、萬榮鄉、瑞穗鄉、玉里鎮、富里鄉、卓溪鄉",
+"county": "10015",
+"area": "01",
+"town": "070",
+"vill": "008",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "傅崐萁",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "花蓮縣 第01選區 光復鄉大富村",
+"area_nickname": "花蓮市、新城鄉、秀林鄉、吉安鄉、壽豐鄉、鳳林鎮、光復鄉、豐濱鄉、萬榮鄉、瑞穗鄉、玉里鎮、富里鄉、卓溪鄉",
+"county": "10015",
+"area": "01",
+"town": "070",
+"vill": "009",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "傅崐萁",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "花蓮縣 第01選區 光復鄉大豐村",
+"area_nickname": "花蓮市、新城鄉、秀林鄉、吉安鄉、壽豐鄉、鳳林鎮、光復鄉、豐濱鄉、萬榮鄉、瑞穗鄉、玉里鎮、富里鄉、卓溪鄉",
+"county": "10015",
+"area": "01",
+"town": "070",
+"vill": "010",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "傅崐萁",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "花蓮縣 第01選區 豐濱鄉靜浦村",
+"area_nickname": "花蓮市、新城鄉、秀林鄉、吉安鄉、壽豐鄉、鳳林鎮、光復鄉、豐濱鄉、萬榮鄉、瑞穗鄉、玉里鎮、富里鄉、卓溪鄉",
+"county": "10015",
+"area": "01",
+"town": "080",
+"vill": "005",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "傅崐萁",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "花蓮縣 第01選區 豐濱鄉港口村",
+"area_nickname": "花蓮市、新城鄉、秀林鄉、吉安鄉、壽豐鄉、鳳林鎮、光復鄉、豐濱鄉、萬榮鄉、瑞穗鄉、玉里鎮、富里鄉、卓溪鄉",
+"county": "10015",
+"area": "01",
+"town": "080",
+"vill": "004",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "傅崐萁",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "花蓮縣 第01選區 豐濱鄉豐濱村",
+"area_nickname": "花蓮市、新城鄉、秀林鄉、吉安鄉、壽豐鄉、鳳林鎮、光復鄉、豐濱鄉、萬榮鄉、瑞穗鄉、玉里鎮、富里鄉、卓溪鄉",
+"county": "10015",
+"area": "01",
+"town": "080",
+"vill": "001",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "傅崐萁",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "花蓮縣 第01選區 豐濱鄉新社村",
+"area_nickname": "花蓮市、新城鄉、秀林鄉、吉安鄉、壽豐鄉、鳳林鎮、光復鄉、豐濱鄉、萬榮鄉、瑞穗鄉、玉里鎮、富里鄉、卓溪鄉",
+"county": "10015",
+"area": "01",
+"town": "080",
+"vill": "002",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "傅崐萁",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "花蓮縣 第01選區 豐濱鄉磯崎村",
+"area_nickname": "花蓮市、新城鄉、秀林鄉、吉安鄉、壽豐鄉、鳳林鎮、光復鄉、豐濱鄉、萬榮鄉、瑞穗鄉、玉里鎮、富里鄉、卓溪鄉",
+"county": "10015",
+"area": "01",
+"town": "080",
+"vill": "003",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "傅崐萁",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "花蓮縣 第01選區 萬榮鄉西林村",
+"area_nickname": "花蓮市、新城鄉、秀林鄉、吉安鄉、壽豐鄉、鳳林鎮、光復鄉、豐濱鄉、萬榮鄉、瑞穗鄉、玉里鎮、富里鄉、卓溪鄉",
+"county": "10015",
+"area": "01",
+"town": "120",
+"vill": "001",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "傅崐萁",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "花蓮縣 第01選區 萬榮鄉見晴村",
+"area_nickname": "花蓮市、新城鄉、秀林鄉、吉安鄉、壽豐鄉、鳳林鎮、光復鄉、豐濱鄉、萬榮鄉、瑞穗鄉、玉里鎮、富里鄉、卓溪鄉",
+"county": "10015",
+"area": "01",
+"town": "120",
+"vill": "002",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "傅崐萁",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "花蓮縣 第01選區 萬榮鄉萬榮村",
+"area_nickname": "花蓮市、新城鄉、秀林鄉、吉安鄉、壽豐鄉、鳳林鎮、光復鄉、豐濱鄉、萬榮鄉、瑞穗鄉、玉里鎮、富里鄉、卓溪鄉",
+"county": "10015",
+"area": "01",
+"town": "120",
+"vill": "003",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "傅崐萁",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "花蓮縣 第01選區 萬榮鄉明利村",
+"area_nickname": "花蓮市、新城鄉、秀林鄉、吉安鄉、壽豐鄉、鳳林鎮、光復鄉、豐濱鄉、萬榮鄉、瑞穗鄉、玉里鎮、富里鄉、卓溪鄉",
+"county": "10015",
+"area": "01",
+"town": "120",
+"vill": "004",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "傅崐萁",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "花蓮縣 第01選區 萬榮鄉馬遠村",
+"area_nickname": "花蓮市、新城鄉、秀林鄉、吉安鄉、壽豐鄉、鳳林鎮、光復鄉、豐濱鄉、萬榮鄉、瑞穗鄉、玉里鎮、富里鄉、卓溪鄉",
+"county": "10015",
+"area": "01",
+"town": "120",
+"vill": "005",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "傅崐萁",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "花蓮縣 第01選區 萬榮鄉紅葉村",
+"area_nickname": "花蓮市、新城鄉、秀林鄉、吉安鄉、壽豐鄉、鳳林鎮、光復鄉、豐濱鄉、萬榮鄉、瑞穗鄉、玉里鎮、富里鄉、卓溪鄉",
+"county": "10015",
+"area": "01",
+"town": "120",
+"vill": "006",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "傅崐萁",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "花蓮縣 第01選區 瑞穗鄉瑞穗村",
+"area_nickname": "花蓮市、新城鄉、秀林鄉、吉安鄉、壽豐鄉、鳳林鎮、光復鄉、豐濱鄉、萬榮鄉、瑞穗鄉、玉里鎮、富里鄉、卓溪鄉",
+"county": "10015",
+"area": "01",
+"town": "090",
+"vill": "001",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "傅崐萁",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "花蓮縣 第01選區 瑞穗鄉瑞美村",
+"area_nickname": "花蓮市、新城鄉、秀林鄉、吉安鄉、壽豐鄉、鳳林鎮、光復鄉、豐濱鄉、萬榮鄉、瑞穗鄉、玉里鎮、富里鄉、卓溪鄉",
+"county": "10015",
+"area": "01",
+"town": "090",
+"vill": "002",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "傅崐萁",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "花蓮縣 第01選區 瑞穗鄉瑞良村",
+"area_nickname": "花蓮市、新城鄉、秀林鄉、吉安鄉、壽豐鄉、鳳林鎮、光復鄉、豐濱鄉、萬榮鄉、瑞穗鄉、玉里鎮、富里鄉、卓溪鄉",
+"county": "10015",
+"area": "01",
+"town": "090",
+"vill": "003",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "傅崐萁",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "花蓮縣 第01選區 瑞穗鄉瑞祥村",
+"area_nickname": "花蓮市、新城鄉、秀林鄉、吉安鄉、壽豐鄉、鳳林鎮、光復鄉、豐濱鄉、萬榮鄉、瑞穗鄉、玉里鎮、富里鄉、卓溪鄉",
+"county": "10015",
+"area": "01",
+"town": "090",
+"vill": "004",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "傅崐萁",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "花蓮縣 第01選區 瑞穗鄉瑞北村",
+"area_nickname": "花蓮市、新城鄉、秀林鄉、吉安鄉、壽豐鄉、鳳林鎮、光復鄉、豐濱鄉、萬榮鄉、瑞穗鄉、玉里鎮、富里鄉、卓溪鄉",
+"county": "10015",
+"area": "01",
+"town": "090",
+"vill": "005",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "傅崐萁",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "花蓮縣 第01選區 瑞穗鄉舞鶴村",
+"area_nickname": "花蓮市、新城鄉、秀林鄉、吉安鄉、壽豐鄉、鳳林鎮、光復鄉、豐濱鄉、萬榮鄉、瑞穗鄉、玉里鎮、富里鄉、卓溪鄉",
+"county": "10015",
+"area": "01",
+"town": "090",
+"vill": "006",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "傅崐萁",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "花蓮縣 第01選區 瑞穗鄉鶴岡村",
+"area_nickname": "花蓮市、新城鄉、秀林鄉、吉安鄉、壽豐鄉、鳳林鎮、光復鄉、豐濱鄉、萬榮鄉、瑞穗鄉、玉里鎮、富里鄉、卓溪鄉",
+"county": "10015",
+"area": "01",
+"town": "090",
+"vill": "007",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "傅崐萁",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "花蓮縣 第01選區 瑞穗鄉奇美村",
+"area_nickname": "花蓮市、新城鄉、秀林鄉、吉安鄉、壽豐鄉、鳳林鎮、光復鄉、豐濱鄉、萬榮鄉、瑞穗鄉、玉里鎮、富里鄉、卓溪鄉",
+"county": "10015",
+"area": "01",
+"town": "090",
+"vill": "008",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "傅崐萁",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "花蓮縣 第01選區 瑞穗鄉富源村",
+"area_nickname": "花蓮市、新城鄉、秀林鄉、吉安鄉、壽豐鄉、鳳林鎮、光復鄉、豐濱鄉、萬榮鄉、瑞穗鄉、玉里鎮、富里鄉、卓溪鄉",
+"county": "10015",
+"area": "01",
+"town": "090",
+"vill": "009",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "傅崐萁",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "花蓮縣 第01選區 瑞穗鄉富民村",
+"area_nickname": "花蓮市、新城鄉、秀林鄉、吉安鄉、壽豐鄉、鳳林鎮、光復鄉、豐濱鄉、萬榮鄉、瑞穗鄉、玉里鎮、富里鄉、卓溪鄉",
+"county": "10015",
+"area": "01",
+"town": "090",
+"vill": "010",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "傅崐萁",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "花蓮縣 第01選區 瑞穗鄉富興村",
+"area_nickname": "花蓮市、新城鄉、秀林鄉、吉安鄉、壽豐鄉、鳳林鎮、光復鄉、豐濱鄉、萬榮鄉、瑞穗鄉、玉里鎮、富里鄉、卓溪鄉",
+"county": "10015",
+"area": "01",
+"town": "090",
+"vill": "011",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "傅崐萁",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "花蓮縣 第01選區 玉里鎮中城里",
+"area_nickname": "花蓮市、新城鄉、秀林鄉、吉安鄉、壽豐鄉、鳳林鎮、光復鄉、豐濱鄉、萬榮鄉、瑞穗鄉、玉里鎮、富里鄉、卓溪鄉",
+"county": "10015",
+"area": "01",
+"town": "030",
+"vill": "001",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "傅崐萁",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "花蓮縣 第01選區 玉里鎮國武里",
+"area_nickname": "花蓮市、新城鄉、秀林鄉、吉安鄉、壽豐鄉、鳳林鎮、光復鄉、豐濱鄉、萬榮鄉、瑞穗鄉、玉里鎮、富里鄉、卓溪鄉",
+"county": "10015",
+"area": "01",
+"town": "030",
+"vill": "005",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "傅崐萁",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "花蓮縣 第01選區 玉里鎮啟模里",
+"area_nickname": "花蓮市、新城鄉、秀林鄉、吉安鄉、壽豐鄉、鳳林鎮、光復鄉、豐濱鄉、萬榮鄉、瑞穗鄉、玉里鎮、富里鄉、卓溪鄉",
+"county": "10015",
+"area": "01",
+"town": "030",
+"vill": "002",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "傅崐萁",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "花蓮縣 第01選區 玉里鎮泰昌里",
+"area_nickname": "花蓮市、新城鄉、秀林鄉、吉安鄉、壽豐鄉、鳳林鎮、光復鄉、豐濱鄉、萬榮鄉、瑞穗鄉、玉里鎮、富里鄉、卓溪鄉",
+"county": "10015",
+"area": "01",
+"town": "030",
+"vill": "004",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "傅崐萁",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "花蓮縣 第01選區 玉里鎮永昌里",
+"area_nickname": "花蓮市、新城鄉、秀林鄉、吉安鄉、壽豐鄉、鳳林鎮、光復鄉、豐濱鄉、萬榮鄉、瑞穗鄉、玉里鎮、富里鄉、卓溪鄉",
+"county": "10015",
+"area": "01",
+"town": "030",
+"vill": "003",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "傅崐萁",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "花蓮縣 第01選區 玉里鎮源城里",
+"area_nickname": "花蓮市、新城鄉、秀林鄉、吉安鄉、壽豐鄉、鳳林鎮、光復鄉、豐濱鄉、萬榮鄉、瑞穗鄉、玉里鎮、富里鄉、卓溪鄉",
+"county": "10015",
+"area": "01",
+"town": "030",
+"vill": "006",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "傅崐萁",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "花蓮縣 第01選區 玉里鎮長良里",
+"area_nickname": "花蓮市、新城鄉、秀林鄉、吉安鄉、壽豐鄉、鳳林鎮、光復鄉、豐濱鄉、萬榮鄉、瑞穗鄉、玉里鎮、富里鄉、卓溪鄉",
+"county": "10015",
+"area": "01",
+"town": "030",
+"vill": "007",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "傅崐萁",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "花蓮縣 第01選區 玉里鎮樂合里",
+"area_nickname": "花蓮市、新城鄉、秀林鄉、吉安鄉、壽豐鄉、鳳林鎮、光復鄉、豐濱鄉、萬榮鄉、瑞穗鄉、玉里鎮、富里鄉、卓溪鄉",
+"county": "10015",
+"area": "01",
+"town": "030",
+"vill": "008",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "傅崐萁",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "花蓮縣 第01選區 玉里鎮東豐里",
+"area_nickname": "花蓮市、新城鄉、秀林鄉、吉安鄉、壽豐鄉、鳳林鎮、光復鄉、豐濱鄉、萬榮鄉、瑞穗鄉、玉里鎮、富里鄉、卓溪鄉",
+"county": "10015",
+"area": "01",
+"town": "030",
+"vill": "009",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "傅崐萁",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "花蓮縣 第01選區 玉里鎮觀音里",
+"area_nickname": "花蓮市、新城鄉、秀林鄉、吉安鄉、壽豐鄉、鳳林鎮、光復鄉、豐濱鄉、萬榮鄉、瑞穗鄉、玉里鎮、富里鄉、卓溪鄉",
+"county": "10015",
+"area": "01",
+"town": "030",
+"vill": "010",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "傅崐萁",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "花蓮縣 第01選區 玉里鎮松浦里",
+"area_nickname": "花蓮市、新城鄉、秀林鄉、吉安鄉、壽豐鄉、鳳林鎮、光復鄉、豐濱鄉、萬榮鄉、瑞穗鄉、玉里鎮、富里鄉、卓溪鄉",
+"county": "10015",
+"area": "01",
+"town": "030",
+"vill": "011",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "傅崐萁",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "花蓮縣 第01選區 玉里鎮春日里",
+"area_nickname": "花蓮市、新城鄉、秀林鄉、吉安鄉、壽豐鄉、鳳林鎮、光復鄉、豐濱鄉、萬榮鄉、瑞穗鄉、玉里鎮、富里鄉、卓溪鄉",
+"county": "10015",
+"area": "01",
+"town": "030",
+"vill": "012",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "傅崐萁",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "花蓮縣 第01選區 玉里鎮德武里",
+"area_nickname": "花蓮市、新城鄉、秀林鄉、吉安鄉、壽豐鄉、鳳林鎮、光復鄉、豐濱鄉、萬榮鄉、瑞穗鄉、玉里鎮、富里鄉、卓溪鄉",
+"county": "10015",
+"area": "01",
+"town": "030",
+"vill": "013",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "傅崐萁",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "花蓮縣 第01選區 玉里鎮三民里",
+"area_nickname": "花蓮市、新城鄉、秀林鄉、吉安鄉、壽豐鄉、鳳林鎮、光復鄉、豐濱鄉、萬榮鄉、瑞穗鄉、玉里鎮、富里鄉、卓溪鄉",
+"county": "10015",
+"area": "01",
+"town": "030",
+"vill": "014",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "傅崐萁",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "花蓮縣 第01選區 玉里鎮大禹里",
+"area_nickname": "花蓮市、新城鄉、秀林鄉、吉安鄉、壽豐鄉、鳳林鎮、光復鄉、豐濱鄉、萬榮鄉、瑞穗鄉、玉里鎮、富里鄉、卓溪鄉",
+"county": "10015",
+"area": "01",
+"town": "030",
+"vill": "015",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "傅崐萁",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "花蓮縣 第01選區 富里鄉吳江村",
+"area_nickname": "花蓮市、新城鄉、秀林鄉、吉安鄉、壽豐鄉、鳳林鎮、光復鄉、豐濱鄉、萬榮鄉、瑞穗鄉、玉里鎮、富里鄉、卓溪鄉",
+"county": "10015",
+"area": "01",
+"town": "100",
+"vill": "001",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "傅崐萁",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "花蓮縣 第01選區 富里鄉東里村",
+"area_nickname": "花蓮市、新城鄉、秀林鄉、吉安鄉、壽豐鄉、鳳林鎮、光復鄉、豐濱鄉、萬榮鄉、瑞穗鄉、玉里鎮、富里鄉、卓溪鄉",
+"county": "10015",
+"area": "01",
+"town": "100",
+"vill": "002",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "傅崐萁",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "花蓮縣 第01選區 富里鄉萬寧村",
+"area_nickname": "花蓮市、新城鄉、秀林鄉、吉安鄉、壽豐鄉、鳳林鎮、光復鄉、豐濱鄉、萬榮鄉、瑞穗鄉、玉里鎮、富里鄉、卓溪鄉",
+"county": "10015",
+"area": "01",
+"town": "100",
+"vill": "003",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "傅崐萁",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "花蓮縣 第01選區 富里鄉新興村",
+"area_nickname": "花蓮市、新城鄉、秀林鄉、吉安鄉、壽豐鄉、鳳林鎮、光復鄉、豐濱鄉、萬榮鄉、瑞穗鄉、玉里鎮、富里鄉、卓溪鄉",
+"county": "10015",
+"area": "01",
+"town": "100",
+"vill": "004",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "傅崐萁",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "花蓮縣 第01選區 富里鄉竹田村",
+"area_nickname": "花蓮市、新城鄉、秀林鄉、吉安鄉、壽豐鄉、鳳林鎮、光復鄉、豐濱鄉、萬榮鄉、瑞穗鄉、玉里鎮、富里鄉、卓溪鄉",
+"county": "10015",
+"area": "01",
+"town": "100",
+"vill": "005",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "傅崐萁",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "花蓮縣 第01選區 富里鄉羅山村",
+"area_nickname": "花蓮市、新城鄉、秀林鄉、吉安鄉、壽豐鄉、鳳林鎮、光復鄉、豐濱鄉、萬榮鄉、瑞穗鄉、玉里鎮、富里鄉、卓溪鄉",
+"county": "10015",
+"area": "01",
+"town": "100",
+"vill": "006",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "傅崐萁",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "花蓮縣 第01選區 富里鄉石牌村",
+"area_nickname": "花蓮市、新城鄉、秀林鄉、吉安鄉、壽豐鄉、鳳林鎮、光復鄉、豐濱鄉、萬榮鄉、瑞穗鄉、玉里鎮、富里鄉、卓溪鄉",
+"county": "10015",
+"area": "01",
+"town": "100",
+"vill": "007",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "傅崐萁",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "花蓮縣 第01選區 富里鄉明里村",
+"area_nickname": "花蓮市、新城鄉、秀林鄉、吉安鄉、壽豐鄉、鳳林鎮、光復鄉、豐濱鄉、萬榮鄉、瑞穗鄉、玉里鎮、富里鄉、卓溪鄉",
+"county": "10015",
+"area": "01",
+"town": "100",
+"vill": "008",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "傅崐萁",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "花蓮縣 第01選區 富里鄉富里村",
+"area_nickname": "花蓮市、新城鄉、秀林鄉、吉安鄉、壽豐鄉、鳳林鎮、光復鄉、豐濱鄉、萬榮鄉、瑞穗鄉、玉里鎮、富里鄉、卓溪鄉",
+"county": "10015",
+"area": "01",
+"town": "100",
+"vill": "009",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "傅崐萁",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "花蓮縣 第01選區 富里鄉永豐村",
+"area_nickname": "花蓮市、新城鄉、秀林鄉、吉安鄉、壽豐鄉、鳳林鎮、光復鄉、豐濱鄉、萬榮鄉、瑞穗鄉、玉里鎮、富里鄉、卓溪鄉",
+"county": "10015",
+"area": "01",
+"town": "100",
+"vill": "010",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "傅崐萁",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "花蓮縣 第01選區 富里鄉豐南村",
+"area_nickname": "花蓮市、新城鄉、秀林鄉、吉安鄉、壽豐鄉、鳳林鎮、光復鄉、豐濱鄉、萬榮鄉、瑞穗鄉、玉里鎮、富里鄉、卓溪鄉",
+"county": "10015",
+"area": "01",
+"town": "100",
+"vill": "011",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "傅崐萁",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "花蓮縣 第01選區 富里鄉富南村",
+"area_nickname": "花蓮市、新城鄉、秀林鄉、吉安鄉、壽豐鄉、鳳林鎮、光復鄉、豐濱鄉、萬榮鄉、瑞穗鄉、玉里鎮、富里鄉、卓溪鄉",
+"county": "10015",
+"area": "01",
+"town": "100",
+"vill": "012",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "傅崐萁",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "花蓮縣 第01選區 富里鄉學田村",
+"area_nickname": "花蓮市、新城鄉、秀林鄉、吉安鄉、壽豐鄉、鳳林鎮、光復鄉、豐濱鄉、萬榮鄉、瑞穗鄉、玉里鎮、富里鄉、卓溪鄉",
+"county": "10015",
+"area": "01",
+"town": "100",
+"vill": "013",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "傅崐萁",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "花蓮縣 第01選區 卓溪鄉崙山村",
+"area_nickname": "花蓮市、新城鄉、秀林鄉、吉安鄉、壽豐鄉、鳳林鎮、光復鄉、豐濱鄉、萬榮鄉、瑞穗鄉、玉里鎮、富里鄉、卓溪鄉",
+"county": "10015",
+"area": "01",
+"town": "130",
+"vill": "001",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "傅崐萁",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "花蓮縣 第01選區 卓溪鄉立山村",
+"area_nickname": "花蓮市、新城鄉、秀林鄉、吉安鄉、壽豐鄉、鳳林鎮、光復鄉、豐濱鄉、萬榮鄉、瑞穗鄉、玉里鎮、富里鄉、卓溪鄉",
+"county": "10015",
+"area": "01",
+"town": "130",
+"vill": "002",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "傅崐萁",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "花蓮縣 第01選區 卓溪鄉太平村",
+"area_nickname": "花蓮市、新城鄉、秀林鄉、吉安鄉、壽豐鄉、鳳林鎮、光復鄉、豐濱鄉、萬榮鄉、瑞穗鄉、玉里鎮、富里鄉、卓溪鄉",
+"county": "10015",
+"area": "01",
+"town": "130",
+"vill": "003",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "傅崐萁",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "花蓮縣 第01選區 卓溪鄉卓溪村",
+"area_nickname": "花蓮市、新城鄉、秀林鄉、吉安鄉、壽豐鄉、鳳林鎮、光復鄉、豐濱鄉、萬榮鄉、瑞穗鄉、玉里鎮、富里鄉、卓溪鄉",
+"county": "10015",
+"area": "01",
+"town": "130",
+"vill": "004",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "傅崐萁",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "花蓮縣 第01選區 卓溪鄉卓清村",
+"area_nickname": "花蓮市、新城鄉、秀林鄉、吉安鄉、壽豐鄉、鳳林鎮、光復鄉、豐濱鄉、萬榮鄉、瑞穗鄉、玉里鎮、富里鄉、卓溪鄉",
+"county": "10015",
+"area": "01",
+"town": "130",
+"vill": "005",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "傅崐萁",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "花蓮縣 第01選區 卓溪鄉古風村",
+"area_nickname": "花蓮市、新城鄉、秀林鄉、吉安鄉、壽豐鄉、鳳林鎮、光復鄉、豐濱鄉、萬榮鄉、瑞穗鄉、玉里鎮、富里鄉、卓溪鄉",
+"county": "10015",
+"area": "01",
+"town": "130",
+"vill": "006",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "傅崐萁",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "花蓮縣 第01選區 花蓮市主義里",
+"area_nickname": "花蓮市、新城鄉、秀林鄉、吉安鄉、壽豐鄉、鳳林鎮、光復鄉、豐濱鄉、萬榮鄉、瑞穗鄉、玉里鎮、富里鄉、卓溪鄉",
+"county": "10015",
+"area": "01",
+"town": "010",
+"vill": "012",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "傅崐萁",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "花蓮縣 第01選區 花蓮市主睦里",
+"area_nickname": "花蓮市、新城鄉、秀林鄉、吉安鄉、壽豐鄉、鳳林鎮、光復鄉、豐濱鄉、萬榮鄉、瑞穗鄉、玉里鎮、富里鄉、卓溪鄉",
+"county": "10015",
+"area": "01",
+"town": "010",
+"vill": "005",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "傅崐萁",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+} 
+] 
+}

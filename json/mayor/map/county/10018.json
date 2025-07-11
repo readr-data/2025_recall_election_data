@@ -1,0 +1,70 @@
+{
+    "updatedAt": "2025-07-09 22:22:49",
+    "is_started": true,
+    "is_running": false,
+    "districts": [
+        {
+            "range": "新竹市 東區",
+            "county": "10018",
+            "town": "010",
+            "vill": null,
+            "profRate": null,
+            "votePop": null,
+            "candidates": [
+                {
+                    "candNo": "1",
+                    "name": "高虹安",
+                    "party": "台灣民眾黨",
+                    "agreeTks": null,
+                    "disagreeTks": null,
+                    "agreeRate": null,
+                    "disagreeRate": null,
+                    "adptVictor": "",
+                    "ytpRate": null
+                }
+            ]
+        },
+        {
+            "range": "新竹市 北區",
+            "county": "10018",
+            "town": "020",
+            "vill": null,
+            "profRate": null,
+            "votePop": null,
+            "candidates": [
+                {
+                    "candNo": "1",
+                    "name": "高虹安",
+                    "party": "台灣民眾黨",
+                    "agreeTks": null,
+                    "disagreeTks": null,
+                    "agreeRate": null,
+                    "disagreeRate": null,
+                    "adptVictor": "",
+                    "ytpRate": null
+                }
+            ]
+        },
+        {
+            "range": "新竹市 香山區",
+            "county": "10018",
+            "town": "030",
+            "vill": null,
+            "profRate": null,
+            "votePop": null,
+            "candidates": [
+                {
+                    "candNo": "1",
+                    "name": "高虹安",
+                    "party": "台灣民眾黨",
+                    "agreeTks": null,
+                    "disagreeTks": null,
+                    "agreeRate": null,
+                    "disagreeRate": null,
+                    "adptVictor": "",
+                    "ytpRate": null
+                }
+            ]
+        }
+    ]
+}
