@@ -1706,6 +1706,30 @@
 "ytpRate": null 
 } 
 ] 
+},
+{
+ "range": "臺中市 第06選區 西區公舘里",
+"area_nickname": "西區、中區、東區、南區",
+"county": "66000",
+"area": "06",
+"town": "040",
+"vill": "009",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "羅廷瑋",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
 } 
 ] 
 }

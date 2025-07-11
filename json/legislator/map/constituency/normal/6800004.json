@@ -1586,6 +1586,30 @@
 "ytpRate": null 
 } 
 ] 
+},
+{
+ "range": "桃園市 第04選區 桃園區大樹里",
+"area_nickname": "桃園區*",
+"county": "68000",
+"area": "04",
+"town": "010",
+"vill": "077",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "萬美玲",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
 } 
 ] 
 }

@@ -1826,6 +1826,30 @@
 "ytpRate": null 
 } 
 ] 
+},
+{
+ "range": "桃園市 第03選區 大溪區仁美里",
+"area_nickname": "中壢區*",
+"county": "68000",
+"area": "03",
+"town": "030",
+"vill": "028",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "魯明哲",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
 } 
 ] 
 }

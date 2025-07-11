@@ -5018,6 +5018,30 @@
 "ytpRate": null 
 } 
 ] 
+},
+{
+ "range": "雲林縣 第01選區 麥寮鄉中興村",
+"area_nickname": "麥寮鄉、臺西鄉、東勢鄉、褒忠鄉、土庫鎮、虎尾鎮、四湖鄉、元長鄉、口湖鄉、水林鄉、北港鎮",
+"county": "10009",
+"area": "01",
+"town": "130",
+"vill": "013",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "丁學忠",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
 } 
 ] 
 }

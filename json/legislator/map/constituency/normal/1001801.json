@@ -2882,6 +2882,54 @@
 "ytpRate": null 
 } 
 ] 
+},
+{
+ "range": "新竹市 第01選區 東區關新里",
+"area_nickname": "東區、北區、香山區",
+"county": "10018",
+"area": "01",
+"town": "010",
+"vill": "054",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "鄭正鈐",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "新竹市 第01選區 北區中雅里",
+"area_nickname": "東區、北區、香山區",
+"county": "10018",
+"area": "01",
+"town": "020",
+"vill": "045",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "鄭正鈐",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
 } 
 ] 
 }

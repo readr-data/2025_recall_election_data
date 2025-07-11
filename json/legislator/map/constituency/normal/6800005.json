@@ -1826,6 +1826,54 @@
 "ytpRate": null 
 } 
 ] 
+},
+{
+ "range": "桃園市 第05選區 龍潭區祥和里",
+"area_nickname": "平鎮區、龍潭區",
+"county": "68000",
+"area": "05",
+"town": "090",
+"vill": "032",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "呂玉玲",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "桃園市 第05選區 龍潭區渴望里",
+"area_nickname": "平鎮區、龍潭區",
+"county": "68000",
+"area": "05",
+"town": "090",
+"vill": "033",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "呂玉玲",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
 } 
 ] 
 }

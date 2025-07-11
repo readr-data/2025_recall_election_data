@@ -2330,6 +2330,78 @@
 "ytpRate": null 
 } 
 ] 
+},
+{
+ "range": "桃園市 第06選區 八德區福元里",
+"area_nickname": "中壢區*、八德區、大溪區、復興區",
+"county": "68000",
+"area": "06",
+"town": "080",
+"vill": "049",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "邱若華",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "桃園市 第06選區 八德區福德里",
+"area_nickname": "中壢區*、八德區、大溪區、復興區",
+"county": "68000",
+"area": "06",
+"town": "080",
+"vill": "050",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "邱若華",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "桃園市 第06選區 八德區興中里",
+"area_nickname": "中壢區*、八德區、大溪區、復興區",
+"county": "68000",
+"area": "06",
+"town": "080",
+"vill": "051",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "邱若華",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
 } 
 ] 
 }

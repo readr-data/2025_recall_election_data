@@ -2522,6 +2522,78 @@
 "ytpRate": null 
 } 
 ] 
+},
+{
+ "range": "桃園市 第02選區 大園區青峰里",
+"area_nickname": "大園區、觀音區、新屋區、楊梅區",
+"county": "68000",
+"area": "02",
+"town": "060",
+"vill": "020",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "涂權吉",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "桃園市 第02選區 大園區青山里",
+"area_nickname": "大園區、觀音區、新屋區、楊梅區",
+"county": "68000",
+"area": "02",
+"town": "060",
+"vill": "021",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "涂權吉",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "桃園市 第02選區 觀音區草新里",
+"area_nickname": "大園區、觀音區、新屋區、楊梅區",
+"county": "68000",
+"area": "02",
+"town": "120",
+"vill": "024",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "涂權吉",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
 } 
 ] 
 }
