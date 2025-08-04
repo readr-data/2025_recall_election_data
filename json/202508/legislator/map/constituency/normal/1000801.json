@@ -1,0 +1,2887 @@
+{
+ "updatedAt": "2025-07-10 10:33:00",
+"is_running": false,
+"is_started": true,
+"districts": [
+ {
+ "range": "南投縣 第01選區 埔里鎮東門里",
+"area_nickname": "埔里鎮、草屯鎮、中寮鄉、魚池鄉、國姓鄉、仁愛鄉",
+"county": "10008",
+"area": "01",
+"town": "020",
+"vill": "001",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "馬文君",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "南投縣 第01選區 埔里鎮南門里",
+"area_nickname": "埔里鎮、草屯鎮、中寮鄉、魚池鄉、國姓鄉、仁愛鄉",
+"county": "10008",
+"area": "01",
+"town": "020",
+"vill": "002",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "馬文君",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "南投縣 第01選區 埔里鎮西門里",
+"area_nickname": "埔里鎮、草屯鎮、中寮鄉、魚池鄉、國姓鄉、仁愛鄉",
+"county": "10008",
+"area": "01",
+"town": "020",
+"vill": "003",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "馬文君",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "南投縣 第01選區 埔里鎮北門里",
+"area_nickname": "埔里鎮、草屯鎮、中寮鄉、魚池鄉、國姓鄉、仁愛鄉",
+"county": "10008",
+"area": "01",
+"town": "020",
+"vill": "004",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "馬文君",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "南投縣 第01選區 埔里鎮同聲里",
+"area_nickname": "埔里鎮、草屯鎮、中寮鄉、魚池鄉、國姓鄉、仁愛鄉",
+"county": "10008",
+"area": "01",
+"town": "020",
+"vill": "005",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "馬文君",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "南投縣 第01選區 埔里鎮薰化里",
+"area_nickname": "埔里鎮、草屯鎮、中寮鄉、魚池鄉、國姓鄉、仁愛鄉",
+"county": "10008",
+"area": "01",
+"town": "020",
+"vill": "006",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "馬文君",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "南投縣 第01選區 埔里鎮清新里",
+"area_nickname": "埔里鎮、草屯鎮、中寮鄉、魚池鄉、國姓鄉、仁愛鄉",
+"county": "10008",
+"area": "01",
+"town": "020",
+"vill": "007",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "馬文君",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "南投縣 第01選區 埔里鎮大城里",
+"area_nickname": "埔里鎮、草屯鎮、中寮鄉、魚池鄉、國姓鄉、仁愛鄉",
+"county": "10008",
+"area": "01",
+"town": "020",
+"vill": "008",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "馬文君",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "南投縣 第01選區 埔里鎮籃城里",
+"area_nickname": "埔里鎮、草屯鎮、中寮鄉、魚池鄉、國姓鄉、仁愛鄉",
+"county": "10008",
+"area": "01",
+"town": "020",
+"vill": "009",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "馬文君",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "南投縣 第01選區 埔里鎮枇杷里",
+"area_nickname": "埔里鎮、草屯鎮、中寮鄉、魚池鄉、國姓鄉、仁愛鄉",
+"county": "10008",
+"area": "01",
+"town": "020",
+"vill": "010",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "馬文君",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "南投縣 第01選區 埔里鎮水頭里",
+"area_nickname": "埔里鎮、草屯鎮、中寮鄉、魚池鄉、國姓鄉、仁愛鄉",
+"county": "10008",
+"area": "01",
+"town": "020",
+"vill": "011",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "馬文君",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "南投縣 第01選區 埔里鎮麒麟里",
+"area_nickname": "埔里鎮、草屯鎮、中寮鄉、魚池鄉、國姓鄉、仁愛鄉",
+"county": "10008",
+"area": "01",
+"town": "020",
+"vill": "012",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "馬文君",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "南投縣 第01選區 埔里鎮珠格里",
+"area_nickname": "埔里鎮、草屯鎮、中寮鄉、魚池鄉、國姓鄉、仁愛鄉",
+"county": "10008",
+"area": "01",
+"town": "020",
+"vill": "013",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "馬文君",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "南投縣 第01選區 埔里鎮溪南里",
+"area_nickname": "埔里鎮、草屯鎮、中寮鄉、魚池鄉、國姓鄉、仁愛鄉",
+"county": "10008",
+"area": "01",
+"town": "020",
+"vill": "014",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "馬文君",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "南投縣 第01選區 埔里鎮桃米里",
+"area_nickname": "埔里鎮、草屯鎮、中寮鄉、魚池鄉、國姓鄉、仁愛鄉",
+"county": "10008",
+"area": "01",
+"town": "020",
+"vill": "015",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "馬文君",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "南投縣 第01選區 埔里鎮成功里",
+"area_nickname": "埔里鎮、草屯鎮、中寮鄉、魚池鄉、國姓鄉、仁愛鄉",
+"county": "10008",
+"area": "01",
+"town": "020",
+"vill": "016",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "馬文君",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "南投縣 第01選區 埔里鎮南村里",
+"area_nickname": "埔里鎮、草屯鎮、中寮鄉、魚池鄉、國姓鄉、仁愛鄉",
+"county": "10008",
+"area": "01",
+"town": "020",
+"vill": "017",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "馬文君",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "南投縣 第01選區 埔里鎮愛蘭里",
+"area_nickname": "埔里鎮、草屯鎮、中寮鄉、魚池鄉、國姓鄉、仁愛鄉",
+"county": "10008",
+"area": "01",
+"town": "020",
+"vill": "018",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "馬文君",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "南投縣 第01選區 埔里鎮鐵山里",
+"area_nickname": "埔里鎮、草屯鎮、中寮鄉、魚池鄉、國姓鄉、仁愛鄉",
+"county": "10008",
+"area": "01",
+"town": "020",
+"vill": "019",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "馬文君",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "南投縣 第01選區 埔里鎮房里里",
+"area_nickname": "埔里鎮、草屯鎮、中寮鄉、魚池鄉、國姓鄉、仁愛鄉",
+"county": "10008",
+"area": "01",
+"town": "020",
+"vill": "020",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "馬文君",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "南投縣 第01選區 埔里鎮向善里",
+"area_nickname": "埔里鎮、草屯鎮、中寮鄉、魚池鄉、國姓鄉、仁愛鄉",
+"county": "10008",
+"area": "01",
+"town": "020",
+"vill": "021",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "馬文君",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "南投縣 第01選區 埔里鎮一新里",
+"area_nickname": "埔里鎮、草屯鎮、中寮鄉、魚池鄉、國姓鄉、仁愛鄉",
+"county": "10008",
+"area": "01",
+"town": "020",
+"vill": "022",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "馬文君",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "南投縣 第01選區 埔里鎮廣成里",
+"area_nickname": "埔里鎮、草屯鎮、中寮鄉、魚池鄉、國姓鄉、仁愛鄉",
+"county": "10008",
+"area": "01",
+"town": "020",
+"vill": "023",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "馬文君",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "南投縣 第01選區 埔里鎮史港里",
+"area_nickname": "埔里鎮、草屯鎮、中寮鄉、魚池鄉、國姓鄉、仁愛鄉",
+"county": "10008",
+"area": "01",
+"town": "020",
+"vill": "024",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "馬文君",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "南投縣 第01選區 埔里鎮福興里",
+"area_nickname": "埔里鎮、草屯鎮、中寮鄉、魚池鄉、國姓鄉、仁愛鄉",
+"county": "10008",
+"area": "01",
+"town": "020",
+"vill": "025",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "馬文君",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "南投縣 第01選區 埔里鎮牛眠里",
+"area_nickname": "埔里鎮、草屯鎮、中寮鄉、魚池鄉、國姓鄉、仁愛鄉",
+"county": "10008",
+"area": "01",
+"town": "020",
+"vill": "026",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "馬文君",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "南投縣 第01選區 埔里鎮大湳里",
+"area_nickname": "埔里鎮、草屯鎮、中寮鄉、魚池鄉、國姓鄉、仁愛鄉",
+"county": "10008",
+"area": "01",
+"town": "020",
+"vill": "027",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "馬文君",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "南投縣 第01選區 埔里鎮蜈蚣里",
+"area_nickname": "埔里鎮、草屯鎮、中寮鄉、魚池鄉、國姓鄉、仁愛鄉",
+"county": "10008",
+"area": "01",
+"town": "020",
+"vill": "028",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "馬文君",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "南投縣 第01選區 埔里鎮合成里",
+"area_nickname": "埔里鎮、草屯鎮、中寮鄉、魚池鄉、國姓鄉、仁愛鄉",
+"county": "10008",
+"area": "01",
+"town": "020",
+"vill": "029",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "馬文君",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "南投縣 第01選區 埔里鎮北安里",
+"area_nickname": "埔里鎮、草屯鎮、中寮鄉、魚池鄉、國姓鄉、仁愛鄉",
+"county": "10008",
+"area": "01",
+"town": "020",
+"vill": "030",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "馬文君",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "南投縣 第01選區 埔里鎮杷城里",
+"area_nickname": "埔里鎮、草屯鎮、中寮鄉、魚池鄉、國姓鄉、仁愛鄉",
+"county": "10008",
+"area": "01",
+"town": "020",
+"vill": "031",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "馬文君",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "南投縣 第01選區 埔里鎮北梅里",
+"area_nickname": "埔里鎮、草屯鎮、中寮鄉、魚池鄉、國姓鄉、仁愛鄉",
+"county": "10008",
+"area": "01",
+"town": "020",
+"vill": "032",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "馬文君",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "南投縣 第01選區 埔里鎮泰安里",
+"area_nickname": "埔里鎮、草屯鎮、中寮鄉、魚池鄉、國姓鄉、仁愛鄉",
+"county": "10008",
+"area": "01",
+"town": "020",
+"vill": "033",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "馬文君",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "南投縣 第01選區 草屯鎮玉峰里",
+"area_nickname": "埔里鎮、草屯鎮、中寮鄉、魚池鄉、國姓鄉、仁愛鄉",
+"county": "10008",
+"area": "01",
+"town": "030",
+"vill": "001",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "馬文君",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "南投縣 第01選區 草屯鎮炎峰里",
+"area_nickname": "埔里鎮、草屯鎮、中寮鄉、魚池鄉、國姓鄉、仁愛鄉",
+"county": "10008",
+"area": "01",
+"town": "030",
+"vill": "002",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "馬文君",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "南投縣 第01選區 草屯鎮和平里",
+"area_nickname": "埔里鎮、草屯鎮、中寮鄉、魚池鄉、國姓鄉、仁愛鄉",
+"county": "10008",
+"area": "01",
+"town": "030",
+"vill": "003",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "馬文君",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "南投縣 第01選區 草屯鎮敦和里",
+"area_nickname": "埔里鎮、草屯鎮、中寮鄉、魚池鄉、國姓鄉、仁愛鄉",
+"county": "10008",
+"area": "01",
+"town": "030",
+"vill": "004",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "馬文君",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "南投縣 第01選區 草屯鎮山腳里",
+"area_nickname": "埔里鎮、草屯鎮、中寮鄉、魚池鄉、國姓鄉、仁愛鄉",
+"county": "10008",
+"area": "01",
+"town": "030",
+"vill": "005",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "馬文君",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "南投縣 第01選區 草屯鎮富寮里",
+"area_nickname": "埔里鎮、草屯鎮、中寮鄉、魚池鄉、國姓鄉、仁愛鄉",
+"county": "10008",
+"area": "01",
+"town": "030",
+"vill": "006",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "馬文君",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "南投縣 第01選區 草屯鎮御史里",
+"area_nickname": "埔里鎮、草屯鎮、中寮鄉、魚池鄉、國姓鄉、仁愛鄉",
+"county": "10008",
+"area": "01",
+"town": "030",
+"vill": "007",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "馬文君",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "南投縣 第01選區 草屯鎮新豐里",
+"area_nickname": "埔里鎮、草屯鎮、中寮鄉、魚池鄉、國姓鄉、仁愛鄉",
+"county": "10008",
+"area": "01",
+"town": "030",
+"vill": "008",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "馬文君",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "南投縣 第01選區 草屯鎮碧峰里",
+"area_nickname": "埔里鎮、草屯鎮、中寮鄉、魚池鄉、國姓鄉、仁愛鄉",
+"county": "10008",
+"area": "01",
+"town": "030",
+"vill": "009",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "馬文君",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "南投縣 第01選區 草屯鎮碧洲里",
+"area_nickname": "埔里鎮、草屯鎮、中寮鄉、魚池鄉、國姓鄉、仁愛鄉",
+"county": "10008",
+"area": "01",
+"town": "030",
+"vill": "010",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "馬文君",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "南投縣 第01選區 草屯鎮復興里",
+"area_nickname": "埔里鎮、草屯鎮、中寮鄉、魚池鄉、國姓鄉、仁愛鄉",
+"county": "10008",
+"area": "01",
+"town": "030",
+"vill": "011",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "馬文君",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "南投縣 第01選區 草屯鎮上林里",
+"area_nickname": "埔里鎮、草屯鎮、中寮鄉、魚池鄉、國姓鄉、仁愛鄉",
+"county": "10008",
+"area": "01",
+"town": "030",
+"vill": "012",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "馬文君",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "南投縣 第01選區 草屯鎮新庄里",
+"area_nickname": "埔里鎮、草屯鎮、中寮鄉、魚池鄉、國姓鄉、仁愛鄉",
+"county": "10008",
+"area": "01",
+"town": "030",
+"vill": "013",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "馬文君",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "南投縣 第01選區 草屯鎮北投里",
+"area_nickname": "埔里鎮、草屯鎮、中寮鄉、魚池鄉、國姓鄉、仁愛鄉",
+"county": "10008",
+"area": "01",
+"town": "030",
+"vill": "014",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "馬文君",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "南投縣 第01選區 草屯鎮石川里",
+"area_nickname": "埔里鎮、草屯鎮、中寮鄉、魚池鄉、國姓鄉、仁愛鄉",
+"county": "10008",
+"area": "01",
+"town": "030",
+"vill": "015",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "馬文君",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "南投縣 第01選區 草屯鎮加老里",
+"area_nickname": "埔里鎮、草屯鎮、中寮鄉、魚池鄉、國姓鄉、仁愛鄉",
+"county": "10008",
+"area": "01",
+"town": "030",
+"vill": "016",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "馬文君",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "南投縣 第01選區 草屯鎮北勢里",
+"area_nickname": "埔里鎮、草屯鎮、中寮鄉、魚池鄉、國姓鄉、仁愛鄉",
+"county": "10008",
+"area": "01",
+"town": "030",
+"vill": "017",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "馬文君",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "南投縣 第01選區 草屯鎮中原里",
+"area_nickname": "埔里鎮、草屯鎮、中寮鄉、魚池鄉、國姓鄉、仁愛鄉",
+"county": "10008",
+"area": "01",
+"town": "030",
+"vill": "018",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "馬文君",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "南投縣 第01選區 草屯鎮南埔里",
+"area_nickname": "埔里鎮、草屯鎮、中寮鄉、魚池鄉、國姓鄉、仁愛鄉",
+"county": "10008",
+"area": "01",
+"town": "030",
+"vill": "019",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "馬文君",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "南投縣 第01選區 草屯鎮土城里",
+"area_nickname": "埔里鎮、草屯鎮、中寮鄉、魚池鄉、國姓鄉、仁愛鄉",
+"county": "10008",
+"area": "01",
+"town": "030",
+"vill": "020",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "馬文君",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "南投縣 第01選區 草屯鎮坪頂里",
+"area_nickname": "埔里鎮、草屯鎮、中寮鄉、魚池鄉、國姓鄉、仁愛鄉",
+"county": "10008",
+"area": "01",
+"town": "030",
+"vill": "021",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "馬文君",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "南投縣 第01選區 草屯鎮雙冬里",
+"area_nickname": "埔里鎮、草屯鎮、中寮鄉、魚池鄉、國姓鄉、仁愛鄉",
+"county": "10008",
+"area": "01",
+"town": "030",
+"vill": "022",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "馬文君",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "南投縣 第01選區 草屯鎮平林里",
+"area_nickname": "埔里鎮、草屯鎮、中寮鄉、魚池鄉、國姓鄉、仁愛鄉",
+"county": "10008",
+"area": "01",
+"town": "030",
+"vill": "023",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "馬文君",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "南投縣 第01選區 草屯鎮中正里",
+"area_nickname": "埔里鎮、草屯鎮、中寮鄉、魚池鄉、國姓鄉、仁愛鄉",
+"county": "10008",
+"area": "01",
+"town": "030",
+"vill": "024",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "馬文君",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "南投縣 第01選區 草屯鎮中山里",
+"area_nickname": "埔里鎮、草屯鎮、中寮鄉、魚池鄉、國姓鄉、仁愛鄉",
+"county": "10008",
+"area": "01",
+"town": "030",
+"vill": "025",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "馬文君",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "南投縣 第01選區 草屯鎮明正里",
+"area_nickname": "埔里鎮、草屯鎮、中寮鄉、魚池鄉、國姓鄉、仁愛鄉",
+"county": "10008",
+"area": "01",
+"town": "030",
+"vill": "026",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "馬文君",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "南投縣 第01選區 草屯鎮新厝里",
+"area_nickname": "埔里鎮、草屯鎮、中寮鄉、魚池鄉、國姓鄉、仁愛鄉",
+"county": "10008",
+"area": "01",
+"town": "030",
+"vill": "027",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "馬文君",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "南投縣 第01選區 中寮鄉廣興村",
+"area_nickname": "埔里鎮、草屯鎮、中寮鄉、魚池鄉、國姓鄉、仁愛鄉",
+"county": "10008",
+"area": "01",
+"town": "080",
+"vill": "001",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "馬文君",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "南投縣 第01選區 中寮鄉崁頂村",
+"area_nickname": "埔里鎮、草屯鎮、中寮鄉、魚池鄉、國姓鄉、仁愛鄉",
+"county": "10008",
+"area": "01",
+"town": "080",
+"vill": "002",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "馬文君",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "南投縣 第01選區 中寮鄉八仙村",
+"area_nickname": "埔里鎮、草屯鎮、中寮鄉、魚池鄉、國姓鄉、仁愛鄉",
+"county": "10008",
+"area": "01",
+"town": "080",
+"vill": "003",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "馬文君",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "南投縣 第01選區 中寮鄉和興村",
+"area_nickname": "埔里鎮、草屯鎮、中寮鄉、魚池鄉、國姓鄉、仁愛鄉",
+"county": "10008",
+"area": "01",
+"town": "080",
+"vill": "004",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "馬文君",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "南投縣 第01選區 中寮鄉福盛村",
+"area_nickname": "埔里鎮、草屯鎮、中寮鄉、魚池鄉、國姓鄉、仁愛鄉",
+"county": "10008",
+"area": "01",
+"town": "080",
+"vill": "005",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "馬文君",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "南投縣 第01選區 中寮鄉永平村",
+"area_nickname": "埔里鎮、草屯鎮、中寮鄉、魚池鄉、國姓鄉、仁愛鄉",
+"county": "10008",
+"area": "01",
+"town": "080",
+"vill": "006",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "馬文君",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "南投縣 第01選區 中寮鄉復興村",
+"area_nickname": "埔里鎮、草屯鎮、中寮鄉、魚池鄉、國姓鄉、仁愛鄉",
+"county": "10008",
+"area": "01",
+"town": "080",
+"vill": "007",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "馬文君",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "南投縣 第01選區 中寮鄉中寮村",
+"area_nickname": "埔里鎮、草屯鎮、中寮鄉、魚池鄉、國姓鄉、仁愛鄉",
+"county": "10008",
+"area": "01",
+"town": "080",
+"vill": "008",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "馬文君",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "南投縣 第01選區 中寮鄉廣福村",
+"area_nickname": "埔里鎮、草屯鎮、中寮鄉、魚池鄉、國姓鄉、仁愛鄉",
+"county": "10008",
+"area": "01",
+"town": "080",
+"vill": "009",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "馬文君",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "南投縣 第01選區 中寮鄉永福村",
+"area_nickname": "埔里鎮、草屯鎮、中寮鄉、魚池鄉、國姓鄉、仁愛鄉",
+"county": "10008",
+"area": "01",
+"town": "080",
+"vill": "010",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "馬文君",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "南投縣 第01選區 中寮鄉義和村",
+"area_nickname": "埔里鎮、草屯鎮、中寮鄉、魚池鄉、國姓鄉、仁愛鄉",
+"county": "10008",
+"area": "01",
+"town": "080",
+"vill": "011",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "馬文君",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "南投縣 第01選區 中寮鄉清水村",
+"area_nickname": "埔里鎮、草屯鎮、中寮鄉、魚池鄉、國姓鄉、仁愛鄉",
+"county": "10008",
+"area": "01",
+"town": "080",
+"vill": "012",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "馬文君",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "南投縣 第01選區 中寮鄉龍安村",
+"area_nickname": "埔里鎮、草屯鎮、中寮鄉、魚池鄉、國姓鄉、仁愛鄉",
+"county": "10008",
+"area": "01",
+"town": "080",
+"vill": "013",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "馬文君",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "南投縣 第01選區 中寮鄉龍岩村",
+"area_nickname": "埔里鎮、草屯鎮、中寮鄉、魚池鄉、國姓鄉、仁愛鄉",
+"county": "10008",
+"area": "01",
+"town": "080",
+"vill": "014",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "馬文君",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "南投縣 第01選區 中寮鄉永和村",
+"area_nickname": "埔里鎮、草屯鎮、中寮鄉、魚池鄉、國姓鄉、仁愛鄉",
+"county": "10008",
+"area": "01",
+"town": "080",
+"vill": "015",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "馬文君",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "南投縣 第01選區 中寮鄉內城村",
+"area_nickname": "埔里鎮、草屯鎮、中寮鄉、魚池鄉、國姓鄉、仁愛鄉",
+"county": "10008",
+"area": "01",
+"town": "080",
+"vill": "016",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "馬文君",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "南投縣 第01選區 中寮鄉永芳村",
+"area_nickname": "埔里鎮、草屯鎮、中寮鄉、魚池鄉、國姓鄉、仁愛鄉",
+"county": "10008",
+"area": "01",
+"town": "080",
+"vill": "017",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "馬文君",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "南投縣 第01選區 中寮鄉爽文村",
+"area_nickname": "埔里鎮、草屯鎮、中寮鄉、魚池鄉、國姓鄉、仁愛鄉",
+"county": "10008",
+"area": "01",
+"town": "080",
+"vill": "018",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "馬文君",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "南投縣 第01選區 魚池鄉東池村",
+"area_nickname": "埔里鎮、草屯鎮、中寮鄉、魚池鄉、國姓鄉、仁愛鄉",
+"county": "10008",
+"area": "01",
+"town": "090",
+"vill": "001",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "馬文君",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "南投縣 第01選區 魚池鄉魚池村",
+"area_nickname": "埔里鎮、草屯鎮、中寮鄉、魚池鄉、國姓鄉、仁愛鄉",
+"county": "10008",
+"area": "01",
+"town": "090",
+"vill": "002",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "馬文君",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "南投縣 第01選區 魚池鄉中明村",
+"area_nickname": "埔里鎮、草屯鎮、中寮鄉、魚池鄉、國姓鄉、仁愛鄉",
+"county": "10008",
+"area": "01",
+"town": "090",
+"vill": "003",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "馬文君",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "南投縣 第01選區 魚池鄉新城村",
+"area_nickname": "埔里鎮、草屯鎮、中寮鄉、魚池鄉、國姓鄉、仁愛鄉",
+"county": "10008",
+"area": "01",
+"town": "090",
+"vill": "004",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "馬文君",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "南投縣 第01選區 魚池鄉大林村",
+"area_nickname": "埔里鎮、草屯鎮、中寮鄉、魚池鄉、國姓鄉、仁愛鄉",
+"county": "10008",
+"area": "01",
+"town": "090",
+"vill": "005",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "馬文君",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "南投縣 第01選區 魚池鄉東光村",
+"area_nickname": "埔里鎮、草屯鎮、中寮鄉、魚池鄉、國姓鄉、仁愛鄉",
+"county": "10008",
+"area": "01",
+"town": "090",
+"vill": "006",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "馬文君",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "南投縣 第01選區 魚池鄉共和村",
+"area_nickname": "埔里鎮、草屯鎮、中寮鄉、魚池鄉、國姓鄉、仁愛鄉",
+"county": "10008",
+"area": "01",
+"town": "090",
+"vill": "007",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "馬文君",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "南投縣 第01選區 魚池鄉大雁村",
+"area_nickname": "埔里鎮、草屯鎮、中寮鄉、魚池鄉、國姓鄉、仁愛鄉",
+"county": "10008",
+"area": "01",
+"town": "090",
+"vill": "008",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "馬文君",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "南投縣 第01選區 魚池鄉五城村",
+"area_nickname": "埔里鎮、草屯鎮、中寮鄉、魚池鄉、國姓鄉、仁愛鄉",
+"county": "10008",
+"area": "01",
+"town": "090",
+"vill": "009",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "馬文君",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "南投縣 第01選區 魚池鄉水社村",
+"area_nickname": "埔里鎮、草屯鎮、中寮鄉、魚池鄉、國姓鄉、仁愛鄉",
+"county": "10008",
+"area": "01",
+"town": "090",
+"vill": "010",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "馬文君",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "南投縣 第01選區 魚池鄉頭社村",
+"area_nickname": "埔里鎮、草屯鎮、中寮鄉、魚池鄉、國姓鄉、仁愛鄉",
+"county": "10008",
+"area": "01",
+"town": "090",
+"vill": "011",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "馬文君",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "南投縣 第01選區 魚池鄉武登村",
+"area_nickname": "埔里鎮、草屯鎮、中寮鄉、魚池鄉、國姓鄉、仁愛鄉",
+"county": "10008",
+"area": "01",
+"town": "090",
+"vill": "012",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "馬文君",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "南投縣 第01選區 魚池鄉日月村",
+"area_nickname": "埔里鎮、草屯鎮、中寮鄉、魚池鄉、國姓鄉、仁愛鄉",
+"county": "10008",
+"area": "01",
+"town": "090",
+"vill": "013",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "馬文君",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "南投縣 第01選區 國姓鄉國姓村",
+"area_nickname": "埔里鎮、草屯鎮、中寮鄉、魚池鄉、國姓鄉、仁愛鄉",
+"county": "10008",
+"area": "01",
+"town": "100",
+"vill": "001",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "馬文君",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "南投縣 第01選區 國姓鄉石門村",
+"area_nickname": "埔里鎮、草屯鎮、中寮鄉、魚池鄉、國姓鄉、仁愛鄉",
+"county": "10008",
+"area": "01",
+"town": "100",
+"vill": "002",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "馬文君",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "南投縣 第01選區 國姓鄉大旗村",
+"area_nickname": "埔里鎮、草屯鎮、中寮鄉、魚池鄉、國姓鄉、仁愛鄉",
+"county": "10008",
+"area": "01",
+"town": "100",
+"vill": "003",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "馬文君",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "南投縣 第01選區 國姓鄉北港村",
+"area_nickname": "埔里鎮、草屯鎮、中寮鄉、魚池鄉、國姓鄉、仁愛鄉",
+"county": "10008",
+"area": "01",
+"town": "100",
+"vill": "004",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "馬文君",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "南投縣 第01選區 國姓鄉長流村",
+"area_nickname": "埔里鎮、草屯鎮、中寮鄉、魚池鄉、國姓鄉、仁愛鄉",
+"county": "10008",
+"area": "01",
+"town": "100",
+"vill": "005",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "馬文君",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "南投縣 第01選區 國姓鄉長福村",
+"area_nickname": "埔里鎮、草屯鎮、中寮鄉、魚池鄉、國姓鄉、仁愛鄉",
+"county": "10008",
+"area": "01",
+"town": "100",
+"vill": "006",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "馬文君",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "南投縣 第01選區 國姓鄉福龜村",
+"area_nickname": "埔里鎮、草屯鎮、中寮鄉、魚池鄉、國姓鄉、仁愛鄉",
+"county": "10008",
+"area": "01",
+"town": "100",
+"vill": "007",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "馬文君",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "南投縣 第01選區 國姓鄉乾溝村",
+"area_nickname": "埔里鎮、草屯鎮、中寮鄉、魚池鄉、國姓鄉、仁愛鄉",
+"county": "10008",
+"area": "01",
+"town": "100",
+"vill": "008",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "馬文君",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "南投縣 第01選區 國姓鄉柑林村",
+"area_nickname": "埔里鎮、草屯鎮、中寮鄉、魚池鄉、國姓鄉、仁愛鄉",
+"county": "10008",
+"area": "01",
+"town": "100",
+"vill": "009",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "馬文君",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "南投縣 第01選區 國姓鄉北山村",
+"area_nickname": "埔里鎮、草屯鎮、中寮鄉、魚池鄉、國姓鄉、仁愛鄉",
+"county": "10008",
+"area": "01",
+"town": "100",
+"vill": "010",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "馬文君",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "南投縣 第01選區 國姓鄉南港村",
+"area_nickname": "埔里鎮、草屯鎮、中寮鄉、魚池鄉、國姓鄉、仁愛鄉",
+"county": "10008",
+"area": "01",
+"town": "100",
+"vill": "011",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "馬文君",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "南投縣 第01選區 國姓鄉大石村",
+"area_nickname": "埔里鎮、草屯鎮、中寮鄉、魚池鄉、國姓鄉、仁愛鄉",
+"county": "10008",
+"area": "01",
+"town": "100",
+"vill": "012",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "馬文君",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "南投縣 第01選區 國姓鄉長豐村",
+"area_nickname": "埔里鎮、草屯鎮、中寮鄉、魚池鄉、國姓鄉、仁愛鄉",
+"county": "10008",
+"area": "01",
+"town": "100",
+"vill": "013",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "馬文君",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "南投縣 第01選區 仁愛鄉法治村",
+"area_nickname": "埔里鎮、草屯鎮、中寮鄉、魚池鄉、國姓鄉、仁愛鄉",
+"county": "10008",
+"area": "01",
+"town": "130",
+"vill": "001",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "馬文君",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "南投縣 第01選區 仁愛鄉中正村",
+"area_nickname": "埔里鎮、草屯鎮、中寮鄉、魚池鄉、國姓鄉、仁愛鄉",
+"county": "10008",
+"area": "01",
+"town": "130",
+"vill": "002",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "馬文君",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "南投縣 第01選區 仁愛鄉互助村",
+"area_nickname": "埔里鎮、草屯鎮、中寮鄉、魚池鄉、國姓鄉、仁愛鄉",
+"county": "10008",
+"area": "01",
+"town": "130",
+"vill": "003",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "馬文君",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "南投縣 第01選區 仁愛鄉新生村",
+"area_nickname": "埔里鎮、草屯鎮、中寮鄉、魚池鄉、國姓鄉、仁愛鄉",
+"county": "10008",
+"area": "01",
+"town": "130",
+"vill": "004",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "馬文君",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "南投縣 第01選區 仁愛鄉力行村",
+"area_nickname": "埔里鎮、草屯鎮、中寮鄉、魚池鄉、國姓鄉、仁愛鄉",
+"county": "10008",
+"area": "01",
+"town": "130",
+"vill": "005",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "馬文君",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "南投縣 第01選區 仁愛鄉發祥村",
+"area_nickname": "埔里鎮、草屯鎮、中寮鄉、魚池鄉、國姓鄉、仁愛鄉",
+"county": "10008",
+"area": "01",
+"town": "130",
+"vill": "006",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "馬文君",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "南投縣 第01選區 仁愛鄉親愛村",
+"area_nickname": "埔里鎮、草屯鎮、中寮鄉、魚池鄉、國姓鄉、仁愛鄉",
+"county": "10008",
+"area": "01",
+"town": "130",
+"vill": "008",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "馬文君",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "南投縣 第01選區 仁愛鄉大同村",
+"area_nickname": "埔里鎮、草屯鎮、中寮鄉、魚池鄉、國姓鄉、仁愛鄉",
+"county": "10008",
+"area": "01",
+"town": "130",
+"vill": "009",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "馬文君",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "南投縣 第01選區 仁愛鄉南豐村",
+"area_nickname": "埔里鎮、草屯鎮、中寮鄉、魚池鄉、國姓鄉、仁愛鄉",
+"county": "10008",
+"area": "01",
+"town": "130",
+"vill": "010",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "馬文君",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "南投縣 第01選區 仁愛鄉春陽村",
+"area_nickname": "埔里鎮、草屯鎮、中寮鄉、魚池鄉、國姓鄉、仁愛鄉",
+"county": "10008",
+"area": "01",
+"town": "130",
+"vill": "011",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "馬文君",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "南投縣 第01選區 仁愛鄉精英村",
+"area_nickname": "埔里鎮、草屯鎮、中寮鄉、魚池鄉、國姓鄉、仁愛鄉",
+"county": "10008",
+"area": "01",
+"town": "130",
+"vill": "012",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "馬文君",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "南投縣 第01選區 仁愛鄉萬豐村",
+"area_nickname": "埔里鎮、草屯鎮、中寮鄉、魚池鄉、國姓鄉、仁愛鄉",
+"county": "10008",
+"area": "01",
+"town": "130",
+"vill": "013",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "馬文君",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "南投縣 第01選區 仁愛鄉榮興村",
+"area_nickname": "埔里鎮、草屯鎮、中寮鄉、魚池鄉、國姓鄉、仁愛鄉",
+"county": "10008",
+"area": "01",
+"town": "130",
+"vill": "014",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "馬文君",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "南投縣 第01選區 仁愛鄉翠華村",
+"area_nickname": "埔里鎮、草屯鎮、中寮鄉、魚池鄉、國姓鄉、仁愛鄉",
+"county": "10008",
+"area": "01",
+"town": "130",
+"vill": "015",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "馬文君",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "南投縣 第01選區 仁愛鄉都達村",
+"area_nickname": "埔里鎮、草屯鎮、中寮鄉、魚池鄉、國姓鄉、仁愛鄉",
+"county": "10008",
+"area": "01",
+"town": "130",
+"vill": "016",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "馬文君",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "南投縣 第01選區 仁愛鄉德鹿谷村",
+"area_nickname": "埔里鎮、草屯鎮、中寮鄉、魚池鄉、國姓鄉、仁愛鄉",
+"county": "10008",
+"area": "01",
+"town": "130",
+"vill": "017",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "馬文君",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+} 
+] 
+}

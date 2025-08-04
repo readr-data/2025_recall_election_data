@@ -1,0 +1,2023 @@
+{
+ "updatedAt": "2025-07-10 10:33:00",
+"is_running": false,
+"is_started": true,
+"districts": [
+ {
+ "range": "新竹縣 第02選區 竹北市斗崙里",
+"area_nickname": "竹北市*、竹東鎮、橫山鄉、北埔鄉、寶山鄉、峨眉鄉、五峰鄉",
+"county": "10004",
+"area": "02",
+"town": "010",
+"vill": "001",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "林思銘",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "新竹縣 第02選區 竹北市鹿場里",
+"area_nickname": "竹北市*、竹東鎮、橫山鄉、北埔鄉、寶山鄉、峨眉鄉、五峰鄉",
+"county": "10004",
+"area": "02",
+"town": "010",
+"vill": "002",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "林思銘",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "新竹縣 第02選區 竹北市東平里",
+"area_nickname": "竹北市*、竹東鎮、橫山鄉、北埔鄉、寶山鄉、峨眉鄉、五峰鄉",
+"county": "10004",
+"area": "02",
+"town": "010",
+"vill": "003",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "林思銘",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "新竹縣 第02選區 竹北市中興里",
+"area_nickname": "竹北市*、竹東鎮、橫山鄉、北埔鄉、寶山鄉、峨眉鄉、五峰鄉",
+"county": "10004",
+"area": "02",
+"town": "010",
+"vill": "004",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "林思銘",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "新竹縣 第02選區 竹北市隘口里",
+"area_nickname": "竹北市*、竹東鎮、橫山鄉、北埔鄉、寶山鄉、峨眉鄉、五峰鄉",
+"county": "10004",
+"area": "02",
+"town": "010",
+"vill": "005",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "林思銘",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "新竹縣 第02選區 竹北市東海里",
+"area_nickname": "竹北市*、竹東鎮、橫山鄉、北埔鄉、寶山鄉、峨眉鄉、五峰鄉",
+"county": "10004",
+"area": "02",
+"town": "010",
+"vill": "006",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "林思銘",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "新竹縣 第02選區 竹北市竹北里",
+"area_nickname": "竹北市*、竹東鎮、橫山鄉、北埔鄉、寶山鄉、峨眉鄉、五峰鄉",
+"county": "10004",
+"area": "02",
+"town": "010",
+"vill": "007",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "林思銘",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "新竹縣 第02選區 竹北市竹仁里",
+"area_nickname": "竹北市*、竹東鎮、橫山鄉、北埔鄉、寶山鄉、峨眉鄉、五峰鄉",
+"county": "10004",
+"area": "02",
+"town": "010",
+"vill": "008",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "林思銘",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "新竹縣 第02選區 竹北市竹義里",
+"area_nickname": "竹北市*、竹東鎮、橫山鄉、北埔鄉、寶山鄉、峨眉鄉、五峰鄉",
+"county": "10004",
+"area": "02",
+"town": "010",
+"vill": "009",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "林思銘",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "新竹縣 第02選區 竹北市泰和里",
+"area_nickname": "竹北市*、竹東鎮、橫山鄉、北埔鄉、寶山鄉、峨眉鄉、五峰鄉",
+"county": "10004",
+"area": "02",
+"town": "010",
+"vill": "010",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "林思銘",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "新竹縣 第02選區 竹北市十興里",
+"area_nickname": "竹北市*、竹東鎮、橫山鄉、北埔鄉、寶山鄉、峨眉鄉、五峰鄉",
+"county": "10004",
+"area": "02",
+"town": "010",
+"vill": "021",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "林思銘",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "新竹縣 第02選區 竹北市北崙里",
+"area_nickname": "竹北市*、竹東鎮、橫山鄉、北埔鄉、寶山鄉、峨眉鄉、五峰鄉",
+"county": "10004",
+"area": "02",
+"town": "010",
+"vill": "024",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "林思銘",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "新竹縣 第02選區 竹北市新崙里",
+"area_nickname": "竹北市*、竹東鎮、橫山鄉、北埔鄉、寶山鄉、峨眉鄉、五峰鄉",
+"county": "10004",
+"area": "02",
+"town": "010",
+"vill": "025",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "林思銘",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "新竹縣 第02選區 竹北市福德里",
+"area_nickname": "竹北市*、竹東鎮、橫山鄉、北埔鄉、寶山鄉、峨眉鄉、五峰鄉",
+"county": "10004",
+"area": "02",
+"town": "010",
+"vill": "026",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "林思銘",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "新竹縣 第02選區 竹北市東興里",
+"area_nickname": "竹北市*、竹東鎮、橫山鄉、北埔鄉、寶山鄉、峨眉鄉、五峰鄉",
+"county": "10004",
+"area": "02",
+"town": "010",
+"vill": "027",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "林思銘",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "新竹縣 第02選區 竹北市北興里",
+"area_nickname": "竹北市*、竹東鎮、橫山鄉、北埔鄉、寶山鄉、峨眉鄉、五峰鄉",
+"county": "10004",
+"area": "02",
+"town": "010",
+"vill": "028",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "林思銘",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "新竹縣 第02選區 竹北市興安里",
+"area_nickname": "竹北市*、竹東鎮、橫山鄉、北埔鄉、寶山鄉、峨眉鄉、五峰鄉",
+"county": "10004",
+"area": "02",
+"town": "010",
+"vill": "029",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "林思銘",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "新竹縣 第02選區 竹北市文化里",
+"area_nickname": "竹北市*、竹東鎮、橫山鄉、北埔鄉、寶山鄉、峨眉鄉、五峰鄉",
+"county": "10004",
+"area": "02",
+"town": "010",
+"vill": "030",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "林思銘",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "新竹縣 第02選區 竹北市中崙里",
+"area_nickname": "竹北市*、竹東鎮、橫山鄉、北埔鄉、寶山鄉、峨眉鄉、五峰鄉",
+"county": "10004",
+"area": "02",
+"town": "010",
+"vill": "031",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "林思銘",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "新竹縣 第02選區 竹東鎮上坪里",
+"area_nickname": "竹北市*、竹東鎮、橫山鄉、北埔鄉、寶山鄉、峨眉鄉、五峰鄉",
+"county": "10004",
+"area": "02",
+"town": "020",
+"vill": "001",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "林思銘",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "新竹縣 第02選區 竹東鎮瑞峰里",
+"area_nickname": "竹北市*、竹東鎮、橫山鄉、北埔鄉、寶山鄉、峨眉鄉、五峰鄉",
+"county": "10004",
+"area": "02",
+"town": "020",
+"vill": "002",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "林思銘",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "新竹縣 第02選區 竹東鎮軟橋里",
+"area_nickname": "竹北市*、竹東鎮、橫山鄉、北埔鄉、寶山鄉、峨眉鄉、五峰鄉",
+"county": "10004",
+"area": "02",
+"town": "020",
+"vill": "003",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "林思銘",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "新竹縣 第02選區 竹東鎮員崠里",
+"area_nickname": "竹北市*、竹東鎮、橫山鄉、北埔鄉、寶山鄉、峨眉鄉、五峰鄉",
+"county": "10004",
+"area": "02",
+"town": "020",
+"vill": "004",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "林思銘",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "新竹縣 第02選區 竹東鎮東寧里",
+"area_nickname": "竹北市*、竹東鎮、橫山鄉、北埔鄉、寶山鄉、峨眉鄉、五峰鄉",
+"county": "10004",
+"area": "02",
+"town": "020",
+"vill": "005",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "林思銘",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "新竹縣 第02選區 竹東鎮上舘里",
+"area_nickname": "竹北市*、竹東鎮、橫山鄉、北埔鄉、寶山鄉、峨眉鄉、五峰鄉",
+"county": "10004",
+"area": "02",
+"town": "020",
+"vill": "006",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "林思銘",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "新竹縣 第02選區 竹東鎮大鄉里",
+"area_nickname": "竹北市*、竹東鎮、橫山鄉、北埔鄉、寶山鄉、峨眉鄉、五峰鄉",
+"county": "10004",
+"area": "02",
+"town": "020",
+"vill": "007",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "林思銘",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "新竹縣 第02選區 竹東鎮東華里",
+"area_nickname": "竹北市*、竹東鎮、橫山鄉、北埔鄉、寶山鄉、峨眉鄉、五峰鄉",
+"county": "10004",
+"area": "02",
+"town": "020",
+"vill": "008",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "林思銘",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "新竹縣 第02選區 竹東鎮商華里",
+"area_nickname": "竹北市*、竹東鎮、橫山鄉、北埔鄉、寶山鄉、峨眉鄉、五峰鄉",
+"county": "10004",
+"area": "02",
+"town": "020",
+"vill": "009",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "林思銘",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "新竹縣 第02選區 竹東鎮竹東里",
+"area_nickname": "竹北市*、竹東鎮、橫山鄉、北埔鄉、寶山鄉、峨眉鄉、五峰鄉",
+"county": "10004",
+"area": "02",
+"town": "020",
+"vill": "010",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "林思銘",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "新竹縣 第02選區 竹東鎮榮樂里",
+"area_nickname": "竹北市*、竹東鎮、橫山鄉、北埔鄉、寶山鄉、峨眉鄉、五峰鄉",
+"county": "10004",
+"area": "02",
+"town": "020",
+"vill": "011",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "林思銘",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "新竹縣 第02選區 竹東鎮鷄林里",
+"area_nickname": "竹北市*、竹東鎮、橫山鄉、北埔鄉、寶山鄉、峨眉鄉、五峰鄉",
+"county": "10004",
+"area": "02",
+"town": "020",
+"vill": "012",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "林思銘",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "新竹縣 第02選區 竹東鎮仁愛里",
+"area_nickname": "竹北市*、竹東鎮、橫山鄉、北埔鄉、寶山鄉、峨眉鄉、五峰鄉",
+"county": "10004",
+"area": "02",
+"town": "020",
+"vill": "013",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "林思銘",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "新竹縣 第02選區 竹東鎮五豐里",
+"area_nickname": "竹北市*、竹東鎮、橫山鄉、北埔鄉、寶山鄉、峨眉鄉、五峰鄉",
+"county": "10004",
+"area": "02",
+"town": "020",
+"vill": "014",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "林思銘",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "新竹縣 第02選區 竹東鎮三重里",
+"area_nickname": "竹北市*、竹東鎮、橫山鄉、北埔鄉、寶山鄉、峨眉鄉、五峰鄉",
+"county": "10004",
+"area": "02",
+"town": "020",
+"vill": "015",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "林思銘",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "新竹縣 第02選區 竹東鎮頭重里",
+"area_nickname": "竹北市*、竹東鎮、橫山鄉、北埔鄉、寶山鄉、峨眉鄉、五峰鄉",
+"county": "10004",
+"area": "02",
+"town": "020",
+"vill": "016",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "林思銘",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "新竹縣 第02選區 竹東鎮員山里",
+"area_nickname": "竹北市*、竹東鎮、橫山鄉、北埔鄉、寶山鄉、峨眉鄉、五峰鄉",
+"county": "10004",
+"area": "02",
+"town": "020",
+"vill": "017",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "林思銘",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "新竹縣 第02選區 竹東鎮柯湖里",
+"area_nickname": "竹北市*、竹東鎮、橫山鄉、北埔鄉、寶山鄉、峨眉鄉、五峰鄉",
+"county": "10004",
+"area": "02",
+"town": "020",
+"vill": "018",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "林思銘",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "新竹縣 第02選區 竹東鎮二重里",
+"area_nickname": "竹北市*、竹東鎮、橫山鄉、北埔鄉、寶山鄉、峨眉鄉、五峰鄉",
+"county": "10004",
+"area": "02",
+"town": "020",
+"vill": "019",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "林思銘",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "新竹縣 第02選區 竹東鎮中山里",
+"area_nickname": "竹北市*、竹東鎮、橫山鄉、北埔鄉、寶山鄉、峨眉鄉、五峰鄉",
+"county": "10004",
+"area": "02",
+"town": "020",
+"vill": "020",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "林思銘",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "新竹縣 第02選區 竹東鎮中正里",
+"area_nickname": "竹北市*、竹東鎮、橫山鄉、北埔鄉、寶山鄉、峨眉鄉、五峰鄉",
+"county": "10004",
+"area": "02",
+"town": "020",
+"vill": "021",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "林思銘",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "新竹縣 第02選區 竹東鎮南華里",
+"area_nickname": "竹北市*、竹東鎮、橫山鄉、北埔鄉、寶山鄉、峨眉鄉、五峰鄉",
+"county": "10004",
+"area": "02",
+"town": "020",
+"vill": "022",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "林思銘",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "新竹縣 第02選區 竹東鎮榮華里",
+"area_nickname": "竹北市*、竹東鎮、橫山鄉、北埔鄉、寶山鄉、峨眉鄉、五峰鄉",
+"county": "10004",
+"area": "02",
+"town": "020",
+"vill": "023",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "林思銘",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "新竹縣 第02選區 竹東鎮忠孝里",
+"area_nickname": "竹北市*、竹東鎮、橫山鄉、北埔鄉、寶山鄉、峨眉鄉、五峰鄉",
+"county": "10004",
+"area": "02",
+"town": "020",
+"vill": "024",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "林思銘",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "新竹縣 第02選區 竹東鎮陸豐里",
+"area_nickname": "竹北市*、竹東鎮、橫山鄉、北埔鄉、寶山鄉、峨眉鄉、五峰鄉",
+"county": "10004",
+"area": "02",
+"town": "020",
+"vill": "025",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "林思銘",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "新竹縣 第02選區 橫山鄉橫山村",
+"area_nickname": "竹北市*、竹東鎮、橫山鄉、北埔鄉、寶山鄉、峨眉鄉、五峰鄉",
+"county": "10004",
+"area": "02",
+"town": "080",
+"vill": "001",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "林思銘",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "新竹縣 第02選區 橫山鄉田寮村",
+"area_nickname": "竹北市*、竹東鎮、橫山鄉、北埔鄉、寶山鄉、峨眉鄉、五峰鄉",
+"county": "10004",
+"area": "02",
+"town": "080",
+"vill": "002",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "林思銘",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "新竹縣 第02選區 橫山鄉南昌村",
+"area_nickname": "竹北市*、竹東鎮、橫山鄉、北埔鄉、寶山鄉、峨眉鄉、五峰鄉",
+"county": "10004",
+"area": "02",
+"town": "080",
+"vill": "003",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "林思銘",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "新竹縣 第02選區 橫山鄉豐鄉村",
+"area_nickname": "竹北市*、竹東鎮、橫山鄉、北埔鄉、寶山鄉、峨眉鄉、五峰鄉",
+"county": "10004",
+"area": "02",
+"town": "080",
+"vill": "004",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "林思銘",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "新竹縣 第02選區 橫山鄉豐田村",
+"area_nickname": "竹北市*、竹東鎮、橫山鄉、北埔鄉、寶山鄉、峨眉鄉、五峰鄉",
+"county": "10004",
+"area": "02",
+"town": "080",
+"vill": "005",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "林思銘",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "新竹縣 第02選區 橫山鄉內灣村",
+"area_nickname": "竹北市*、竹東鎮、橫山鄉、北埔鄉、寶山鄉、峨眉鄉、五峰鄉",
+"county": "10004",
+"area": "02",
+"town": "080",
+"vill": "006",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "林思銘",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "新竹縣 第02選區 橫山鄉福興村",
+"area_nickname": "竹北市*、竹東鎮、橫山鄉、北埔鄉、寶山鄉、峨眉鄉、五峰鄉",
+"county": "10004",
+"area": "02",
+"town": "080",
+"vill": "007",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "林思銘",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "新竹縣 第02選區 橫山鄉沙坑村",
+"area_nickname": "竹北市*、竹東鎮、橫山鄉、北埔鄉、寶山鄉、峨眉鄉、五峰鄉",
+"county": "10004",
+"area": "02",
+"town": "080",
+"vill": "008",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "林思銘",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "新竹縣 第02選區 橫山鄉新興村",
+"area_nickname": "竹北市*、竹東鎮、橫山鄉、北埔鄉、寶山鄉、峨眉鄉、五峰鄉",
+"county": "10004",
+"area": "02",
+"town": "080",
+"vill": "009",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "林思銘",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "新竹縣 第02選區 橫山鄉大肚村",
+"area_nickname": "竹北市*、竹東鎮、橫山鄉、北埔鄉、寶山鄉、峨眉鄉、五峰鄉",
+"county": "10004",
+"area": "02",
+"town": "080",
+"vill": "010",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "林思銘",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "新竹縣 第02選區 橫山鄉力行村",
+"area_nickname": "竹北市*、竹東鎮、橫山鄉、北埔鄉、寶山鄉、峨眉鄉、五峰鄉",
+"county": "10004",
+"area": "02",
+"town": "080",
+"vill": "011",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "林思銘",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "新竹縣 第02選區 北埔鄉北埔村",
+"area_nickname": "竹北市*、竹東鎮、橫山鄉、北埔鄉、寶山鄉、峨眉鄉、五峰鄉",
+"county": "10004",
+"area": "02",
+"town": "090",
+"vill": "001",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "林思銘",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "新竹縣 第02選區 北埔鄉南興村",
+"area_nickname": "竹北市*、竹東鎮、橫山鄉、北埔鄉、寶山鄉、峨眉鄉、五峰鄉",
+"county": "10004",
+"area": "02",
+"town": "090",
+"vill": "002",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "林思銘",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "新竹縣 第02選區 北埔鄉埔尾村",
+"area_nickname": "竹北市*、竹東鎮、橫山鄉、北埔鄉、寶山鄉、峨眉鄉、五峰鄉",
+"county": "10004",
+"area": "02",
+"town": "090",
+"vill": "003",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "林思銘",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "新竹縣 第02選區 北埔鄉水磜村",
+"area_nickname": "竹北市*、竹東鎮、橫山鄉、北埔鄉、寶山鄉、峨眉鄉、五峰鄉",
+"county": "10004",
+"area": "02",
+"town": "090",
+"vill": "004",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "林思銘",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "新竹縣 第02選區 北埔鄉南埔村",
+"area_nickname": "竹北市*、竹東鎮、橫山鄉、北埔鄉、寶山鄉、峨眉鄉、五峰鄉",
+"county": "10004",
+"area": "02",
+"town": "090",
+"vill": "005",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "林思銘",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "新竹縣 第02選區 北埔鄉大林村",
+"area_nickname": "竹北市*、竹東鎮、橫山鄉、北埔鄉、寶山鄉、峨眉鄉、五峰鄉",
+"county": "10004",
+"area": "02",
+"town": "090",
+"vill": "006",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "林思銘",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "新竹縣 第02選區 北埔鄉大湖村",
+"area_nickname": "竹北市*、竹東鎮、橫山鄉、北埔鄉、寶山鄉、峨眉鄉、五峰鄉",
+"county": "10004",
+"area": "02",
+"town": "090",
+"vill": "007",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "林思銘",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "新竹縣 第02選區 北埔鄉南坑村",
+"area_nickname": "竹北市*、竹東鎮、橫山鄉、北埔鄉、寶山鄉、峨眉鄉、五峰鄉",
+"county": "10004",
+"area": "02",
+"town": "090",
+"vill": "008",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "林思銘",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "新竹縣 第02選區 北埔鄉外坪村",
+"area_nickname": "竹北市*、竹東鎮、橫山鄉、北埔鄉、寶山鄉、峨眉鄉、五峰鄉",
+"county": "10004",
+"area": "02",
+"town": "090",
+"vill": "009",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "林思銘",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "新竹縣 第02選區 寶山鄉雙溪村",
+"area_nickname": "竹北市*、竹東鎮、橫山鄉、北埔鄉、寶山鄉、峨眉鄉、五峰鄉",
+"county": "10004",
+"area": "02",
+"town": "100",
+"vill": "001",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "林思銘",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "新竹縣 第02選區 寶山鄉大崎村",
+"area_nickname": "竹北市*、竹東鎮、橫山鄉、北埔鄉、寶山鄉、峨眉鄉、五峰鄉",
+"county": "10004",
+"area": "02",
+"town": "100",
+"vill": "002",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "林思銘",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "新竹縣 第02選區 寶山鄉三峰村",
+"area_nickname": "竹北市*、竹東鎮、橫山鄉、北埔鄉、寶山鄉、峨眉鄉、五峰鄉",
+"county": "10004",
+"area": "02",
+"town": "100",
+"vill": "003",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "林思銘",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "新竹縣 第02選區 寶山鄉新城村",
+"area_nickname": "竹北市*、竹東鎮、橫山鄉、北埔鄉、寶山鄉、峨眉鄉、五峰鄉",
+"county": "10004",
+"area": "02",
+"town": "100",
+"vill": "004",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "林思銘",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "新竹縣 第02選區 寶山鄉深井村",
+"area_nickname": "竹北市*、竹東鎮、橫山鄉、北埔鄉、寶山鄉、峨眉鄉、五峰鄉",
+"county": "10004",
+"area": "02",
+"town": "100",
+"vill": "005",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "林思銘",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "新竹縣 第02選區 寶山鄉寶斗村",
+"area_nickname": "竹北市*、竹東鎮、橫山鄉、北埔鄉、寶山鄉、峨眉鄉、五峰鄉",
+"county": "10004",
+"area": "02",
+"town": "100",
+"vill": "006",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "林思銘",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "新竹縣 第02選區 寶山鄉山湖村",
+"area_nickname": "竹北市*、竹東鎮、橫山鄉、北埔鄉、寶山鄉、峨眉鄉、五峰鄉",
+"county": "10004",
+"area": "02",
+"town": "100",
+"vill": "007",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "林思銘",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "新竹縣 第02選區 寶山鄉寶山村",
+"area_nickname": "竹北市*、竹東鎮、橫山鄉、北埔鄉、寶山鄉、峨眉鄉、五峰鄉",
+"county": "10004",
+"area": "02",
+"town": "100",
+"vill": "008",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "林思銘",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "新竹縣 第02選區 寶山鄉油田村",
+"area_nickname": "竹北市*、竹東鎮、橫山鄉、北埔鄉、寶山鄉、峨眉鄉、五峰鄉",
+"county": "10004",
+"area": "02",
+"town": "100",
+"vill": "009",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "林思銘",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "新竹縣 第02選區 寶山鄉雙新村",
+"area_nickname": "竹北市*、竹東鎮、橫山鄉、北埔鄉、寶山鄉、峨眉鄉、五峰鄉",
+"county": "10004",
+"area": "02",
+"town": "100",
+"vill": "010",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "林思銘",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "新竹縣 第02選區 峨眉鄉峨眉村",
+"area_nickname": "竹北市*、竹東鎮、橫山鄉、北埔鄉、寶山鄉、峨眉鄉、五峰鄉",
+"county": "10004",
+"area": "02",
+"town": "110",
+"vill": "001",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "林思銘",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "新竹縣 第02選區 峨眉鄉中盛村",
+"area_nickname": "竹北市*、竹東鎮、橫山鄉、北埔鄉、寶山鄉、峨眉鄉、五峰鄉",
+"county": "10004",
+"area": "02",
+"town": "110",
+"vill": "002",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "林思銘",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "新竹縣 第02選區 峨眉鄉石井村",
+"area_nickname": "竹北市*、竹東鎮、橫山鄉、北埔鄉、寶山鄉、峨眉鄉、五峰鄉",
+"county": "10004",
+"area": "02",
+"town": "110",
+"vill": "003",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "林思銘",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "新竹縣 第02選區 峨眉鄉富興村",
+"area_nickname": "竹北市*、竹東鎮、橫山鄉、北埔鄉、寶山鄉、峨眉鄉、五峰鄉",
+"county": "10004",
+"area": "02",
+"town": "110",
+"vill": "004",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "林思銘",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "新竹縣 第02選區 峨眉鄉七星村",
+"area_nickname": "竹北市*、竹東鎮、橫山鄉、北埔鄉、寶山鄉、峨眉鄉、五峰鄉",
+"county": "10004",
+"area": "02",
+"town": "110",
+"vill": "005",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "林思銘",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "新竹縣 第02選區 峨眉鄉湖光村",
+"area_nickname": "竹北市*、竹東鎮、橫山鄉、北埔鄉、寶山鄉、峨眉鄉、五峰鄉",
+"county": "10004",
+"area": "02",
+"town": "110",
+"vill": "006",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "林思銘",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "新竹縣 第02選區 五峰鄉大隘村",
+"area_nickname": "竹北市*、竹東鎮、橫山鄉、北埔鄉、寶山鄉、峨眉鄉、五峰鄉",
+"county": "10004",
+"area": "02",
+"town": "130",
+"vill": "001",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "林思銘",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "新竹縣 第02選區 五峰鄉花園村",
+"area_nickname": "竹北市*、竹東鎮、橫山鄉、北埔鄉、寶山鄉、峨眉鄉、五峰鄉",
+"county": "10004",
+"area": "02",
+"town": "130",
+"vill": "002",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "林思銘",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "新竹縣 第02選區 五峰鄉竹林村",
+"area_nickname": "竹北市*、竹東鎮、橫山鄉、北埔鄉、寶山鄉、峨眉鄉、五峰鄉",
+"county": "10004",
+"area": "02",
+"town": "130",
+"vill": "003",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "林思銘",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "新竹縣 第02選區 五峰鄉桃山村",
+"area_nickname": "竹北市*、竹東鎮、橫山鄉、北埔鄉、寶山鄉、峨眉鄉、五峰鄉",
+"county": "10004",
+"area": "02",
+"town": "130",
+"vill": "004",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "林思銘",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+} 
+] 
+}

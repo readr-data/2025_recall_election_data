@@ -1,0 +1,79 @@
+{
+ "updatedAt": "2025-07-10 10:33:00",
+"is_running": false,
+"is_started": true,
+"districts": [
+ {
+ "range": "臺中市 第02選區",
+"area_nickname": "沙鹿區、烏日區、大肚區、龍井區、霧峰區",
+"county": "66000",
+"area": "02",
+"town": null,
+"vill": null,
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "顏寬恒",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "臺中市 第03選區",
+"area_nickname": "后里區、神岡區、潭子區、大雅區",
+"county": "66000",
+"area": "03",
+"town": null,
+"vill": null,
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "楊瓊瓔",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "臺中市 第08選區",
+"area_nickname": "豐原區、東勢區、新社區、石岡區、和平區",
+"county": "66000",
+"area": "08",
+"town": null,
+"vill": null,
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "江啟臣",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+} 
+] 
+}

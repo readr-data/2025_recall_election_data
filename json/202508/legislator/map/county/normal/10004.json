@@ -1,0 +1,31 @@
+{
+ "updatedAt": "2025-07-10 10:33:00",
+"is_running": false,
+"is_started": true,
+"districts": [
+ {
+ "range": "新竹縣 第02選區",
+"area_nickname": "竹北市*、竹東鎮、橫山鄉、北埔鄉、寶山鄉、峨眉鄉、五峰鄉",
+"county": "10004",
+"area": "02",
+"town": null,
+"vill": null,
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "林思銘",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+} 
+] 
+}

@@ -1,0 +1,3439 @@
+{
+ "updatedAt": "2025-07-10 10:33:00",
+"is_running": false,
+"is_started": true,
+"districts": [
+ {
+ "range": "南投縣 第02選區 南投市龍泉里",
+"area_nickname": "南投市、竹山鎮、集集鎮、名間鄉、鹿谷鄉、水里鄉、信義鄉",
+"county": "10008",
+"area": "02",
+"town": "010",
+"vill": "001",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "游顥",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "南投縣 第02選區 南投市康壽里",
+"area_nickname": "南投市、竹山鎮、集集鎮、名間鄉、鹿谷鄉、水里鄉、信義鄉",
+"county": "10008",
+"area": "02",
+"town": "010",
+"vill": "002",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "游顥",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "南投縣 第02選區 南投市三民里",
+"area_nickname": "南投市、竹山鎮、集集鎮、名間鄉、鹿谷鄉、水里鄉、信義鄉",
+"county": "10008",
+"area": "02",
+"town": "010",
+"vill": "003",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "游顥",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "南投縣 第02選區 南投市仁和里",
+"area_nickname": "南投市、竹山鎮、集集鎮、名間鄉、鹿谷鄉、水里鄉、信義鄉",
+"county": "10008",
+"area": "02",
+"town": "010",
+"vill": "004",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "游顥",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "南投縣 第02選區 南投市南投里",
+"area_nickname": "南投市、竹山鎮、集集鎮、名間鄉、鹿谷鄉、水里鄉、信義鄉",
+"county": "10008",
+"area": "02",
+"town": "010",
+"vill": "005",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "游顥",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "南投縣 第02選區 南投市彰仁里",
+"area_nickname": "南投市、竹山鎮、集集鎮、名間鄉、鹿谷鄉、水里鄉、信義鄉",
+"county": "10008",
+"area": "02",
+"town": "010",
+"vill": "006",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "游顥",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "南投縣 第02選區 南投市崇文里",
+"area_nickname": "南投市、竹山鎮、集集鎮、名間鄉、鹿谷鄉、水里鄉、信義鄉",
+"county": "10008",
+"area": "02",
+"town": "010",
+"vill": "007",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "游顥",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "南投縣 第02選區 南投市漳興里",
+"area_nickname": "南投市、竹山鎮、集集鎮、名間鄉、鹿谷鄉、水里鄉、信義鄉",
+"county": "10008",
+"area": "02",
+"town": "010",
+"vill": "008",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "游顥",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "南投縣 第02選區 南投市漳和里",
+"area_nickname": "南投市、竹山鎮、集集鎮、名間鄉、鹿谷鄉、水里鄉、信義鄉",
+"county": "10008",
+"area": "02",
+"town": "010",
+"vill": "009",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "游顥",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "南投縣 第02選區 南投市軍功里",
+"area_nickname": "南投市、竹山鎮、集集鎮、名間鄉、鹿谷鄉、水里鄉、信義鄉",
+"county": "10008",
+"area": "02",
+"town": "010",
+"vill": "010",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "游顥",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "南投縣 第02選區 南投市東山里",
+"area_nickname": "南投市、竹山鎮、集集鎮、名間鄉、鹿谷鄉、水里鄉、信義鄉",
+"county": "10008",
+"area": "02",
+"town": "010",
+"vill": "011",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "游顥",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "南投縣 第02選區 南投市平和里",
+"area_nickname": "南投市、竹山鎮、集集鎮、名間鄉、鹿谷鄉、水里鄉、信義鄉",
+"county": "10008",
+"area": "02",
+"town": "010",
+"vill": "012",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "游顥",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "南投縣 第02選區 南投市振興里",
+"area_nickname": "南投市、竹山鎮、集集鎮、名間鄉、鹿谷鄉、水里鄉、信義鄉",
+"county": "10008",
+"area": "02",
+"town": "010",
+"vill": "013",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "游顥",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "南投縣 第02選區 南投市千秋里",
+"area_nickname": "南投市、竹山鎮、集集鎮、名間鄉、鹿谷鄉、水里鄉、信義鄉",
+"county": "10008",
+"area": "02",
+"town": "010",
+"vill": "014",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "游顥",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "南投縣 第02選區 南投市三興里",
+"area_nickname": "南投市、竹山鎮、集集鎮、名間鄉、鹿谷鄉、水里鄉、信義鄉",
+"county": "10008",
+"area": "02",
+"town": "010",
+"vill": "015",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "游顥",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "南投縣 第02選區 南投市三和里",
+"area_nickname": "南投市、竹山鎮、集集鎮、名間鄉、鹿谷鄉、水里鄉、信義鄉",
+"county": "10008",
+"area": "02",
+"town": "010",
+"vill": "016",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "游顥",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "南投縣 第02選區 南投市嘉興里",
+"area_nickname": "南投市、竹山鎮、集集鎮、名間鄉、鹿谷鄉、水里鄉、信義鄉",
+"county": "10008",
+"area": "02",
+"town": "010",
+"vill": "017",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "游顥",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "南投縣 第02選區 南投市嘉和里",
+"area_nickname": "南投市、竹山鎮、集集鎮、名間鄉、鹿谷鄉、水里鄉、信義鄉",
+"county": "10008",
+"area": "02",
+"town": "010",
+"vill": "018",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "游顥",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "南投縣 第02選區 南投市福山里",
+"area_nickname": "南投市、竹山鎮、集集鎮、名間鄉、鹿谷鄉、水里鄉、信義鄉",
+"county": "10008",
+"area": "02",
+"town": "010",
+"vill": "019",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "游顥",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "南投縣 第02選區 南投市永興里",
+"area_nickname": "南投市、竹山鎮、集集鎮、名間鄉、鹿谷鄉、水里鄉、信義鄉",
+"county": "10008",
+"area": "02",
+"town": "010",
+"vill": "020",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "游顥",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "南投縣 第02選區 南投市鳳鳴里",
+"area_nickname": "南投市、竹山鎮、集集鎮、名間鄉、鹿谷鄉、水里鄉、信義鄉",
+"county": "10008",
+"area": "02",
+"town": "010",
+"vill": "021",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "游顥",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "南投縣 第02選區 南投市鳳山里",
+"area_nickname": "南投市、竹山鎮、集集鎮、名間鄉、鹿谷鄉、水里鄉、信義鄉",
+"county": "10008",
+"area": "02",
+"town": "010",
+"vill": "022",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "游顥",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "南投縣 第02選區 南投市平山里",
+"area_nickname": "南投市、竹山鎮、集集鎮、名間鄉、鹿谷鄉、水里鄉、信義鄉",
+"county": "10008",
+"area": "02",
+"town": "010",
+"vill": "023",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "游顥",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "南投縣 第02選區 南投市新興里",
+"area_nickname": "南投市、竹山鎮、集集鎮、名間鄉、鹿谷鄉、水里鄉、信義鄉",
+"county": "10008",
+"area": "02",
+"town": "010",
+"vill": "024",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "游顥",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "南投縣 第02選區 南投市永豐里",
+"area_nickname": "南投市、竹山鎮、集集鎮、名間鄉、鹿谷鄉、水里鄉、信義鄉",
+"county": "10008",
+"area": "02",
+"town": "010",
+"vill": "025",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "游顥",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "南投縣 第02選區 南投市福興里",
+"area_nickname": "南投市、竹山鎮、集集鎮、名間鄉、鹿谷鄉、水里鄉、信義鄉",
+"county": "10008",
+"area": "02",
+"town": "010",
+"vill": "026",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "游顥",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "南投縣 第02選區 南投市營北里",
+"area_nickname": "南投市、竹山鎮、集集鎮、名間鄉、鹿谷鄉、水里鄉、信義鄉",
+"county": "10008",
+"area": "02",
+"town": "010",
+"vill": "027",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "游顥",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "南投縣 第02選區 南投市營南里",
+"area_nickname": "南投市、竹山鎮、集集鎮、名間鄉、鹿谷鄉、水里鄉、信義鄉",
+"county": "10008",
+"area": "02",
+"town": "010",
+"vill": "028",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "游顥",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "南投縣 第02選區 南投市內興里",
+"area_nickname": "南投市、竹山鎮、集集鎮、名間鄉、鹿谷鄉、水里鄉、信義鄉",
+"county": "10008",
+"area": "02",
+"town": "010",
+"vill": "029",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "游顥",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "南投縣 第02選區 南投市內新里",
+"area_nickname": "南投市、竹山鎮、集集鎮、名間鄉、鹿谷鄉、水里鄉、信義鄉",
+"county": "10008",
+"area": "02",
+"town": "010",
+"vill": "030",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "游顥",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "南投縣 第02選區 南投市光華里",
+"area_nickname": "南投市、竹山鎮、集集鎮、名間鄉、鹿谷鄉、水里鄉、信義鄉",
+"county": "10008",
+"area": "02",
+"town": "010",
+"vill": "031",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "游顥",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "南投縣 第02選區 南投市光榮里",
+"area_nickname": "南投市、竹山鎮、集集鎮、名間鄉、鹿谷鄉、水里鄉、信義鄉",
+"county": "10008",
+"area": "02",
+"town": "010",
+"vill": "032",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "游顥",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "南投縣 第02選區 南投市光明里",
+"area_nickname": "南投市、竹山鎮、集集鎮、名間鄉、鹿谷鄉、水里鄉、信義鄉",
+"county": "10008",
+"area": "02",
+"town": "010",
+"vill": "033",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "游顥",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "南投縣 第02選區 南投市光輝里",
+"area_nickname": "南投市、竹山鎮、集集鎮、名間鄉、鹿谷鄉、水里鄉、信義鄉",
+"county": "10008",
+"area": "02",
+"town": "010",
+"vill": "034",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "游顥",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "南投縣 第02選區 竹山鎮竹山里",
+"area_nickname": "南投市、竹山鎮、集集鎮、名間鄉、鹿谷鄉、水里鄉、信義鄉",
+"county": "10008",
+"area": "02",
+"town": "040",
+"vill": "001",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "游顥",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "南投縣 第02選區 竹山鎮中正里",
+"area_nickname": "南投市、竹山鎮、集集鎮、名間鄉、鹿谷鄉、水里鄉、信義鄉",
+"county": "10008",
+"area": "02",
+"town": "040",
+"vill": "002",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "游顥",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "南投縣 第02選區 竹山鎮中山里",
+"area_nickname": "南投市、竹山鎮、集集鎮、名間鄉、鹿谷鄉、水里鄉、信義鄉",
+"county": "10008",
+"area": "02",
+"town": "040",
+"vill": "003",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "游顥",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "南投縣 第02選區 竹山鎮雲林里",
+"area_nickname": "南投市、竹山鎮、集集鎮、名間鄉、鹿谷鄉、水里鄉、信義鄉",
+"county": "10008",
+"area": "02",
+"town": "040",
+"vill": "004",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "游顥",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "南投縣 第02選區 竹山鎮硘󿾨里",
+"area_nickname": "南投市、竹山鎮、集集鎮、名間鄉、鹿谷鄉、水里鄉、信義鄉",
+"county": "10008",
+"area": "02",
+"town": "040",
+"vill": "005",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "游顥",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "南投縣 第02選區 竹山鎮下坪里",
+"area_nickname": "南投市、竹山鎮、集集鎮、名間鄉、鹿谷鄉、水里鄉、信義鄉",
+"county": "10008",
+"area": "02",
+"town": "040",
+"vill": "006",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "游顥",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "南投縣 第02選區 竹山鎮桂林里",
+"area_nickname": "南投市、竹山鎮、集集鎮、名間鄉、鹿谷鄉、水里鄉、信義鄉",
+"county": "10008",
+"area": "02",
+"town": "040",
+"vill": "007",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "游顥",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "南投縣 第02選區 竹山鎮中和里",
+"area_nickname": "南投市、竹山鎮、集集鎮、名間鄉、鹿谷鄉、水里鄉、信義鄉",
+"county": "10008",
+"area": "02",
+"town": "040",
+"vill": "008",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "游顥",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "南投縣 第02選區 竹山鎮中崎里",
+"area_nickname": "南投市、竹山鎮、集集鎮、名間鄉、鹿谷鄉、水里鄉、信義鄉",
+"county": "10008",
+"area": "02",
+"town": "040",
+"vill": "009",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "游顥",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "南投縣 第02選區 竹山鎮德興里",
+"area_nickname": "南投市、竹山鎮、集集鎮、名間鄉、鹿谷鄉、水里鄉、信義鄉",
+"county": "10008",
+"area": "02",
+"town": "040",
+"vill": "010",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "游顥",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "南投縣 第02選區 竹山鎮延平里",
+"area_nickname": "南投市、竹山鎮、集集鎮、名間鄉、鹿谷鄉、水里鄉、信義鄉",
+"county": "10008",
+"area": "02",
+"town": "040",
+"vill": "011",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "游顥",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "南投縣 第02選區 竹山鎮延正里",
+"area_nickname": "南投市、竹山鎮、集集鎮、名間鄉、鹿谷鄉、水里鄉、信義鄉",
+"county": "10008",
+"area": "02",
+"town": "040",
+"vill": "012",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "游顥",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "南投縣 第02選區 竹山鎮延山里",
+"area_nickname": "南投市、竹山鎮、集集鎮、名間鄉、鹿谷鄉、水里鄉、信義鄉",
+"county": "10008",
+"area": "02",
+"town": "040",
+"vill": "013",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "游顥",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "南投縣 第02選區 竹山鎮延和里",
+"area_nickname": "南投市、竹山鎮、集集鎮、名間鄉、鹿谷鄉、水里鄉、信義鄉",
+"county": "10008",
+"area": "02",
+"town": "040",
+"vill": "014",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "游顥",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "南投縣 第02選區 竹山鎮山崇里",
+"area_nickname": "南投市、竹山鎮、集集鎮、名間鄉、鹿谷鄉、水里鄉、信義鄉",
+"county": "10008",
+"area": "02",
+"town": "040",
+"vill": "015",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "游顥",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "南投縣 第02選區 竹山鎮社寮里",
+"area_nickname": "南投市、竹山鎮、集集鎮、名間鄉、鹿谷鄉、水里鄉、信義鄉",
+"county": "10008",
+"area": "02",
+"town": "040",
+"vill": "016",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "游顥",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "南投縣 第02選區 竹山鎮中央里",
+"area_nickname": "南投市、竹山鎮、集集鎮、名間鄉、鹿谷鄉、水里鄉、信義鄉",
+"county": "10008",
+"area": "02",
+"town": "040",
+"vill": "017",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "游顥",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "南投縣 第02選區 竹山鎮富州里",
+"area_nickname": "南投市、竹山鎮、集集鎮、名間鄉、鹿谷鄉、水里鄉、信義鄉",
+"county": "10008",
+"area": "02",
+"town": "040",
+"vill": "018",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "游顥",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "南投縣 第02選區 竹山鎮大鞍里",
+"area_nickname": "南投市、竹山鎮、集集鎮、名間鄉、鹿谷鄉、水里鄉、信義鄉",
+"county": "10008",
+"area": "02",
+"town": "040",
+"vill": "019",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "游顥",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "南投縣 第02選區 竹山鎮田子里",
+"area_nickname": "南投市、竹山鎮、集集鎮、名間鄉、鹿谷鄉、水里鄉、信義鄉",
+"county": "10008",
+"area": "02",
+"town": "040",
+"vill": "020",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "游顥",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "南投縣 第02選區 竹山鎮福興里",
+"area_nickname": "南投市、竹山鎮、集集鎮、名間鄉、鹿谷鄉、水里鄉、信義鄉",
+"county": "10008",
+"area": "02",
+"town": "040",
+"vill": "021",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "游顥",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "南投縣 第02選區 竹山鎮鯉魚里",
+"area_nickname": "南投市、竹山鎮、集集鎮、名間鄉、鹿谷鄉、水里鄉、信義鄉",
+"county": "10008",
+"area": "02",
+"town": "040",
+"vill": "022",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "游顥",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "南投縣 第02選區 竹山鎮瑞竹里",
+"area_nickname": "南投市、竹山鎮、集集鎮、名間鄉、鹿谷鄉、水里鄉、信義鄉",
+"county": "10008",
+"area": "02",
+"town": "040",
+"vill": "023",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "游顥",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "南投縣 第02選區 竹山鎮坪頂里",
+"area_nickname": "南投市、竹山鎮、集集鎮、名間鄉、鹿谷鄉、水里鄉、信義鄉",
+"county": "10008",
+"area": "02",
+"town": "040",
+"vill": "024",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "游顥",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "南投縣 第02選區 竹山鎮桶頭里",
+"area_nickname": "南投市、竹山鎮、集集鎮、名間鄉、鹿谷鄉、水里鄉、信義鄉",
+"county": "10008",
+"area": "02",
+"town": "040",
+"vill": "025",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "游顥",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "南投縣 第02選區 竹山鎮秀林里",
+"area_nickname": "南投市、竹山鎮、集集鎮、名間鄉、鹿谷鄉、水里鄉、信義鄉",
+"county": "10008",
+"area": "02",
+"town": "040",
+"vill": "026",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "游顥",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "南投縣 第02選區 竹山鎮延祥里",
+"area_nickname": "南投市、竹山鎮、集集鎮、名間鄉、鹿谷鄉、水里鄉、信義鄉",
+"county": "10008",
+"area": "02",
+"town": "040",
+"vill": "027",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "游顥",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "南投縣 第02選區 竹山鎮竹圍里",
+"area_nickname": "南投市、竹山鎮、集集鎮、名間鄉、鹿谷鄉、水里鄉、信義鄉",
+"county": "10008",
+"area": "02",
+"town": "040",
+"vill": "028",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "游顥",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "南投縣 第02選區 集集鎮集集里",
+"area_nickname": "南投市、竹山鎮、集集鎮、名間鄉、鹿谷鄉、水里鄉、信義鄉",
+"county": "10008",
+"area": "02",
+"town": "050",
+"vill": "001",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "游顥",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "南投縣 第02選區 集集鎮和平里",
+"area_nickname": "南投市、竹山鎮、集集鎮、名間鄉、鹿谷鄉、水里鄉、信義鄉",
+"county": "10008",
+"area": "02",
+"town": "050",
+"vill": "002",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "游顥",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "南投縣 第02選區 集集鎮林尾里",
+"area_nickname": "南投市、竹山鎮、集集鎮、名間鄉、鹿谷鄉、水里鄉、信義鄉",
+"county": "10008",
+"area": "02",
+"town": "050",
+"vill": "003",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "游顥",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "南投縣 第02選區 集集鎮田寮里",
+"area_nickname": "南投市、竹山鎮、集集鎮、名間鄉、鹿谷鄉、水里鄉、信義鄉",
+"county": "10008",
+"area": "02",
+"town": "050",
+"vill": "004",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "游顥",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "南投縣 第02選區 集集鎮隘寮里",
+"area_nickname": "南投市、竹山鎮、集集鎮、名間鄉、鹿谷鄉、水里鄉、信義鄉",
+"county": "10008",
+"area": "02",
+"town": "050",
+"vill": "005",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "游顥",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "南投縣 第02選區 集集鎮玉映里",
+"area_nickname": "南投市、竹山鎮、集集鎮、名間鄉、鹿谷鄉、水里鄉、信義鄉",
+"county": "10008",
+"area": "02",
+"town": "050",
+"vill": "006",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "游顥",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "南投縣 第02選區 集集鎮吳厝里",
+"area_nickname": "南投市、竹山鎮、集集鎮、名間鄉、鹿谷鄉、水里鄉、信義鄉",
+"county": "10008",
+"area": "02",
+"town": "050",
+"vill": "007",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "游顥",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "南投縣 第02選區 集集鎮八張里",
+"area_nickname": "南投市、竹山鎮、集集鎮、名間鄉、鹿谷鄉、水里鄉、信義鄉",
+"county": "10008",
+"area": "02",
+"town": "050",
+"vill": "008",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "游顥",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "南投縣 第02選區 集集鎮永昌里",
+"area_nickname": "南投市、竹山鎮、集集鎮、名間鄉、鹿谷鄉、水里鄉、信義鄉",
+"county": "10008",
+"area": "02",
+"town": "050",
+"vill": "009",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "游顥",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "南投縣 第02選區 集集鎮富山里",
+"area_nickname": "南投市、竹山鎮、集集鎮、名間鄉、鹿谷鄉、水里鄉、信義鄉",
+"county": "10008",
+"area": "02",
+"town": "050",
+"vill": "010",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "游顥",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "南投縣 第02選區 集集鎮廣明里",
+"area_nickname": "南投市、竹山鎮、集集鎮、名間鄉、鹿谷鄉、水里鄉、信義鄉",
+"county": "10008",
+"area": "02",
+"town": "050",
+"vill": "011",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "游顥",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "南投縣 第02選區 名間鄉南雅村",
+"area_nickname": "南投市、竹山鎮、集集鎮、名間鄉、鹿谷鄉、水里鄉、信義鄉",
+"county": "10008",
+"area": "02",
+"town": "060",
+"vill": "001",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "游顥",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "南投縣 第02選區 名間鄉中正村",
+"area_nickname": "南投市、竹山鎮、集集鎮、名間鄉、鹿谷鄉、水里鄉、信義鄉",
+"county": "10008",
+"area": "02",
+"town": "060",
+"vill": "002",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "游顥",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "南投縣 第02選區 名間鄉中山村",
+"area_nickname": "南投市、竹山鎮、集集鎮、名間鄉、鹿谷鄉、水里鄉、信義鄉",
+"county": "10008",
+"area": "02",
+"town": "060",
+"vill": "003",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "游顥",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "南投縣 第02選區 名間鄉濁水村",
+"area_nickname": "南投市、竹山鎮、集集鎮、名間鄉、鹿谷鄉、水里鄉、信義鄉",
+"county": "10008",
+"area": "02",
+"town": "060",
+"vill": "004",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "游顥",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "南投縣 第02選區 名間鄉炭寮村",
+"area_nickname": "南投市、竹山鎮、集集鎮、名間鄉、鹿谷鄉、水里鄉、信義鄉",
+"county": "10008",
+"area": "02",
+"town": "060",
+"vill": "005",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "游顥",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "南投縣 第02選區 名間鄉新民村",
+"area_nickname": "南投市、竹山鎮、集集鎮、名間鄉、鹿谷鄉、水里鄉、信義鄉",
+"county": "10008",
+"area": "02",
+"town": "060",
+"vill": "006",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "游顥",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "南投縣 第02選區 名間鄉新街村",
+"area_nickname": "南投市、竹山鎮、集集鎮、名間鄉、鹿谷鄉、水里鄉、信義鄉",
+"county": "10008",
+"area": "02",
+"town": "060",
+"vill": "007",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "游顥",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "南投縣 第02選區 名間鄉東湖村",
+"area_nickname": "南投市、竹山鎮、集集鎮、名間鄉、鹿谷鄉、水里鄉、信義鄉",
+"county": "10008",
+"area": "02",
+"town": "060",
+"vill": "008",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "游顥",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "南投縣 第02選區 名間鄉萬丹村",
+"area_nickname": "南投市、竹山鎮、集集鎮、名間鄉、鹿谷鄉、水里鄉、信義鄉",
+"county": "10008",
+"area": "02",
+"town": "060",
+"vill": "009",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "游顥",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "南投縣 第02選區 名間鄉田仔村",
+"area_nickname": "南投市、竹山鎮、集集鎮、名間鄉、鹿谷鄉、水里鄉、信義鄉",
+"county": "10008",
+"area": "02",
+"town": "060",
+"vill": "010",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "游顥",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "南投縣 第02選區 名間鄉大庄村",
+"area_nickname": "南投市、竹山鎮、集集鎮、名間鄉、鹿谷鄉、水里鄉、信義鄉",
+"county": "10008",
+"area": "02",
+"town": "060",
+"vill": "011",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "游顥",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "南投縣 第02選區 名間鄉廍下村",
+"area_nickname": "南投市、竹山鎮、集集鎮、名間鄉、鹿谷鄉、水里鄉、信義鄉",
+"county": "10008",
+"area": "02",
+"town": "060",
+"vill": "012",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "游顥",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "南投縣 第02選區 名間鄉大坑村",
+"area_nickname": "南投市、竹山鎮、集集鎮、名間鄉、鹿谷鄉、水里鄉、信義鄉",
+"county": "10008",
+"area": "02",
+"town": "060",
+"vill": "013",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "游顥",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "南投縣 第02選區 名間鄉竹圍村",
+"area_nickname": "南投市、竹山鎮、集集鎮、名間鄉、鹿谷鄉、水里鄉、信義鄉",
+"county": "10008",
+"area": "02",
+"town": "060",
+"vill": "014",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "游顥",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "南投縣 第02選區 名間鄉赤水村",
+"area_nickname": "南投市、竹山鎮、集集鎮、名間鄉、鹿谷鄉、水里鄉、信義鄉",
+"county": "10008",
+"area": "02",
+"town": "060",
+"vill": "015",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "游顥",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "南投縣 第02選區 名間鄉三崙村",
+"area_nickname": "南投市、竹山鎮、集集鎮、名間鄉、鹿谷鄉、水里鄉、信義鄉",
+"county": "10008",
+"area": "02",
+"town": "060",
+"vill": "016",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "游顥",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "南投縣 第02選區 名間鄉松山村",
+"area_nickname": "南投市、竹山鎮、集集鎮、名間鄉、鹿谷鄉、水里鄉、信義鄉",
+"county": "10008",
+"area": "02",
+"town": "060",
+"vill": "017",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "游顥",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "南投縣 第02選區 名間鄉松柏村",
+"area_nickname": "南投市、竹山鎮、集集鎮、名間鄉、鹿谷鄉、水里鄉、信義鄉",
+"county": "10008",
+"area": "02",
+"town": "060",
+"vill": "018",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "游顥",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "南投縣 第02選區 名間鄉埔中村",
+"area_nickname": "南投市、竹山鎮、集集鎮、名間鄉、鹿谷鄉、水里鄉、信義鄉",
+"county": "10008",
+"area": "02",
+"town": "060",
+"vill": "019",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "游顥",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "南投縣 第02選區 名間鄉崁腳村",
+"area_nickname": "南投市、竹山鎮、集集鎮、名間鄉、鹿谷鄉、水里鄉、信義鄉",
+"county": "10008",
+"area": "02",
+"town": "060",
+"vill": "020",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "游顥",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "南投縣 第02選區 名間鄉新厝村",
+"area_nickname": "南投市、竹山鎮、集集鎮、名間鄉、鹿谷鄉、水里鄉、信義鄉",
+"county": "10008",
+"area": "02",
+"town": "060",
+"vill": "021",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "游顥",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "南投縣 第02選區 名間鄉新光村",
+"area_nickname": "南投市、竹山鎮、集集鎮、名間鄉、鹿谷鄉、水里鄉、信義鄉",
+"county": "10008",
+"area": "02",
+"town": "060",
+"vill": "022",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "游顥",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "南投縣 第02選區 名間鄉仁和村",
+"area_nickname": "南投市、竹山鎮、集集鎮、名間鄉、鹿谷鄉、水里鄉、信義鄉",
+"county": "10008",
+"area": "02",
+"town": "060",
+"vill": "023",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "游顥",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "南投縣 第02選區 鹿谷鄉鹿谷村",
+"area_nickname": "南投市、竹山鎮、集集鎮、名間鄉、鹿谷鄉、水里鄉、信義鄉",
+"county": "10008",
+"area": "02",
+"town": "070",
+"vill": "001",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "游顥",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "南投縣 第02選區 鹿谷鄉初鄉村",
+"area_nickname": "南投市、竹山鎮、集集鎮、名間鄉、鹿谷鄉、水里鄉、信義鄉",
+"county": "10008",
+"area": "02",
+"town": "070",
+"vill": "002",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "游顥",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "南投縣 第02選區 鹿谷鄉彰雅村",
+"area_nickname": "南投市、竹山鎮、集集鎮、名間鄉、鹿谷鄉、水里鄉、信義鄉",
+"county": "10008",
+"area": "02",
+"town": "070",
+"vill": "003",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "游顥",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "南投縣 第02選區 鹿谷鄉廣興村",
+"area_nickname": "南投市、竹山鎮、集集鎮、名間鄉、鹿谷鄉、水里鄉、信義鄉",
+"county": "10008",
+"area": "02",
+"town": "070",
+"vill": "004",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "游顥",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "南投縣 第02選區 鹿谷鄉內湖村",
+"area_nickname": "南投市、竹山鎮、集集鎮、名間鄉、鹿谷鄉、水里鄉、信義鄉",
+"county": "10008",
+"area": "02",
+"town": "070",
+"vill": "005",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "游顥",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "南投縣 第02選區 鹿谷鄉竹林村",
+"area_nickname": "南投市、竹山鎮、集集鎮、名間鄉、鹿谷鄉、水里鄉、信義鄉",
+"county": "10008",
+"area": "02",
+"town": "070",
+"vill": "006",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "游顥",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "南投縣 第02選區 鹿谷鄉竹豐村",
+"area_nickname": "南投市、竹山鎮、集集鎮、名間鄉、鹿谷鄉、水里鄉、信義鄉",
+"county": "10008",
+"area": "02",
+"town": "070",
+"vill": "007",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "游顥",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "南投縣 第02選區 鹿谷鄉和雅村",
+"area_nickname": "南投市、竹山鎮、集集鎮、名間鄉、鹿谷鄉、水里鄉、信義鄉",
+"county": "10008",
+"area": "02",
+"town": "070",
+"vill": "008",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "游顥",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "南投縣 第02選區 鹿谷鄉鳳凰村",
+"area_nickname": "南投市、竹山鎮、集集鎮、名間鄉、鹿谷鄉、水里鄉、信義鄉",
+"county": "10008",
+"area": "02",
+"town": "070",
+"vill": "009",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "游顥",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "南投縣 第02選區 鹿谷鄉永隆村",
+"area_nickname": "南投市、竹山鎮、集集鎮、名間鄉、鹿谷鄉、水里鄉、信義鄉",
+"county": "10008",
+"area": "02",
+"town": "070",
+"vill": "010",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "游顥",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "南投縣 第02選區 鹿谷鄉秀峰村",
+"area_nickname": "南投市、竹山鎮、集集鎮、名間鄉、鹿谷鄉、水里鄉、信義鄉",
+"county": "10008",
+"area": "02",
+"town": "070",
+"vill": "011",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "游顥",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "南投縣 第02選區 鹿谷鄉清水村",
+"area_nickname": "南投市、竹山鎮、集集鎮、名間鄉、鹿谷鄉、水里鄉、信義鄉",
+"county": "10008",
+"area": "02",
+"town": "070",
+"vill": "012",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "游顥",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "南投縣 第02選區 鹿谷鄉瑞田村",
+"area_nickname": "南投市、竹山鎮、集集鎮、名間鄉、鹿谷鄉、水里鄉、信義鄉",
+"county": "10008",
+"area": "02",
+"town": "070",
+"vill": "013",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "游顥",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "南投縣 第02選區 水里鄉水里村",
+"area_nickname": "南投市、竹山鎮、集集鎮、名間鄉、鹿谷鄉、水里鄉、信義鄉",
+"county": "10008",
+"area": "02",
+"town": "110",
+"vill": "001",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "游顥",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "南投縣 第02選區 水里鄉農富村",
+"area_nickname": "南投市、竹山鎮、集集鎮、名間鄉、鹿谷鄉、水里鄉、信義鄉",
+"county": "10008",
+"area": "02",
+"town": "110",
+"vill": "002",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "游顥",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "南投縣 第02選區 水里鄉新城村",
+"area_nickname": "南投市、竹山鎮、集集鎮、名間鄉、鹿谷鄉、水里鄉、信義鄉",
+"county": "10008",
+"area": "02",
+"town": "110",
+"vill": "003",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "游顥",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "南投縣 第02選區 水里鄉中央村",
+"area_nickname": "南投市、竹山鎮、集集鎮、名間鄉、鹿谷鄉、水里鄉、信義鄉",
+"county": "10008",
+"area": "02",
+"town": "110",
+"vill": "004",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "游顥",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "南投縣 第02選區 水里鄉城中村",
+"area_nickname": "南投市、竹山鎮、集集鎮、名間鄉、鹿谷鄉、水里鄉、信義鄉",
+"county": "10008",
+"area": "02",
+"town": "110",
+"vill": "005",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "游顥",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "南投縣 第02選區 水里鄉北埔村",
+"area_nickname": "南投市、竹山鎮、集集鎮、名間鄉、鹿谷鄉、水里鄉、信義鄉",
+"county": "10008",
+"area": "02",
+"town": "110",
+"vill": "006",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "游顥",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "南投縣 第02選區 水里鄉鉅工村",
+"area_nickname": "南投市、竹山鎮、集集鎮、名間鄉、鹿谷鄉、水里鄉、信義鄉",
+"county": "10008",
+"area": "02",
+"town": "110",
+"vill": "007",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "游顥",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "南投縣 第02選區 水里鄉永豐村",
+"area_nickname": "南投市、竹山鎮、集集鎮、名間鄉、鹿谷鄉、水里鄉、信義鄉",
+"county": "10008",
+"area": "02",
+"town": "110",
+"vill": "008",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "游顥",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "南投縣 第02選區 水里鄉頂崁村",
+"area_nickname": "南投市、竹山鎮、集集鎮、名間鄉、鹿谷鄉、水里鄉、信義鄉",
+"county": "10008",
+"area": "02",
+"town": "110",
+"vill": "009",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "游顥",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "南投縣 第02選區 水里鄉車埕村",
+"area_nickname": "南投市、竹山鎮、集集鎮、名間鄉、鹿谷鄉、水里鄉、信義鄉",
+"county": "10008",
+"area": "02",
+"town": "110",
+"vill": "010",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "游顥",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "南投縣 第02選區 水里鄉新興村",
+"area_nickname": "南投市、竹山鎮、集集鎮、名間鄉、鹿谷鄉、水里鄉、信義鄉",
+"county": "10008",
+"area": "02",
+"town": "110",
+"vill": "011",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "游顥",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "南投縣 第02選區 水里鄉新山村",
+"area_nickname": "南投市、竹山鎮、集集鎮、名間鄉、鹿谷鄉、水里鄉、信義鄉",
+"county": "10008",
+"area": "02",
+"town": "110",
+"vill": "012",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "游顥",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "南投縣 第02選區 水里鄉郡坑村",
+"area_nickname": "南投市、竹山鎮、集集鎮、名間鄉、鹿谷鄉、水里鄉、信義鄉",
+"county": "10008",
+"area": "02",
+"town": "110",
+"vill": "013",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "游顥",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "南投縣 第02選區 水里鄉上安村",
+"area_nickname": "南投市、竹山鎮、集集鎮、名間鄉、鹿谷鄉、水里鄉、信義鄉",
+"county": "10008",
+"area": "02",
+"town": "110",
+"vill": "014",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "游顥",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "南投縣 第02選區 水里鄉民和村",
+"area_nickname": "南投市、竹山鎮、集集鎮、名間鄉、鹿谷鄉、水里鄉、信義鄉",
+"county": "10008",
+"area": "02",
+"town": "110",
+"vill": "015",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "游顥",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "南投縣 第02選區 水里鄉永興村",
+"area_nickname": "南投市、竹山鎮、集集鎮、名間鄉、鹿谷鄉、水里鄉、信義鄉",
+"county": "10008",
+"area": "02",
+"town": "110",
+"vill": "016",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "游顥",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "南投縣 第02選區 水里鄉玉峰村",
+"area_nickname": "南投市、竹山鎮、集集鎮、名間鄉、鹿谷鄉、水里鄉、信義鄉",
+"county": "10008",
+"area": "02",
+"town": "110",
+"vill": "017",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "游顥",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "南投縣 第02選區 水里鄉興隆村",
+"area_nickname": "南投市、竹山鎮、集集鎮、名間鄉、鹿谷鄉、水里鄉、信義鄉",
+"county": "10008",
+"area": "02",
+"town": "110",
+"vill": "018",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "游顥",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "南投縣 第02選區 水里鄉南光村",
+"area_nickname": "南投市、竹山鎮、集集鎮、名間鄉、鹿谷鄉、水里鄉、信義鄉",
+"county": "10008",
+"area": "02",
+"town": "110",
+"vill": "019",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "游顥",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "南投縣 第02選區 信義鄉人和村",
+"area_nickname": "南投市、竹山鎮、集集鎮、名間鄉、鹿谷鄉、水里鄉、信義鄉",
+"county": "10008",
+"area": "02",
+"town": "120",
+"vill": "001",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "游顥",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "南投縣 第02選區 信義鄉地利村",
+"area_nickname": "南投市、竹山鎮、集集鎮、名間鄉、鹿谷鄉、水里鄉、信義鄉",
+"county": "10008",
+"area": "02",
+"town": "120",
+"vill": "002",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "游顥",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "南投縣 第02選區 信義鄉潭南村",
+"area_nickname": "南投市、竹山鎮、集集鎮、名間鄉、鹿谷鄉、水里鄉、信義鄉",
+"county": "10008",
+"area": "02",
+"town": "120",
+"vill": "003",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "游顥",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "南投縣 第02選區 信義鄉明德村",
+"area_nickname": "南投市、竹山鎮、集集鎮、名間鄉、鹿谷鄉、水里鄉、信義鄉",
+"county": "10008",
+"area": "02",
+"town": "120",
+"vill": "004",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "游顥",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "南投縣 第02選區 信義鄉愛國村",
+"area_nickname": "南投市、竹山鎮、集集鎮、名間鄉、鹿谷鄉、水里鄉、信義鄉",
+"county": "10008",
+"area": "02",
+"town": "120",
+"vill": "005",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "游顥",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "南投縣 第02選區 信義鄉自強村",
+"area_nickname": "南投市、竹山鎮、集集鎮、名間鄉、鹿谷鄉、水里鄉、信義鄉",
+"county": "10008",
+"area": "02",
+"town": "120",
+"vill": "006",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "游顥",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "南投縣 第02選區 信義鄉羅娜村",
+"area_nickname": "南投市、竹山鎮、集集鎮、名間鄉、鹿谷鄉、水里鄉、信義鄉",
+"county": "10008",
+"area": "02",
+"town": "120",
+"vill": "007",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "游顥",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "南投縣 第02選區 信義鄉望美村",
+"area_nickname": "南投市、竹山鎮、集集鎮、名間鄉、鹿谷鄉、水里鄉、信義鄉",
+"county": "10008",
+"area": "02",
+"town": "120",
+"vill": "008",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "游顥",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "南投縣 第02選區 信義鄉同富村",
+"area_nickname": "南投市、竹山鎮、集集鎮、名間鄉、鹿谷鄉、水里鄉、信義鄉",
+"county": "10008",
+"area": "02",
+"town": "120",
+"vill": "009",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "游顥",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "南投縣 第02選區 信義鄉神木村",
+"area_nickname": "南投市、竹山鎮、集集鎮、名間鄉、鹿谷鄉、水里鄉、信義鄉",
+"county": "10008",
+"area": "02",
+"town": "120",
+"vill": "010",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "游顥",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "南投縣 第02選區 信義鄉東埔村",
+"area_nickname": "南投市、竹山鎮、集集鎮、名間鄉、鹿谷鄉、水里鄉、信義鄉",
+"county": "10008",
+"area": "02",
+"town": "120",
+"vill": "011",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "游顥",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "南投縣 第02選區 信義鄉雙龍村",
+"area_nickname": "南投市、竹山鎮、集集鎮、名間鄉、鹿谷鄉、水里鄉、信義鄉",
+"county": "10008",
+"area": "02",
+"town": "120",
+"vill": "012",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "游顥",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "南投縣 第02選區 信義鄉新鄉村",
+"area_nickname": "南投市、竹山鎮、集集鎮、名間鄉、鹿谷鄉、水里鄉、信義鄉",
+"county": "10008",
+"area": "02",
+"town": "120",
+"vill": "013",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "游顥",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "南投縣 第02選區 信義鄉豐丘村",
+"area_nickname": "南投市、竹山鎮、集集鎮、名間鄉、鹿谷鄉、水里鄉、信義鄉",
+"county": "10008",
+"area": "02",
+"town": "120",
+"vill": "014",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "游顥",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+},
+{
+ "range": "南投縣 第02選區 信義鄉卡里布安村",
+"area_nickname": "南投市、竹山鎮、集集鎮、名間鄉、鹿谷鄉、水里鄉、信義鄉",
+"county": "10008",
+"area": "02",
+"town": "120",
+"vill": "015",
+"type": "normal",
+"profRate": null,
+"votePop": null,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "游顥",
+"party": "中國國民黨",
+"agreeTks": null,
+"disagreeTks": null,
+"agreeRate": null,
+"disagreeRate": null,
+"adptVictor": "",
+"ytpRate": null 
+} 
+] 
+} 
+] 
+}
