@@ -1,5 +1,5 @@
 {
- "updatedAt": "2025-07-10 10:33:00",
+ "updatedAt": "2025-08-19 17:43:00",
 "is_running": false,
 "is_started": true,
 "districts": [
@@ -11,19 +11,20 @@
 "town": "010",
 "vill": "017",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    58.35,
+"votePop":     1736,
 "candidates": [
  {
  "candNo": "1",
 "name": "鄭正鈐",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      381,
+"disagreeTks":      629,
+"agreeRate":    37.72,
+"disagreeRate":    62.28,
+"adptVictor": "N",
+"ytpRate":    21.95,
+"ntpRate":    36.23 
 } 
 ] 
 },
@@ -35,19 +36,20 @@
 "town": "010",
 "vill": "005",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    60.57,
+"votePop":      487,
 "candidates": [
  {
  "candNo": "1",
 "name": "鄭正鈐",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      163,
+"disagreeTks":      130,
+"agreeRate":    55.63,
+"disagreeRate":    44.37,
+"adptVictor": "N",
+"ytpRate":    33.47,
+"ntpRate":    26.69 
 } 
 ] 
 },
@@ -59,19 +61,20 @@
 "town": "010",
 "vill": "007",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    60.91,
+"votePop":      504,
 "candidates": [
  {
  "candNo": "1",
 "name": "鄭正鈐",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      171,
+"disagreeTks":      133,
+"agreeRate":    56.25,
+"disagreeRate":    43.75,
+"adptVictor": "N",
+"ytpRate":    33.93,
+"ntpRate":    26.39 
 } 
 ] 
 },
@@ -83,19 +86,20 @@
 "town": "010",
 "vill": "006",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    53.97,
+"votePop":      252,
 "candidates": [
  {
  "candNo": "1",
 "name": "鄭正鈐",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":       79,
+"disagreeTks":       56,
+"agreeRate":    58.52,
+"disagreeRate":    41.48,
+"adptVictor": "N",
+"ytpRate":    31.35,
+"ntpRate":    22.22 
 } 
 ] 
 },
@@ -107,19 +111,20 @@
 "town": "010",
 "vill": "012",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    55.26,
+"votePop":      523,
 "candidates": [
  {
  "candNo": "1",
 "name": "鄭正鈐",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      132,
+"disagreeTks":      156,
+"agreeRate":    45.83,
+"disagreeRate":    54.17,
+"adptVictor": "N",
+"ytpRate":    25.24,
+"ntpRate":    29.83 
 } 
 ] 
 },
@@ -131,19 +136,20 @@
 "town": "010",
 "vill": "051",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    60.88,
+"votePop":     1838,
 "candidates": [
  {
  "candNo": "1",
 "name": "鄭正鈐",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      474,
+"disagreeTks":      640,
+"agreeRate":    42.55,
+"disagreeRate":    57.45,
+"adptVictor": "N",
+"ytpRate":    25.79,
+"ntpRate":    34.82 
 } 
 ] 
 },
@@ -155,19 +161,20 @@
 "town": "010",
 "vill": "018",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    59.84,
+"votePop":     4392,
 "candidates": [
  {
  "candNo": "1",
 "name": "鄭正鈐",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":     1102,
+"disagreeTks":     1503,
+"agreeRate":     42.3,
+"disagreeRate":     57.7,
+"adptVictor": "N",
+"ytpRate":    25.09,
+"ntpRate":    34.22 
 } 
 ] 
 },
@@ -179,19 +186,20 @@
 "town": "010",
 "vill": "019",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    60.64,
+"votePop":     3976,
 "candidates": [
  {
  "candNo": "1",
 "name": "鄭正鈐",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":     1068,
+"disagreeTks":     1334,
+"agreeRate":    44.46,
+"disagreeRate":    55.54,
+"adptVictor": "N",
+"ytpRate":    26.86,
+"ntpRate":    33.55 
 } 
 ] 
 },
@@ -203,19 +211,20 @@
 "town": "010",
 "vill": "050",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    58.17,
+"votePop":     4827,
 "candidates": [
  {
  "candNo": "1",
 "name": "鄭正鈐",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":     1163,
+"disagreeTks":     1629,
+"agreeRate":    41.65,
+"disagreeRate":    58.35,
+"adptVictor": "N",
+"ytpRate":    24.09,
+"ntpRate":    33.75 
 } 
 ] 
 },
@@ -227,19 +236,20 @@
 "town": "010",
 "vill": "020",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    59.51,
+"votePop":     4505,
 "candidates": [
  {
  "candNo": "1",
 "name": "鄭正鈐",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":     1204,
+"disagreeTks":     1465,
+"agreeRate":    45.11,
+"disagreeRate":    54.89,
+"adptVictor": "N",
+"ytpRate":    26.73,
+"ntpRate":    32.52 
 } 
 ] 
 },
@@ -251,19 +261,20 @@
 "town": "010",
 "vill": "021",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    61.86,
+"votePop":     5687,
 "candidates": [
  {
  "candNo": "1",
 "name": "鄭正鈐",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":     1579,
+"disagreeTks":     1918,
+"agreeRate":    45.15,
+"disagreeRate":    54.85,
+"adptVictor": "N",
+"ytpRate":    27.77,
+"ntpRate":    33.73 
 } 
 ] 
 },
@@ -275,19 +286,20 @@
 "town": "010",
 "vill": "013",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    59.93,
+"votePop":     3055,
 "candidates": [
  {
  "candNo": "1",
 "name": "鄭正鈐",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      703,
+"disagreeTks":     1113,
+"agreeRate":    38.71,
+"disagreeRate":    61.29,
+"adptVictor": "N",
+"ytpRate":    23.01,
+"ntpRate":    36.43 
 } 
 ] 
 },
@@ -299,19 +311,20 @@
 "town": "010",
 "vill": "048",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    61.96,
+"votePop":     2161,
 "candidates": [
  {
  "candNo": "1",
 "name": "鄭正鈐",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      567,
+"disagreeTks":      764,
+"agreeRate":     42.6,
+"disagreeRate":     57.4,
+"adptVictor": "N",
+"ytpRate":    26.24,
+"ntpRate":    35.35 
 } 
 ] 
 },
@@ -323,19 +336,20 @@
 "town": "010",
 "vill": "027",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    61.62,
+"votePop":     2848,
 "candidates": [
  {
  "candNo": "1",
 "name": "鄭正鈐",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      656,
+"disagreeTks":     1078,
+"agreeRate":    37.83,
+"disagreeRate":    62.17,
+"adptVictor": "N",
+"ytpRate":    23.03,
+"ntpRate":    37.85 
 } 
 ] 
 },
@@ -347,19 +361,20 @@
 "town": "010",
 "vill": "026",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    59.29,
+"votePop":     5915,
 "candidates": [
  {
  "candNo": "1",
 "name": "鄭正鈐",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":     1418,
+"disagreeTks":     2059,
+"agreeRate":    40.78,
+"disagreeRate":    59.22,
+"adptVictor": "N",
+"ytpRate":    23.97,
+"ntpRate":    34.81 
 } 
 ] 
 },
@@ -371,19 +386,20 @@
 "town": "010",
 "vill": "022",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    63.12,
+"votePop":     3934,
 "candidates": [
  {
  "candNo": "1",
 "name": "鄭正鈐",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":     1155,
+"disagreeTks":     1315,
+"agreeRate":    46.76,
+"disagreeRate":    53.24,
+"adptVictor": "N",
+"ytpRate":    29.36,
+"ntpRate":    33.43 
 } 
 ] 
 },
@@ -395,19 +411,20 @@
 "town": "010",
 "vill": "023",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    60.79,
+"votePop":     2770,
 "candidates": [
  {
  "candNo": "1",
 "name": "鄭正鈐",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      781,
+"disagreeTks":      891,
+"agreeRate":    46.71,
+"disagreeRate":    53.29,
+"adptVictor": "N",
+"ytpRate":    28.19,
+"ntpRate":    32.17 
 } 
 ] 
 },
@@ -419,19 +436,20 @@
 "town": "010",
 "vill": "038",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    57.35,
+"votePop":     2551,
 "candidates": [
  {
  "candNo": "1",
 "name": "鄭正鈐",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      663,
+"disagreeTks":      788,
+"agreeRate":    45.69,
+"disagreeRate":    54.31,
+"adptVictor": "N",
+"ytpRate":    25.99,
+"ntpRate":    30.89 
 } 
 ] 
 },
@@ -443,19 +461,20 @@
 "town": "010",
 "vill": "039",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    60.94,
+"votePop":     3049,
 "candidates": [
  {
  "candNo": "1",
 "name": "鄭正鈐",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      898,
+"disagreeTks":      949,
+"agreeRate":    48.62,
+"disagreeRate":    51.38,
+"adptVictor": "N",
+"ytpRate":    29.45,
+"ntpRate":    31.12 
 } 
 ] 
 },
@@ -467,19 +486,20 @@
 "town": "010",
 "vill": "040",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    63.47,
+"votePop":     1897,
 "candidates": [
  {
  "candNo": "1",
 "name": "鄭正鈐",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      440,
+"disagreeTks":      756,
+"agreeRate":    36.79,
+"disagreeRate":    63.21,
+"adptVictor": "N",
+"ytpRate":    23.19,
+"ntpRate":    39.85 
 } 
 ] 
 },
@@ -491,19 +511,20 @@
 "town": "010",
 "vill": "024",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    61.31,
+"votePop":     4249,
 "candidates": [
  {
  "candNo": "1",
 "name": "鄭正鈐",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":     1013,
+"disagreeTks":     1577,
+"agreeRate":    39.11,
+"disagreeRate":    60.89,
+"adptVictor": "N",
+"ytpRate":    23.84,
+"ntpRate":    37.11 
 } 
 ] 
 },
@@ -515,19 +536,20 @@
 "town": "010",
 "vill": "025",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    61.77,
+"votePop":     3827,
 "candidates": [
  {
  "candNo": "1",
 "name": "鄭正鈐",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      561,
+"disagreeTks":     1785,
+"agreeRate":    23.91,
+"disagreeRate":    76.09,
+"adptVictor": "N",
+"ytpRate":    14.66,
+"ntpRate":    46.64 
 } 
 ] 
 },
@@ -539,19 +561,20 @@
 "town": "010",
 "vill": "036",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    57.46,
+"votePop":     2579,
 "candidates": [
  {
  "candNo": "1",
 "name": "鄭正鈐",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      478,
+"disagreeTks":      994,
+"agreeRate":    32.47,
+"disagreeRate":    67.53,
+"adptVictor": "N",
+"ytpRate":    18.53,
+"ntpRate":    38.54 
 } 
 ] 
 },
@@ -563,19 +586,20 @@
 "town": "010",
 "vill": "035",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    58.94,
+"votePop":      789,
 "candidates": [
  {
  "candNo": "1",
 "name": "鄭正鈐",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      122,
+"disagreeTks":      339,
+"agreeRate":    26.46,
+"disagreeRate":    73.54,
+"adptVictor": "N",
+"ytpRate":    15.46,
+"ntpRate":    42.97 
 } 
 ] 
 },
@@ -587,19 +611,20 @@
 "town": "010",
 "vill": "037",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    62.11,
+"votePop":     3727,
 "candidates": [
  {
  "candNo": "1",
 "name": "鄭正鈐",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      612,
+"disagreeTks":     1684,
+"agreeRate":    26.66,
+"disagreeRate":    73.34,
+"adptVictor": "N",
+"ytpRate":    16.42,
+"ntpRate":    45.18 
 } 
 ] 
 },
@@ -611,19 +636,20 @@
 "town": "010",
 "vill": "033",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    58.03,
+"votePop":     2709,
 "candidates": [
  {
  "candNo": "1",
 "name": "鄭正鈐",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      565,
+"disagreeTks":      996,
+"agreeRate":    36.19,
+"disagreeRate":    63.81,
+"adptVictor": "N",
+"ytpRate":    20.86,
+"ntpRate":    36.77 
 } 
 ] 
 },
@@ -635,19 +661,20 @@
 "town": "010",
 "vill": "042",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    58.84,
+"votePop":     9261,
 "candidates": [
  {
  "candNo": "1",
 "name": "鄭正鈐",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":     2374,
+"disagreeTks":     3044,
+"agreeRate":    43.82,
+"disagreeRate":    56.18,
+"adptVictor": "N",
+"ytpRate":    25.63,
+"ntpRate":    32.87 
 } 
 ] 
 },
@@ -659,19 +686,20 @@
 "town": "010",
 "vill": "047",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    63.86,
+"votePop":     5755,
 "candidates": [
  {
  "candNo": "1",
 "name": "鄭正鈐",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":     1374,
+"disagreeTks":     2281,
+"agreeRate":    37.59,
+"disagreeRate":    62.41,
+"adptVictor": "N",
+"ytpRate":    23.87,
+"ntpRate":    39.64 
 } 
 ] 
 },
@@ -683,19 +711,20 @@
 "town": "010",
 "vill": "041",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    56.83,
+"votePop":     7726,
 "candidates": [
  {
  "candNo": "1",
 "name": "鄭正鈐",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":     1878,
+"disagreeTks":     2482,
+"agreeRate":    43.07,
+"disagreeRate":    56.93,
+"adptVictor": "N",
+"ytpRate":    24.31,
+"ntpRate":    32.13 
 } 
 ] 
 },
@@ -707,19 +736,20 @@
 "town": "010",
 "vill": "043",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    60.26,
+"votePop":     4955,
 "candidates": [
  {
  "candNo": "1",
 "name": "鄭正鈐",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":     1154,
+"disagreeTks":     1810,
+"agreeRate":    38.93,
+"disagreeRate":    61.07,
+"adptVictor": "N",
+"ytpRate":    23.29,
+"ntpRate":    36.53 
 } 
 ] 
 },
@@ -731,19 +761,20 @@
 "town": "010",
 "vill": "046",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    57.08,
+"votePop":     4620,
 "candidates": [
  {
  "candNo": "1",
 "name": "鄭正鈐",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":     1000,
+"disagreeTks":     1618,
+"agreeRate":     38.2,
+"disagreeRate":     61.8,
+"adptVictor": "N",
+"ytpRate":    21.65,
+"ntpRate":    35.02 
 } 
 ] 
 },
@@ -755,19 +786,20 @@
 "town": "010",
 "vill": "045",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    56.77,
+"votePop":     5096,
 "candidates": [
  {
  "candNo": "1",
 "name": "鄭正鈐",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":     1062,
+"disagreeTks":     1810,
+"agreeRate":    36.98,
+"disagreeRate":    63.02,
+"adptVictor": "N",
+"ytpRate":    20.84,
+"ntpRate":    35.52 
 } 
 ] 
 },
@@ -779,19 +811,20 @@
 "town": "010",
 "vill": "044",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    59.37,
+"votePop":     5058,
 "candidates": [
  {
  "candNo": "1",
 "name": "鄭正鈐",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":     1256,
+"disagreeTks":     1726,
+"agreeRate":    42.12,
+"disagreeRate":    57.88,
+"adptVictor": "N",
+"ytpRate":    24.83,
+"ntpRate":    34.12 
 } 
 ] 
 },
@@ -803,19 +836,20 @@
 "town": "010",
 "vill": "032",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    63.49,
+"votePop":     1164,
 "candidates": [
  {
  "candNo": "1",
 "name": "鄭正鈐",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      313,
+"disagreeTks":      424,
+"agreeRate":    42.47,
+"disagreeRate":    57.53,
+"adptVictor": "N",
+"ytpRate":    26.89,
+"ntpRate":    36.43 
 } 
 ] 
 },
@@ -827,19 +861,20 @@
 "town": "010",
 "vill": "004",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    58.56,
+"votePop":      432,
 "candidates": [
  {
  "candNo": "1",
 "name": "鄭正鈐",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      140,
+"disagreeTks":      110,
+"agreeRate":       56,
+"disagreeRate":       44,
+"adptVictor": "N",
+"ytpRate":    32.41,
+"ntpRate":    25.46 
 } 
 ] 
 },
@@ -851,19 +886,20 @@
 "town": "010",
 "vill": "001",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    60.15,
+"votePop":      660,
 "candidates": [
  {
  "candNo": "1",
 "name": "鄭正鈐",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      195,
+"disagreeTks":      198,
+"agreeRate":    49.62,
+"disagreeRate":    50.38,
+"adptVictor": "N",
+"ytpRate":    29.55,
+"ntpRate":       30 
 } 
 ] 
 },
@@ -875,19 +911,20 @@
 "town": "010",
 "vill": "003",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":     60.1,
+"votePop":      787,
 "candidates": [
  {
  "candNo": "1",
 "name": "鄭正鈐",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      265,
+"disagreeTks":      203,
+"agreeRate":    56.62,
+"disagreeRate":    43.38,
+"adptVictor": "N",
+"ytpRate":    33.67,
+"ntpRate":    25.79 
 } 
 ] 
 },
@@ -899,19 +936,20 @@
 "town": "010",
 "vill": "002",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    62.69,
+"votePop":     1399,
 "candidates": [
  {
  "candNo": "1",
 "name": "鄭正鈐",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      402,
+"disagreeTks":      468,
+"agreeRate":    46.21,
+"disagreeRate":    53.79,
+"adptVictor": "N",
+"ytpRate":    28.73,
+"ntpRate":    33.45 
 } 
 ] 
 },
@@ -923,19 +961,20 @@
 "town": "010",
 "vill": "016",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    57.74,
+"votePop":     5251,
 "candidates": [
  {
  "candNo": "1",
 "name": "鄭正鈐",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":     1262,
+"disagreeTks":     1759,
+"agreeRate":    41.77,
+"disagreeRate":    58.23,
+"adptVictor": "N",
+"ytpRate":    24.03,
+"ntpRate":     33.5 
 } 
 ] 
 },
@@ -947,19 +986,20 @@
 "town": "010",
 "vill": "029",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    60.55,
+"votePop":     2981,
 "candidates": [
  {
  "candNo": "1",
 "name": "鄭正鈐",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      822,
+"disagreeTks":      973,
+"agreeRate":    45.79,
+"disagreeRate":    54.21,
+"adptVictor": "N",
+"ytpRate":    27.57,
+"ntpRate":    32.64 
 } 
 ] 
 },
@@ -971,19 +1011,20 @@
 "town": "010",
 "vill": "010",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    61.87,
+"votePop":      758,
 "candidates": [
  {
  "candNo": "1",
 "name": "鄭正鈐",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      223,
+"disagreeTks":      242,
+"agreeRate":    47.96,
+"disagreeRate":    52.04,
+"adptVictor": "N",
+"ytpRate":    29.42,
+"ntpRate":    31.93 
 } 
 ] 
 },
@@ -995,19 +1036,20 @@
 "town": "010",
 "vill": "009",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    61.85,
+"votePop":      637,
 "candidates": [
  {
  "candNo": "1",
 "name": "鄭正鈐",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      197,
+"disagreeTks":      196,
+"agreeRate":    50.13,
+"disagreeRate":    49.87,
+"adptVictor": "N",
+"ytpRate":    30.93,
+"ntpRate":    30.77 
 } 
 ] 
 },
@@ -1019,19 +1061,20 @@
 "town": "010",
 "vill": "008",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":     63.1,
+"votePop":      393,
 "candidates": [
  {
  "candNo": "1",
 "name": "鄭正鈐",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      101,
+"disagreeTks":      145,
+"agreeRate":    41.06,
+"disagreeRate":    58.94,
+"adptVictor": "N",
+"ytpRate":     25.7,
+"ntpRate":     36.9 
 } 
 ] 
 },
@@ -1043,19 +1086,20 @@
 "town": "010",
 "vill": "014",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    61.54,
+"votePop":     2605,
 "candidates": [
  {
  "candNo": "1",
 "name": "鄭正鈐",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      757,
+"disagreeTks":      834,
+"agreeRate":    47.58,
+"disagreeRate":    52.42,
+"adptVictor": "N",
+"ytpRate":    29.06,
+"ntpRate":    32.02 
 } 
 ] 
 },
@@ -1067,19 +1111,20 @@
 "town": "010",
 "vill": "015",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    60.71,
+"votePop":     1260,
 "candidates": [
  {
  "candNo": "1",
 "name": "鄭正鈐",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      367,
+"disagreeTks":      388,
+"agreeRate":    48.61,
+"disagreeRate":    51.39,
+"adptVictor": "N",
+"ytpRate":    29.13,
+"ntpRate":    30.79 
 } 
 ] 
 },
@@ -1091,19 +1136,20 @@
 "town": "010",
 "vill": "049",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    59.93,
+"votePop":     3367,
 "candidates": [
  {
  "candNo": "1",
 "name": "鄭正鈐",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      898,
+"disagreeTks":     1108,
+"agreeRate":    44.77,
+"disagreeRate":    55.23,
+"adptVictor": "N",
+"ytpRate":    26.67,
+"ntpRate":    32.91 
 } 
 ] 
 },
@@ -1115,19 +1161,20 @@
 "town": "010",
 "vill": "028",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    58.46,
+"votePop":     3351,
 "candidates": [
  {
  "candNo": "1",
 "name": "鄭正鈐",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      845,
+"disagreeTks":     1102,
+"agreeRate":     43.4,
+"disagreeRate":     56.6,
+"adptVictor": "N",
+"ytpRate":    25.22,
+"ntpRate":    32.89 
 } 
 ] 
 },
@@ -1139,19 +1186,20 @@
 "town": "010",
 "vill": "031",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    59.49,
+"votePop":     5376,
 "candidates": [
  {
  "candNo": "1",
 "name": "鄭正鈐",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":     1321,
+"disagreeTks":     1856,
+"agreeRate":    41.58,
+"disagreeRate":    58.42,
+"adptVictor": "N",
+"ytpRate":    24.57,
+"ntpRate":    34.52 
 } 
 ] 
 },
@@ -1163,19 +1211,20 @@
 "town": "010",
 "vill": "052",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    62.36,
+"votePop":     3300,
 "candidates": [
  {
  "candNo": "1",
 "name": "鄭正鈐",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      902,
+"disagreeTks":     1149,
+"agreeRate":    43.98,
+"disagreeRate":    56.02,
+"adptVictor": "N",
+"ytpRate":    27.33,
+"ntpRate":    34.82 
 } 
 ] 
 },
@@ -1187,19 +1236,20 @@
 "town": "010",
 "vill": "030",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":     59.6,
+"votePop":     5342,
 "candidates": [
  {
  "candNo": "1",
 "name": "鄭正鈐",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":     1311,
+"disagreeTks":     1859,
+"agreeRate":    41.36,
+"disagreeRate":    58.64,
+"adptVictor": "N",
+"ytpRate":    24.54,
+"ntpRate":     34.8 
 } 
 ] 
 },
@@ -1211,19 +1261,20 @@
 "town": "010",
 "vill": "053",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":       52,
+"votePop":     4881,
 "candidates": [
  {
  "candNo": "1",
 "name": "鄭正鈐",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      930,
+"disagreeTks":     1588,
+"agreeRate":    36.93,
+"disagreeRate":    63.07,
+"adptVictor": "N",
+"ytpRate":    19.05,
+"ntpRate":    32.53 
 } 
 ] 
 },
@@ -1235,19 +1286,20 @@
 "town": "020",
 "vill": "003",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    63.65,
+"votePop":      674,
 "candidates": [
  {
  "candNo": "1",
 "name": "鄭正鈐",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      232,
+"disagreeTks":      196,
+"agreeRate":    54.21,
+"disagreeRate":    45.79,
+"adptVictor": "N",
+"ytpRate":    34.42,
+"ntpRate":    29.08 
 } 
 ] 
 },
@@ -1259,19 +1311,20 @@
 "town": "020",
 "vill": "006",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    58.98,
+"votePop":      512,
 "candidates": [
  {
  "candNo": "1",
 "name": "鄭正鈐",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      151,
+"disagreeTks":      148,
+"agreeRate":     50.5,
+"disagreeRate":     49.5,
+"adptVictor": "N",
+"ytpRate":    29.49,
+"ntpRate":    28.91 
 } 
 ] 
 },
@@ -1283,19 +1336,20 @@
 "town": "020",
 "vill": "002",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    57.46,
+"votePop":      684,
 "candidates": [
  {
  "candNo": "1",
 "name": "鄭正鈐",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      204,
+"disagreeTks":      185,
+"agreeRate":    52.44,
+"disagreeRate":    47.56,
+"adptVictor": "N",
+"ytpRate":    29.82,
+"ntpRate":    27.05 
 } 
 ] 
 },
@@ -1307,19 +1361,20 @@
 "town": "020",
 "vill": "005",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":       61,
+"votePop":     1018,
 "candidates": [
  {
  "candNo": "1",
 "name": "鄭正鈐",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      338,
+"disagreeTks":      281,
+"agreeRate":     54.6,
+"disagreeRate":     45.4,
+"adptVictor": "N",
+"ytpRate":     33.2,
+"ntpRate":     27.6 
 } 
 ] 
 },
@@ -1331,19 +1386,20 @@
 "town": "020",
 "vill": "007",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    57.89,
+"votePop":     1268,
 "candidates": [
  {
  "candNo": "1",
 "name": "鄭正鈐",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      363,
+"disagreeTks":      365,
+"agreeRate":    49.86,
+"disagreeRate":    50.14,
+"adptVictor": "N",
+"ytpRate":    28.63,
+"ntpRate":    28.79 
 } 
 ] 
 },
@@ -1355,19 +1411,20 @@
 "town": "020",
 "vill": "031",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    58.34,
+"votePop":     3233,
 "candidates": [
  {
  "candNo": "1",
 "name": "鄭正鈐",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      876,
+"disagreeTks":      991,
+"agreeRate":    46.92,
+"disagreeRate":    53.08,
+"adptVictor": "N",
+"ytpRate":     27.1,
+"ntpRate":    30.65 
 } 
 ] 
 },
@@ -1379,19 +1436,20 @@
 "town": "020",
 "vill": "044",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    55.19,
+"votePop":     1569,
 "candidates": [
  {
  "candNo": "1",
 "name": "鄭正鈐",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      401,
+"disagreeTks":      456,
+"agreeRate":    46.79,
+"disagreeRate":    53.21,
+"adptVictor": "N",
+"ytpRate":    25.56,
+"ntpRate":    29.06 
 } 
 ] 
 },
@@ -1403,19 +1461,20 @@
 "town": "020",
 "vill": "032",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    55.58,
+"votePop":     4977,
 "candidates": [
  {
  "candNo": "1",
 "name": "鄭正鈐",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":     1102,
+"disagreeTks":     1653,
+"agreeRate":       40,
+"disagreeRate":       60,
+"adptVictor": "N",
+"ytpRate":    22.14,
+"ntpRate":    33.21 
 } 
 ] 
 },
@@ -1427,19 +1486,20 @@
 "town": "020",
 "vill": "033",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    60.43,
+"votePop":     2694,
 "candidates": [
  {
  "candNo": "1",
 "name": "鄭正鈐",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      766,
+"disagreeTks":      852,
+"agreeRate":    47.34,
+"disagreeRate":    52.66,
+"adptVictor": "N",
+"ytpRate":    28.43,
+"ntpRate":    31.63 
 } 
 ] 
 },
@@ -1451,19 +1511,20 @@
 "town": "020",
 "vill": "030",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    60.21,
+"votePop":     1837,
 "candidates": [
  {
  "candNo": "1",
 "name": "鄭正鈐",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      539,
+"disagreeTks":      562,
+"agreeRate":    48.96,
+"disagreeRate":    51.04,
+"adptVictor": "N",
+"ytpRate":    29.34,
+"ntpRate":    30.59 
 } 
 ] 
 },
@@ -1475,19 +1536,20 @@
 "town": "020",
 "vill": "034",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    62.07,
+"votePop":     4160,
 "candidates": [
  {
  "candNo": "1",
 "name": "鄭正鈐",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":     1336,
+"disagreeTks":     1226,
+"agreeRate":    52.15,
+"disagreeRate":    47.85,
+"adptVictor": "N",
+"ytpRate":    32.12,
+"ntpRate":    29.47 
 } 
 ] 
 },
@@ -1499,19 +1561,20 @@
 "town": "020",
 "vill": "035",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    44.98,
+"votePop":      209,
 "candidates": [
  {
  "candNo": "1",
 "name": "鄭正鈐",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":       22,
+"disagreeTks":       72,
+"agreeRate":     23.4,
+"disagreeRate":     76.6,
+"adptVictor": "N",
+"ytpRate":    10.53,
+"ntpRate":    34.45 
 } 
 ] 
 },
@@ -1523,19 +1586,20 @@
 "town": "020",
 "vill": "010",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    63.13,
+"votePop":      716,
 "candidates": [
  {
  "candNo": "1",
 "name": "鄭正鈐",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      211,
+"disagreeTks":      236,
+"agreeRate":     47.2,
+"disagreeRate":     52.8,
+"adptVictor": "N",
+"ytpRate":    29.47,
+"ntpRate":    32.96 
 } 
 ] 
 },
@@ -1547,19 +1611,20 @@
 "town": "020",
 "vill": "011",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    60.86,
+"votePop":      861,
 "candidates": [
  {
  "candNo": "1",
 "name": "鄭正鈐",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      278,
+"disagreeTks":      245,
+"agreeRate":    53.15,
+"disagreeRate":    46.85,
+"adptVictor": "N",
+"ytpRate":    32.29,
+"ntpRate":    28.46 
 } 
 ] 
 },
@@ -1571,19 +1636,20 @@
 "town": "020",
 "vill": "009",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":     63.3,
+"votePop":      872,
 "candidates": [
  {
  "candNo": "1",
 "name": "鄭正鈐",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      266,
+"disagreeTks":      283,
+"agreeRate":    48.45,
+"disagreeRate":    51.55,
+"adptVictor": "N",
+"ytpRate":     30.5,
+"ntpRate":    32.45 
 } 
 ] 
 },
@@ -1595,19 +1661,20 @@
 "town": "020",
 "vill": "013",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    58.24,
+"votePop":     1504,
 "candidates": [
  {
  "candNo": "1",
 "name": "鄭正鈐",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      389,
+"disagreeTks":      482,
+"agreeRate":    44.66,
+"disagreeRate":    55.34,
+"adptVictor": "N",
+"ytpRate":    25.86,
+"ntpRate":    32.05 
 } 
 ] 
 },
@@ -1619,19 +1686,20 @@
 "town": "020",
 "vill": "012",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":     57.6,
+"votePop":     1335,
 "candidates": [
  {
  "candNo": "1",
 "name": "鄭正鈐",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      382,
+"disagreeTks":      381,
+"agreeRate":    50.07,
+"disagreeRate":    49.93,
+"adptVictor": "N",
+"ytpRate":    28.61,
+"ntpRate":    28.54 
 } 
 ] 
 },
@@ -1643,19 +1711,20 @@
 "town": "020",
 "vill": "008",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    58.95,
+"votePop":      950,
 "candidates": [
  {
  "candNo": "1",
 "name": "鄭正鈐",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      292,
+"disagreeTks":      263,
+"agreeRate":    52.61,
+"disagreeRate":    47.39,
+"adptVictor": "N",
+"ytpRate":    30.74,
+"ntpRate":    27.68 
 } 
 ] 
 },
@@ -1667,19 +1736,20 @@
 "town": "020",
 "vill": "014",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    56.83,
+"votePop":     4450,
 "candidates": [
  {
  "candNo": "1",
 "name": "鄭正鈐",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":     1197,
+"disagreeTks":     1320,
+"agreeRate":    47.56,
+"disagreeRate":    52.44,
+"adptVictor": "N",
+"ytpRate":     26.9,
+"ntpRate":    29.66 
 } 
 ] 
 },
@@ -1691,19 +1761,20 @@
 "town": "020",
 "vill": "037",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    61.56,
+"votePop":     5060,
 "candidates": [
  {
  "candNo": "1",
 "name": "鄭正鈐",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":     1477,
+"disagreeTks":     1617,
+"agreeRate":    47.74,
+"disagreeRate":    52.26,
+"adptVictor": "N",
+"ytpRate":    29.19,
+"ntpRate":    31.96 
 } 
 ] 
 },
@@ -1715,19 +1786,20 @@
 "town": "020",
 "vill": "038",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    57.93,
+"votePop":     4312,
 "candidates": [
  {
  "candNo": "1",
 "name": "鄭正鈐",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":     1153,
+"disagreeTks":     1323,
+"agreeRate":    46.57,
+"disagreeRate":    53.43,
+"adptVictor": "N",
+"ytpRate":    26.74,
+"ntpRate":    30.68 
 } 
 ] 
 },
@@ -1739,19 +1811,20 @@
 "town": "020",
 "vill": "016",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    61.84,
+"votePop":     3826,
 "candidates": [
  {
  "candNo": "1",
 "name": "鄭正鈐",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":     1099,
+"disagreeTks":     1248,
+"agreeRate":    46.83,
+"disagreeRate":    53.17,
+"adptVictor": "N",
+"ytpRate":    28.72,
+"ntpRate":    32.62 
 } 
 ] 
 },
@@ -1763,19 +1836,20 @@
 "town": "020",
 "vill": "015",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    59.77,
+"votePop":     3189,
 "candidates": [
  {
  "candNo": "1",
 "name": "鄭正鈐",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      890,
+"disagreeTks":     1006,
+"agreeRate":    46.94,
+"disagreeRate":    53.06,
+"adptVictor": "N",
+"ytpRate":    27.91,
+"ntpRate":    31.55 
 } 
 ] 
 },
@@ -1787,19 +1861,20 @@
 "town": "020",
 "vill": "017",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    60.01,
+"votePop":     1953,
 "candidates": [
  {
  "candNo": "1",
 "name": "鄭正鈐",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      488,
+"disagreeTks":      677,
+"agreeRate":    41.89,
+"disagreeRate":    58.11,
+"adptVictor": "N",
+"ytpRate":    24.99,
+"ntpRate":    34.66 
 } 
 ] 
 },
@@ -1811,19 +1886,20 @@
 "town": "020",
 "vill": "039",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    48.43,
+"votePop":     4055,
 "candidates": [
  {
  "candNo": "1",
 "name": "鄭正鈐",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      817,
+"disagreeTks":     1136,
+"agreeRate":    41.83,
+"disagreeRate":    58.17,
+"adptVictor": "N",
+"ytpRate":    20.15,
+"ntpRate":    28.01 
 } 
 ] 
 },
@@ -1835,19 +1911,20 @@
 "town": "020",
 "vill": "040",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    60.34,
+"votePop":     4657,
 "candidates": [
  {
  "candNo": "1",
 "name": "鄭正鈐",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":     1229,
+"disagreeTks":     1565,
+"agreeRate":    43.99,
+"disagreeRate":    56.01,
+"adptVictor": "N",
+"ytpRate":    26.39,
+"ntpRate":    33.61 
 } 
 ] 
 },
@@ -1859,19 +1936,20 @@
 "town": "020",
 "vill": "021",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    64.38,
+"votePop":     2583,
 "candidates": [
  {
  "candNo": "1",
 "name": "鄭正鈐",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      714,
+"disagreeTks":      938,
+"agreeRate":    43.22,
+"disagreeRate":    56.78,
+"adptVictor": "N",
+"ytpRate":    27.64,
+"ntpRate":    36.31 
 } 
 ] 
 },
@@ -1883,19 +1961,20 @@
 "town": "020",
 "vill": "043",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    64.91,
+"votePop":     3904,
 "candidates": [
  {
  "candNo": "1",
 "name": "鄭正鈐",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":     1146,
+"disagreeTks":     1373,
+"agreeRate":    45.49,
+"disagreeRate":    54.51,
+"adptVictor": "N",
+"ytpRate":    29.35,
+"ntpRate":    35.17 
 } 
 ] 
 },
@@ -1907,19 +1986,20 @@
 "town": "020",
 "vill": "042",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    61.63,
+"votePop":     6695,
 "candidates": [
  {
  "candNo": "1",
 "name": "鄭正鈐",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":     1664,
+"disagreeTks":     2430,
+"agreeRate":    40.64,
+"disagreeRate":    59.36,
+"adptVictor": "N",
+"ytpRate":    24.85,
+"ntpRate":     36.3 
 } 
 ] 
 },
@@ -1931,19 +2011,20 @@
 "town": "020",
 "vill": "022",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    60.67,
+"votePop":     5629,
 "candidates": [
  {
  "candNo": "1",
 "name": "鄭正鈐",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":     1484,
+"disagreeTks":     1917,
+"agreeRate":    43.63,
+"disagreeRate":    56.37,
+"adptVictor": "N",
+"ytpRate":    26.36,
+"ntpRate":    34.06 
 } 
 ] 
 },
@@ -1955,19 +2036,20 @@
 "town": "020",
 "vill": "041",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    60.95,
+"votePop":     5600,
 "candidates": [
  {
  "candNo": "1",
 "name": "鄭正鈐",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":     1373,
+"disagreeTks":     2017,
+"agreeRate":     40.5,
+"disagreeRate":     59.5,
+"adptVictor": "N",
+"ytpRate":    24.52,
+"ntpRate":    36.02 
 } 
 ] 
 },
@@ -1979,19 +2061,20 @@
 "town": "020",
 "vill": "023",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    63.05,
+"votePop":     4265,
 "candidates": [
  {
  "candNo": "1",
 "name": "鄭正鈐",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      599,
+"disagreeTks":     2078,
+"agreeRate":    22.38,
+"disagreeRate":    77.62,
+"adptVictor": "N",
+"ytpRate":    14.04,
+"ntpRate":    48.72 
 } 
 ] 
 },
@@ -2003,19 +2086,20 @@
 "town": "020",
 "vill": "019",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    61.63,
+"votePop":     3641,
 "candidates": [
  {
  "candNo": "1",
 "name": "鄭正鈐",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      904,
+"disagreeTks":     1320,
+"agreeRate":    40.65,
+"disagreeRate":    59.35,
+"adptVictor": "N",
+"ytpRate":    24.83,
+"ntpRate":    36.25 
 } 
 ] 
 },
@@ -2027,19 +2111,20 @@
 "town": "020",
 "vill": "036",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":     60.7,
+"votePop":     4405,
 "candidates": [
  {
  "candNo": "1",
 "name": "鄭正鈐",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":     1171,
+"disagreeTks":     1484,
+"agreeRate":    44.11,
+"disagreeRate":    55.89,
+"adptVictor": "N",
+"ytpRate":    26.58,
+"ntpRate":    33.69 
 } 
 ] 
 },
@@ -2051,19 +2136,20 @@
 "town": "020",
 "vill": "018",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    61.77,
+"votePop":     2218,
 "candidates": [
  {
  "candNo": "1",
 "name": "鄭正鈐",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      650,
+"disagreeTks":      709,
+"agreeRate":    47.83,
+"disagreeRate":    52.17,
+"adptVictor": "N",
+"ytpRate":    29.31,
+"ntpRate":    31.97 
 } 
 ] 
 },
@@ -2075,19 +2161,20 @@
 "town": "020",
 "vill": "020",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":     59.5,
+"votePop":      805,
 "candidates": [
  {
  "candNo": "1",
 "name": "鄭正鈐",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      239,
+"disagreeTks":      234,
+"agreeRate":    50.53,
+"disagreeRate":    49.47,
+"adptVictor": "N",
+"ytpRate":    29.69,
+"ntpRate":    29.07 
 } 
 ] 
 },
@@ -2099,19 +2186,20 @@
 "town": "020",
 "vill": "024",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":     53.1,
+"votePop":     5701,
 "candidates": [
  {
  "candNo": "1",
 "name": "鄭正鈐",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":     1285,
+"disagreeTks":     1706,
+"agreeRate":    42.96,
+"disagreeRate":    57.04,
+"adptVictor": "N",
+"ytpRate":    22.54,
+"ntpRate":    29.92 
 } 
 ] 
 },
@@ -2123,19 +2211,20 @@
 "town": "020",
 "vill": "026",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    58.81,
+"votePop":     3183,
 "candidates": [
  {
  "candNo": "1",
 "name": "鄭正鈐",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      817,
+"disagreeTks":     1041,
+"agreeRate":    43.97,
+"disagreeRate":    56.03,
+"adptVictor": "N",
+"ytpRate":    25.67,
+"ntpRate":     32.7 
 } 
 ] 
 },
@@ -2147,19 +2236,20 @@
 "town": "020",
 "vill": "028",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    56.81,
+"votePop":     3908,
 "candidates": [
  {
  "candNo": "1",
 "name": "鄭正鈐",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      938,
+"disagreeTks":     1261,
+"agreeRate":    42.66,
+"disagreeRate":    57.34,
+"adptVictor": "N",
+"ytpRate":       24,
+"ntpRate":    32.27 
 } 
 ] 
 },
@@ -2171,19 +2261,20 @@
 "town": "020",
 "vill": "029",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":     54.5,
+"votePop":     4571,
 "candidates": [
  {
  "candNo": "1",
 "name": "鄭正鈐",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":     1019,
+"disagreeTks":     1454,
+"agreeRate":    41.21,
+"disagreeRate":    58.79,
+"adptVictor": "N",
+"ytpRate":    22.29,
+"ntpRate":    31.81 
 } 
 ] 
 },
@@ -2195,19 +2286,20 @@
 "town": "020",
 "vill": "027",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    55.14,
+"votePop":     2247,
 "candidates": [
  {
  "candNo": "1",
 "name": "鄭正鈐",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      571,
+"disagreeTks":      658,
+"agreeRate":    46.46,
+"disagreeRate":    53.54,
+"adptVictor": "N",
+"ytpRate":    25.41,
+"ntpRate":    29.28 
 } 
 ] 
 },
@@ -2219,19 +2311,20 @@
 "town": "020",
 "vill": "025",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    60.38,
+"votePop":      525,
 "candidates": [
  {
  "candNo": "1",
 "name": "鄭正鈐",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      137,
+"disagreeTks":      178,
+"agreeRate":    43.49,
+"disagreeRate":    56.51,
+"adptVictor": "N",
+"ytpRate":     26.1,
+"ntpRate":     33.9 
 } 
 ] 
 },
@@ -2243,19 +2336,20 @@
 "town": "030",
 "vill": "009",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    58.65,
+"votePop":     4900,
 "candidates": [
  {
  "candNo": "1",
 "name": "鄭正鈐",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":     1334,
+"disagreeTks":     1527,
+"agreeRate":    46.63,
+"disagreeRate":    53.37,
+"adptVictor": "N",
+"ytpRate":    27.22,
+"ntpRate":    31.16 
 } 
 ] 
 },
@@ -2267,19 +2361,20 @@
 "town": "030",
 "vill": "024",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    58.92,
+"votePop":     4506,
 "candidates": [
  {
  "candNo": "1",
 "name": "鄭正鈐",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":     1153,
+"disagreeTks":     1487,
+"agreeRate":    43.67,
+"disagreeRate":    56.33,
+"adptVictor": "N",
+"ytpRate":    25.59,
+"ntpRate":       33 
 } 
 ] 
 },
@@ -2291,19 +2386,20 @@
 "town": "030",
 "vill": "007",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    61.54,
+"votePop":     2699,
 "candidates": [
  {
  "candNo": "1",
 "name": "鄭正鈐",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      762,
+"disagreeTks":      883,
+"agreeRate":    46.32,
+"disagreeRate":    53.68,
+"adptVictor": "N",
+"ytpRate":    28.23,
+"ntpRate":    32.72 
 } 
 ] 
 },
@@ -2315,19 +2411,20 @@
 "town": "030",
 "vill": "008",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    54.45,
+"votePop":     4975,
 "candidates": [
  {
  "candNo": "1",
 "name": "鄭正鈐",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":     1160,
+"disagreeTks":     1535,
+"agreeRate":    43.04,
+"disagreeRate":    56.96,
+"adptVictor": "N",
+"ytpRate":    23.32,
+"ntpRate":    30.85 
 } 
 ] 
 },
@@ -2339,19 +2436,20 @@
 "town": "030",
 "vill": "006",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":     59.9,
+"votePop":     3040,
 "candidates": [
  {
  "candNo": "1",
 "name": "鄭正鈐",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      921,
+"disagreeTks":      886,
+"agreeRate":    50.97,
+"disagreeRate":    49.03,
+"adptVictor": "N",
+"ytpRate":     30.3,
+"ntpRate":    29.14 
 } 
 ] 
 },
@@ -2363,19 +2461,20 @@
 "town": "030",
 "vill": "005",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    60.35,
+"votePop":     2005,
 "candidates": [
  {
  "candNo": "1",
 "name": "鄭正鈐",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      677,
+"disagreeTks":      524,
+"agreeRate":    56.37,
+"disagreeRate":    43.63,
+"adptVictor": "N",
+"ytpRate":    33.77,
+"ntpRate":    26.13 
 } 
 ] 
 },
@@ -2387,19 +2486,20 @@
 "town": "030",
 "vill": "004",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    57.96,
+"votePop":     2298,
 "candidates": [
  {
  "candNo": "1",
 "name": "鄭正鈐",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      655,
+"disagreeTks":      659,
+"agreeRate":    49.85,
+"disagreeRate":    50.15,
+"adptVictor": "N",
+"ytpRate":     28.5,
+"ntpRate":    28.68 
 } 
 ] 
 },
@@ -2411,19 +2511,20 @@
 "town": "030",
 "vill": "003",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    60.68,
+"votePop":     2111,
 "candidates": [
  {
  "candNo": "1",
 "name": "鄭正鈐",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      600,
+"disagreeTks":      672,
+"agreeRate":    47.17,
+"disagreeRate":    52.83,
+"adptVictor": "N",
+"ytpRate":    28.42,
+"ntpRate":    31.83 
 } 
 ] 
 },
@@ -2435,19 +2536,20 @@
 "town": "030",
 "vill": "002",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    55.53,
+"votePop":     5167,
 "candidates": [
  {
  "candNo": "1",
 "name": "鄭正鈐",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":     1384,
+"disagreeTks":     1465,
+"agreeRate":    48.58,
+"disagreeRate":    51.42,
+"adptVictor": "N",
+"ytpRate":    26.79,
+"ntpRate":    28.35 
 } 
 ] 
 },
@@ -2459,19 +2561,20 @@
 "town": "030",
 "vill": "001",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    58.85,
+"votePop":     2746,
 "candidates": [
  {
  "candNo": "1",
 "name": "鄭正鈐",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      797,
+"disagreeTks":      806,
+"agreeRate":    49.72,
+"disagreeRate":    50.28,
+"adptVictor": "N",
+"ytpRate":    29.02,
+"ntpRate":    29.35 
 } 
 ] 
 },
@@ -2483,19 +2586,20 @@
 "town": "030",
 "vill": "010",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    59.22,
+"votePop":     4107,
 "candidates": [
  {
  "candNo": "1",
 "name": "鄭正鈐",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      956,
+"disagreeTks":     1458,
+"agreeRate":     39.6,
+"disagreeRate":     60.4,
+"adptVictor": "N",
+"ytpRate":    23.28,
+"ntpRate":     35.5 
 } 
 ] 
 },
@@ -2507,19 +2611,20 @@
 "town": "030",
 "vill": "011",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    55.88,
+"votePop":     3740,
 "candidates": [
  {
  "candNo": "1",
 "name": "鄭正鈐",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      843,
+"disagreeTks":     1238,
+"agreeRate":    40.51,
+"disagreeRate":    59.49,
+"adptVictor": "N",
+"ytpRate":    22.54,
+"ntpRate":     33.1 
 } 
 ] 
 },
@@ -2531,19 +2636,20 @@
 "town": "030",
 "vill": "012",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    59.28,
+"votePop":     4194,
 "candidates": [
  {
  "candNo": "1",
 "name": "鄭正鈐",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":     1050,
+"disagreeTks":     1422,
+"agreeRate":    42.48,
+"disagreeRate":    57.52,
+"adptVictor": "N",
+"ytpRate":    25.04,
+"ntpRate":    33.91 
 } 
 ] 
 },
@@ -2555,19 +2661,20 @@
 "town": "030",
 "vill": "013",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    59.93,
+"votePop":     2785,
 "candidates": [
  {
  "candNo": "1",
 "name": "鄭正鈐",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      821,
+"disagreeTks":      841,
+"agreeRate":     49.4,
+"disagreeRate":     50.6,
+"adptVictor": "N",
+"ytpRate":    29.48,
+"ntpRate":     30.2 
 } 
 ] 
 },
@@ -2579,19 +2686,20 @@
 "town": "030",
 "vill": "014",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    57.42,
+"votePop":     1045,
 "candidates": [
  {
  "candNo": "1",
 "name": "鄭正鈐",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      301,
+"disagreeTks":      290,
+"agreeRate":    50.93,
+"disagreeRate":    49.07,
+"adptVictor": "N",
+"ytpRate":     28.8,
+"ntpRate":    27.75 
 } 
 ] 
 },
@@ -2603,19 +2711,20 @@
 "town": "030",
 "vill": "015",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    58.03,
+"votePop":     2168,
 "candidates": [
  {
  "candNo": "1",
 "name": "鄭正鈐",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      569,
+"disagreeTks":      679,
+"agreeRate":    45.59,
+"disagreeRate":    54.41,
+"adptVictor": "N",
+"ytpRate":    26.25,
+"ntpRate":    31.32 
 } 
 ] 
 },
@@ -2627,19 +2736,20 @@
 "town": "030",
 "vill": "016",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    59.37,
+"votePop":     2178,
 "candidates": [
  {
  "candNo": "1",
 "name": "鄭正鈐",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      514,
+"disagreeTks":      767,
+"agreeRate":    40.12,
+"disagreeRate":    59.88,
+"adptVictor": "N",
+"ytpRate":     23.6,
+"ntpRate":    35.22 
 } 
 ] 
 },
@@ -2651,19 +2761,20 @@
 "town": "030",
 "vill": "022",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    56.22,
+"votePop":     1432,
 "candidates": [
  {
  "candNo": "1",
 "name": "鄭正鈐",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      354,
+"disagreeTks":      442,
+"agreeRate":    44.47,
+"disagreeRate":    55.53,
+"adptVictor": "N",
+"ytpRate":    24.72,
+"ntpRate":    30.87 
 } 
 ] 
 },
@@ -2675,19 +2786,20 @@
 "town": "030",
 "vill": "021",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    53.14,
+"votePop":     4097,
 "candidates": [
  {
  "candNo": "1",
 "name": "鄭正鈐",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      917,
+"disagreeTks":     1245,
+"agreeRate":    42.41,
+"disagreeRate":    57.59,
+"adptVictor": "N",
+"ytpRate":    22.38,
+"ntpRate":    30.39 
 } 
 ] 
 },
@@ -2699,19 +2811,20 @@
 "town": "030",
 "vill": "023",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    58.27,
+"votePop":      762,
 "candidates": [
  {
  "candNo": "1",
 "name": "鄭正鈐",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      236,
+"disagreeTks":      208,
+"agreeRate":    53.15,
+"disagreeRate":    46.85,
+"adptVictor": "N",
+"ytpRate":    30.97,
+"ntpRate":     27.3 
 } 
 ] 
 },
@@ -2723,19 +2836,20 @@
 "town": "030",
 "vill": "020",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    53.42,
+"votePop":     1930,
 "candidates": [
  {
  "candNo": "1",
 "name": "鄭正鈐",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      362,
+"disagreeTks":      660,
+"agreeRate":    35.42,
+"disagreeRate":    64.58,
+"adptVictor": "N",
+"ytpRate":    18.76,
+"ntpRate":     34.2 
 } 
 ] 
 },
@@ -2747,19 +2861,20 @@
 "town": "030",
 "vill": "019",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    58.37,
+"votePop":      771,
 "candidates": [
  {
  "candNo": "1",
 "name": "鄭正鈐",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      181,
+"disagreeTks":      264,
+"agreeRate":    40.67,
+"disagreeRate":    59.33,
+"adptVictor": "N",
+"ytpRate":    23.48,
+"ntpRate":    34.24 
 } 
 ] 
 },
@@ -2771,19 +2886,20 @@
 "town": "030",
 "vill": "018",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    55.69,
+"votePop":      853,
 "candidates": [
  {
  "candNo": "1",
 "name": "鄭正鈐",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      209,
+"disagreeTks":      264,
+"agreeRate":    44.19,
+"disagreeRate":    55.81,
+"adptVictor": "N",
+"ytpRate":     24.5,
+"ntpRate":    30.95 
 } 
 ] 
 },
@@ -2795,19 +2911,20 @@
 "town": "030",
 "vill": "017",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":     49.9,
+"votePop":     1008,
 "candidates": [
  {
  "candNo": "1",
 "name": "鄭正鈐",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      189,
+"disagreeTks":      309,
+"agreeRate":    37.95,
+"disagreeRate":    62.05,
+"adptVictor": "N",
+"ytpRate":    18.75,
+"ntpRate":    30.65 
 } 
 ] 
 },
@@ -2819,19 +2936,20 @@
 "town": "010",
 "vill": "011",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    32.47,
+"votePop":     1740,
 "candidates": [
  {
  "candNo": "1",
 "name": "鄭正鈐",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      257,
+"disagreeTks":      306,
+"agreeRate":    45.65,
+"disagreeRate":    54.35,
+"adptVictor": "N",
+"ytpRate":    14.77,
+"ntpRate":    17.59 
 } 
 ] 
 },
@@ -2843,19 +2961,20 @@
 "town": "020",
 "vill": "001",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    57.01,
+"votePop":      556,
 "candidates": [
  {
  "candNo": "1",
 "name": "鄭正鈐",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      163,
+"disagreeTks":      154,
+"agreeRate":    51.42,
+"disagreeRate":    48.58,
+"adptVictor": "N",
+"ytpRate":    29.32,
+"ntpRate":     27.7 
 } 
 ] 
 },
@@ -2867,19 +2986,20 @@
 "town": "020",
 "vill": "004",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    60.66,
+"votePop":      394,
 "candidates": [
  {
  "candNo": "1",
 "name": "鄭正鈐",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      143,
+"disagreeTks":       96,
+"agreeRate":    59.83,
+"disagreeRate":    40.17,
+"adptVictor": "N",
+"ytpRate":    36.29,
+"ntpRate":    24.37 
 } 
 ] 
 },
@@ -2891,19 +3011,20 @@
 "town": "010",
 "vill": "054",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    58.65,
+"votePop":     3959,
 "candidates": [
  {
  "candNo": "1",
 "name": "鄭正鈐",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":     1080,
+"disagreeTks":     1233,
+"agreeRate":    46.69,
+"disagreeRate":    53.31,
+"adptVictor": "N",
+"ytpRate":    27.28,
+"ntpRate":    31.14 
 } 
 ] 
 },
@@ -2915,19 +3036,20 @@
 "town": "020",
 "vill": "045",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    63.33,
+"votePop":     3240,
 "candidates": [
  {
  "candNo": "1",
 "name": "鄭正鈐",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      676,
+"disagreeTks":     1364,
+"agreeRate":    33.14,
+"disagreeRate":    66.86,
+"adptVictor": "N",
+"ytpRate":    20.86,
+"ntpRate":     42.1 
 } 
 ] 
 } 

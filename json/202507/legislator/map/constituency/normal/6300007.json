@@ -1,5 +1,5 @@
 {
- "updatedAt": "2025-07-10 10:33:00",
+ "updatedAt": "2025-08-19 17:43:00",
 "is_running": false,
 "is_started": true,
 "districts": [
@@ -11,19 +11,20 @@
 "town": "010",
 "vill": "018",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    51.98,
+"votePop":     6956,
 "candidates": [
  {
  "candNo": "1",
 "name": "徐巧芯",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":     1871,
+"disagreeTks":     1733,
+"agreeRate":    51.91,
+"disagreeRate":    48.09,
+"adptVictor": "N",
+"ytpRate":     26.9,
+"ntpRate":    24.91 
 } 
 ] 
 },
@@ -35,19 +36,20 @@
 "town": "010",
 "vill": "022",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    61.48,
+"votePop":     6422,
 "candidates": [
  {
  "candNo": "1",
 "name": "徐巧芯",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":     1792,
+"disagreeTks":     2138,
+"agreeRate":     45.6,
+"disagreeRate":     54.4,
+"adptVictor": "N",
+"ytpRate":     27.9,
+"ntpRate":    33.29 
 } 
 ] 
 },
@@ -59,19 +61,20 @@
 "town": "010",
 "vill": "024",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    60.63,
+"votePop":     6248,
 "candidates": [
  {
  "candNo": "1",
 "name": "徐巧芯",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":     1787,
+"disagreeTks":     1983,
+"agreeRate":     47.4,
+"disagreeRate":     52.6,
+"adptVictor": "N",
+"ytpRate":     28.6,
+"ntpRate":    31.74 
 } 
 ] 
 },
@@ -83,19 +86,20 @@
 "town": "010",
 "vill": "025",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    63.28,
+"votePop":     4883,
 "candidates": [
  {
  "candNo": "1",
 "name": "徐巧芯",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":     1322,
+"disagreeTks":     1753,
+"agreeRate":    42.99,
+"disagreeRate":    57.01,
+"adptVictor": "N",
+"ytpRate":    27.07,
+"ntpRate":     35.9 
 } 
 ] 
 },
@@ -107,19 +111,20 @@
 "town": "010",
 "vill": "026",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    57.95,
+"votePop":     7125,
 "candidates": [
  {
  "candNo": "1",
 "name": "徐巧芯",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":     2083,
+"disagreeTks":     2021,
+"agreeRate":    50.76,
+"disagreeRate":    49.24,
+"adptVictor": "N",
+"ytpRate":    29.24,
+"ntpRate":    28.36 
 } 
 ] 
 },
@@ -131,19 +136,20 @@
 "town": "010",
 "vill": "027",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    60.82,
+"votePop":     3116,
 "candidates": [
  {
  "candNo": "1",
 "name": "徐巧芯",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      898,
+"disagreeTks":      991,
+"agreeRate":    47.54,
+"disagreeRate":    52.46,
+"adptVictor": "N",
+"ytpRate":    28.82,
+"ntpRate":     31.8 
 } 
 ] 
 },
@@ -155,19 +161,20 @@
 "town": "010",
 "vill": "028",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    59.23,
+"votePop":     2644,
 "candidates": [
  {
  "candNo": "1",
 "name": "徐巧芯",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      799,
+"disagreeTks":      763,
+"agreeRate":    51.15,
+"disagreeRate":    48.85,
+"adptVictor": "N",
+"ytpRate":    30.22,
+"ntpRate":    28.86 
 } 
 ] 
 },
@@ -179,19 +186,20 @@
 "town": "010",
 "vill": "029",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    57.59,
+"votePop":     3004,
 "candidates": [
  {
  "candNo": "1",
 "name": "徐巧芯",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      841,
+"disagreeTks":      885,
+"agreeRate":    48.73,
+"disagreeRate":    51.27,
+"adptVictor": "N",
+"ytpRate":       28,
+"ntpRate":    29.46 
 } 
 ] 
 },
@@ -203,19 +211,20 @@
 "town": "010",
 "vill": "030",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    64.64,
+"votePop":     5189,
 "candidates": [
  {
  "candNo": "1",
 "name": "徐巧芯",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":     1653,
+"disagreeTks":     1687,
+"agreeRate":    49.49,
+"disagreeRate":    50.51,
+"adptVictor": "N",
+"ytpRate":    31.86,
+"ntpRate":    32.51 
 } 
 ] 
 },
@@ -227,19 +236,20 @@
 "town": "010",
 "vill": "031",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    60.93,
+"votePop":     2685,
 "candidates": [
  {
  "candNo": "1",
 "name": "徐巧芯",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      736,
+"disagreeTks":      893,
+"agreeRate":    45.18,
+"disagreeRate":    54.82,
+"adptVictor": "N",
+"ytpRate":    27.41,
+"ntpRate":    33.26 
 } 
 ] 
 },
@@ -251,19 +261,20 @@
 "town": "010",
 "vill": "032",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":     59.8,
+"votePop":     3530,
 "candidates": [
  {
  "candNo": "1",
 "name": "徐巧芯",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      993,
+"disagreeTks":     1111,
+"agreeRate":     47.2,
+"disagreeRate":     52.8,
+"adptVictor": "N",
+"ytpRate":    28.13,
+"ntpRate":    31.47 
 } 
 ] 
 },
@@ -275,19 +286,20 @@
 "town": "010",
 "vill": "033",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":     60.5,
+"votePop":     5030,
 "candidates": [
  {
  "candNo": "1",
 "name": "徐巧芯",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":     1512,
+"disagreeTks":     1512,
+"agreeRate":       50,
+"disagreeRate":       50,
+"adptVictor": "N",
+"ytpRate":    30.06,
+"ntpRate":    30.06 
 } 
 ] 
 },
@@ -299,19 +311,20 @@
 "town": "010",
 "vill": "034",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    57.96,
+"votePop":     2010,
 "candidates": [
  {
  "candNo": "1",
 "name": "徐巧芯",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      583,
+"disagreeTks":      579,
+"agreeRate":    50.17,
+"disagreeRate":    49.83,
+"adptVictor": "N",
+"ytpRate":       29,
+"ntpRate":    28.81 
 } 
 ] 
 },
@@ -323,19 +336,20 @@
 "town": "020",
 "vill": "001",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    63.59,
+"votePop":     3532,
 "candidates": [
  {
  "candNo": "1",
 "name": "徐巧芯",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      691,
+"disagreeTks":     1541,
+"agreeRate":    30.96,
+"disagreeRate":    69.04,
+"adptVictor": "N",
+"ytpRate":    19.56,
+"ntpRate":    43.63 
 } 
 ] 
 },
@@ -347,19 +361,20 @@
 "town": "020",
 "vill": "002",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    60.11,
+"votePop":     3537,
 "candidates": [
  {
  "candNo": "1",
 "name": "徐巧芯",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      831,
+"disagreeTks":     1290,
+"agreeRate":    39.18,
+"disagreeRate":    60.82,
+"adptVictor": "N",
+"ytpRate":    23.49,
+"ntpRate":    36.47 
 } 
 ] 
 },
@@ -371,19 +386,20 @@
 "town": "020",
 "vill": "003",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    52.65,
+"votePop":     2110,
 "candidates": [
  {
  "candNo": "1",
 "name": "徐巧芯",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      417,
+"disagreeTks":      691,
+"agreeRate":    37.64,
+"disagreeRate":    62.36,
+"adptVictor": "N",
+"ytpRate":    19.76,
+"ntpRate":    32.75 
 } 
 ] 
 },
@@ -395,19 +411,20 @@
 "town": "020",
 "vill": "004",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":     55.4,
+"votePop":     2805,
 "candidates": [
  {
  "candNo": "1",
 "name": "徐巧芯",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      684,
+"disagreeTks":      863,
+"agreeRate":    44.21,
+"disagreeRate":    55.79,
+"adptVictor": "N",
+"ytpRate":    24.39,
+"ntpRate":    30.77 
 } 
 ] 
 },
@@ -419,19 +436,20 @@
 "town": "020",
 "vill": "005",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":     61.2,
+"votePop":     2575,
 "candidates": [
  {
  "candNo": "1",
 "name": "徐巧芯",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      626,
+"disagreeTks":      945,
+"agreeRate":    39.85,
+"disagreeRate":    60.15,
+"adptVictor": "N",
+"ytpRate":    24.31,
+"ntpRate":     36.7 
 } 
 ] 
 },
@@ -443,19 +461,20 @@
 "town": "020",
 "vill": "006",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    59.01,
+"votePop":     4372,
 "candidates": [
  {
  "candNo": "1",
 "name": "徐巧芯",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":     1196,
+"disagreeTks":     1377,
+"agreeRate":    46.48,
+"disagreeRate":    53.52,
+"adptVictor": "N",
+"ytpRate":    27.36,
+"ntpRate":     31.5 
 } 
 ] 
 },
@@ -467,19 +486,20 @@
 "town": "020",
 "vill": "007",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    60.44,
+"votePop":     4017,
 "candidates": [
  {
  "candNo": "1",
 "name": "徐巧芯",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":     1118,
+"disagreeTks":     1297,
+"agreeRate":    46.29,
+"disagreeRate":    53.71,
+"adptVictor": "N",
+"ytpRate":    27.83,
+"ntpRate":    32.29 
 } 
 ] 
 },
@@ -491,19 +511,20 @@
 "town": "020",
 "vill": "008",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    62.08,
+"votePop":     5747,
 "candidates": [
  {
  "candNo": "1",
 "name": "徐巧芯",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":     1513,
+"disagreeTks":     2040,
+"agreeRate":    42.58,
+"disagreeRate":    57.42,
+"adptVictor": "N",
+"ytpRate":    26.33,
+"ntpRate":     35.5 
 } 
 ] 
 },
@@ -515,19 +536,20 @@
 "town": "020",
 "vill": "009",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    57.94,
+"votePop":     8213,
 "candidates": [
  {
  "candNo": "1",
 "name": "徐巧芯",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":     2179,
+"disagreeTks":     2568,
+"agreeRate":     45.9,
+"disagreeRate":     54.1,
+"adptVictor": "N",
+"ytpRate":    26.53,
+"ntpRate":    31.27 
 } 
 ] 
 },
@@ -539,19 +561,20 @@
 "town": "020",
 "vill": "010",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    60.77,
+"votePop":     2878,
 "candidates": [
  {
  "candNo": "1",
 "name": "徐巧芯",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      823,
+"disagreeTks":      913,
+"agreeRate":    47.41,
+"disagreeRate":    52.59,
+"adptVictor": "N",
+"ytpRate":     28.6,
+"ntpRate":    31.72 
 } 
 ] 
 },
@@ -563,19 +586,20 @@
 "town": "020",
 "vill": "011",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    60.47,
+"votePop":     4108,
 "candidates": [
  {
  "candNo": "1",
 "name": "徐巧芯",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":     1208,
+"disagreeTks":     1264,
+"agreeRate":    48.87,
+"disagreeRate":    51.13,
+"adptVictor": "N",
+"ytpRate":    29.41,
+"ntpRate":    30.77 
 } 
 ] 
 },
@@ -587,19 +611,20 @@
 "town": "020",
 "vill": "012",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    61.73,
+"votePop":     3005,
 "candidates": [
  {
  "candNo": "1",
 "name": "徐巧芯",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      870,
+"disagreeTks":      976,
+"agreeRate":    47.13,
+"disagreeRate":    52.87,
+"adptVictor": "N",
+"ytpRate":    28.95,
+"ntpRate":    32.48 
 } 
 ] 
 },
@@ -611,19 +636,20 @@
 "town": "020",
 "vill": "013",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    63.98,
+"votePop":     3909,
 "candidates": [
  {
  "candNo": "1",
 "name": "徐巧芯",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":     1285,
+"disagreeTks":     1205,
+"agreeRate":    51.61,
+"disagreeRate":    48.39,
+"adptVictor": "N",
+"ytpRate":    32.87,
+"ntpRate":    30.83 
 } 
 ] 
 },
@@ -635,19 +661,20 @@
 "town": "020",
 "vill": "014",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    59.41,
+"votePop":     3023,
 "candidates": [
  {
  "candNo": "1",
 "name": "徐巧芯",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":     1000,
+"disagreeTks":      790,
+"agreeRate":    55.87,
+"disagreeRate":    44.13,
+"adptVictor": "N",
+"ytpRate":    33.08,
+"ntpRate":    26.13 
 } 
 ] 
 },
@@ -659,19 +686,20 @@
 "town": "020",
 "vill": "015",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    60.45,
+"votePop":     3335,
 "candidates": [
  {
  "candNo": "1",
 "name": "徐巧芯",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      991,
+"disagreeTks":     1016,
+"agreeRate":    49.38,
+"disagreeRate":    50.62,
+"adptVictor": "N",
+"ytpRate":    29.72,
+"ntpRate":    30.46 
 } 
 ] 
 },
@@ -683,19 +711,20 @@
 "town": "020",
 "vill": "016",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    64.42,
+"votePop":     4410,
 "candidates": [
  {
  "candNo": "1",
 "name": "徐巧芯",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":     1484,
+"disagreeTks":     1349,
+"agreeRate":    52.38,
+"disagreeRate":    47.62,
+"adptVictor": "N",
+"ytpRate":    33.65,
+"ntpRate":    30.59 
 } 
 ] 
 },
@@ -707,19 +736,20 @@
 "town": "020",
 "vill": "017",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    62.94,
+"votePop":     4120,
 "candidates": [
  {
  "candNo": "1",
 "name": "徐巧芯",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":     1134,
+"disagreeTks":     1450,
+"agreeRate":    43.89,
+"disagreeRate":    56.11,
+"adptVictor": "N",
+"ytpRate":    27.52,
+"ntpRate":    35.19 
 } 
 ] 
 },
@@ -731,19 +761,20 @@
 "town": "020",
 "vill": "018",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":     59.9,
+"votePop":     3938,
 "candidates": [
  {
  "candNo": "1",
 "name": "徐巧芯",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":     1160,
+"disagreeTks":     1189,
+"agreeRate":    49.38,
+"disagreeRate":    50.62,
+"adptVictor": "N",
+"ytpRate":    29.46,
+"ntpRate":    30.19 
 } 
 ] 
 },
@@ -755,19 +786,20 @@
 "town": "020",
 "vill": "019",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    61.37,
+"votePop":     3852,
 "candidates": [
  {
  "candNo": "1",
 "name": "徐巧芯",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      890,
+"disagreeTks":     1465,
+"agreeRate":    37.79,
+"disagreeRate":    62.21,
+"adptVictor": "N",
+"ytpRate":     23.1,
+"ntpRate":    38.03 
 } 
 ] 
 },
@@ -779,19 +811,20 @@
 "town": "020",
 "vill": "020",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    59.95,
+"votePop":     5681,
 "candidates": [
  {
  "candNo": "1",
 "name": "徐巧芯",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":     1516,
+"disagreeTks":     1876,
+"agreeRate":    44.69,
+"disagreeRate":    55.31,
+"adptVictor": "N",
+"ytpRate":    26.69,
+"ntpRate":    33.02 
 } 
 ] 
 },
@@ -803,19 +836,20 @@
 "town": "020",
 "vill": "021",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    56.23,
+"votePop":     1686,
 "candidates": [
  {
  "candNo": "1",
 "name": "徐巧芯",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      412,
+"disagreeTks":      532,
+"agreeRate":    43.64,
+"disagreeRate":    56.36,
+"adptVictor": "N",
+"ytpRate":    24.44,
+"ntpRate":    31.55 
 } 
 ] 
 },
@@ -827,19 +861,20 @@
 "town": "020",
 "vill": "022",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    60.58,
+"votePop":     5152,
 "candidates": [
  {
  "candNo": "1",
 "name": "徐巧芯",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":     1392,
+"disagreeTks":     1717,
+"agreeRate":    44.77,
+"disagreeRate":    55.23,
+"adptVictor": "N",
+"ytpRate":    27.02,
+"ntpRate":    33.33 
 } 
 ] 
 },
@@ -851,19 +886,20 @@
 "town": "020",
 "vill": "023",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    60.35,
+"votePop":     3922,
 "candidates": [
  {
  "candNo": "1",
 "name": "徐巧芯",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":     1139,
+"disagreeTks":     1216,
+"agreeRate":    48.37,
+"disagreeRate":    51.63,
+"adptVictor": "N",
+"ytpRate":    29.04,
+"ntpRate":       31 
 } 
 ] 
 },
@@ -875,19 +911,20 @@
 "town": "020",
 "vill": "024",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    63.37,
+"votePop":     3486,
 "candidates": [
  {
  "candNo": "1",
 "name": "徐巧芯",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":     1021,
+"disagreeTks":     1179,
+"agreeRate":    46.41,
+"disagreeRate":    53.59,
+"adptVictor": "N",
+"ytpRate":    29.29,
+"ntpRate":    33.82 
 } 
 ] 
 },
@@ -899,19 +936,20 @@
 "town": "020",
 "vill": "025",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    61.48,
+"votePop":     6147,
 "candidates": [
  {
  "candNo": "1",
 "name": "徐巧芯",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":     1883,
+"disagreeTks":     1882,
+"agreeRate":    50.01,
+"disagreeRate":    49.99,
+"adptVictor": "N",
+"ytpRate":    30.63,
+"ntpRate":    30.62 
 } 
 ] 
 },
@@ -923,19 +961,20 @@
 "town": "020",
 "vill": "026",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    61.56,
+"votePop":     4896,
 "candidates": [
  {
  "candNo": "1",
 "name": "徐巧芯",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":     1485,
+"disagreeTks":     1517,
+"agreeRate":    49.47,
+"disagreeRate":    50.53,
+"adptVictor": "N",
+"ytpRate":    30.33,
+"ntpRate":    30.98 
 } 
 ] 
 },
@@ -947,19 +986,20 @@
 "town": "020",
 "vill": "027",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    49.76,
+"votePop":     6735,
 "candidates": [
  {
  "candNo": "1",
 "name": "徐巧芯",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":     1500,
+"disagreeTks":     1833,
+"agreeRate":       45,
+"disagreeRate":       55,
+"adptVictor": "N",
+"ytpRate":    22.27,
+"ntpRate":    27.22 
 } 
 ] 
 },
@@ -971,19 +1011,20 @@
 "town": "020",
 "vill": "028",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    59.82,
+"votePop":     4024,
 "candidates": [
  {
  "candNo": "1",
 "name": "徐巧芯",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":     1031,
+"disagreeTks":     1359,
+"agreeRate":    43.14,
+"disagreeRate":    56.86,
+"adptVictor": "N",
+"ytpRate":    25.62,
+"ntpRate":    33.77 
 } 
 ] 
 },
@@ -995,19 +1036,20 @@
 "town": "020",
 "vill": "029",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    60.86,
+"votePop":     5125,
 "candidates": [
  {
  "candNo": "1",
 "name": "徐巧芯",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":     1212,
+"disagreeTks":     1891,
+"agreeRate":    39.06,
+"disagreeRate":    60.94,
+"adptVictor": "N",
+"ytpRate":    23.65,
+"ntpRate":     36.9 
 } 
 ] 
 },
@@ -1019,19 +1061,20 @@
 "town": "020",
 "vill": "030",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    61.71,
+"votePop":     6926,
 "candidates": [
  {
  "candNo": "1",
 "name": "徐巧芯",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":     1776,
+"disagreeTks":     2485,
+"agreeRate":    41.68,
+"disagreeRate":    58.32,
+"adptVictor": "N",
+"ytpRate":    25.64,
+"ntpRate":    35.88 
 } 
 ] 
 },
@@ -1043,19 +1086,20 @@
 "town": "020",
 "vill": "031",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    59.09,
+"votePop":     4241,
 "candidates": [
  {
  "candNo": "1",
 "name": "徐巧芯",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":     1066,
+"disagreeTks":     1426,
+"agreeRate":    42.78,
+"disagreeRate":    57.22,
+"adptVictor": "N",
+"ytpRate":    25.14,
+"ntpRate":    33.62 
 } 
 ] 
 },
@@ -1067,19 +1111,20 @@
 "town": "020",
 "vill": "032",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    59.22,
+"votePop":     5453,
 "candidates": [
  {
  "candNo": "1",
 "name": "徐巧芯",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":     1219,
+"disagreeTks":     1996,
+"agreeRate":    37.92,
+"disagreeRate":    62.08,
+"adptVictor": "N",
+"ytpRate":    22.35,
+"ntpRate":     36.6 
 } 
 ] 
 },
@@ -1091,19 +1136,20 @@
 "town": "020",
 "vill": "033",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    57.09,
+"votePop":     6239,
 "candidates": [
  {
  "candNo": "1",
 "name": "徐巧芯",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":     1513,
+"disagreeTks":     2031,
+"agreeRate":    42.69,
+"disagreeRate":    57.31,
+"adptVictor": "N",
+"ytpRate":    24.25,
+"ntpRate":    32.55 
 } 
 ] 
 },
@@ -1115,19 +1161,20 @@
 "town": "020",
 "vill": "034",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    62.38,
+"votePop":     3676,
 "candidates": [
  {
  "candNo": "1",
 "name": "徐巧芯",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      994,
+"disagreeTks":     1290,
+"agreeRate":    43.52,
+"disagreeRate":    56.48,
+"adptVictor": "N",
+"ytpRate":    27.04,
+"ntpRate":    35.09 
 } 
 ] 
 },
@@ -1139,19 +1186,20 @@
 "town": "020",
 "vill": "035",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    60.21,
+"votePop":     3061,
 "candidates": [
  {
  "candNo": "1",
 "name": "徐巧芯",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      793,
+"disagreeTks":     1040,
+"agreeRate":    43.26,
+"disagreeRate":    56.74,
+"adptVictor": "N",
+"ytpRate":    25.91,
+"ntpRate":    33.98 
 } 
 ] 
 },
@@ -1163,19 +1211,20 @@
 "town": "020",
 "vill": "036",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    61.92,
+"votePop":     5659,
 "candidates": [
  {
  "candNo": "1",
 "name": "徐巧芯",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":     1429,
+"disagreeTks":     2058,
+"agreeRate":    40.98,
+"disagreeRate":    59.02,
+"adptVictor": "N",
+"ytpRate":    25.25,
+"ntpRate":    36.37 
 } 
 ] 
 },
@@ -1187,19 +1236,20 @@
 "town": "020",
 "vill": "037",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    61.74,
+"votePop":     2512,
 "candidates": [
  {
  "candNo": "1",
 "name": "徐巧芯",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      722,
+"disagreeTks":      826,
+"agreeRate":    46.64,
+"disagreeRate":    53.36,
+"adptVictor": "N",
+"ytpRate":    28.74,
+"ntpRate":    32.88 
 } 
 ] 
 },
@@ -1211,19 +1261,20 @@
 "town": "020",
 "vill": "038",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    57.59,
+"votePop":     3289,
 "candidates": [
  {
  "candNo": "1",
 "name": "徐巧芯",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      817,
+"disagreeTks":     1066,
+"agreeRate":    43.39,
+"disagreeRate":    56.61,
+"adptVictor": "N",
+"ytpRate":    24.84,
+"ntpRate":    32.41 
 } 
 ] 
 },
@@ -1235,19 +1286,20 @@
 "town": "020",
 "vill": "039",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    63.01,
+"votePop":     5594,
 "candidates": [
  {
  "candNo": "1",
 "name": "徐巧芯",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":     1512,
+"disagreeTks":     2000,
+"agreeRate":    43.05,
+"disagreeRate":    56.95,
+"adptVictor": "N",
+"ytpRate":    27.03,
+"ntpRate":    35.75 
 } 
 ] 
 },
@@ -1259,19 +1311,20 @@
 "town": "020",
 "vill": "040",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    60.76,
+"votePop":     3800,
 "candidates": [
  {
  "candNo": "1",
 "name": "徐巧芯",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      930,
+"disagreeTks":     1367,
+"agreeRate":    40.49,
+"disagreeRate":    59.51,
+"adptVictor": "N",
+"ytpRate":    24.47,
+"ntpRate":    35.97 
 } 
 ] 
 },
@@ -1283,19 +1336,20 @@
 "town": "020",
 "vill": "041",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    55.87,
+"votePop":     1507,
 "candidates": [
  {
  "candNo": "1",
 "name": "徐巧芯",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      301,
+"disagreeTks":      536,
+"agreeRate":    35.96,
+"disagreeRate":    64.04,
+"adptVictor": "N",
+"ytpRate":    19.97,
+"ntpRate":    35.57 
 } 
 ] 
 } 

@@ -1,53 +1,55 @@
 {
- "updatedAt": "2025-07-10 10:33:00",
+ "updatedAt": "2025-08-19 17:10:00",
 "is_running": false,
 "is_started": true,
 "districts": [
  {
  "range": "臺北市 第03選區",
-"area_nickname": "中山區、松山區*",
+"area_nickname": "松山區*、中山區",
 "county": "63000",
 "area": "03",
 "town": null,
 "vill": null,
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    59.59,
+"votePop":   274312,
 "candidates": [
  {
  "candNo": "1",
 "name": "王鴻薇",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":    76463,
+"disagreeTks":    86311,
+"agreeRate":    46.97,
+"disagreeRate":    53.03,
+"adptVictor": "N",
+"ytpRate":    27.87,
+"ntpRate":    31.46 
 } 
 ] 
 },
 {
  "range": "臺北市 第04選區",
-"area_nickname": "內湖區、南港區",
+"area_nickname": "南港區、內湖區",
 "county": "63000",
 "area": "04",
 "town": null,
 "vill": null,
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    59.14,
+"votePop":   311887,
 "candidates": [
  {
  "candNo": "1",
 "name": "李彥秀",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":    78560,
+"disagreeTks":   105169,
+"agreeRate":    42.76,
+"disagreeRate":    57.24,
+"adptVictor": "N",
+"ytpRate":    25.19,
+"ntpRate":    33.72 
 } 
 ] 
 },
@@ -59,19 +61,20 @@
 "town": null,
 "vill": null,
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    57.69,
+"votePop":   228981,
 "candidates": [
  {
  "candNo": "1",
 "name": "羅智強",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":    56726,
+"disagreeTks":    74808,
+"agreeRate":    43.13,
+"disagreeRate":    56.87,
+"adptVictor": "N",
+"ytpRate":    24.77,
+"ntpRate":    32.67 
 } 
 ] 
 },
@@ -83,19 +86,20 @@
 "town": null,
 "vill": null,
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    59.98,
+"votePop":   231139,
 "candidates": [
  {
  "candNo": "1",
 "name": "徐巧芯",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":    62633,
+"disagreeTks":    75401,
+"agreeRate":    45.38,
+"disagreeRate":    54.62,
+"adptVictor": "N",
+"ytpRate":     27.1,
+"ntpRate":    32.62 
 } 
 ] 
 },
@@ -107,19 +111,20 @@
 "town": null,
 "vill": null,
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    58.63,
+"votePop":   244753,
 "candidates": [
  {
  "candNo": "1",
 "name": "賴士葆",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":    55958,
+"disagreeTks":    86907,
+"agreeRate":    39.17,
+"disagreeRate":    60.83,
+"adptVictor": "N",
+"ytpRate":    22.86,
+"ntpRate":    35.51 
 } 
 ] 
 } 

@@ -1,29 +1,30 @@
 {
- "updatedAt": "2025-07-10 10:33:00",
+ "updatedAt": "2025-08-19 17:10:00",
 "is_running": false,
 "is_started": true,
 "districts": [
  {
  "range": "新北市 第01選區",
-"area_nickname": "石門區、三芝區、淡水區、八里區、林口區、泰山區",
+"area_nickname": "淡水區、泰山區、林口區、三芝區、石門區、八里區",
 "county": "65000",
 "area": "01",
 "town": null,
 "vill": null,
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    53.71,
+"votePop":   405060,
 "candidates": [
  {
  "candNo": "1",
 "name": "洪孟楷",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":    94808,
+"disagreeTks":   121592,
+"agreeRate":    43.81,
+"disagreeRate":    56.19,
+"adptVictor": "N",
+"ytpRate":    23.41,
+"ntpRate":    30.02 
 } 
 ] 
 },
@@ -35,19 +36,20 @@
 "town": null,
 "vill": null,
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    56.68,
+"votePop":   231042,
 "candidates": [
  {
  "candNo": "1",
 "name": "葉元之",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":    63357,
+"disagreeTks":    66917,
+"agreeRate":    48.63,
+"disagreeRate":    51.37,
+"adptVictor": "N",
+"ytpRate":    27.42,
+"ntpRate":    28.96 
 } 
 ] 
 },
@@ -59,19 +61,20 @@
 "town": null,
 "vill": null,
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    56.71,
+"votePop":   288291,
 "candidates": [
  {
  "candNo": "1",
 "name": "張智倫",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":    67131,
+"disagreeTks":    95319,
+"agreeRate":    41.32,
+"disagreeRate":    58.68,
+"adptVictor": "N",
+"ytpRate":    23.29,
+"ntpRate":    33.06 
 } 
 ] 
 },
@@ -83,43 +86,45 @@
 "town": null,
 "vill": null,
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    57.32,
+"votePop":   237380,
 "candidates": [
  {
  "candNo": "1",
 "name": "林德福",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":    51288,
+"disagreeTks":    84058,
+"agreeRate":    37.89,
+"disagreeRate":    62.11,
+"adptVictor": "N",
+"ytpRate":    21.61,
+"ntpRate":    35.41 
 } 
 ] 
 },
 {
  "range": "新北市 第12選區",
-"area_nickname": "金山區、萬里區、汐止區、平溪區、瑞芳區、雙溪區、貢寮區",
+"area_nickname": "汐止區、瑞芳區、平溪區、雙溪區、貢寮區、金山區、萬里區",
 "county": "65000",
 "area": "12",
 "town": null,
 "vill": null,
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    52.75,
+"votePop":   266243,
 "candidates": [
  {
  "candNo": "1",
 "name": "廖先翔",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":    60632,
+"disagreeTks":    79110,
+"agreeRate":    43.39,
+"disagreeRate":    56.61,
+"adptVictor": "N",
+"ytpRate":    22.77,
+"ntpRate":    29.71 
 } 
 ] 
 } 

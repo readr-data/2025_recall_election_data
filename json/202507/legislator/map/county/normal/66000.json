@@ -1,5 +1,5 @@
 {
- "updatedAt": "2025-07-10 10:33:00",
+ "updatedAt": "2025-08-19 17:10:00",
 "is_running": false,
 "is_started": true,
 "districts": [
@@ -11,67 +11,70 @@
 "town": null,
 "vill": null,
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    56.66,
+"votePop":   337718,
 "candidates": [
  {
  "candNo": "1",
 "name": "廖偉翔",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":    83812,
+"disagreeTks":   106534,
+"agreeRate":    44.03,
+"disagreeRate":    55.97,
+"adptVictor": "N",
+"ytpRate":    24.82,
+"ntpRate":    31.55 
 } 
 ] 
 },
 {
  "range": "臺中市 第05選區",
-"area_nickname": "北屯區、北區",
+"area_nickname": "北區、北屯區",
 "county": "66000",
 "area": "05",
 "town": null,
 "vill": null,
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    55.95,
+"votePop":   374348,
 "candidates": [
  {
  "candNo": "1",
 "name": "黃健豪",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":    88914,
+"disagreeTks":   119540,
+"agreeRate":    42.65,
+"disagreeRate":    57.35,
+"adptVictor": "N",
+"ytpRate":    23.75,
+"ntpRate":    31.93 
 } 
 ] 
 },
 {
  "range": "臺中市 第06選區",
-"area_nickname": "西區、中區、東區、南區",
+"area_nickname": "中區、東區、南區、西區",
 "county": "66000",
 "area": "06",
 "town": null,
 "vill": null,
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    58.14,
+"votePop":   277436,
 "candidates": [
  {
  "candNo": "1",
 "name": "羅廷瑋",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":    74012,
+"disagreeTks":    86422,
+"agreeRate":    46.13,
+"disagreeRate":    53.87,
+"adptVictor": "N",
+"ytpRate":    26.68,
+"ntpRate":    31.15 
 } 
 ] 
 } 

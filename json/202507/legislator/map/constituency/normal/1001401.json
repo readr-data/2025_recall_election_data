@@ -1,5 +1,5 @@
 {
- "updatedAt": "2025-07-10 10:33:00",
+ "updatedAt": "2025-08-19 17:43:00",
 "is_running": false,
 "is_started": true,
 "districts": [
@@ -11,19 +11,20 @@
 "town": "010",
 "vill": "023",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    45.28,
+"votePop":     1409,
 "candidates": [
  {
  "candNo": "1",
 "name": "黃建賓",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      240,
+"disagreeTks":      395,
+"agreeRate":     37.8,
+"disagreeRate":     62.2,
+"adptVictor": "N",
+"ytpRate":    17.03,
+"ntpRate":    28.03 
 } 
 ] 
 },
@@ -35,19 +36,20 @@
 "town": "010",
 "vill": "013",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    52.29,
+"votePop":     2035,
 "candidates": [
  {
  "candNo": "1",
 "name": "黃建賓",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      458,
+"disagreeTks":      602,
+"agreeRate":    43.21,
+"disagreeRate":    56.79,
+"adptVictor": "N",
+"ytpRate":    22.51,
+"ntpRate":    29.58 
 } 
 ] 
 },
@@ -59,19 +61,20 @@
 "town": "010",
 "vill": "012",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":       56,
+"votePop":     2675,
 "candidates": [
  {
  "candNo": "1",
 "name": "黃建賓",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      543,
+"disagreeTks":      949,
+"agreeRate":    36.39,
+"disagreeRate":    63.61,
+"adptVictor": "N",
+"ytpRate":     20.3,
+"ntpRate":    35.48 
 } 
 ] 
 },
@@ -83,19 +86,20 @@
 "town": "010",
 "vill": "008",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":     57.1,
+"votePop":     2450,
 "candidates": [
  {
  "candNo": "1",
 "name": "黃建賓",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      551,
+"disagreeTks":      842,
+"agreeRate":    39.55,
+"disagreeRate":    60.45,
+"adptVictor": "N",
+"ytpRate":    22.49,
+"ntpRate":    34.37 
 } 
 ] 
 },
@@ -107,19 +111,20 @@
 "town": "010",
 "vill": "009",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":     54.6,
+"votePop":     1066,
 "candidates": [
  {
  "candNo": "1",
 "name": "黃建賓",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      256,
+"disagreeTks":      323,
+"agreeRate":    44.21,
+"disagreeRate":    55.79,
+"adptVictor": "N",
+"ytpRate":    24.02,
+"ntpRate":     30.3 
 } 
 ] 
 },
@@ -131,19 +136,20 @@
 "town": "010",
 "vill": "015",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    52.01,
+"votePop":     1690,
 "candidates": [
  {
  "candNo": "1",
 "name": "黃建賓",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      367,
+"disagreeTks":      511,
+"agreeRate":     41.8,
+"disagreeRate":     58.2,
+"adptVictor": "N",
+"ytpRate":    21.72,
+"ntpRate":    30.24 
 } 
 ] 
 },
@@ -155,19 +161,20 @@
 "town": "010",
 "vill": "022",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":     54.2,
+"votePop":     1594,
 "candidates": [
  {
  "candNo": "1",
 "name": "黃建賓",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      334,
+"disagreeTks":      526,
+"agreeRate":    38.84,
+"disagreeRate":    61.16,
+"adptVictor": "N",
+"ytpRate":    20.95,
+"ntpRate":       33 
 } 
 ] 
 },
@@ -179,19 +186,20 @@
 "town": "010",
 "vill": "017",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    50.98,
+"votePop":     1587,
 "candidates": [
  {
  "candNo": "1",
 "name": "黃建賓",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      309,
+"disagreeTks":      499,
+"agreeRate":    38.24,
+"disagreeRate":    61.76,
+"adptVictor": "N",
+"ytpRate":    19.47,
+"ntpRate":    31.44 
 } 
 ] 
 },
@@ -203,19 +211,20 @@
 "town": "010",
 "vill": "020",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    54.88,
+"votePop":     1917,
 "candidates": [
  {
  "candNo": "1",
 "name": "黃建賓",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      421,
+"disagreeTks":      626,
+"agreeRate":    40.21,
+"disagreeRate":    59.79,
+"adptVictor": "N",
+"ytpRate":    21.96,
+"ntpRate":    32.66 
 } 
 ] 
 },
@@ -227,19 +236,20 @@
 "town": "010",
 "vill": "024",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    57.74,
+"votePop":     1557,
 "candidates": [
  {
  "candNo": "1",
 "name": "黃建賓",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      402,
+"disagreeTks":      492,
+"agreeRate":    44.97,
+"disagreeRate":    55.03,
+"adptVictor": "N",
+"ytpRate":    25.82,
+"ntpRate":     31.6 
 } 
 ] 
 },
@@ -251,19 +261,20 @@
 "town": "010",
 "vill": "036",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":     58.2,
+"votePop":     1732,
 "candidates": [
  {
  "candNo": "1",
 "name": "黃建賓",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      362,
+"disagreeTks":      641,
+"agreeRate":    36.09,
+"disagreeRate":    63.91,
+"adptVictor": "N",
+"ytpRate":     20.9,
+"ntpRate":    37.01 
 } 
 ] 
 },
@@ -275,19 +286,20 @@
 "town": "010",
 "vill": "037",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    49.16,
+"votePop":     1137,
 "candidates": [
  {
  "candNo": "1",
 "name": "黃建賓",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      226,
+"disagreeTks":      331,
+"agreeRate":    40.57,
+"disagreeRate":    59.43,
+"adptVictor": "N",
+"ytpRate":    19.88,
+"ntpRate":    29.11 
 } 
 ] 
 },
@@ -299,19 +311,20 @@
 "town": "010",
 "vill": "007",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    54.11,
+"votePop":     2739,
 "candidates": [
  {
  "candNo": "1",
 "name": "黃建賓",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      546,
+"disagreeTks":      933,
+"agreeRate":    36.92,
+"disagreeRate":    63.08,
+"adptVictor": "N",
+"ytpRate":    19.93,
+"ntpRate":    34.06 
 } 
 ] 
 },
@@ -323,19 +336,20 @@
 "town": "010",
 "vill": "011",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    54.94,
+"votePop":     2228,
 "candidates": [
  {
  "candNo": "1",
 "name": "黃建賓",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      472,
+"disagreeTks":      750,
+"agreeRate":    38.63,
+"disagreeRate":    61.37,
+"adptVictor": "N",
+"ytpRate":    21.18,
+"ntpRate":    33.66 
 } 
 ] 
 },
@@ -347,19 +361,20 @@
 "town": "010",
 "vill": "010",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    56.28,
+"votePop":     1775,
 "candidates": [
  {
  "candNo": "1",
 "name": "黃建賓",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      317,
+"disagreeTks":      678,
+"agreeRate":    31.86,
+"disagreeRate":    68.14,
+"adptVictor": "N",
+"ytpRate":    17.86,
+"ntpRate":     38.2 
 } 
 ] 
 },
@@ -371,19 +386,20 @@
 "town": "010",
 "vill": "032",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    52.54,
+"votePop":     2067,
 "candidates": [
  {
  "candNo": "1",
 "name": "黃建賓",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      382,
+"disagreeTks":      702,
+"agreeRate":    35.24,
+"disagreeRate":    64.76,
+"adptVictor": "N",
+"ytpRate":    18.48,
+"ntpRate":    33.96 
 } 
 ] 
 },
@@ -395,19 +411,20 @@
 "town": "010",
 "vill": "031",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    49.81,
+"votePop":     2110,
 "candidates": [
  {
  "candNo": "1",
 "name": "黃建賓",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      408,
+"disagreeTks":      638,
+"agreeRate":    39.01,
+"disagreeRate":    60.99,
+"adptVictor": "N",
+"ytpRate":    19.34,
+"ntpRate":    30.24 
 } 
 ] 
 },
@@ -419,19 +436,20 @@
 "town": "010",
 "vill": "033",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    54.61,
+"votePop":     1225,
 "candidates": [
  {
  "candNo": "1",
 "name": "黃建賓",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      263,
+"disagreeTks":      403,
+"agreeRate":    39.49,
+"disagreeRate":    60.51,
+"adptVictor": "N",
+"ytpRate":    21.47,
+"ntpRate":     32.9 
 } 
 ] 
 },
@@ -443,19 +461,20 @@
 "town": "010",
 "vill": "034",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    52.93,
+"votePop":     1859,
 "candidates": [
  {
  "candNo": "1",
 "name": "黃建賓",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      399,
+"disagreeTks":      581,
+"agreeRate":    40.71,
+"disagreeRate":    59.29,
+"adptVictor": "N",
+"ytpRate":    21.46,
+"ntpRate":    31.25 
 } 
 ] 
 },
@@ -467,19 +486,20 @@
 "town": "010",
 "vill": "035",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    51.06,
+"votePop":     1130,
 "candidates": [
  {
  "candNo": "1",
 "name": "黃建賓",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      243,
+"disagreeTks":      330,
+"agreeRate":    42.41,
+"disagreeRate":    57.59,
+"adptVictor": "N",
+"ytpRate":     21.5,
+"ntpRate":     29.2 
 } 
 ] 
 },
@@ -491,19 +511,20 @@
 "town": "010",
 "vill": "038",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    51.67,
+"votePop":     2489,
 "candidates": [
  {
  "candNo": "1",
 "name": "黃建賓",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      410,
+"disagreeTks":      868,
+"agreeRate":    32.08,
+"disagreeRate":    67.92,
+"adptVictor": "N",
+"ytpRate":    16.47,
+"ntpRate":    34.87 
 } 
 ] 
 },
@@ -515,19 +536,20 @@
 "town": "010",
 "vill": "039",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":     49.1,
+"votePop":     2387,
 "candidates": [
  {
  "candNo": "1",
 "name": "黃建賓",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      392,
+"disagreeTks":      777,
+"agreeRate":    33.53,
+"disagreeRate":    66.47,
+"adptVictor": "N",
+"ytpRate":    16.42,
+"ntpRate":    32.55 
 } 
 ] 
 },
@@ -539,19 +561,20 @@
 "town": "010",
 "vill": "040",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":     52.3,
+"votePop":     1719,
 "candidates": [
  {
  "candNo": "1",
 "name": "黃建賓",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      405,
+"disagreeTks":      488,
+"agreeRate":    45.35,
+"disagreeRate":    54.65,
+"adptVictor": "N",
+"ytpRate":    23.56,
+"ntpRate":    28.39 
 } 
 ] 
 },
@@ -563,19 +586,20 @@
 "town": "010",
 "vill": "041",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    47.09,
+"votePop":     1032,
 "candidates": [
  {
  "candNo": "1",
 "name": "黃建賓",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      220,
+"disagreeTks":      261,
+"agreeRate":    45.74,
+"disagreeRate":    54.26,
+"adptVictor": "N",
+"ytpRate":    21.32,
+"ntpRate":    25.29 
 } 
 ] 
 },
@@ -587,19 +611,20 @@
 "town": "010",
 "vill": "001",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    47.56,
+"votePop":     1354,
 "candidates": [
  {
  "candNo": "1",
 "name": "黃建賓",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      207,
+"disagreeTks":      433,
+"agreeRate":    32.34,
+"disagreeRate":    67.66,
+"adptVictor": "N",
+"ytpRate":    15.29,
+"ntpRate":    31.98 
 } 
 ] 
 },
@@ -611,19 +636,20 @@
 "town": "010",
 "vill": "006",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":     52.1,
+"votePop":     1666,
 "candidates": [
  {
  "candNo": "1",
 "name": "黃建賓",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      295,
+"disagreeTks":      568,
+"agreeRate":    34.18,
+"disagreeRate":    65.82,
+"adptVictor": "N",
+"ytpRate":    17.71,
+"ntpRate":    34.09 
 } 
 ] 
 },
@@ -635,19 +661,20 @@
 "town": "010",
 "vill": "003",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    50.72,
+"votePop":     1881,
 "candidates": [
  {
  "candNo": "1",
 "name": "黃建賓",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      313,
+"disagreeTks":      641,
+"agreeRate":    32.81,
+"disagreeRate":    67.19,
+"adptVictor": "N",
+"ytpRate":    16.64,
+"ntpRate":    34.08 
 } 
 ] 
 },
@@ -659,19 +686,20 @@
 "town": "010",
 "vill": "005",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    56.87,
+"votePop":     2655,
 "candidates": [
  {
  "candNo": "1",
 "name": "黃建賓",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      641,
+"disagreeTks":      865,
+"agreeRate":    42.56,
+"disagreeRate":    57.44,
+"adptVictor": "N",
+"ytpRate":    24.14,
+"ntpRate":    32.58 
 } 
 ] 
 },
@@ -683,19 +711,20 @@
 "town": "010",
 "vill": "004",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    50.89,
+"votePop":     1796,
 "candidates": [
  {
  "candNo": "1",
 "name": "黃建賓",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      323,
+"disagreeTks":      590,
+"agreeRate":    35.38,
+"disagreeRate":    64.62,
+"adptVictor": "N",
+"ytpRate":    17.98,
+"ntpRate":    32.85 
 } 
 ] 
 },
@@ -707,19 +736,20 @@
 "town": "010",
 "vill": "030",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    50.61,
+"votePop":     1889,
 "candidates": [
  {
  "candNo": "1",
 "name": "黃建賓",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      417,
+"disagreeTks":      531,
+"agreeRate":    43.99,
+"disagreeRate":    56.01,
+"adptVictor": "N",
+"ytpRate":    22.08,
+"ntpRate":    28.11 
 } 
 ] 
 },
@@ -731,19 +761,20 @@
 "town": "010",
 "vill": "029",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    50.06,
+"votePop":      829,
 "candidates": [
  {
  "candNo": "1",
 "name": "黃建賓",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      197,
+"disagreeTks":      216,
+"agreeRate":     47.7,
+"disagreeRate":     52.3,
+"adptVictor": "N",
+"ytpRate":    23.76,
+"ntpRate":    26.06 
 } 
 ] 
 },
@@ -755,19 +786,20 @@
 "town": "010",
 "vill": "042",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    46.73,
+"votePop":      612,
 "candidates": [
  {
  "candNo": "1",
 "name": "黃建賓",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      100,
+"disagreeTks":      184,
+"agreeRate":    35.21,
+"disagreeRate":    64.79,
+"adptVictor": "N",
+"ytpRate":    16.34,
+"ntpRate":    30.07 
 } 
 ] 
 },
@@ -779,19 +811,20 @@
 "town": "010",
 "vill": "043",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    51.21,
+"votePop":     1070,
 "candidates": [
  {
  "candNo": "1",
 "name": "黃建賓",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      239,
+"disagreeTks":      307,
+"agreeRate":    43.77,
+"disagreeRate":    56.23,
+"adptVictor": "N",
+"ytpRate":    22.34,
+"ntpRate":    28.69 
 } 
 ] 
 },
@@ -803,19 +836,20 @@
 "town": "010",
 "vill": "045",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    48.44,
+"votePop":     1311,
 "candidates": [
  {
  "candNo": "1",
 "name": "黃建賓",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      239,
+"disagreeTks":      393,
+"agreeRate":    37.82,
+"disagreeRate":    62.18,
+"adptVictor": "N",
+"ytpRate":    18.23,
+"ntpRate":    29.98 
 } 
 ] 
 },
@@ -827,19 +861,20 @@
 "town": "010",
 "vill": "046",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    43.22,
+"votePop":     1143,
 "candidates": [
  {
  "candNo": "1",
 "name": "黃建賓",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      131,
+"disagreeTks":      360,
+"agreeRate":    26.68,
+"disagreeRate":    73.32,
+"adptVictor": "N",
+"ytpRate":    11.46,
+"ntpRate":     31.5 
 } 
 ] 
 },
@@ -851,19 +886,20 @@
 "town": "020",
 "vill": "008",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    44.82,
+"votePop":      386,
 "candidates": [
  {
  "candNo": "1",
 "name": "黃建賓",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":       68,
+"disagreeTks":      103,
+"agreeRate":    39.77,
+"disagreeRate":    60.23,
+"adptVictor": "N",
+"ytpRate":    17.62,
+"ntpRate":    26.68 
 } 
 ] 
 },
@@ -875,19 +911,20 @@
 "town": "020",
 "vill": "007",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    38.28,
+"votePop":      128,
 "candidates": [
  {
  "candNo": "1",
 "name": "黃建賓",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":       25,
+"disagreeTks":       24,
+"agreeRate":    51.02,
+"disagreeRate":    48.98,
+"adptVictor": "N",
+"ytpRate":    19.53,
+"ntpRate":    18.75 
 } 
 ] 
 },
@@ -899,19 +936,20 @@
 "town": "020",
 "vill": "006",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":     46.4,
+"votePop":     1515,
 "candidates": [
  {
  "candNo": "1",
 "name": "黃建賓",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      211,
+"disagreeTks":      490,
+"agreeRate":     30.1,
+"disagreeRate":     69.9,
+"adptVictor": "N",
+"ytpRate":    13.93,
+"ntpRate":    32.34 
 } 
 ] 
 },
@@ -923,19 +961,20 @@
 "town": "020",
 "vill": "005",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    48.35,
+"votePop":     1456,
 "candidates": [
  {
  "candNo": "1",
 "name": "黃建賓",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      173,
+"disagreeTks":      531,
+"agreeRate":    24.57,
+"disagreeRate":    75.43,
+"adptVictor": "N",
+"ytpRate":    11.88,
+"ntpRate":    36.47 
 } 
 ] 
 },
@@ -947,19 +986,20 @@
 "town": "020",
 "vill": "004",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    44.18,
+"votePop":     1091,
 "candidates": [
  {
  "candNo": "1",
 "name": "黃建賓",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      122,
+"disagreeTks":      357,
+"agreeRate":    25.47,
+"disagreeRate":    74.53,
+"adptVictor": "N",
+"ytpRate":    11.18,
+"ntpRate":    32.72 
 } 
 ] 
 },
@@ -971,19 +1011,20 @@
 "town": "020",
 "vill": "003",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    37.14,
+"votePop":      377,
 "candidates": [
  {
  "candNo": "1",
 "name": "黃建賓",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":       43,
+"disagreeTks":       96,
+"agreeRate":    30.94,
+"disagreeRate":    69.06,
+"adptVictor": "N",
+"ytpRate":    11.41,
+"ntpRate":    25.46 
 } 
 ] 
 },
@@ -995,19 +1036,20 @@
 "town": "020",
 "vill": "002",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    39.18,
+"votePop":      291,
 "candidates": [
  {
  "candNo": "1",
 "name": "黃建賓",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":       44,
+"disagreeTks":       70,
+"agreeRate":     38.6,
+"disagreeRate":     61.4,
+"adptVictor": "N",
+"ytpRate":    15.12,
+"ntpRate":    24.05 
 } 
 ] 
 },
@@ -1019,19 +1061,20 @@
 "town": "020",
 "vill": "001",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    48.28,
+"votePop":       58,
 "candidates": [
  {
  "candNo": "1",
 "name": "黃建賓",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":       11,
+"disagreeTks":       17,
+"agreeRate":    39.29,
+"disagreeRate":    60.71,
+"adptVictor": "N",
+"ytpRate":    18.97,
+"ntpRate":    29.31 
 } 
 ] 
 },
@@ -1043,19 +1086,20 @@
 "town": "030",
 "vill": "005",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    49.87,
+"votePop":     1171,
 "candidates": [
  {
  "candNo": "1",
 "name": "黃建賓",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      178,
+"disagreeTks":      403,
+"agreeRate":    30.64,
+"disagreeRate":    69.36,
+"adptVictor": "N",
+"ytpRate":     15.2,
+"ntpRate":    34.42 
 } 
 ] 
 },
@@ -1067,19 +1111,20 @@
 "town": "030",
 "vill": "004",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    53.87,
+"votePop":      633,
 "candidates": [
  {
  "candNo": "1",
 "name": "黃建賓",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      115,
+"disagreeTks":      225,
+"agreeRate":    33.82,
+"disagreeRate":    66.18,
+"adptVictor": "N",
+"ytpRate":    18.17,
+"ntpRate":    35.55 
 } 
 ] 
 },
@@ -1091,19 +1136,20 @@
 "town": "030",
 "vill": "003",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    49.83,
+"votePop":      572,
 "candidates": [
  {
  "candNo": "1",
 "name": "黃建賓",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      100,
+"disagreeTks":      184,
+"agreeRate":    35.21,
+"disagreeRate":    64.79,
+"adptVictor": "N",
+"ytpRate":    17.48,
+"ntpRate":    32.17 
 } 
 ] 
 },
@@ -1115,19 +1161,20 @@
 "town": "030",
 "vill": "002",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    50.06,
+"votePop":      899,
 "candidates": [
  {
  "candNo": "1",
 "name": "黃建賓",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      122,
+"disagreeTks":      326,
+"agreeRate":    27.23,
+"disagreeRate":    72.77,
+"adptVictor": "N",
+"ytpRate":    13.57,
+"ntpRate":    36.26 
 } 
 ] 
 },
@@ -1139,19 +1186,20 @@
 "town": "030",
 "vill": "007",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    42.29,
+"votePop":      506,
 "candidates": [
  {
  "candNo": "1",
 "name": "黃建賓",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":       83,
+"disagreeTks":      130,
+"agreeRate":    38.97,
+"disagreeRate":    61.03,
+"adptVictor": "N",
+"ytpRate":     16.4,
+"ntpRate":    25.69 
 } 
 ] 
 },
@@ -1163,19 +1211,20 @@
 "town": "030",
 "vill": "001",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    43.71,
+"votePop":      954,
 "candidates": [
  {
  "candNo": "1",
 "name": "黃建賓",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      134,
+"disagreeTks":      280,
+"agreeRate":    32.37,
+"disagreeRate":    67.63,
+"adptVictor": "N",
+"ytpRate":    14.05,
+"ntpRate":    29.35 
 } 
 ] 
 },
@@ -1187,19 +1236,20 @@
 "town": "030",
 "vill": "006",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    34.59,
+"votePop":      159,
 "candidates": [
  {
  "candNo": "1",
 "name": "黃建賓",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":       15,
+"disagreeTks":       39,
+"agreeRate":    27.78,
+"disagreeRate":    72.22,
+"adptVictor": "N",
+"ytpRate":     9.43,
+"ntpRate":    24.53 
 } 
 ] 
 },
@@ -1211,19 +1261,20 @@
 "town": "040",
 "vill": "008",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    53.08,
+"votePop":     1492,
 "candidates": [
  {
  "candNo": "1",
 "name": "黃建賓",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      372,
+"disagreeTks":      413,
+"agreeRate":    47.39,
+"disagreeRate":    52.61,
+"adptVictor": "N",
+"ytpRate":    24.93,
+"ntpRate":    27.68 
 } 
 ] 
 },
@@ -1235,19 +1286,20 @@
 "town": "040",
 "vill": "007",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    49.12,
+"votePop":      914,
 "candidates": [
  {
  "candNo": "1",
 "name": "黃建賓",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      224,
+"disagreeTks":      223,
+"agreeRate":    50.11,
+"disagreeRate":    49.89,
+"adptVictor": "N",
+"ytpRate":    24.51,
+"ntpRate":     24.4 
 } 
 ] 
 },
@@ -1259,19 +1311,20 @@
 "town": "040",
 "vill": "006",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    52.94,
+"votePop":      731,
 "candidates": [
  {
  "candNo": "1",
 "name": "黃建賓",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      146,
+"disagreeTks":      240,
+"agreeRate":    37.82,
+"disagreeRate":    62.18,
+"adptVictor": "N",
+"ytpRate":    19.97,
+"ntpRate":    32.83 
 } 
 ] 
 },
@@ -1283,19 +1336,20 @@
 "town": "040",
 "vill": "005",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    48.08,
+"votePop":      782,
 "candidates": [
  {
  "candNo": "1",
 "name": "黃建賓",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      166,
+"disagreeTks":      209,
+"agreeRate":    44.27,
+"disagreeRate":    55.73,
+"adptVictor": "N",
+"ytpRate":    21.23,
+"ntpRate":    26.73 
 } 
 ] 
 },
@@ -1307,19 +1361,20 @@
 "town": "040",
 "vill": "001",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    37.78,
+"votePop":      135,
 "candidates": [
  {
  "candNo": "1",
 "name": "黃建賓",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":       24,
+"disagreeTks":       27,
+"agreeRate":    47.06,
+"disagreeRate":    52.94,
+"adptVictor": "N",
+"ytpRate":    17.78,
+"ntpRate":       20 
 } 
 ] 
 },
@@ -1331,19 +1386,20 @@
 "town": "040",
 "vill": "010",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":       54,
+"votePop":     2187,
 "candidates": [
  {
  "candNo": "1",
 "name": "黃建賓",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      405,
+"disagreeTks":      771,
+"agreeRate":    34.44,
+"disagreeRate":    65.56,
+"adptVictor": "N",
+"ytpRate":    18.52,
+"ntpRate":    35.25 
 } 
 ] 
 },
@@ -1355,19 +1411,20 @@
 "town": "040",
 "vill": "009",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    49.65,
+"votePop":      576,
 "candidates": [
  {
  "candNo": "1",
 "name": "黃建賓",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":       97,
+"disagreeTks":      187,
+"agreeRate":    34.15,
+"disagreeRate":    65.85,
+"adptVictor": "N",
+"ytpRate":    16.84,
+"ntpRate":    32.47 
 } 
 ] 
 },
@@ -1379,19 +1436,20 @@
 "town": "040",
 "vill": "011",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    50.86,
+"votePop":      350,
 "candidates": [
  {
  "candNo": "1",
 "name": "黃建賓",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":       70,
+"disagreeTks":      108,
+"agreeRate":    39.33,
+"disagreeRate":    60.67,
+"adptVictor": "N",
+"ytpRate":       20,
+"ntpRate":    30.86 
 } 
 ] 
 },
@@ -1403,19 +1461,20 @@
 "town": "040",
 "vill": "012",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":     48.7,
+"votePop":      115,
 "candidates": [
  {
  "candNo": "1",
 "name": "黃建賓",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":       15,
+"disagreeTks":       41,
+"agreeRate":    26.79,
+"disagreeRate":    73.21,
+"adptVictor": "N",
+"ytpRate":    13.04,
+"ntpRate":    35.65 
 } 
 ] 
 },
@@ -1427,19 +1486,20 @@
 "town": "040",
 "vill": "013",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    46.62,
+"votePop":      961,
 "candidates": [
  {
  "candNo": "1",
 "name": "黃建賓",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      212,
+"disagreeTks":      230,
+"agreeRate":    47.96,
+"disagreeRate":    52.04,
+"adptVictor": "N",
+"ytpRate":    22.06,
+"ntpRate":    23.93 
 } 
 ] 
 },
@@ -1451,19 +1511,20 @@
 "town": "040",
 "vill": "003",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":     43.8,
+"votePop":      274,
 "candidates": [
  {
  "candNo": "1",
 "name": "黃建賓",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":       39,
+"disagreeTks":       80,
+"agreeRate":    32.77,
+"disagreeRate":    67.23,
+"adptVictor": "N",
+"ytpRate":    14.23,
+"ntpRate":     29.2 
 } 
 ] 
 },
@@ -1475,19 +1536,20 @@
 "town": "040",
 "vill": "004",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":     43.9,
+"votePop":      287,
 "candidates": [
  {
  "candNo": "1",
 "name": "黃建賓",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":       62,
+"disagreeTks":       64,
+"agreeRate":    49.21,
+"disagreeRate":    50.79,
+"adptVictor": "N",
+"ytpRate":     21.6,
+"ntpRate":     22.3 
 } 
 ] 
 },
@@ -1499,19 +1561,20 @@
 "town": "040",
 "vill": "002",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    47.37,
+"votePop":      228,
 "candidates": [
  {
  "candNo": "1",
 "name": "黃建賓",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":       42,
+"disagreeTks":       64,
+"agreeRate":    39.62,
+"disagreeRate":    60.38,
+"adptVictor": "N",
+"ytpRate":    18.42,
+"ntpRate":    28.07 
 } 
 ] 
 },
@@ -1523,19 +1586,20 @@
 "town": "050",
 "vill": "006",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    47.17,
+"votePop":      583,
 "candidates": [
  {
  "candNo": "1",
 "name": "黃建賓",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      105,
+"disagreeTks":      168,
+"agreeRate":    38.46,
+"disagreeRate":    61.54,
+"adptVictor": "N",
+"ytpRate":    18.01,
+"ntpRate":    28.82 
 } 
 ] 
 },
@@ -1547,19 +1611,20 @@
 "town": "050",
 "vill": "007",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    49.23,
+"votePop":      912,
 "candidates": [
  {
  "candNo": "1",
 "name": "黃建賓",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      214,
+"disagreeTks":      231,
+"agreeRate":    48.09,
+"disagreeRate":    51.91,
+"adptVictor": "N",
+"ytpRate":    23.46,
+"ntpRate":    25.33 
 } 
 ] 
 },
@@ -1571,19 +1636,20 @@
 "town": "050",
 "vill": "004",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    45.35,
+"votePop":      893,
 "candidates": [
  {
  "candNo": "1",
 "name": "黃建賓",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      163,
+"disagreeTks":      240,
+"agreeRate":    40.45,
+"disagreeRate":    59.55,
+"adptVictor": "N",
+"ytpRate":    18.25,
+"ntpRate":    26.88 
 } 
 ] 
 },
@@ -1595,19 +1661,20 @@
 "town": "050",
 "vill": "005",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    43.29,
+"votePop":      559,
 "candidates": [
  {
  "candNo": "1",
 "name": "黃建賓",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":       85,
+"disagreeTks":      156,
+"agreeRate":    35.27,
+"disagreeRate":    64.73,
+"adptVictor": "N",
+"ytpRate":    15.21,
+"ntpRate":    27.91 
 } 
 ] 
 },
@@ -1619,19 +1686,20 @@
 "town": "050",
 "vill": "003",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":     47.2,
+"votePop":      447,
 "candidates": [
  {
  "candNo": "1",
 "name": "黃建賓",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":       88,
+"disagreeTks":      123,
+"agreeRate":    41.71,
+"disagreeRate":    58.29,
+"adptVictor": "N",
+"ytpRate":    19.69,
+"ntpRate":    27.52 
 } 
 ] 
 },
@@ -1643,19 +1711,20 @@
 "town": "050",
 "vill": "001",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    41.11,
+"votePop":      287,
 "candidates": [
  {
  "candNo": "1",
 "name": "黃建賓",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":       41,
+"disagreeTks":       77,
+"agreeRate":    34.75,
+"disagreeRate":    65.25,
+"adptVictor": "N",
+"ytpRate":    14.29,
+"ntpRate":    26.83 
 } 
 ] 
 },
@@ -1667,19 +1736,20 @@
 "town": "050",
 "vill": "002",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    45.01,
+"votePop":      742,
 "candidates": [
  {
  "candNo": "1",
 "name": "黃建賓",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      192,
+"disagreeTks":      142,
+"agreeRate":    57.49,
+"disagreeRate":    42.51,
+"adptVictor": "N",
+"ytpRate":    25.88,
+"ntpRate":    19.14 
 } 
 ] 
 },
@@ -1691,19 +1761,20 @@
 "town": "060",
 "vill": "005",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    50.06,
+"votePop":     1612,
 "candidates": [
  {
  "candNo": "1",
 "name": "黃建賓",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      302,
+"disagreeTks":      500,
+"agreeRate":    37.66,
+"disagreeRate":    62.34,
+"adptVictor": "N",
+"ytpRate":    18.73,
+"ntpRate":    31.02 
 } 
 ] 
 },
@@ -1715,19 +1786,20 @@
 "town": "060",
 "vill": "001",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":       44,
+"votePop":      750,
 "candidates": [
  {
  "candNo": "1",
 "name": "黃建賓",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      124,
+"disagreeTks":      205,
+"agreeRate":    37.69,
+"disagreeRate":    62.31,
+"adptVictor": "N",
+"ytpRate":    16.53,
+"ntpRate":    27.33 
 } 
 ] 
 },
@@ -1739,19 +1811,20 @@
 "town": "060",
 "vill": "002",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    46.39,
+"votePop":      485,
 "candidates": [
  {
  "candNo": "1",
 "name": "黃建賓",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":       71,
+"disagreeTks":      151,
+"agreeRate":    31.98,
+"disagreeRate":    68.02,
+"adptVictor": "N",
+"ytpRate":    14.64,
+"ntpRate":    31.13 
 } 
 ] 
 },
@@ -1763,19 +1836,20 @@
 "town": "060",
 "vill": "003",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    38.37,
+"votePop":       86,
 "candidates": [
  {
  "candNo": "1",
 "name": "黃建賓",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":        6,
+"disagreeTks":       27,
+"agreeRate":    18.18,
+"disagreeRate":    81.82,
+"adptVictor": "N",
+"ytpRate":     6.98,
+"ntpRate":     31.4 
 } 
 ] 
 },
@@ -1787,19 +1861,20 @@
 "town": "060",
 "vill": "004",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    48.86,
+"votePop":      350,
 "candidates": [
  {
  "candNo": "1",
 "name": "黃建賓",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":       72,
+"disagreeTks":       98,
+"agreeRate":    42.35,
+"disagreeRate":    57.65,
+"adptVictor": "N",
+"ytpRate":    20.57,
+"ntpRate":       28 
 } 
 ] 
 },
@@ -1811,19 +1886,20 @@
 "town": "060",
 "vill": "007",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    45.35,
+"votePop":      635,
 "candidates": [
  {
  "candNo": "1",
 "name": "黃建賓",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      113,
+"disagreeTks":      173,
+"agreeRate":    39.51,
+"disagreeRate":    60.49,
+"adptVictor": "N",
+"ytpRate":     17.8,
+"ntpRate":    27.24 
 } 
 ] 
 },
@@ -1835,19 +1911,20 @@
 "town": "060",
 "vill": "006",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    36.49,
+"votePop":      285,
 "candidates": [
  {
  "candNo": "1",
 "name": "黃建賓",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":       50,
+"disagreeTks":       53,
+"agreeRate":    48.54,
+"disagreeRate":    51.46,
+"adptVictor": "N",
+"ytpRate":    17.54,
+"ntpRate":     18.6 
 } 
 ] 
 },
@@ -1859,19 +1936,20 @@
 "town": "060",
 "vill": "008",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    45.67,
+"votePop":      254,
 "candidates": [
  {
  "candNo": "1",
 "name": "黃建賓",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":       58,
+"disagreeTks":       58,
+"agreeRate":       50,
+"disagreeRate":       50,
+"adptVictor": "N",
+"ytpRate":    22.83,
+"ntpRate":    22.83 
 } 
 ] 
 },
@@ -1883,19 +1961,20 @@
 "town": "060",
 "vill": "009",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    45.53,
+"votePop":      246,
 "candidates": [
  {
  "candNo": "1",
 "name": "黃建賓",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":       30,
+"disagreeTks":       82,
+"agreeRate":    26.79,
+"disagreeRate":    73.21,
+"adptVictor": "N",
+"ytpRate":     12.2,
+"ntpRate":    33.33 
 } 
 ] 
 },
@@ -1907,19 +1986,20 @@
 "town": "060",
 "vill": "010",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    38.21,
+"votePop":      123,
 "candidates": [
  {
  "candNo": "1",
 "name": "黃建賓",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":       18,
+"disagreeTks":       29,
+"agreeRate":     38.3,
+"disagreeRate":     61.7,
+"adptVictor": "N",
+"ytpRate":    14.63,
+"ntpRate":    23.58 
 } 
 ] 
 },
@@ -1931,19 +2011,20 @@
 "town": "070",
 "vill": "007",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    49.09,
+"votePop":     1041,
 "candidates": [
  {
  "candNo": "1",
 "name": "黃建賓",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      227,
+"disagreeTks":      279,
+"agreeRate":    44.86,
+"disagreeRate":    55.14,
+"adptVictor": "N",
+"ytpRate":    21.81,
+"ntpRate":     26.8 
 } 
 ] 
 },
@@ -1955,19 +2036,20 @@
 "town": "070",
 "vill": "006",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    51.94,
+"votePop":      489,
 "candidates": [
  {
  "candNo": "1",
 "name": "黃建賓",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      125,
+"disagreeTks":      127,
+"agreeRate":     49.6,
+"disagreeRate":     50.4,
+"adptVictor": "N",
+"ytpRate":    25.56,
+"ntpRate":    25.97 
 } 
 ] 
 },
@@ -1979,19 +2061,20 @@
 "town": "070",
 "vill": "005",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    43.75,
+"votePop":      176,
 "candidates": [
  {
  "candNo": "1",
 "name": "黃建賓",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":       42,
+"disagreeTks":       35,
+"agreeRate":    54.55,
+"disagreeRate":    45.45,
+"adptVictor": "N",
+"ytpRate":    23.86,
+"ntpRate":    19.89 
 } 
 ] 
 },
@@ -2003,19 +2086,20 @@
 "town": "070",
 "vill": "003",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    36.58,
+"votePop":      298,
 "candidates": [
  {
  "candNo": "1",
 "name": "黃建賓",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":       32,
+"disagreeTks":       77,
+"agreeRate":    29.36,
+"disagreeRate":    70.64,
+"adptVictor": "N",
+"ytpRate":    10.74,
+"ntpRate":    25.84 
 } 
 ] 
 },
@@ -2027,19 +2111,20 @@
 "town": "070",
 "vill": "002",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    44.41,
+"votePop":      367,
 "candidates": [
  {
  "candNo": "1",
 "name": "黃建賓",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":       56,
+"disagreeTks":      107,
+"agreeRate":    34.36,
+"disagreeRate":    65.64,
+"adptVictor": "N",
+"ytpRate":    15.26,
+"ntpRate":    29.16 
 } 
 ] 
 },
@@ -2051,19 +2136,20 @@
 "town": "070",
 "vill": "001",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":     33.5,
+"votePop":      809,
 "candidates": [
  {
  "candNo": "1",
 "name": "黃建賓",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":       87,
+"disagreeTks":      184,
+"agreeRate":     32.1,
+"disagreeRate":     67.9,
+"adptVictor": "N",
+"ytpRate":    10.75,
+"ntpRate":    22.74 
 } 
 ] 
 },
@@ -2075,19 +2161,20 @@
 "town": "070",
 "vill": "004",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    34.27,
+"votePop":      143,
 "candidates": [
  {
  "candNo": "1",
 "name": "黃建賓",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":       20,
+"disagreeTks":       29,
+"agreeRate":    40.82,
+"disagreeRate":    59.18,
+"adptVictor": "N",
+"ytpRate":    13.99,
+"ntpRate":    20.28 
 } 
 ] 
 },
@@ -2099,19 +2186,20 @@
 "town": "080",
 "vill": "006",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    37.93,
+"votePop":      232,
 "candidates": [
  {
  "candNo": "1",
 "name": "黃建賓",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":       31,
+"disagreeTks":       57,
+"agreeRate":    35.23,
+"disagreeRate":    64.77,
+"adptVictor": "N",
+"ytpRate":    13.36,
+"ntpRate":    24.57 
 } 
 ] 
 },
@@ -2123,19 +2211,20 @@
 "town": "080",
 "vill": "005",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    34.22,
+"votePop":      263,
 "candidates": [
  {
  "candNo": "1",
 "name": "黃建賓",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":       47,
+"disagreeTks":       42,
+"agreeRate":    52.81,
+"disagreeRate":    47.19,
+"adptVictor": "N",
+"ytpRate":    17.87,
+"ntpRate":    15.97 
 } 
 ] 
 },
@@ -2147,19 +2236,20 @@
 "town": "080",
 "vill": "004",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    40.76,
+"votePop":     1033,
 "candidates": [
  {
  "candNo": "1",
 "name": "黃建賓",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      136,
+"disagreeTks":      284,
+"agreeRate":    32.38,
+"disagreeRate":    67.62,
+"adptVictor": "N",
+"ytpRate":    13.17,
+"ntpRate":    27.49 
 } 
 ] 
 },
@@ -2171,19 +2261,20 @@
 "town": "080",
 "vill": "003",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    40.82,
+"votePop":      365,
 "candidates": [
  {
  "candNo": "1",
 "name": "黃建賓",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":       39,
+"disagreeTks":      110,
+"agreeRate":    26.17,
+"disagreeRate":    73.83,
+"adptVictor": "N",
+"ytpRate":    10.68,
+"ntpRate":    30.14 
 } 
 ] 
 },
@@ -2195,19 +2286,20 @@
 "town": "080",
 "vill": "002",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    36.02,
+"votePop":      261,
 "candidates": [
  {
  "candNo": "1",
 "name": "黃建賓",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":       31,
+"disagreeTks":       63,
+"agreeRate":    32.98,
+"disagreeRate":    67.02,
+"adptVictor": "N",
+"ytpRate":    11.88,
+"ntpRate":    24.14 
 } 
 ] 
 },
@@ -2219,19 +2311,20 @@
 "town": "080",
 "vill": "001",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    46.55,
+"votePop":      174,
 "candidates": [
  {
  "candNo": "1",
 "name": "黃建賓",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":       17,
+"disagreeTks":       64,
+"agreeRate":    20.99,
+"disagreeRate":    79.01,
+"adptVictor": "N",
+"ytpRate":     9.77,
+"ntpRate":    36.78 
 } 
 ] 
 },
@@ -2243,19 +2336,20 @@
 "town": "090",
 "vill": "001",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":       50,
+"votePop":      864,
 "candidates": [
  {
  "candNo": "1",
 "name": "黃建賓",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      199,
+"disagreeTks":      232,
+"agreeRate":    46.17,
+"disagreeRate":    53.83,
+"adptVictor": "N",
+"ytpRate":    23.03,
+"ntpRate":    26.85 
 } 
 ] 
 },
@@ -2267,19 +2361,20 @@
 "town": "090",
 "vill": "002",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    45.91,
+"votePop":      514,
 "candidates": [
  {
  "candNo": "1",
 "name": "黃建賓",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":       95,
+"disagreeTks":      141,
+"agreeRate":    40.25,
+"disagreeRate":    59.75,
+"adptVictor": "N",
+"ytpRate":    18.48,
+"ntpRate":    27.43 
 } 
 ] 
 },
@@ -2291,19 +2386,20 @@
 "town": "090",
 "vill": "003",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    47.71,
+"votePop":      545,
 "candidates": [
  {
  "candNo": "1",
 "name": "黃建賓",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      146,
+"disagreeTks":      113,
+"agreeRate":    56.37,
+"disagreeRate":    43.63,
+"adptVictor": "N",
+"ytpRate":    26.79,
+"ntpRate":    20.73 
 } 
 ] 
 },
@@ -2315,19 +2411,20 @@
 "town": "090",
 "vill": "004",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    49.31,
+"votePop":      290,
 "candidates": [
  {
  "candNo": "1",
 "name": "黃建賓",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":       67,
+"disagreeTks":       75,
+"agreeRate":    47.18,
+"disagreeRate":    52.82,
+"adptVictor": "N",
+"ytpRate":     23.1,
+"ntpRate":    25.86 
 } 
 ] 
 },
@@ -2339,19 +2436,20 @@
 "town": "090",
 "vill": "006",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    44.93,
+"votePop":      997,
 "candidates": [
  {
  "candNo": "1",
 "name": "黃建賓",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      189,
+"disagreeTks":      258,
+"agreeRate":    42.28,
+"disagreeRate":    57.72,
+"adptVictor": "N",
+"ytpRate":    18.96,
+"ntpRate":    25.88 
 } 
 ] 
 },
@@ -2363,19 +2461,20 @@
 "town": "090",
 "vill": "005",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":     52.9,
+"votePop":      949,
 "candidates": [
  {
  "candNo": "1",
 "name": "黃建賓",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      177,
+"disagreeTks":      321,
+"agreeRate":    35.54,
+"disagreeRate":    64.46,
+"adptVictor": "N",
+"ytpRate":    18.65,
+"ntpRate":    33.83 
 } 
 ] 
 },
@@ -2387,19 +2486,20 @@
 "town": "090",
 "vill": "007",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    49.44,
+"votePop":      356,
 "candidates": [
  {
  "candNo": "1",
 "name": "黃建賓",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":       39,
+"disagreeTks":      137,
+"agreeRate":    22.16,
+"disagreeRate":    77.84,
+"adptVictor": "N",
+"ytpRate":    10.96,
+"ntpRate":    38.48 
 } 
 ] 
 },
@@ -2411,19 +2511,20 @@
 "town": "090",
 "vill": "008",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    32.85,
+"votePop":      207,
 "candidates": [
  {
  "candNo": "1",
 "name": "黃建賓",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":       20,
+"disagreeTks":       48,
+"agreeRate":    29.41,
+"disagreeRate":    70.59,
+"adptVictor": "N",
+"ytpRate":     9.66,
+"ntpRate":    23.19 
 } 
 ] 
 },
@@ -2435,19 +2536,20 @@
 "town": "090",
 "vill": "009",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    38.13,
+"votePop":      139,
 "candidates": [
  {
  "candNo": "1",
 "name": "黃建賓",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":       18,
+"disagreeTks":       35,
+"agreeRate":    33.96,
+"disagreeRate":    66.04,
+"adptVictor": "N",
+"ytpRate":    12.95,
+"ntpRate":    25.18 
 } 
 ] 
 },
@@ -2459,19 +2561,20 @@
 "town": "100",
 "vill": "005",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":     46.8,
+"votePop":      203,
 "candidates": [
  {
  "candNo": "1",
 "name": "黃建賓",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":       42,
+"disagreeTks":       53,
+"agreeRate":    44.21,
+"disagreeRate":    55.79,
+"adptVictor": "N",
+"ytpRate":    20.69,
+"ntpRate":    26.11 
 } 
 ] 
 },
@@ -2483,19 +2586,20 @@
 "town": "100",
 "vill": "004",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    43.06,
+"votePop":      915,
 "candidates": [
  {
  "candNo": "1",
 "name": "黃建賓",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      165,
+"disagreeTks":      226,
+"agreeRate":     42.2,
+"disagreeRate":     57.8,
+"adptVictor": "N",
+"ytpRate":    18.03,
+"ntpRate":     24.7 
 } 
 ] 
 },
@@ -2507,19 +2611,20 @@
 "town": "100",
 "vill": "003",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    47.16,
+"votePop":      545,
 "candidates": [
  {
  "candNo": "1",
 "name": "黃建賓",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":       68,
+"disagreeTks":      187,
+"agreeRate":    26.67,
+"disagreeRate":    73.33,
+"adptVictor": "N",
+"ytpRate":    12.48,
+"ntpRate":    34.31 
 } 
 ] 
 },
@@ -2531,19 +2636,20 @@
 "town": "100",
 "vill": "002",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":       40,
+"votePop":       35,
 "candidates": [
  {
  "candNo": "1",
 "name": "黃建賓",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":        7,
+"disagreeTks":        7,
+"agreeRate":       50,
+"disagreeRate":       50,
+"adptVictor": "N",
+"ytpRate":       20,
+"ntpRate":       20 
 } 
 ] 
 },
@@ -2555,19 +2661,20 @@
 "town": "100",
 "vill": "001",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    27.45,
+"votePop":       51,
 "candidates": [
  {
  "candNo": "1",
 "name": "黃建賓",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":        2,
+"disagreeTks":       11,
+"agreeRate":    15.38,
+"disagreeRate":    84.62,
+"adptVictor": "N",
+"ytpRate":     3.92,
+"ntpRate":    21.57 
 } 
 ] 
 },
@@ -2579,19 +2686,20 @@
 "town": "110",
 "vill": "003",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    36.37,
+"votePop":     1570,
 "candidates": [
  {
  "candNo": "1",
 "name": "黃建賓",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      153,
+"disagreeTks":      413,
+"agreeRate":    27.03,
+"disagreeRate":    72.97,
+"adptVictor": "N",
+"ytpRate":     9.75,
+"ntpRate":    26.31 
 } 
 ] 
 },
@@ -2603,19 +2711,20 @@
 "town": "110",
 "vill": "002",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    33.07,
+"votePop":     1016,
 "candidates": [
  {
  "candNo": "1",
 "name": "黃建賓",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":       94,
+"disagreeTks":      239,
+"agreeRate":    28.23,
+"disagreeRate":    71.77,
+"adptVictor": "N",
+"ytpRate":     9.25,
+"ntpRate":    23.52 
 } 
 ] 
 },
@@ -2627,19 +2736,20 @@
 "town": "110",
 "vill": "001",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    35.65,
+"votePop":      979,
 "candidates": [
  {
  "candNo": "1",
 "name": "黃建賓",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":       82,
+"disagreeTks":      266,
+"agreeRate":    23.56,
+"disagreeRate":    76.44,
+"adptVictor": "N",
+"ytpRate":     8.38,
+"ntpRate":    27.17 
 } 
 ] 
 },
@@ -2651,19 +2761,20 @@
 "town": "120",
 "vill": "006",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    42.11,
+"votePop":       19,
 "candidates": [
  {
  "candNo": "1",
 "name": "黃建賓",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":        1,
+"disagreeTks":        7,
+"agreeRate":     12.5,
+"disagreeRate":     87.5,
+"adptVictor": "N",
+"ytpRate":     5.26,
+"ntpRate":    36.84 
 } 
 ] 
 },
@@ -2675,19 +2786,20 @@
 "town": "120",
 "vill": "005",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    45.83,
+"votePop":       24,
 "candidates": [
  {
  "candNo": "1",
 "name": "黃建賓",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":        2,
+"disagreeTks":        9,
+"agreeRate":    18.18,
+"disagreeRate":    81.82,
+"adptVictor": "N",
+"ytpRate":     8.33,
+"ntpRate":     37.5 
 } 
 ] 
 },
@@ -2699,19 +2811,20 @@
 "town": "120",
 "vill": "004",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    43.06,
+"votePop":       72,
 "candidates": [
  {
  "candNo": "1",
 "name": "黃建賓",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":        6,
+"disagreeTks":       25,
+"agreeRate":    19.35,
+"disagreeRate":    80.65,
+"adptVictor": "N",
+"ytpRate":     8.33,
+"ntpRate":    34.72 
 } 
 ] 
 },
@@ -2723,19 +2836,20 @@
 "town": "120",
 "vill": "001",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    31.25,
+"votePop":       48,
 "candidates": [
  {
  "candNo": "1",
 "name": "黃建賓",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":        2,
+"disagreeTks":       12,
+"agreeRate":    14.29,
+"disagreeRate":    85.71,
+"adptVictor": "N",
+"ytpRate":     4.17,
+"ntpRate":       25 
 } 
 ] 
 },
@@ -2747,19 +2861,20 @@
 "town": "120",
 "vill": "002",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    52.94,
+"votePop":       17,
 "candidates": [
  {
  "candNo": "1",
 "name": "黃建賓",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":        6,
+"disagreeTks":        3,
+"agreeRate":    66.67,
+"disagreeRate":    33.33,
+"adptVictor": "N",
+"ytpRate":    35.29,
+"ntpRate":    17.65 
 } 
 ] 
 },
@@ -2771,19 +2886,20 @@
 "town": "120",
 "vill": "003",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":       30,
+"votePop":       20,
 "candidates": [
  {
  "candNo": "1",
 "name": "黃建賓",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":        0,
+"disagreeTks":        6,
+"agreeRate":        0,
+"disagreeRate":      100,
+"adptVictor": "N",
+"ytpRate":        0,
+"ntpRate":       30 
 } 
 ] 
 },
@@ -2795,19 +2911,20 @@
 "town": "130",
 "vill": "005",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    38.68,
+"votePop":      106,
 "candidates": [
  {
  "candNo": "1",
 "name": "黃建賓",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":       16,
+"disagreeTks":       25,
+"agreeRate":    39.02,
+"disagreeRate":    60.98,
+"adptVictor": "N",
+"ytpRate":    15.09,
+"ntpRate":    23.58 
 } 
 ] 
 },
@@ -2819,19 +2936,20 @@
 "town": "130",
 "vill": "003",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    39.29,
+"votePop":       28,
 "candidates": [
  {
  "candNo": "1",
 "name": "黃建賓",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":        2,
+"disagreeTks":        9,
+"agreeRate":    18.18,
+"disagreeRate":    81.82,
+"adptVictor": "N",
+"ytpRate":     7.14,
+"ntpRate":    32.14 
 } 
 ] 
 },
@@ -2843,19 +2961,20 @@
 "town": "130",
 "vill": "002",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    57.89,
+"votePop":       19,
 "candidates": [
  {
  "candNo": "1",
 "name": "黃建賓",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":        3,
+"disagreeTks":        8,
+"agreeRate":    27.27,
+"disagreeRate":    72.73,
+"adptVictor": "N",
+"ytpRate":    15.79,
+"ntpRate":    42.11 
 } 
 ] 
 },
@@ -2867,19 +2986,20 @@
 "town": "130",
 "vill": "001",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    44.44,
+"votePop":       27,
 "candidates": [
  {
  "candNo": "1",
 "name": "黃建賓",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":        3,
+"disagreeTks":        9,
+"agreeRate":       25,
+"disagreeRate":       75,
+"adptVictor": "N",
+"ytpRate":    11.11,
+"ntpRate":    33.33 
 } 
 ] 
 },
@@ -2891,19 +3011,20 @@
 "town": "130",
 "vill": "004",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    33.85,
+"votePop":       65,
 "candidates": [
  {
  "candNo": "1",
 "name": "黃建賓",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":        9,
+"disagreeTks":       13,
+"agreeRate":    40.91,
+"disagreeRate":    59.09,
+"adptVictor": "N",
+"ytpRate":    13.85,
+"ntpRate":       20 
 } 
 ] 
 },
@@ -2915,19 +3036,20 @@
 "town": "140",
 "vill": "003",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    47.22,
+"votePop":       36,
 "candidates": [
  {
  "candNo": "1",
 "name": "黃建賓",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":        3,
+"disagreeTks":       14,
+"agreeRate":    17.65,
+"disagreeRate":    82.35,
+"adptVictor": "N",
+"ytpRate":     8.33,
+"ntpRate":    38.89 
 } 
 ] 
 },
@@ -2939,19 +3061,20 @@
 "town": "140",
 "vill": "002",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    36.36,
+"votePop":       22,
 "candidates": [
  {
  "candNo": "1",
 "name": "黃建賓",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":        1,
+"disagreeTks":        7,
+"agreeRate":     12.5,
+"disagreeRate":     87.5,
+"adptVictor": "N",
+"ytpRate":     4.55,
+"ntpRate":    31.82 
 } 
 ] 
 },
@@ -2963,19 +3086,20 @@
 "town": "140",
 "vill": "001",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    55.56,
+"votePop":       18,
 "candidates": [
  {
  "candNo": "1",
 "name": "黃建賓",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":        6,
+"disagreeTks":        4,
+"agreeRate":       60,
+"disagreeRate":       40,
+"adptVictor": "N",
+"ytpRate":    33.33,
+"ntpRate":    22.22 
 } 
 ] 
 },
@@ -2987,19 +3111,20 @@
 "town": "140",
 "vill": "004",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":     62.5,
+"votePop":        8,
 "candidates": [
  {
  "candNo": "1",
 "name": "黃建賓",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":        0,
+"disagreeTks":        5,
+"agreeRate":        0,
+"disagreeRate":      100,
+"adptVictor": "N",
+"ytpRate":        0,
+"ntpRate":     62.5 
 } 
 ] 
 },
@@ -3011,19 +3136,20 @@
 "town": "140",
 "vill": "005",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    73.68,
+"votePop":       19,
 "candidates": [
  {
  "candNo": "1",
 "name": "黃建賓",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":        2,
+"disagreeTks":       12,
+"agreeRate":    14.29,
+"disagreeRate":    85.71,
+"adptVictor": "N",
+"ytpRate":    10.53,
+"ntpRate":    63.16 
 } 
 ] 
 },
@@ -3035,19 +3161,20 @@
 "town": "150",
 "vill": "004",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":     37.7,
+"votePop":       61,
 "candidates": [
  {
  "candNo": "1",
 "name": "黃建賓",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":        6,
+"disagreeTks":       17,
+"agreeRate":    26.09,
+"disagreeRate":    73.91,
+"adptVictor": "N",
+"ytpRate":     9.84,
+"ntpRate":    27.87 
 } 
 ] 
 },
@@ -3059,19 +3186,20 @@
 "town": "150",
 "vill": "006",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    33.33,
+"votePop":       42,
 "candidates": [
  {
  "candNo": "1",
 "name": "黃建賓",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":        3,
+"disagreeTks":       11,
+"agreeRate":    21.43,
+"disagreeRate":    78.57,
+"adptVictor": "N",
+"ytpRate":     7.14,
+"ntpRate":    26.19 
 } 
 ] 
 },
@@ -3083,19 +3211,20 @@
 "town": "150",
 "vill": "005",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    53.85,
+"votePop":       26,
 "candidates": [
  {
  "candNo": "1",
 "name": "黃建賓",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":        6,
+"disagreeTks":        8,
+"agreeRate":    42.86,
+"disagreeRate":    57.14,
+"adptVictor": "N",
+"ytpRate":    23.08,
+"ntpRate":    30.77 
 } 
 ] 
 },
@@ -3107,19 +3236,20 @@
 "town": "150",
 "vill": "003",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    54.55,
+"votePop":       11,
 "candidates": [
  {
  "candNo": "1",
 "name": "黃建賓",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":        0,
+"disagreeTks":        6,
+"agreeRate":        0,
+"disagreeRate":      100,
+"adptVictor": "N",
+"ytpRate":        0,
+"ntpRate":    54.55 
 } 
 ] 
 },
@@ -3131,19 +3261,20 @@
 "town": "150",
 "vill": "001",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    28.57,
+"votePop":       14,
 "candidates": [
  {
  "candNo": "1",
 "name": "黃建賓",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":        0,
+"disagreeTks":        4,
+"agreeRate":        0,
+"disagreeRate":      100,
+"adptVictor": "N",
+"ytpRate":        0,
+"ntpRate":    28.57 
 } 
 ] 
 },
@@ -3155,19 +3286,20 @@
 "town": "150",
 "vill": "002",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    18.75,
+"votePop":       16,
 "candidates": [
  {
  "candNo": "1",
 "name": "黃建賓",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":        1,
+"disagreeTks":        2,
+"agreeRate":    33.33,
+"disagreeRate":    66.67,
+"adptVictor": "N",
+"ytpRate":     6.25,
+"ntpRate":     12.5 
 } 
 ] 
 },
@@ -3179,19 +3311,20 @@
 "town": "160",
 "vill": "004",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    27.34,
+"votePop":      256,
 "candidates": [
  {
  "candNo": "1",
 "name": "黃建賓",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":       27,
+"disagreeTks":       43,
+"agreeRate":    38.57,
+"disagreeRate":    61.43,
+"adptVictor": "N",
+"ytpRate":    10.55,
+"ntpRate":     16.8 
 } 
 ] 
 },
@@ -3203,19 +3336,20 @@
 "town": "160",
 "vill": "003",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    30.74,
+"votePop":      296,
 "candidates": [
  {
  "candNo": "1",
 "name": "黃建賓",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":       39,
+"disagreeTks":       51,
+"agreeRate":    43.33,
+"disagreeRate":    56.67,
+"adptVictor": "N",
+"ytpRate":    13.18,
+"ntpRate":    17.23 
 } 
 ] 
 },
@@ -3227,19 +3361,20 @@
 "town": "160",
 "vill": "001",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    28.32,
+"votePop":      173,
 "candidates": [
  {
  "candNo": "1",
 "name": "黃建賓",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":       33,
+"disagreeTks":       16,
+"agreeRate":    67.35,
+"disagreeRate":    32.65,
+"adptVictor": "N",
+"ytpRate":    19.08,
+"ntpRate":     9.25 
 } 
 ] 
 },
@@ -3251,19 +3386,20 @@
 "town": "160",
 "vill": "002",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    24.71,
+"votePop":       85,
 "candidates": [
  {
  "candNo": "1",
 "name": "黃建賓",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":       12,
+"disagreeTks":        8,
+"agreeRate":       60,
+"disagreeRate":       40,
+"adptVictor": "N",
+"ytpRate":    14.12,
+"ntpRate":     9.41 
 } 
 ] 
 },
@@ -3275,19 +3411,20 @@
 "town": "010",
 "vill": "047",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    51.49,
+"votePop":     2490,
 "candidates": [
  {
  "candNo": "1",
 "name": "黃建賓",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      446,
+"disagreeTks":      831,
+"agreeRate":    34.93,
+"disagreeRate":    65.07,
+"adptVictor": "N",
+"ytpRate":    17.91,
+"ntpRate":    33.37 
 } 
 ] 
 },
@@ -3299,19 +3436,20 @@
 "town": "010",
 "vill": "048",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    51.75,
+"votePop":     2514,
 "candidates": [
  {
  "candNo": "1",
 "name": "黃建賓",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      466,
+"disagreeTks":      832,
+"agreeRate":     35.9,
+"disagreeRate":     64.1,
+"adptVictor": "N",
+"ytpRate":    18.54,
+"ntpRate":    33.09 
 } 
 ] 
 },
@@ -3323,19 +3461,20 @@
 "town": "010",
 "vill": "049",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    54.48,
+"votePop":     2735,
 "candidates": [
  {
  "candNo": "1",
 "name": "黃建賓",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      473,
+"disagreeTks":     1011,
+"agreeRate":    31.87,
+"disagreeRate":    68.13,
+"adptVictor": "N",
+"ytpRate":    17.29,
+"ntpRate":    36.97 
 } 
 ] 
 } 

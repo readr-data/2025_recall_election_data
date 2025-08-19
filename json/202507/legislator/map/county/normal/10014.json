@@ -1,5 +1,5 @@
 {
- "updatedAt": "2025-07-10 10:33:00",
+ "updatedAt": "2025-08-19 17:10:00",
 "is_running": false,
 "is_started": true,
 "districts": [
@@ -11,19 +11,20 @@
 "town": null,
 "vill": null,
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    49.62,
+"votePop":   113385,
 "candidates": [
  {
  "candNo": "1",
 "name": "黃建賓",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":    21105,
+"disagreeTks":    34907,
+"agreeRate":    37.68,
+"disagreeRate":    62.32,
+"adptVictor": "N",
+"ytpRate":    18.61,
+"ntpRate":    30.79 
 } 
 ] 
 } 

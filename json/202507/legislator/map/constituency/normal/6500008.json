@@ -1,5 +1,5 @@
 {
- "updatedAt": "2025-07-10 10:33:00",
+ "updatedAt": "2025-08-19 17:43:00",
 "is_running": false,
 "is_started": true,
 "districts": [
@@ -11,19 +11,20 @@
 "town": "030",
 "vill": "001",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":     54.3,
+"votePop":     8448,
 "candidates": [
  {
  "candNo": "1",
 "name": "張智倫",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":     2009,
+"disagreeTks":     2554,
+"agreeRate":    44.03,
+"disagreeRate":    55.97,
+"adptVictor": "N",
+"ytpRate":    23.78,
+"ntpRate":    30.23 
 } 
 ] 
 },
@@ -35,19 +36,20 @@
 "town": "030",
 "vill": "007",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    57.33,
+"votePop":     2634,
 "candidates": [
  {
  "candNo": "1",
 "name": "張智倫",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      498,
+"disagreeTks":     1006,
+"agreeRate":    33.11,
+"disagreeRate":    66.89,
+"adptVictor": "N",
+"ytpRate":    18.91,
+"ntpRate":    38.19 
 } 
 ] 
 },
@@ -59,19 +61,20 @@
 "town": "030",
 "vill": "008",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    60.48,
+"votePop":     5466,
 "candidates": [
  {
  "candNo": "1",
 "name": "張智倫",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":     1265,
+"disagreeTks":     2017,
+"agreeRate":    38.54,
+"disagreeRate":    61.46,
+"adptVictor": "N",
+"ytpRate":    23.14,
+"ntpRate":     36.9 
 } 
 ] 
 },
@@ -83,19 +86,20 @@
 "town": "030",
 "vill": "009",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    60.17,
+"votePop":     5222,
 "candidates": [
  {
  "candNo": "1",
 "name": "張智倫",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":     1343,
+"disagreeTks":     1779,
+"agreeRate":    43.02,
+"disagreeRate":    56.98,
+"adptVictor": "N",
+"ytpRate":    25.72,
+"ntpRate":    34.07 
 } 
 ] 
 },
@@ -107,19 +111,20 @@
 "town": "030",
 "vill": "093",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    57.66,
+"votePop":     2414,
 "candidates": [
  {
  "candNo": "1",
 "name": "張智倫",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      574,
+"disagreeTks":      813,
+"agreeRate":    41.38,
+"disagreeRate":    58.62,
+"adptVictor": "N",
+"ytpRate":    23.78,
+"ntpRate":    33.68 
 } 
 ] 
 },
@@ -131,19 +136,20 @@
 "town": "030",
 "vill": "073",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    60.03,
+"votePop":     5562,
 "candidates": [
  {
  "candNo": "1",
 "name": "張智倫",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":     1386,
+"disagreeTks":     1938,
+"agreeRate":     41.7,
+"disagreeRate":     58.3,
+"adptVictor": "N",
+"ytpRate":    24.92,
+"ntpRate":    34.84 
 } 
 ] 
 },
@@ -155,19 +161,20 @@
 "town": "030",
 "vill": "010",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    56.53,
+"votePop":     3145,
 "candidates": [
  {
  "candNo": "1",
 "name": "張智倫",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      747,
+"disagreeTks":     1021,
+"agreeRate":    42.25,
+"disagreeRate":    57.75,
+"adptVictor": "N",
+"ytpRate":    23.75,
+"ntpRate":    32.46 
 } 
 ] 
 },
@@ -179,19 +186,20 @@
 "town": "030",
 "vill": "011",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    55.16,
+"votePop":     3332,
 "candidates": [
  {
  "candNo": "1",
 "name": "張智倫",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      829,
+"disagreeTks":     1003,
+"agreeRate":    45.25,
+"disagreeRate":    54.75,
+"adptVictor": "N",
+"ytpRate":    24.88,
+"ntpRate":     30.1 
 } 
 ] 
 },
@@ -203,19 +211,20 @@
 "town": "030",
 "vill": "012",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    57.85,
+"votePop":     3718,
 "candidates": [
  {
  "candNo": "1",
 "name": "張智倫",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      938,
+"disagreeTks":     1203,
+"agreeRate":    43.81,
+"disagreeRate":    56.19,
+"adptVictor": "N",
+"ytpRate":    25.23,
+"ntpRate":    32.36 
 } 
 ] 
 },
@@ -227,19 +236,20 @@
 "town": "030",
 "vill": "013",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    56.14,
+"votePop":     3593,
 "candidates": [
  {
  "candNo": "1",
 "name": "張智倫",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      902,
+"disagreeTks":     1103,
+"agreeRate":    44.99,
+"disagreeRate":    55.01,
+"adptVictor": "N",
+"ytpRate":     25.1,
+"ntpRate":     30.7 
 } 
 ] 
 },
@@ -251,19 +261,20 @@
 "town": "030",
 "vill": "014",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    56.36,
+"votePop":     3779,
 "candidates": [
  {
  "candNo": "1",
 "name": "張智倫",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      920,
+"disagreeTks":     1199,
+"agreeRate":    43.42,
+"disagreeRate":    56.58,
+"adptVictor": "N",
+"ytpRate":    24.35,
+"ntpRate":    31.73 
 } 
 ] 
 },
@@ -275,19 +286,20 @@
 "town": "030",
 "vill": "015",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    59.24,
+"votePop":     3619,
 "candidates": [
  {
  "candNo": "1",
 "name": "張智倫",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      918,
+"disagreeTks":     1219,
+"agreeRate":    42.96,
+"disagreeRate":    57.04,
+"adptVictor": "N",
+"ytpRate":    25.37,
+"ntpRate":    33.68 
 } 
 ] 
 },
@@ -299,19 +311,20 @@
 "town": "030",
 "vill": "016",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    60.59,
+"votePop":     4238,
 "candidates": [
  {
  "candNo": "1",
 "name": "張智倫",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":     1175,
+"disagreeTks":     1374,
+"agreeRate":     46.1,
+"disagreeRate":     53.9,
+"adptVictor": "N",
+"ytpRate":    27.73,
+"ntpRate":    32.42 
 } 
 ] 
 },
@@ -323,19 +336,20 @@
 "town": "030",
 "vill": "017",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    55.62,
+"votePop":     4657,
 "candidates": [
  {
  "candNo": "1",
 "name": "張智倫",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":     1133,
+"disagreeTks":     1440,
+"agreeRate":    44.03,
+"disagreeRate":    55.97,
+"adptVictor": "N",
+"ytpRate":    24.33,
+"ntpRate":    30.92 
 } 
 ] 
 },
@@ -347,19 +361,20 @@
 "town": "030",
 "vill": "018",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    57.28,
+"votePop":     3071,
 "candidates": [
  {
  "candNo": "1",
 "name": "張智倫",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      750,
+"disagreeTks":     1000,
+"agreeRate":    42.86,
+"disagreeRate":    57.14,
+"adptVictor": "N",
+"ytpRate":    24.42,
+"ntpRate":    32.56 
 } 
 ] 
 },
@@ -371,19 +386,20 @@
 "town": "030",
 "vill": "019",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":     56.8,
+"votePop":     4310,
 "candidates": [
  {
  "candNo": "1",
 "name": "張智倫",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":     1028,
+"disagreeTks":     1400,
+"agreeRate":    42.34,
+"disagreeRate":    57.66,
+"adptVictor": "N",
+"ytpRate":    23.85,
+"ntpRate":    32.48 
 } 
 ] 
 },
@@ -395,19 +411,20 @@
 "town": "030",
 "vill": "025",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    57.49,
+"votePop":     7000,
 "candidates": [
  {
  "candNo": "1",
 "name": "張智倫",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":     1527,
+"disagreeTks":     2471,
+"agreeRate":    38.19,
+"disagreeRate":    61.81,
+"adptVictor": "N",
+"ytpRate":    21.81,
+"ntpRate":     35.3 
 } 
 ] 
 },
@@ -419,19 +436,20 @@
 "town": "030",
 "vill": "026",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    59.68,
+"votePop":     4444,
 "candidates": [
  {
  "candNo": "1",
 "name": "張智倫",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":     1041,
+"disagreeTks":     1597,
+"agreeRate":    39.46,
+"disagreeRate":    60.54,
+"adptVictor": "N",
+"ytpRate":    23.42,
+"ntpRate":    35.94 
 } 
 ] 
 },
@@ -443,19 +461,20 @@
 "town": "030",
 "vill": "002",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    57.98,
+"votePop":     7982,
 "candidates": [
  {
  "candNo": "1",
 "name": "張智倫",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":     1934,
+"disagreeTks":     2667,
+"agreeRate":    42.03,
+"disagreeRate":    57.97,
+"adptVictor": "N",
+"ytpRate":    24.23,
+"ntpRate":    33.41 
 } 
 ] 
 },
@@ -467,19 +486,20 @@
 "town": "030",
 "vill": "003",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    56.04,
+"votePop":     3487,
 "candidates": [
  {
  "candNo": "1",
 "name": "張智倫",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      910,
+"disagreeTks":     1032,
+"agreeRate":    46.86,
+"disagreeRate":    53.14,
+"adptVictor": "N",
+"ytpRate":     26.1,
+"ntpRate":     29.6 
 } 
 ] 
 },
@@ -491,19 +511,20 @@
 "town": "030",
 "vill": "004",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    57.23,
+"votePop":     3259,
 "candidates": [
  {
  "candNo": "1",
 "name": "張智倫",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      832,
+"disagreeTks":     1013,
+"agreeRate":    45.09,
+"disagreeRate":    54.91,
+"adptVictor": "N",
+"ytpRate":    25.53,
+"ntpRate":    31.08 
 } 
 ] 
 },
@@ -515,19 +536,20 @@
 "town": "030",
 "vill": "005",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    55.05,
+"votePop":     3259,
 "candidates": [
  {
  "candNo": "1",
 "name": "張智倫",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      781,
+"disagreeTks":     1001,
+"agreeRate":    43.83,
+"disagreeRate":    56.17,
+"adptVictor": "N",
+"ytpRate":    23.96,
+"ntpRate":    30.71 
 } 
 ] 
 },
@@ -539,19 +561,20 @@
 "town": "030",
 "vill": "006",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    59.07,
+"votePop":     3088,
 "candidates": [
  {
  "candNo": "1",
 "name": "張智倫",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      652,
+"disagreeTks":     1161,
+"agreeRate":    35.96,
+"disagreeRate":    64.04,
+"adptVictor": "N",
+"ytpRate":    21.11,
+"ntpRate":     37.6 
 } 
 ] 
 },
@@ -563,19 +586,20 @@
 "town": "030",
 "vill": "083",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    54.78,
+"votePop":     2291,
 "candidates": [
  {
  "candNo": "1",
 "name": "張智倫",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      567,
+"disagreeTks":      681,
+"agreeRate":    45.43,
+"disagreeRate":    54.57,
+"adptVictor": "N",
+"ytpRate":    24.75,
+"ntpRate":    29.73 
 } 
 ] 
 },
@@ -587,19 +611,20 @@
 "town": "030",
 "vill": "084",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    59.13,
+"votePop":     4536,
 "candidates": [
  {
  "candNo": "1",
 "name": "張智倫",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":     1159,
+"disagreeTks":     1508,
+"agreeRate":    43.46,
+"disagreeRate":    56.54,
+"adptVictor": "N",
+"ytpRate":    25.55,
+"ntpRate":    33.25 
 } 
 ] 
 },
@@ -611,19 +636,20 @@
 "town": "030",
 "vill": "092",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    52.72,
+"votePop":     2925,
 "candidates": [
  {
  "candNo": "1",
 "name": "張智倫",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      487,
+"disagreeTks":     1037,
+"agreeRate":    31.96,
+"disagreeRate":    68.04,
+"adptVictor": "N",
+"ytpRate":    16.65,
+"ntpRate":    35.45 
 } 
 ] 
 },
@@ -635,19 +661,20 @@
 "town": "030",
 "vill": "034",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    60.92,
+"votePop":     2390,
 "candidates": [
  {
  "candNo": "1",
 "name": "張智倫",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      448,
+"disagreeTks":     1003,
+"agreeRate":    30.88,
+"disagreeRate":    69.12,
+"adptVictor": "N",
+"ytpRate":    18.74,
+"ntpRate":    41.97 
 } 
 ] 
 },
@@ -659,19 +686,20 @@
 "town": "030",
 "vill": "035",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    55.82,
+"votePop":     6843,
 "candidates": [
  {
  "candNo": "1",
 "name": "張智倫",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":     1558,
+"disagreeTks":     2238,
+"agreeRate":    41.04,
+"disagreeRate":    58.96,
+"adptVictor": "N",
+"ytpRate":    22.77,
+"ntpRate":     32.7 
 } 
 ] 
 },
@@ -683,19 +711,20 @@
 "town": "030",
 "vill": "036",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    57.42,
+"votePop":     3598,
 "candidates": [
  {
  "candNo": "1",
 "name": "張智倫",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      506,
+"disagreeTks":     1550,
+"agreeRate":    24.61,
+"disagreeRate":    75.39,
+"adptVictor": "N",
+"ytpRate":    14.06,
+"ntpRate":    43.08 
 } 
 ] 
 },
@@ -707,19 +736,20 @@
 "town": "030",
 "vill": "037",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    57.35,
+"votePop":     4305,
 "candidates": [
  {
  "candNo": "1",
 "name": "張智倫",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      801,
+"disagreeTks":     1644,
+"agreeRate":    32.76,
+"disagreeRate":    67.24,
+"adptVictor": "N",
+"ytpRate":    18.61,
+"ntpRate":    38.19 
 } 
 ] 
 },
@@ -731,19 +761,20 @@
 "town": "030",
 "vill": "038",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    56.13,
+"votePop":     3916,
 "candidates": [
  {
  "candNo": "1",
 "name": "張智倫",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      711,
+"disagreeTks":     1467,
+"agreeRate":    32.64,
+"disagreeRate":    67.36,
+"adptVictor": "N",
+"ytpRate":    18.16,
+"ntpRate":    37.46 
 } 
 ] 
 },
@@ -755,19 +786,20 @@
 "town": "030",
 "vill": "039",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    57.96,
+"votePop":     3825,
 "candidates": [
  {
  "candNo": "1",
 "name": "張智倫",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      741,
+"disagreeTks":     1463,
+"agreeRate":    33.62,
+"disagreeRate":    66.38,
+"adptVictor": "N",
+"ytpRate":    19.37,
+"ntpRate":    38.25 
 } 
 ] 
 },
@@ -779,19 +811,20 @@
 "town": "030",
 "vill": "078",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    56.22,
+"votePop":     2556,
 "candidates": [
  {
  "candNo": "1",
 "name": "張智倫",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      522,
+"disagreeTks":      905,
+"agreeRate":    36.58,
+"disagreeRate":    63.42,
+"adptVictor": "N",
+"ytpRate":    20.42,
+"ntpRate":    35.41 
 } 
 ] 
 },
@@ -803,19 +836,20 @@
 "town": "030",
 "vill": "040",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    56.79,
+"votePop":     2636,
 "candidates": [
  {
  "candNo": "1",
 "name": "張智倫",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      511,
+"disagreeTks":      978,
+"agreeRate":    34.32,
+"disagreeRate":    65.68,
+"adptVictor": "N",
+"ytpRate":    19.39,
+"ntpRate":     37.1 
 } 
 ] 
 },
@@ -827,19 +861,20 @@
 "town": "030",
 "vill": "079",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":     59.5,
+"votePop":     1731,
 "candidates": [
  {
  "candNo": "1",
 "name": "張智倫",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      386,
+"disagreeTks":      635,
+"agreeRate":    37.81,
+"disagreeRate":    62.19,
+"adptVictor": "N",
+"ytpRate":     22.3,
+"ntpRate":    36.68 
 } 
 ] 
 },
@@ -851,19 +886,20 @@
 "town": "030",
 "vill": "041",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    56.14,
+"votePop":      285,
 "candidates": [
  {
  "candNo": "1",
 "name": "張智倫",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":       75,
+"disagreeTks":       85,
+"agreeRate":    46.88,
+"disagreeRate":    53.12,
+"adptVictor": "N",
+"ytpRate":    26.32,
+"ntpRate":    29.82 
 } 
 ] 
 },
@@ -875,19 +911,20 @@
 "town": "030",
 "vill": "042",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":     55.5,
+"votePop":     4099,
 "candidates": [
  {
  "candNo": "1",
 "name": "張智倫",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      824,
+"disagreeTks":     1430,
+"agreeRate":    36.56,
+"disagreeRate":    63.44,
+"adptVictor": "N",
+"ytpRate":     20.1,
+"ntpRate":    34.89 
 } 
 ] 
 },
@@ -899,19 +936,20 @@
 "town": "030",
 "vill": "043",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    56.53,
+"votePop":     2388,
 "candidates": [
  {
  "candNo": "1",
 "name": "張智倫",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      554,
+"disagreeTks":      783,
+"agreeRate":    41.44,
+"disagreeRate":    58.56,
+"adptVictor": "N",
+"ytpRate":     23.2,
+"ntpRate":    32.79 
 } 
 ] 
 },
@@ -923,19 +961,20 @@
 "town": "030",
 "vill": "080",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    60.01,
+"votePop":     3578,
 "candidates": [
  {
  "candNo": "1",
 "name": "張智倫",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      674,
+"disagreeTks":     1463,
+"agreeRate":    31.54,
+"disagreeRate":    68.46,
+"adptVictor": "N",
+"ytpRate":    18.84,
+"ntpRate":    40.89 
 } 
 ] 
 },
@@ -947,19 +986,20 @@
 "town": "030",
 "vill": "044",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    29.65,
+"votePop":     6853,
 "candidates": [
  {
  "candNo": "1",
 "name": "張智倫",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      844,
+"disagreeTks":     1178,
+"agreeRate":    41.74,
+"disagreeRate":    58.26,
+"adptVictor": "N",
+"ytpRate":    12.32,
+"ntpRate":    17.19 
 } 
 ] 
 },
@@ -971,19 +1011,20 @@
 "town": "030",
 "vill": "081",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    58.57,
+"votePop":     5563,
 "candidates": [
  {
  "candNo": "1",
 "name": "張智倫",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":     1236,
+"disagreeTks":     2004,
+"agreeRate":    38.15,
+"disagreeRate":    61.85,
+"adptVictor": "N",
+"ytpRate":    22.22,
+"ntpRate":    36.02 
 } 
 ] 
 },
@@ -995,19 +1036,20 @@
 "town": "030",
 "vill": "082",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    54.86,
+"votePop":     2554,
 "candidates": [
  {
  "candNo": "1",
 "name": "張智倫",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      482,
+"disagreeTks":      914,
+"agreeRate":    34.53,
+"disagreeRate":    65.47,
+"adptVictor": "N",
+"ytpRate":    18.87,
+"ntpRate":    35.79 
 } 
 ] 
 },
@@ -1019,19 +1061,20 @@
 "town": "030",
 "vill": "045",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    57.66,
+"votePop":     4199,
 "candidates": [
  {
  "candNo": "1",
 "name": "張智倫",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      942,
+"disagreeTks":     1467,
+"agreeRate":     39.1,
+"disagreeRate":     60.9,
+"adptVictor": "N",
+"ytpRate":    22.43,
+"ntpRate":    34.94 
 } 
 ] 
 },
@@ -1043,19 +1086,20 @@
 "town": "030",
 "vill": "046",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    58.24,
+"votePop":     3855,
 "candidates": [
  {
  "candNo": "1",
 "name": "張智倫",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      872,
+"disagreeTks":     1351,
+"agreeRate":    39.23,
+"disagreeRate":    60.77,
+"adptVictor": "N",
+"ytpRate":    22.62,
+"ntpRate":    35.05 
 } 
 ] 
 },
@@ -1067,19 +1111,20 @@
 "town": "030",
 "vill": "047",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":     56.6,
+"votePop":     5560,
 "candidates": [
  {
  "candNo": "1",
 "name": "張智倫",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":     1141,
+"disagreeTks":     1980,
+"agreeRate":    36.56,
+"disagreeRate":    63.44,
+"adptVictor": "N",
+"ytpRate":    20.52,
+"ntpRate":    35.61 
 } 
 ] 
 },
@@ -1091,19 +1136,20 @@
 "town": "030",
 "vill": "048",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    59.73,
+"votePop":     3032,
 "candidates": [
  {
  "candNo": "1",
 "name": "張智倫",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      729,
+"disagreeTks":     1076,
+"agreeRate":    40.39,
+"disagreeRate":    59.61,
+"adptVictor": "N",
+"ytpRate":    24.04,
+"ntpRate":    35.49 
 } 
 ] 
 },
@@ -1115,19 +1161,20 @@
 "town": "030",
 "vill": "049",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    56.01,
+"votePop":     5567,
 "candidates": [
  {
  "candNo": "1",
 "name": "張智倫",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":     1180,
+"disagreeTks":     1925,
+"agreeRate":       38,
+"disagreeRate":       62,
+"adptVictor": "N",
+"ytpRate":     21.2,
+"ntpRate":    34.58 
 } 
 ] 
 },
@@ -1139,19 +1186,20 @@
 "town": "030",
 "vill": "050",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    61.47,
+"votePop":     4191,
 "candidates": [
  {
  "candNo": "1",
 "name": "張智倫",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      957,
+"disagreeTks":     1603,
+"agreeRate":    37.38,
+"disagreeRate":    62.62,
+"adptVictor": "N",
+"ytpRate":    22.83,
+"ntpRate":    38.25 
 } 
 ] 
 },
@@ -1163,19 +1211,20 @@
 "town": "030",
 "vill": "051",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":     59.4,
+"votePop":     3557,
 "candidates": [
  {
  "candNo": "1",
 "name": "張智倫",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      823,
+"disagreeTks":     1273,
+"agreeRate":    39.27,
+"disagreeRate":    60.73,
+"adptVictor": "N",
+"ytpRate":    23.14,
+"ntpRate":    35.79 
 } 
 ] 
 },
@@ -1187,19 +1236,20 @@
 "town": "030",
 "vill": "052",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    56.98,
+"votePop":     4533,
 "candidates": [
  {
  "candNo": "1",
 "name": "張智倫",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":     1096,
+"disagreeTks":     1477,
+"agreeRate":     42.6,
+"disagreeRate":     57.4,
+"adptVictor": "N",
+"ytpRate":    24.18,
+"ntpRate":    32.58 
 } 
 ] 
 },
@@ -1211,19 +1261,20 @@
 "town": "030",
 "vill": "053",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    57.32,
+"votePop":     1980,
 "candidates": [
  {
  "candNo": "1",
 "name": "張智倫",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      430,
+"disagreeTks":      697,
+"agreeRate":    38.15,
+"disagreeRate":    61.85,
+"adptVictor": "N",
+"ytpRate":    21.72,
+"ntpRate":     35.2 
 } 
 ] 
 },
@@ -1235,19 +1286,20 @@
 "town": "030",
 "vill": "054",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    53.28,
+"votePop":      702,
 "candidates": [
  {
  "candNo": "1",
 "name": "張智倫",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      171,
+"disagreeTks":      198,
+"agreeRate":    46.34,
+"disagreeRate":    53.66,
+"adptVictor": "N",
+"ytpRate":    24.36,
+"ntpRate":    28.21 
 } 
 ] 
 },
@@ -1259,19 +1311,20 @@
 "town": "030",
 "vill": "055",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    57.95,
+"votePop":     7021,
 "candidates": [
  {
  "candNo": "1",
 "name": "張智倫",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":     1728,
+"disagreeTks":     2323,
+"agreeRate":    42.66,
+"disagreeRate":    57.34,
+"adptVictor": "N",
+"ytpRate":    24.61,
+"ntpRate":    33.09 
 } 
 ] 
 },
@@ -1283,19 +1336,20 @@
 "town": "030",
 "vill": "056",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    61.56,
+"votePop":     2071,
 "candidates": [
  {
  "candNo": "1",
 "name": "張智倫",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      612,
+"disagreeTks":      658,
+"agreeRate":    48.19,
+"disagreeRate":    51.81,
+"adptVictor": "N",
+"ytpRate":    29.55,
+"ntpRate":    31.77 
 } 
 ] 
 },
@@ -1307,19 +1361,20 @@
 "town": "030",
 "vill": "057",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    57.01,
+"votePop":     5380,
 "candidates": [
  {
  "candNo": "1",
 "name": "張智倫",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":     1375,
+"disagreeTks":     1669,
+"agreeRate":    45.17,
+"disagreeRate":    54.83,
+"adptVictor": "N",
+"ytpRate":    25.56,
+"ntpRate":    31.02 
 } 
 ] 
 },
@@ -1331,19 +1386,20 @@
 "town": "030",
 "vill": "058",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    56.77,
+"votePop":     2496,
 "candidates": [
  {
  "candNo": "1",
 "name": "張智倫",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      672,
+"disagreeTks":      736,
+"agreeRate":    47.73,
+"disagreeRate":    52.27,
+"adptVictor": "N",
+"ytpRate":    26.92,
+"ntpRate":    29.49 
 } 
 ] 
 },
@@ -1355,19 +1411,20 @@
 "town": "030",
 "vill": "059",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    56.09,
+"votePop":     4204,
 "candidates": [
  {
  "candNo": "1",
 "name": "張智倫",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":     1127,
+"disagreeTks":     1215,
+"agreeRate":    48.12,
+"disagreeRate":    51.88,
+"adptVictor": "N",
+"ytpRate":    26.81,
+"ntpRate":     28.9 
 } 
 ] 
 },
@@ -1379,19 +1436,20 @@
 "town": "030",
 "vill": "060",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    53.77,
+"votePop":     3385,
 "candidates": [
  {
  "candNo": "1",
 "name": "張智倫",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      813,
+"disagreeTks":      996,
+"agreeRate":    44.94,
+"disagreeRate":    55.06,
+"adptVictor": "N",
+"ytpRate":    24.02,
+"ntpRate":    29.42 
 } 
 ] 
 },
@@ -1403,19 +1461,20 @@
 "town": "030",
 "vill": "061",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    56.16,
+"votePop":     4411,
 "candidates": [
  {
  "candNo": "1",
 "name": "張智倫",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":     1145,
+"disagreeTks":     1319,
+"agreeRate":    46.47,
+"disagreeRate":    53.53,
+"adptVictor": "N",
+"ytpRate":    25.96,
+"ntpRate":     29.9 
 } 
 ] 
 },
@@ -1427,19 +1486,20 @@
 "town": "030",
 "vill": "062",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    56.77,
+"votePop":     3764,
 "candidates": [
  {
  "candNo": "1",
 "name": "張智倫",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":     1008,
+"disagreeTks":     1110,
+"agreeRate":    47.59,
+"disagreeRate":    52.41,
+"adptVictor": "N",
+"ytpRate":    26.78,
+"ntpRate":    29.49 
 } 
 ] 
 },
@@ -1451,19 +1511,20 @@
 "town": "030",
 "vill": "063",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    56.01,
+"votePop":     1998,
 "candidates": [
  {
  "candNo": "1",
 "name": "張智倫",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      462,
+"disagreeTks":      650,
+"agreeRate":    41.55,
+"disagreeRate":    58.45,
+"adptVictor": "N",
+"ytpRate":    23.12,
+"ntpRate":    32.53 
 } 
 ] 
 },
@@ -1475,19 +1536,20 @@
 "town": "030",
 "vill": "064",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    58.39,
+"votePop":     3653,
 "candidates": [
  {
  "candNo": "1",
 "name": "張智倫",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":     1037,
+"disagreeTks":     1079,
+"agreeRate":    49.01,
+"disagreeRate":    50.99,
+"adptVictor": "N",
+"ytpRate":    28.39,
+"ntpRate":    29.54 
 } 
 ] 
 },
@@ -1499,19 +1561,20 @@
 "town": "030",
 "vill": "065",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    58.32,
+"votePop":     2884,
 "candidates": [
  {
  "candNo": "1",
 "name": "張智倫",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      781,
+"disagreeTks":      893,
+"agreeRate":    46.65,
+"disagreeRate":    53.35,
+"adptVictor": "N",
+"ytpRate":    27.08,
+"ntpRate":    30.96 
 } 
 ] 
 },
@@ -1523,19 +1586,20 @@
 "town": "030",
 "vill": "066",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    55.39,
+"votePop":     4154,
 "candidates": [
  {
  "candNo": "1",
 "name": "張智倫",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":     1110,
+"disagreeTks":     1176,
+"agreeRate":    48.56,
+"disagreeRate":    51.44,
+"adptVictor": "N",
+"ytpRate":    26.72,
+"ntpRate":    28.31 
 } 
 ] 
 },
@@ -1547,19 +1611,20 @@
 "town": "030",
 "vill": "067",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    58.06,
+"votePop":     3903,
 "candidates": [
  {
  "candNo": "1",
 "name": "張智倫",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      963,
+"disagreeTks":     1286,
+"agreeRate":    42.82,
+"disagreeRate":    57.18,
+"adptVictor": "N",
+"ytpRate":    24.67,
+"ntpRate":    32.95 
 } 
 ] 
 },
@@ -1571,19 +1636,20 @@
 "town": "030",
 "vill": "068",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    58.64,
+"votePop":     3636,
 "candidates": [
  {
  "candNo": "1",
 "name": "張智倫",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      975,
+"disagreeTks":     1143,
+"agreeRate":    46.03,
+"disagreeRate":    53.97,
+"adptVictor": "N",
+"ytpRate":    26.82,
+"ntpRate":    31.44 
 } 
 ] 
 },
@@ -1595,19 +1661,20 @@
 "town": "030",
 "vill": "069",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    57.92,
+"votePop":     3289,
 "candidates": [
  {
  "candNo": "1",
 "name": "張智倫",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      846,
+"disagreeTks":     1048,
+"agreeRate":    44.67,
+"disagreeRate":    55.33,
+"adptVictor": "N",
+"ytpRate":    25.72,
+"ntpRate":    31.86 
 } 
 ] 
 },
@@ -1619,19 +1686,20 @@
 "town": "030",
 "vill": "070",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    62.16,
+"votePop":     3798,
 "candidates": [
  {
  "candNo": "1",
 "name": "張智倫",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      745,
+"disagreeTks":     1601,
+"agreeRate":    31.76,
+"disagreeRate":    68.24,
+"adptVictor": "N",
+"ytpRate":    19.62,
+"ntpRate":    42.15 
 } 
 ] 
 },
@@ -1643,19 +1711,20 @@
 "town": "030",
 "vill": "071",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    55.06,
+"votePop":     3251,
 "candidates": [
  {
  "candNo": "1",
 "name": "張智倫",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      824,
+"disagreeTks":      948,
+"agreeRate":     46.5,
+"disagreeRate":     53.5,
+"adptVictor": "N",
+"ytpRate":    25.35,
+"ntpRate":    29.16 
 } 
 ] 
 },
@@ -1667,19 +1736,20 @@
 "town": "030",
 "vill": "085",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    54.68,
+"votePop":     3480,
 "candidates": [
  {
  "candNo": "1",
 "name": "張智倫",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      816,
+"disagreeTks":     1070,
+"agreeRate":    43.27,
+"disagreeRate":    56.73,
+"adptVictor": "N",
+"ytpRate":    23.45,
+"ntpRate":    30.75 
 } 
 ] 
 },
@@ -1691,19 +1761,20 @@
 "town": "030",
 "vill": "086",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    57.24,
+"votePop":     3178,
 "candidates": [
  {
  "candNo": "1",
 "name": "張智倫",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      807,
+"disagreeTks":      998,
+"agreeRate":    44.71,
+"disagreeRate":    55.29,
+"adptVictor": "N",
+"ytpRate":    25.39,
+"ntpRate":     31.4 
 } 
 ] 
 },
@@ -1715,19 +1786,20 @@
 "town": "030",
 "vill": "087",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    58.31,
+"votePop":     2334,
 "candidates": [
  {
  "candNo": "1",
 "name": "張智倫",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      604,
+"disagreeTks":      745,
+"agreeRate":    44.77,
+"disagreeRate":    55.23,
+"adptVictor": "N",
+"ytpRate":    25.88,
+"ntpRate":    31.92 
 } 
 ] 
 },
@@ -1739,19 +1811,20 @@
 "town": "030",
 "vill": "088",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    53.24,
+"votePop":     3167,
 "candidates": [
  {
  "candNo": "1",
 "name": "張智倫",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      783,
+"disagreeTks":      897,
+"agreeRate":    46.61,
+"disagreeRate":    53.39,
+"adptVictor": "N",
+"ytpRate":    24.72,
+"ntpRate":    28.32 
 } 
 ] 
 },
@@ -1763,19 +1836,20 @@
 "town": "030",
 "vill": "089",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    53.48,
+"votePop":     3459,
 "candidates": [
  {
  "candNo": "1",
 "name": "張智倫",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      821,
+"disagreeTks":     1015,
+"agreeRate":    44.72,
+"disagreeRate":    55.28,
+"adptVictor": "N",
+"ytpRate":    23.74,
+"ntpRate":    29.34 
 } 
 ] 
 },
@@ -1787,19 +1861,20 @@
 "town": "030",
 "vill": "090",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    60.43,
+"votePop":     2752,
 "candidates": [
  {
  "candNo": "1",
 "name": "張智倫",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      775,
+"disagreeTks":      876,
+"agreeRate":    46.94,
+"disagreeRate":    53.06,
+"adptVictor": "N",
+"ytpRate":    28.16,
+"ntpRate":    31.83 
 } 
 ] 
 },
@@ -1811,19 +1886,20 @@
 "town": "030",
 "vill": "091",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    57.37,
+"votePop":     2848,
 "candidates": [
  {
  "candNo": "1",
 "name": "張智倫",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      783,
+"disagreeTks":      844,
+"agreeRate":    48.13,
+"disagreeRate":    51.87,
+"adptVictor": "N",
+"ytpRate":    27.49,
+"ntpRate":    29.63 
 } 
 ] 
 } 

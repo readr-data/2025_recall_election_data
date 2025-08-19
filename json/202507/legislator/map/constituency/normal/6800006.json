@@ -1,2405 +1,2505 @@
 {
- "updatedAt": "2025-07-10 10:33:00",
+ "updatedAt": "2025-08-19 17:43:00",
 "is_running": false,
 "is_started": true,
 "districts": [
  {
  "range": "桃園市 第06選區 中壢區龍安里",
-"area_nickname": "中壢區*、八德區、大溪區、復興區",
+"area_nickname": "中壢區*、大溪區、八德區、復興區",
 "county": "68000",
 "area": "06",
 "town": "020",
 "vill": "067",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    63.27,
+"votePop":     1854,
 "candidates": [
  {
  "candNo": "1",
 "name": "邱若華",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      257,
+"disagreeTks":      909,
+"agreeRate":    22.04,
+"disagreeRate":    77.96,
+"adptVictor": "N",
+"ytpRate":    13.86,
+"ntpRate":    49.03 
 } 
 ] 
 },
 {
  "range": "桃園市 第06選區 中壢區仁愛里",
-"area_nickname": "中壢區*、八德區、大溪區、復興區",
+"area_nickname": "中壢區*、大溪區、八德區、復興區",
 "county": "68000",
 "area": "06",
 "town": "020",
 "vill": "013",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    55.08,
+"votePop":     2854,
 "candidates": [
  {
  "candNo": "1",
 "name": "邱若華",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      591,
+"disagreeTks":      969,
+"agreeRate":    37.88,
+"disagreeRate":    62.12,
+"adptVictor": "N",
+"ytpRate":    20.71,
+"ntpRate":    33.95 
 } 
 ] 
 },
 {
  "range": "桃園市 第06選區 中壢區仁德里",
-"area_nickname": "中壢區*、八德區、大溪區、復興區",
+"area_nickname": "中壢區*、大溪區、八德區、復興區",
 "county": "68000",
 "area": "06",
 "town": "020",
 "vill": "003",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    56.38,
+"votePop":     2886,
 "candidates": [
  {
  "candNo": "1",
 "name": "邱若華",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      473,
+"disagreeTks":     1144,
+"agreeRate":    29.25,
+"disagreeRate":    70.75,
+"adptVictor": "N",
+"ytpRate":    16.39,
+"ntpRate":    39.64 
 } 
 ] 
 },
 {
  "range": "桃園市 第06選區 中壢區仁和里",
-"area_nickname": "中壢區*、八德區、大溪區、復興區",
+"area_nickname": "中壢區*、大溪區、八德區、復興區",
 "county": "68000",
 "area": "06",
 "town": "020",
 "vill": "075",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    58.29,
+"votePop":     3311,
 "candidates": [
  {
  "candNo": "1",
 "name": "邱若華",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      586,
+"disagreeTks":     1334,
+"agreeRate":    30.52,
+"disagreeRate":    69.48,
+"adptVictor": "N",
+"ytpRate":     17.7,
+"ntpRate":    40.29 
 } 
 ] 
 },
 {
  "range": "桃園市 第06選區 中壢區仁祥里",
-"area_nickname": "中壢區*、八德區、大溪區、復興區",
+"area_nickname": "中壢區*、大溪區、八德區、復興區",
 "county": "68000",
 "area": "06",
 "town": "020",
 "vill": "030",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    55.24,
+"votePop":     2616,
 "candidates": [
  {
  "candNo": "1",
 "name": "邱若華",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      385,
+"disagreeTks":     1057,
+"agreeRate":     26.7,
+"disagreeRate":     73.3,
+"adptVictor": "N",
+"ytpRate":    14.72,
+"ntpRate":    40.41 
 } 
 ] 
 },
 {
  "range": "桃園市 第06選區 中壢區華勛里",
-"area_nickname": "中壢區*、八德區、大溪區、復興區",
+"area_nickname": "中壢區*、大溪區、八德區、復興區",
 "county": "68000",
 "area": "06",
 "town": "020",
 "vill": "071",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    54.89,
+"votePop":     3693,
 "candidates": [
  {
  "candNo": "1",
 "name": "邱若華",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      473,
+"disagreeTks":     1539,
+"agreeRate":    23.51,
+"disagreeRate":    76.49,
+"adptVictor": "N",
+"ytpRate":    12.81,
+"ntpRate":    41.67 
 } 
 ] 
 },
 {
  "range": "桃園市 第06選區 中壢區中堅里",
-"area_nickname": "中壢區*、八德區、大溪區、復興區",
+"area_nickname": "中壢區*、大溪區、八德區、復興區",
 "county": "68000",
 "area": "06",
 "town": "020",
 "vill": "010",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    56.96,
+"votePop":     3508,
 "candidates": [
  {
  "candNo": "1",
 "name": "邱若華",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      560,
+"disagreeTks":     1430,
+"agreeRate":    28.14,
+"disagreeRate":    71.86,
+"adptVictor": "N",
+"ytpRate":    15.96,
+"ntpRate":    40.76 
 } 
 ] 
 },
 {
  "range": "桃園市 第06選區 中壢區興仁里",
-"area_nickname": "中壢區*、八德區、大溪區、復興區",
+"area_nickname": "中壢區*、大溪區、八德區、復興區",
 "county": "68000",
 "area": "06",
 "town": "020",
 "vill": "020",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    52.66,
+"votePop":     3359,
 "candidates": [
  {
  "candNo": "1",
 "name": "邱若華",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      591,
+"disagreeTks":     1167,
+"agreeRate":    33.62,
+"disagreeRate":    66.38,
+"adptVictor": "N",
+"ytpRate":    17.59,
+"ntpRate":    34.74 
 } 
 ] 
 },
 {
  "range": "桃園市 第06選區 中壢區中正里",
-"area_nickname": "中壢區*、八德區、大溪區、復興區",
+"area_nickname": "中壢區*、大溪區、八德區、復興區",
 "county": "68000",
 "area": "06",
 "town": "020",
 "vill": "019",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    54.09,
+"votePop":     4931,
 "candidates": [
  {
  "candNo": "1",
 "name": "邱若華",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      858,
+"disagreeTks":     1797,
+"agreeRate":    32.32,
+"disagreeRate":    67.68,
+"adptVictor": "N",
+"ytpRate":     17.4,
+"ntpRate":    36.44 
 } 
 ] 
 },
 {
  "range": "桃園市 第06選區 中壢區中山里",
-"area_nickname": "中壢區*、八德區、大溪區、復興區",
+"area_nickname": "中壢區*、大溪區、八德區、復興區",
 "county": "68000",
 "area": "06",
 "town": "020",
 "vill": "068",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    55.56,
+"votePop":     4543,
 "candidates": [
  {
  "candNo": "1",
 "name": "邱若華",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      800,
+"disagreeTks":     1716,
+"agreeRate":     31.8,
+"disagreeRate":     68.2,
+"adptVictor": "N",
+"ytpRate":    17.61,
+"ntpRate":    37.77 
 } 
 ] 
 },
 {
  "range": "桃園市 第06選區 中壢區篤行里",
-"area_nickname": "中壢區*、八德區、大溪區、復興區",
+"area_nickname": "中壢區*、大溪區、八德區、復興區",
 "county": "68000",
 "area": "06",
 "town": "020",
 "vill": "023",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    54.81,
+"votePop":     2618,
 "candidates": [
  {
  "candNo": "1",
 "name": "邱若華",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      469,
+"disagreeTks":      960,
+"agreeRate":    32.82,
+"disagreeRate":    67.18,
+"adptVictor": "N",
+"ytpRate":    17.91,
+"ntpRate":    36.67 
 } 
 ] 
 },
 {
  "range": "桃園市 第06選區 中壢區自強里",
-"area_nickname": "中壢區*、八德區、大溪區、復興區",
+"area_nickname": "中壢區*、大溪區、八德區、復興區",
 "county": "68000",
 "area": "06",
 "town": "020",
 "vill": "009",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":     55.9,
+"votePop":     3295,
 "candidates": [
  {
  "candNo": "1",
 "name": "邱若華",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      561,
+"disagreeTks":     1276,
+"agreeRate":    30.54,
+"disagreeRate":    69.46,
+"adptVictor": "N",
+"ytpRate":    17.03,
+"ntpRate":    38.73 
 } 
 ] 
 },
 {
  "range": "桃園市 第06選區 八德區興仁里",
-"area_nickname": "中壢區*、八德區、大溪區、復興區",
+"area_nickname": "中壢區*、大溪區、八德區、復興區",
 "county": "68000",
 "area": "06",
 "town": "080",
 "vill": "001",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":     41.1,
+"votePop":     4871,
 "candidates": [
  {
  "candNo": "1",
 "name": "邱若華",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      820,
+"disagreeTks":     1174,
+"agreeRate":    41.12,
+"disagreeRate":    58.88,
+"adptVictor": "N",
+"ytpRate":    16.83,
+"ntpRate":     24.1 
 } 
 ] 
 },
 {
  "range": "桃園市 第06選區 八德區福興里",
-"area_nickname": "中壢區*、八德區、大溪區、復興區",
+"area_nickname": "中壢區*、大溪區、八德區、復興區",
 "county": "68000",
 "area": "06",
 "town": "080",
 "vill": "002",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    48.98,
+"votePop":     4773,
 "candidates": [
  {
  "candNo": "1",
 "name": "邱若華",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      932,
+"disagreeTks":     1392,
+"agreeRate":     40.1,
+"disagreeRate":     59.9,
+"adptVictor": "N",
+"ytpRate":    19.53,
+"ntpRate":    29.16 
 } 
 ] 
 },
 {
  "range": "桃園市 第06選區 八德區瑞豐里",
-"area_nickname": "中壢區*、八德區、大溪區、復興區",
+"area_nickname": "中壢區*、大溪區、八德區、復興區",
 "county": "68000",
 "area": "06",
 "town": "080",
 "vill": "003",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":     50.5,
+"votePop":     5679,
 "candidates": [
  {
  "candNo": "1",
 "name": "邱若華",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":     1047,
+"disagreeTks":     1803,
+"agreeRate":    36.74,
+"disagreeRate":    63.26,
+"adptVictor": "N",
+"ytpRate":    18.44,
+"ntpRate":    31.75 
 } 
 ] 
 },
 {
  "range": "桃園市 第06選區 八德區瑞興里",
-"area_nickname": "中壢區*、八德區、大溪區、復興區",
+"area_nickname": "中壢區*、大溪區、八德區、復興區",
 "county": "68000",
 "area": "06",
 "town": "080",
 "vill": "040",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    57.67,
+"votePop":     2967,
 "candidates": [
  {
  "candNo": "1",
 "name": "邱若華",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      777,
+"disagreeTks":      925,
+"agreeRate":    45.65,
+"disagreeRate":    54.35,
+"adptVictor": "N",
+"ytpRate":    26.19,
+"ntpRate":    31.18 
 } 
 ] 
 },
 {
  "range": "桃園市 第06選區 八德區瑞泰里",
-"area_nickname": "中壢區*、八德區、大溪區、復興區",
+"area_nickname": "中壢區*、大溪區、八德區、復興區",
 "county": "68000",
 "area": "06",
 "town": "080",
 "vill": "028",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    54.02,
+"votePop":     3806,
 "candidates": [
  {
  "candNo": "1",
 "name": "邱若華",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      894,
+"disagreeTks":     1155,
+"agreeRate":    43.63,
+"disagreeRate":    56.37,
+"adptVictor": "N",
+"ytpRate":    23.49,
+"ntpRate":    30.35 
 } 
 ] 
 },
 {
  "range": "桃園市 第06選區 八德區瑞發里",
-"area_nickname": "中壢區*、八德區、大溪區、復興區",
+"area_nickname": "中壢區*、大溪區、八德區、復興區",
 "county": "68000",
 "area": "06",
 "town": "080",
 "vill": "004",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    57.81,
+"votePop":     2873,
 "candidates": [
  {
  "candNo": "1",
 "name": "邱若華",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      607,
+"disagreeTks":     1041,
+"agreeRate":    36.83,
+"disagreeRate":    63.17,
+"adptVictor": "N",
+"ytpRate":    21.13,
+"ntpRate":    36.23 
 } 
 ] 
 },
 {
  "range": "桃園市 第06選區 八德區瑞德里",
-"area_nickname": "中壢區*、八德區、大溪區、復興區",
+"area_nickname": "中壢區*、大溪區、八德區、復興區",
 "county": "68000",
 "area": "06",
 "town": "080",
 "vill": "005",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    55.17,
+"votePop":     3105,
 "candidates": [
  {
  "candNo": "1",
 "name": "邱若華",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      567,
+"disagreeTks":     1135,
+"agreeRate":    33.31,
+"disagreeRate":    66.69,
+"adptVictor": "N",
+"ytpRate":    18.26,
+"ntpRate":    36.55 
 } 
 ] 
 },
 {
  "range": "桃園市 第06選區 八德區瑞祥里",
-"area_nickname": "中壢區*、八德區、大溪區、復興區",
+"area_nickname": "中壢區*、大溪區、八德區、復興區",
 "county": "68000",
 "area": "06",
 "town": "080",
 "vill": "006",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    55.22,
+"votePop":     2816,
 "candidates": [
  {
  "candNo": "1",
 "name": "邱若華",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      470,
+"disagreeTks":     1078,
+"agreeRate":    30.36,
+"disagreeRate":    69.64,
+"adptVictor": "N",
+"ytpRate":    16.69,
+"ntpRate":    38.28 
 } 
 ] 
 },
 {
  "range": "桃園市 第06選區 八德區廣德里",
-"area_nickname": "中壢區*、八德區、大溪區、復興區",
+"area_nickname": "中壢區*、大溪區、八德區、復興區",
 "county": "68000",
 "area": "06",
 "town": "080",
 "vill": "044",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    57.59,
+"votePop":     2485,
 "candidates": [
  {
  "candNo": "1",
 "name": "邱若華",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      590,
+"disagreeTks":      835,
+"agreeRate":     41.4,
+"disagreeRate":     58.6,
+"adptVictor": "N",
+"ytpRate":    23.74,
+"ntpRate":     33.6 
 } 
 ] 
 },
 {
  "range": "桃園市 第06選區 八德區廣興里",
-"area_nickname": "中壢區*、八德區、大溪區、復興區",
+"area_nickname": "中壢區*、大溪區、八德區、復興區",
 "county": "68000",
 "area": "06",
 "town": "080",
 "vill": "007",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    56.53,
+"votePop":     2988,
 "candidates": [
  {
  "candNo": "1",
 "name": "邱若華",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      731,
+"disagreeTks":      944,
+"agreeRate":    43.64,
+"disagreeRate":    56.36,
+"adptVictor": "N",
+"ytpRate":    24.46,
+"ntpRate":    31.59 
 } 
 ] 
 },
 {
  "range": "桃園市 第06選區 八德區廣隆里",
-"area_nickname": "中壢區*、八德區、大溪區、復興區",
+"area_nickname": "中壢區*、大溪區、八德區、復興區",
 "county": "68000",
 "area": "06",
 "town": "080",
 "vill": "008",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    57.92,
+"votePop":     4384,
 "candidates": [
  {
  "candNo": "1",
 "name": "邱若華",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":     1004,
+"disagreeTks":     1518,
+"agreeRate":    39.81,
+"disagreeRate":    60.19,
+"adptVictor": "N",
+"ytpRate":     22.9,
+"ntpRate":    34.63 
 } 
 ] 
 },
 {
  "range": "桃園市 第06選區 八德區竹園里",
-"area_nickname": "中壢區*、八德區、大溪區、復興區",
+"area_nickname": "中壢區*、大溪區、八德區、復興區",
 "county": "68000",
 "area": "06",
 "town": "080",
 "vill": "009",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    51.78,
+"votePop":     3372,
 "candidates": [
  {
  "candNo": "1",
 "name": "邱若華",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      714,
+"disagreeTks":     1021,
+"agreeRate":    41.15,
+"disagreeRate":    58.85,
+"adptVictor": "N",
+"ytpRate":    21.17,
+"ntpRate":    30.28 
 } 
 ] 
 },
 {
  "range": "桃園市 第06選區 八德區霄裡里",
-"area_nickname": "中壢區*、八德區、大溪區、復興區",
+"area_nickname": "中壢區*、大溪區、八德區、復興區",
 "county": "68000",
 "area": "06",
 "town": "080",
 "vill": "010",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":     54.6,
+"votePop":     2086,
 "candidates": [
  {
  "candNo": "1",
 "name": "邱若華",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      496,
+"disagreeTks":      634,
+"agreeRate":    43.89,
+"disagreeRate":    56.11,
+"adptVictor": "N",
+"ytpRate":    23.78,
+"ntpRate":    30.39 
 } 
 ] 
 },
 {
  "range": "桃園市 第06選區 八德區龍友里",
-"area_nickname": "中壢區*、八德區、大溪區、復興區",
+"area_nickname": "中壢區*、大溪區、八德區、復興區",
 "county": "68000",
 "area": "06",
 "town": "080",
 "vill": "045",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    58.88,
+"votePop":     1994,
 "candidates": [
  {
  "candNo": "1",
 "name": "邱若華",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      236,
+"disagreeTks":      924,
+"agreeRate":    20.34,
+"disagreeRate":    79.66,
+"adptVictor": "N",
+"ytpRate":    11.84,
+"ntpRate":    46.34 
 } 
 ] 
 },
 {
  "range": "桃園市 第06選區 八德區茄明里",
-"area_nickname": "中壢區*、八德區、大溪區、復興區",
+"area_nickname": "中壢區*、大溪區、八德區、復興區",
 "county": "68000",
 "area": "06",
 "town": "080",
 "vill": "038",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    51.38,
+"votePop":     4862,
 "candidates": [
  {
  "candNo": "1",
 "name": "邱若華",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":     1014,
+"disagreeTks":     1464,
+"agreeRate":    40.92,
+"disagreeRate":    59.08,
+"adptVictor": "N",
+"ytpRate":    20.86,
+"ntpRate":    30.11 
 } 
 ] 
 },
 {
  "range": "桃園市 第06選區 八德區茄苳里",
-"area_nickname": "中壢區*、八德區、大溪區、復興區",
+"area_nickname": "中壢區*、大溪區、八德區、復興區",
 "county": "68000",
 "area": "06",
 "town": "080",
 "vill": "011",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    52.28,
+"votePop":     2368,
 "candidates": [
  {
  "candNo": "1",
 "name": "邱若華",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      566,
+"disagreeTks":      662,
+"agreeRate":    46.09,
+"disagreeRate":    53.91,
+"adptVictor": "N",
+"ytpRate":     23.9,
+"ntpRate":    27.96 
 } 
 ] 
 },
 {
  "range": "桃園市 第06選區 八德區永豐里",
-"area_nickname": "中壢區*、八德區、大溪區、復興區",
+"area_nickname": "中壢區*、大溪區、八德區、復興區",
 "county": "68000",
 "area": "06",
 "town": "080",
 "vill": "047",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    54.49,
+"votePop":     2907,
 "candidates": [
  {
  "candNo": "1",
 "name": "邱若華",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      701,
+"disagreeTks":      868,
+"agreeRate":    44.68,
+"disagreeRate":    55.32,
+"adptVictor": "N",
+"ytpRate":    24.11,
+"ntpRate":    29.86 
 } 
 ] 
 },
 {
  "range": "桃園市 第06選區 八德區高明里",
-"area_nickname": "中壢區*、八德區、大溪區、復興區",
+"area_nickname": "中壢區*、大溪區、八德區、復興區",
 "county": "68000",
 "area": "06",
 "town": "080",
 "vill": "012",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    53.29,
+"votePop":     3543,
 "candidates": [
  {
  "candNo": "1",
 "name": "邱若華",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      813,
+"disagreeTks":     1059,
+"agreeRate":    43.43,
+"disagreeRate":    56.57,
+"adptVictor": "N",
+"ytpRate":    22.95,
+"ntpRate":    29.89 
 } 
 ] 
 },
 {
  "range": "桃園市 第06選區 八德區高城里",
-"area_nickname": "中壢區*、八德區、大溪區、復興區",
+"area_nickname": "中壢區*、大溪區、八德區、復興區",
 "county": "68000",
 "area": "06",
 "town": "080",
 "vill": "039",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    56.28,
+"votePop":     3019,
 "candidates": [
  {
  "candNo": "1",
 "name": "邱若華",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      641,
+"disagreeTks":     1055,
+"agreeRate":    37.79,
+"disagreeRate":    62.21,
+"adptVictor": "N",
+"ytpRate":    21.23,
+"ntpRate":    34.95 
 } 
 ] 
 },
 {
  "range": "桃園市 第06選區 八德區白鷺里",
-"area_nickname": "中壢區*、八德區、大溪區、復興區",
+"area_nickname": "中壢區*、大溪區、八德區、復興區",
 "county": "68000",
 "area": "06",
 "town": "080",
 "vill": "013",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    55.99,
+"votePop":     2797,
 "candidates": [
  {
  "candNo": "1",
 "name": "邱若華",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      701,
+"disagreeTks":      857,
+"agreeRate":    44.99,
+"disagreeRate":    55.01,
+"adptVictor": "N",
+"ytpRate":    25.06,
+"ntpRate":    30.64 
 } 
 ] 
 },
 {
  "range": "桃園市 第06選區 八德區大湳里",
-"area_nickname": "中壢區*、八德區、大溪區、復興區",
+"area_nickname": "中壢區*、大溪區、八德區、復興區",
 "county": "68000",
 "area": "06",
 "town": "080",
 "vill": "014",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    51.09,
+"votePop":     3805,
 "candidates": [
  {
  "candNo": "1",
 "name": "邱若華",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      892,
+"disagreeTks":     1044,
+"agreeRate":    46.07,
+"disagreeRate":    53.93,
+"adptVictor": "N",
+"ytpRate":    23.44,
+"ntpRate":    27.44 
 } 
 ] 
 },
 {
  "range": "桃園市 第06選區 八德區大發里",
-"area_nickname": "中壢區*、八德區、大溪區、復興區",
+"area_nickname": "中壢區*、大溪區、八德區、復興區",
 "county": "68000",
 "area": "06",
 "town": "080",
 "vill": "032",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    55.84,
+"votePop":     2011,
 "candidates": [
  {
  "candNo": "1",
 "name": "邱若華",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      507,
+"disagreeTks":      611,
+"agreeRate":    45.35,
+"disagreeRate":    54.65,
+"adptVictor": "N",
+"ytpRate":    25.21,
+"ntpRate":    30.38 
 } 
 ] 
 },
 {
  "range": "桃園市 第06選區 八德區大仁里",
-"area_nickname": "中壢區*、八德區、大溪區、復興區",
+"area_nickname": "中壢區*、大溪區、八德區、復興區",
 "county": "68000",
 "area": "06",
 "town": "080",
 "vill": "026",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    56.18,
+"votePop":     3886,
 "candidates": [
  {
  "candNo": "1",
 "name": "邱若華",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      996,
+"disagreeTks":     1175,
+"agreeRate":    45.88,
+"disagreeRate":    54.12,
+"adptVictor": "N",
+"ytpRate":    25.63,
+"ntpRate":    30.24 
 } 
 ] 
 },
 {
  "range": "桃園市 第06選區 八德區大明里",
-"area_nickname": "中壢區*、八德區、大溪區、復興區",
+"area_nickname": "中壢區*、大溪區、八德區、復興區",
 "county": "68000",
 "area": "06",
 "town": "080",
 "vill": "033",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    52.55,
+"votePop":     3431,
 "candidates": [
  {
  "candNo": "1",
 "name": "邱若華",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      818,
+"disagreeTks":      973,
+"agreeRate":    45.67,
+"disagreeRate":    54.33,
+"adptVictor": "N",
+"ytpRate":    23.84,
+"ntpRate":    28.36 
 } 
 ] 
 },
 {
  "range": "桃園市 第06選區 八德區大安里",
-"area_nickname": "中壢區*、八德區、大溪區、復興區",
+"area_nickname": "中壢區*、大溪區、八德區、復興區",
 "county": "68000",
 "area": "06",
 "town": "080",
 "vill": "015",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":       52,
+"votePop":     3306,
 "candidates": [
  {
  "candNo": "1",
 "name": "邱若華",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      823,
+"disagreeTks":      879,
+"agreeRate":    48.35,
+"disagreeRate":    51.65,
+"adptVictor": "N",
+"ytpRate":    24.89,
+"ntpRate":    26.59 
 } 
 ] 
 },
 {
  "range": "桃園市 第06選區 八德區大竹里",
-"area_nickname": "中壢區*、八德區、大溪區、復興區",
+"area_nickname": "中壢區*、大溪區、八德區、復興區",
 "county": "68000",
 "area": "06",
 "town": "080",
 "vill": "034",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    54.68,
+"votePop":     1421,
 "candidates": [
  {
  "candNo": "1",
 "name": "邱若華",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      368,
+"disagreeTks":      400,
+"agreeRate":    47.92,
+"disagreeRate":    52.08,
+"adptVictor": "N",
+"ytpRate":     25.9,
+"ntpRate":    28.15 
 } 
 ] 
 },
 {
  "range": "桃園市 第06選區 八德區大興里",
-"area_nickname": "中壢區*、八德區、大溪區、復興區",
+"area_nickname": "中壢區*、大溪區、八德區、復興區",
 "county": "68000",
 "area": "06",
 "town": "080",
 "vill": "016",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    55.46,
+"votePop":     4100,
 "candidates": [
  {
  "candNo": "1",
 "name": "邱若華",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":     1000,
+"disagreeTks":     1262,
+"agreeRate":    44.21,
+"disagreeRate":    55.79,
+"adptVictor": "N",
+"ytpRate":    24.39,
+"ntpRate":    30.78 
 } 
 ] 
 },
 {
  "range": "桃園市 第06選區 八德區大愛里",
-"area_nickname": "中壢區*、八德區、大溪區、復興區",
+"area_nickname": "中壢區*、大溪區、八德區、復興區",
 "county": "68000",
 "area": "06",
 "town": "080",
 "vill": "041",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    57.82,
+"votePop":     2347,
 "candidates": [
  {
  "candNo": "1",
 "name": "邱若華",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      494,
+"disagreeTks":      850,
+"agreeRate":    36.76,
+"disagreeRate":    63.24,
+"adptVictor": "N",
+"ytpRate":    21.05,
+"ntpRate":    36.22 
 } 
 ] 
 },
 {
  "range": "桃園市 第06選區 八德區大華里",
-"area_nickname": "中壢區*、八德區、大溪區、復興區",
+"area_nickname": "中壢區*、大溪區、八德區、復興區",
 "county": "68000",
 "area": "06",
 "town": "080",
 "vill": "025",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    58.46,
+"votePop":     2318,
 "candidates": [
  {
  "candNo": "1",
 "name": "邱若華",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      525,
+"disagreeTks":      819,
+"agreeRate":    39.06,
+"disagreeRate":    60.94,
+"adptVictor": "N",
+"ytpRate":    22.65,
+"ntpRate":    35.33 
 } 
 ] 
 },
 {
  "range": "桃園市 第06選區 八德區大順里",
-"area_nickname": "中壢區*、八德區、大溪區、復興區",
+"area_nickname": "中壢區*、大溪區、八德區、復興區",
 "county": "68000",
 "area": "06",
 "town": "080",
 "vill": "048",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    56.18,
+"votePop":     2161,
 "candidates": [
  {
  "candNo": "1",
 "name": "邱若華",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      503,
+"disagreeTks":      700,
+"agreeRate":    41.81,
+"disagreeRate":    58.19,
+"adptVictor": "N",
+"ytpRate":    23.28,
+"ntpRate":    32.39 
 } 
 ] 
 },
 {
  "range": "桃園市 第06選區 八德區大和里",
-"area_nickname": "中壢區*、八德區、大溪區、復興區",
+"area_nickname": "中壢區*、大溪區、八德區、復興區",
 "county": "68000",
 "area": "06",
 "town": "080",
 "vill": "017",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    54.39,
+"votePop":     7398,
 "candidates": [
  {
  "candNo": "1",
 "name": "邱若華",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":     1370,
+"disagreeTks":     2636,
+"agreeRate":     34.2,
+"disagreeRate":     65.8,
+"adptVictor": "N",
+"ytpRate":    18.52,
+"ntpRate":    35.63 
 } 
 ] 
 },
 {
  "range": "桃園市 第06選區 八德區大昌里",
-"area_nickname": "中壢區*、八德區、大溪區、復興區",
+"area_nickname": "中壢區*、大溪區、八德區、復興區",
 "county": "68000",
 "area": "06",
 "town": "080",
 "vill": "029",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    56.99,
+"votePop":     2611,
 "candidates": [
  {
  "candNo": "1",
 "name": "邱若華",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      606,
+"disagreeTks":      865,
+"agreeRate":     41.2,
+"disagreeRate":     58.8,
+"adptVictor": "N",
+"ytpRate":    23.21,
+"ntpRate":    33.13 
 } 
 ] 
 },
 {
  "range": "桃園市 第06選區 八德區大信里",
-"area_nickname": "中壢區*、八德區、大溪區、復興區",
+"area_nickname": "中壢區*、大溪區、八德區、復興區",
 "county": "68000",
 "area": "06",
 "town": "080",
 "vill": "024",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    52.84,
+"votePop":     3115,
 "candidates": [
  {
  "candNo": "1",
 "name": "邱若華",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      593,
+"disagreeTks":     1037,
+"agreeRate":    36.38,
+"disagreeRate":    63.62,
+"adptVictor": "N",
+"ytpRate":    19.04,
+"ntpRate":    33.29 
 } 
 ] 
 },
 {
  "range": "桃園市 第06選區 八德區陸光里",
-"area_nickname": "中壢區*、八德區、大溪區、復興區",
+"area_nickname": "中壢區*、大溪區、八德區、復興區",
 "county": "68000",
 "area": "06",
 "town": "080",
 "vill": "046",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":       55,
+"votePop":     4169,
 "candidates": [
  {
  "candNo": "1",
 "name": "邱若華",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      444,
+"disagreeTks":     1830,
+"agreeRate":    19.53,
+"disagreeRate":    80.47,
+"adptVictor": "N",
+"ytpRate":    10.65,
+"ntpRate":     43.9 
 } 
 ] 
 },
 {
  "range": "桃園市 第06選區 八德區大同里",
-"area_nickname": "中壢區*、八德區、大溪區、復興區",
+"area_nickname": "中壢區*、大溪區、八德區、復興區",
 "county": "68000",
 "area": "06",
 "town": "080",
 "vill": "018",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":     51.2,
+"votePop":     1420,
 "candidates": [
  {
  "candNo": "1",
 "name": "邱若華",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      359,
+"disagreeTks":      364,
+"agreeRate":    49.65,
+"disagreeRate":    50.35,
+"adptVictor": "N",
+"ytpRate":    25.28,
+"ntpRate":    25.63 
 } 
 ] 
 },
 {
  "range": "桃園市 第06選區 八德區大慶里",
-"area_nickname": "中壢區*、八德區、大溪區、復興區",
+"area_nickname": "中壢區*、大溪區、八德區、復興區",
 "county": "68000",
 "area": "06",
 "town": "080",
 "vill": "035",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    54.09,
+"votePop":     1307,
 "candidates": [
  {
  "candNo": "1",
 "name": "邱若華",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      307,
+"disagreeTks":      391,
+"agreeRate":    43.98,
+"disagreeRate":    56.02,
+"adptVictor": "N",
+"ytpRate":    23.49,
+"ntpRate":    29.92 
 } 
 ] 
 },
 {
  "range": "桃園市 第06選區 八德區大成里",
-"area_nickname": "中壢區*、八德區、大溪區、復興區",
+"area_nickname": "中壢區*、大溪區、八德區、復興區",
 "county": "68000",
 "area": "06",
 "town": "080",
 "vill": "019",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    59.54,
+"votePop":     2998,
 "candidates": [
  {
  "candNo": "1",
 "name": "邱若華",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      816,
+"disagreeTks":      963,
+"agreeRate":    45.87,
+"disagreeRate":    54.13,
+"adptVictor": "N",
+"ytpRate":    27.22,
+"ntpRate":    32.12 
 } 
 ] 
 },
 {
  "range": "桃園市 第06選區 八德區大義里",
-"area_nickname": "中壢區*、八德區、大溪區、復興區",
+"area_nickname": "中壢區*、大溪區、八德區、復興區",
 "county": "68000",
 "area": "06",
 "town": "080",
 "vill": "020",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    54.88,
+"votePop":     3548,
 "candidates": [
  {
  "candNo": "1",
 "name": "邱若華",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      727,
+"disagreeTks":     1211,
+"agreeRate":    37.51,
+"disagreeRate":    62.49,
+"adptVictor": "N",
+"ytpRate":    20.49,
+"ntpRate":    34.13 
 } 
 ] 
 },
 {
  "range": "桃園市 第06選區 八德區大忠里",
-"area_nickname": "中壢區*、八德區、大溪區、復興區",
+"area_nickname": "中壢區*、大溪區、八德區、復興區",
 "county": "68000",
 "area": "06",
 "town": "080",
 "vill": "021",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":     55.8,
+"votePop":     1613,
 "candidates": [
  {
  "candNo": "1",
 "name": "邱若華",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      338,
+"disagreeTks":      554,
+"agreeRate":    37.89,
+"disagreeRate":    62.11,
+"adptVictor": "N",
+"ytpRate":    20.95,
+"ntpRate":    34.35 
 } 
 ] 
 },
 {
  "range": "桃園市 第06選區 八德區大智里",
-"area_nickname": "中壢區*、八德區、大溪區、復興區",
+"area_nickname": "中壢區*、大溪區、八德區、復興區",
 "county": "68000",
 "area": "06",
 "town": "080",
 "vill": "027",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":     57.6,
+"votePop":     4118,
 "candidates": [
  {
  "candNo": "1",
 "name": "邱若華",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      762,
+"disagreeTks":     1596,
+"agreeRate":    32.32,
+"disagreeRate":    67.68,
+"adptVictor": "N",
+"ytpRate":     18.5,
+"ntpRate":    38.76 
 } 
 ] 
 },
 {
  "range": "桃園市 第06選區 八德區大宏里",
-"area_nickname": "中壢區*、八德區、大溪區、復興區",
+"area_nickname": "中壢區*、大溪區、八德區、復興區",
 "county": "68000",
 "area": "06",
 "town": "080",
 "vill": "042",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    58.17,
+"votePop":     4789,
 "candidates": [
  {
  "candNo": "1",
 "name": "邱若華",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":     1105,
+"disagreeTks":     1666,
+"agreeRate":    39.88,
+"disagreeRate":    60.12,
+"adptVictor": "N",
+"ytpRate":    23.07,
+"ntpRate":    34.79 
 } 
 ] 
 },
 {
  "range": "桃園市 第06選區 八德區大正里",
-"area_nickname": "中壢區*、八德區、大溪區、復興區",
+"area_nickname": "中壢區*、大溪區、八德區、復興區",
 "county": "68000",
 "area": "06",
 "town": "080",
 "vill": "030",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    54.74,
+"votePop":     4280,
 "candidates": [
  {
  "candNo": "1",
 "name": "邱若華",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      993,
+"disagreeTks":     1339,
+"agreeRate":    42.58,
+"disagreeRate":    57.42,
+"adptVictor": "N",
+"ytpRate":     23.2,
+"ntpRate":    31.29 
 } 
 ] 
 },
 {
  "range": "桃園市 第06選區 八德區大福里",
-"area_nickname": "中壢區*、八德區、大溪區、復興區",
+"area_nickname": "中壢區*、大溪區、八德區、復興區",
 "county": "68000",
 "area": "06",
 "town": "080",
 "vill": "022",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":     58.8,
+"votePop":     4949,
 "candidates": [
  {
  "candNo": "1",
 "name": "邱若華",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":     1166,
+"disagreeTks":     1731,
+"agreeRate":    40.25,
+"disagreeRate":    59.75,
+"adptVictor": "N",
+"ytpRate":    23.56,
+"ntpRate":    34.98 
 } 
 ] 
 },
 {
  "range": "桃園市 第06選區 八德區大強里",
-"area_nickname": "中壢區*、八德區、大溪區、復興區",
+"area_nickname": "中壢區*、大溪區、八德區、復興區",
 "county": "68000",
 "area": "06",
 "town": "080",
 "vill": "031",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    59.58,
+"votePop":     3023,
 "candidates": [
  {
  "candNo": "1",
 "name": "邱若華",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      827,
+"disagreeTks":      962,
+"agreeRate":    46.23,
+"disagreeRate":    53.77,
+"adptVictor": "N",
+"ytpRate":    27.36,
+"ntpRate":    31.82 
 } 
 ] 
 },
 {
  "range": "桃園市 第06選區 八德區大勇里",
-"area_nickname": "中壢區*、八德區、大溪區、復興區",
+"area_nickname": "中壢區*、大溪區、八德區、復興區",
 "county": "68000",
 "area": "06",
 "town": "080",
 "vill": "023",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    56.47,
+"votePop":     4020,
 "candidates": [
  {
  "candNo": "1",
 "name": "邱若華",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":     1031,
+"disagreeTks":     1231,
+"agreeRate":    45.58,
+"disagreeRate":    54.42,
+"adptVictor": "N",
+"ytpRate":    25.65,
+"ntpRate":    30.62 
 } 
 ] 
 },
 {
  "range": "桃園市 第06選區 八德區大榮里",
-"area_nickname": "中壢區*、八德區、大溪區、復興區",
+"area_nickname": "中壢區*、大溪區、八德區、復興區",
 "county": "68000",
 "area": "06",
 "town": "080",
 "vill": "037",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    55.55,
+"votePop":     1757,
 "candidates": [
  {
  "candNo": "1",
 "name": "邱若華",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      391,
+"disagreeTks":      578,
+"agreeRate":    40.35,
+"disagreeRate":    59.65,
+"adptVictor": "N",
+"ytpRate":    22.25,
+"ntpRate":     32.9 
 } 
 ] 
 },
 {
  "range": "桃園市 第06選區 八德區大千里",
-"area_nickname": "中壢區*、八德區、大溪區、復興區",
+"area_nickname": "中壢區*、大溪區、八德區、復興區",
 "county": "68000",
 "area": "06",
 "town": "080",
 "vill": "036",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    56.83,
+"votePop":     2094,
 "candidates": [
  {
  "candNo": "1",
 "name": "邱若華",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      409,
+"disagreeTks":      773,
+"agreeRate":     34.6,
+"disagreeRate":     65.4,
+"adptVictor": "N",
+"ytpRate":    19.53,
+"ntpRate":    36.91 
 } 
 ] 
 },
 {
  "range": "桃園市 第06選區 八德區大漢里",
-"area_nickname": "中壢區*、八德區、大溪區、復興區",
+"area_nickname": "中壢區*、大溪區、八德區、復興區",
 "county": "68000",
 "area": "06",
 "town": "080",
 "vill": "043",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    55.57,
+"votePop":     3759,
 "candidates": [
  {
  "candNo": "1",
 "name": "邱若華",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      751,
+"disagreeTks":     1323,
+"agreeRate":    36.21,
+"disagreeRate":    63.79,
+"adptVictor": "N",
+"ytpRate":    19.98,
+"ntpRate":     35.2 
 } 
 ] 
 },
 {
  "range": "桃園市 第06選區 大溪區興和里",
-"area_nickname": "中壢區*、八德區、大溪區、復興區",
+"area_nickname": "中壢區*、大溪區、八德區、復興區",
 "county": "68000",
 "area": "06",
 "town": "030",
 "vill": "001",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    60.31,
+"votePop":     1285,
 "candidates": [
  {
  "candNo": "1",
 "name": "邱若華",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      429,
+"disagreeTks":      345,
+"agreeRate":    55.43,
+"disagreeRate":    44.57,
+"adptVictor": "N",
+"ytpRate":    33.39,
+"ntpRate":    26.85 
 } 
 ] 
 },
 {
  "range": "桃園市 第06選區 大溪區福仁里",
-"area_nickname": "中壢區*、八德區、大溪區、復興區",
+"area_nickname": "中壢區*、大溪區、八德區、復興區",
 "county": "68000",
 "area": "06",
 "town": "030",
 "vill": "002",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    57.21,
+"votePop":      909,
 "candidates": [
  {
  "candNo": "1",
 "name": "邱若華",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      324,
+"disagreeTks":      194,
+"agreeRate":    62.55,
+"disagreeRate":    37.45,
+"adptVictor": "N",
+"ytpRate":    35.64,
+"ntpRate":    21.34 
 } 
 ] 
 },
 {
  "range": "桃園市 第06選區 大溪區田心里",
-"area_nickname": "中壢區*、八德區、大溪區、復興區",
+"area_nickname": "中壢區*、大溪區、八德區、復興區",
 "county": "68000",
 "area": "06",
 "town": "030",
 "vill": "025",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":     54.3,
+"votePop":     4059,
 "candidates": [
  {
  "candNo": "1",
 "name": "邱若華",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":     1192,
+"disagreeTks":      999,
+"agreeRate":     54.4,
+"disagreeRate":     45.6,
+"adptVictor": "N",
+"ytpRate":    29.37,
+"ntpRate":    24.61 
 } 
 ] 
 },
 {
  "range": "桃園市 第06選區 大溪區一心里",
-"area_nickname": "中壢區*、八德區、大溪區、復興區",
+"area_nickname": "中壢區*、大溪區、八德區、復興區",
 "county": "68000",
 "area": "06",
 "town": "030",
 "vill": "003",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":       50,
+"votePop":     4522,
 "candidates": [
  {
  "candNo": "1",
 "name": "邱若華",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":     1149,
+"disagreeTks":     1107,
+"agreeRate":    50.93,
+"disagreeRate":    49.07,
+"adptVictor": "N",
+"ytpRate":    25.41,
+"ntpRate":    24.48 
 } 
 ] 
 },
 {
  "range": "桃園市 第06選區 大溪區一德里",
-"area_nickname": "中壢區*、八德區、大溪區、復興區",
+"area_nickname": "中壢區*、大溪區、八德區、復興區",
 "county": "68000",
 "area": "06",
 "town": "030",
 "vill": "004",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    50.78,
+"votePop":     5004,
 "candidates": [
  {
  "candNo": "1",
 "name": "邱若華",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":     1367,
+"disagreeTks":     1164,
+"agreeRate":    54.01,
+"disagreeRate":    45.99,
+"adptVictor": "N",
+"ytpRate":    27.32,
+"ntpRate":    23.26 
 } 
 ] 
 },
 {
  "range": "桃園市 第06選區 大溪區月眉里",
-"area_nickname": "中壢區*、八德區、大溪區、復興區",
+"area_nickname": "中壢區*、大溪區、八德區、復興區",
 "county": "68000",
 "area": "06",
 "town": "030",
 "vill": "005",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    54.42,
+"votePop":     1143,
 "candidates": [
  {
  "candNo": "1",
 "name": "邱若華",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      365,
+"disagreeTks":      253,
+"agreeRate":    59.06,
+"disagreeRate":    40.94,
+"adptVictor": "N",
+"ytpRate":    31.93,
+"ntpRate":    22.13 
 } 
 ] 
 },
 {
  "range": "桃園市 第06選區 大溪區永福里",
-"area_nickname": "中壢區*、八德區、大溪區、復興區",
+"area_nickname": "中壢區*、大溪區、八德區、復興區",
 "county": "68000",
 "area": "06",
 "town": "030",
 "vill": "006",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    52.31,
+"votePop":      889,
 "candidates": [
  {
  "candNo": "1",
 "name": "邱若華",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      308,
+"disagreeTks":      154,
+"agreeRate":    66.67,
+"disagreeRate":    33.33,
+"adptVictor": "N",
+"ytpRate":    34.65,
+"ntpRate":    17.32 
 } 
 ] 
 },
 {
  "range": "桃園市 第06選區 大溪區康安里",
-"area_nickname": "中壢區*、八德區、大溪區、復興區",
+"area_nickname": "中壢區*、大溪區、八德區、復興區",
 "county": "68000",
 "area": "06",
 "town": "030",
 "vill": "011",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    55.03,
+"votePop":     1203,
 "candidates": [
  {
  "candNo": "1",
 "name": "邱若華",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      414,
+"disagreeTks":      245,
+"agreeRate":    62.82,
+"disagreeRate":    37.18,
+"adptVictor": "N",
+"ytpRate":    34.41,
+"ntpRate":    20.37 
 } 
 ] 
 },
 {
  "range": "桃園市 第06選區 大溪區義和里",
-"area_nickname": "中壢區*、八德區、大溪區、復興區",
+"area_nickname": "中壢區*、大溪區、八德區、復興區",
 "county": "68000",
 "area": "06",
 "town": "030",
 "vill": "012",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    53.25,
+"votePop":     1613,
 "candidates": [
  {
  "candNo": "1",
 "name": "邱若華",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      510,
+"disagreeTks":      346,
+"agreeRate":    59.58,
+"disagreeRate":    40.42,
+"adptVictor": "N",
+"ytpRate":    31.62,
+"ntpRate":    21.45 
 } 
 ] 
 },
 {
  "range": "桃園市 第06選區 大溪區美華里",
-"area_nickname": "中壢區*、八德區、大溪區、復興區",
+"area_nickname": "中壢區*、大溪區、八德區、復興區",
 "county": "68000",
 "area": "06",
 "town": "030",
 "vill": "007",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    54.73,
+"votePop":     2852,
 "candidates": [
  {
  "candNo": "1",
 "name": "邱若華",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      857,
+"disagreeTks":      694,
+"agreeRate":    55.25,
+"disagreeRate":    44.75,
+"adptVictor": "N",
+"ytpRate":    30.05,
+"ntpRate":    24.33 
 } 
 ] 
 },
 {
  "range": "桃園市 第06選區 大溪區福安里",
-"area_nickname": "中壢區*、八德區、大溪區、復興區",
+"area_nickname": "中壢區*、大溪區、八德區、復興區",
 "county": "68000",
 "area": "06",
 "town": "030",
 "vill": "008",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    55.09,
+"votePop":     2064,
 "candidates": [
  {
  "candNo": "1",
 "name": "邱若華",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      689,
+"disagreeTks":      443,
+"agreeRate":    60.87,
+"disagreeRate":    39.13,
+"adptVictor": "N",
+"ytpRate":    33.38,
+"ntpRate":    21.46 
 } 
 ] 
 },
 {
  "range": "桃園市 第06選區 大溪區復興里",
-"area_nickname": "中壢區*、八德區、大溪區、復興區",
+"area_nickname": "中壢區*、大溪區、八德區、復興區",
 "county": "68000",
 "area": "06",
 "town": "030",
 "vill": "009",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    48.62,
+"votePop":      796,
 "candidates": [
  {
  "candNo": "1",
 "name": "邱若華",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      205,
+"disagreeTks":      182,
+"agreeRate":    52.97,
+"disagreeRate":    47.03,
+"adptVictor": "N",
+"ytpRate":    25.75,
+"ntpRate":    22.86 
 } 
 ] 
 },
 {
  "range": "桃園市 第06選區 大溪區新峰里",
-"area_nickname": "中壢區*、八德區、大溪區、復興區",
+"area_nickname": "中壢區*、大溪區、八德區、復興區",
 "county": "68000",
 "area": "06",
 "town": "030",
 "vill": "010",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    45.44,
+"votePop":      713,
 "candidates": [
  {
  "candNo": "1",
 "name": "邱若華",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      174,
+"disagreeTks":      150,
+"agreeRate":     53.7,
+"disagreeRate":     46.3,
+"adptVictor": "N",
+"ytpRate":     24.4,
+"ntpRate":    21.04 
 } 
 ] 
 },
 {
  "range": "桃園市 第06選區 大溪區中新里",
-"area_nickname": "中壢區*、八德區、大溪區、復興區",
+"area_nickname": "中壢區*、大溪區、八德區、復興區",
 "county": "68000",
 "area": "06",
 "town": "030",
 "vill": "014",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    52.54,
+"votePop":     1456,
 "candidates": [
  {
  "candNo": "1",
 "name": "邱若華",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      424,
+"disagreeTks":      335,
+"agreeRate":    55.86,
+"disagreeRate":    44.14,
+"adptVictor": "N",
+"ytpRate":    29.12,
+"ntpRate":    23.01 
 } 
 ] 
 },
 {
  "range": "桃園市 第06選區 大溪區瑞興里",
-"area_nickname": "中壢區*、八德區、大溪區、復興區",
+"area_nickname": "中壢區*、大溪區、八德區、復興區",
 "county": "68000",
 "area": "06",
 "town": "030",
 "vill": "013",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    52.13,
+"votePop":     2045,
 "candidates": [
  {
  "candNo": "1",
 "name": "邱若華",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      638,
+"disagreeTks":      421,
+"agreeRate":    60.25,
+"disagreeRate":    39.75,
+"adptVictor": "N",
+"ytpRate":     31.2,
+"ntpRate":    20.59 
 } 
 ] 
 },
 {
  "range": "桃園市 第06選區 大溪區仁善里",
-"area_nickname": "中壢區*、八德區、大溪區、復興區",
+"area_nickname": "中壢區*、大溪區、八德區、復興區",
 "county": "68000",
 "area": "06",
 "town": "030",
 "vill": "017",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    53.52,
+"votePop":     4690,
 "candidates": [
  {
  "candNo": "1",
 "name": "邱若華",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":     1035,
+"disagreeTks":     1460,
+"agreeRate":    41.48,
+"disagreeRate":    58.52,
+"adptVictor": "N",
+"ytpRate":    22.07,
+"ntpRate":    31.13 
 } 
 ] 
 },
 {
  "range": "桃園市 第06選區 大溪區僑愛里",
-"area_nickname": "中壢區*、八德區、大溪區、復興區",
+"area_nickname": "中壢區*、大溪區、八德區、復興區",
 "county": "68000",
 "area": "06",
 "town": "030",
 "vill": "016",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":     57.8,
+"votePop":     2360,
 "candidates": [
  {
  "candNo": "1",
 "name": "邱若華",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      237,
+"disagreeTks":     1122,
+"agreeRate":    17.44,
+"disagreeRate":    82.56,
+"adptVictor": "N",
+"ytpRate":    10.04,
+"ntpRate":    47.54 
 } 
 ] 
 },
 {
  "range": "桃園市 第06選區 大溪區仁義里",
-"area_nickname": "中壢區*、八德區、大溪區、復興區",
+"area_nickname": "中壢區*、大溪區、八德區、復興區",
 "county": "68000",
 "area": "06",
 "town": "030",
 "vill": "015",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    52.16,
+"votePop":     2433,
 "candidates": [
  {
  "candNo": "1",
 "name": "邱若華",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      327,
+"disagreeTks":      928,
+"agreeRate":    26.06,
+"disagreeRate":    73.94,
+"adptVictor": "N",
+"ytpRate":    13.44,
+"ntpRate":    38.14 
 } 
 ] 
 },
 {
  "range": "桃園市 第06選區 大溪區仁和里",
-"area_nickname": "中壢區*、八德區、大溪區、復興區",
+"area_nickname": "中壢區*、大溪區、八德區、復興區",
 "county": "68000",
 "area": "06",
 "town": "030",
 "vill": "027",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    55.23,
+"votePop":     4572,
 "candidates": [
  {
  "candNo": "1",
 "name": "邱若華",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":     1050,
+"disagreeTks":     1463,
+"agreeRate":    41.78,
+"disagreeRate":    58.22,
+"adptVictor": "N",
+"ytpRate":    22.97,
+"ntpRate":       32 
 } 
 ] 
 },
 {
  "range": "桃園市 第06選區 大溪區仁愛里",
-"area_nickname": "中壢區*、八德區、大溪區、復興區",
+"area_nickname": "中壢區*、大溪區、八德區、復興區",
 "county": "68000",
 "area": "06",
 "town": "030",
 "vill": "018",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    55.85,
+"votePop":     4562,
 "candidates": [
  {
  "candNo": "1",
 "name": "邱若華",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":     1075,
+"disagreeTks":     1457,
+"agreeRate":    42.46,
+"disagreeRate":    57.54,
+"adptVictor": "N",
+"ytpRate":    23.56,
+"ntpRate":    31.94 
 } 
 ] 
 },
 {
  "range": "桃園市 第06選區 大溪區仁武里",
-"area_nickname": "中壢區*、八德區、大溪區、復興區",
+"area_nickname": "中壢區*、大溪區、八德區、復興區",
 "county": "68000",
 "area": "06",
 "town": "030",
 "vill": "019",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    52.55,
+"votePop":     2906,
 "candidates": [
  {
  "candNo": "1",
 "name": "邱若華",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      600,
+"disagreeTks":      917,
+"agreeRate":    39.55,
+"disagreeRate":    60.45,
+"adptVictor": "N",
+"ytpRate":    20.65,
+"ntpRate":    31.56 
 } 
 ] 
 },
 {
  "range": "桃園市 第06選區 大溪區仁文里",
-"area_nickname": "中壢區*、八德區、大溪區、復興區",
+"area_nickname": "中壢區*、大溪區、八德區、復興區",
 "county": "68000",
 "area": "06",
 "town": "030",
 "vill": "026",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    53.62,
+"votePop":     3566,
 "candidates": [
  {
  "candNo": "1",
 "name": "邱若華",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      775,
+"disagreeTks":     1125,
+"agreeRate":    40.79,
+"disagreeRate":    59.21,
+"adptVictor": "N",
+"ytpRate":    21.73,
+"ntpRate":    31.55 
 } 
 ] 
 },
 {
  "range": "桃園市 第06選區 大溪區南興里",
-"area_nickname": "中壢區*、八德區、大溪區、復興區",
+"area_nickname": "中壢區*、大溪區、八德區、復興區",
 "county": "68000",
 "area": "06",
 "town": "030",
 "vill": "021",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    50.56,
+"votePop":     4612,
 "candidates": [
  {
  "candNo": "1",
 "name": "邱若華",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":     1120,
+"disagreeTks":     1196,
+"agreeRate":    48.36,
+"disagreeRate":    51.64,
+"adptVictor": "N",
+"ytpRate":    24.28,
+"ntpRate":    25.93 
 } 
 ] 
 },
 {
  "range": "桃園市 第06選區 大溪區員林里",
-"area_nickname": "中壢區*、八德區、大溪區、復興區",
+"area_nickname": "中壢區*、大溪區、八德區、復興區",
 "county": "68000",
 "area": "06",
 "town": "030",
 "vill": "020",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    50.65,
+"votePop":     1698,
 "candidates": [
  {
  "candNo": "1",
 "name": "邱若華",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      338,
+"disagreeTks":      517,
+"agreeRate":    39.53,
+"disagreeRate":    60.47,
+"adptVictor": "N",
+"ytpRate":    19.91,
+"ntpRate":    30.45 
 } 
 ] 
 },
 {
  "range": "桃園市 第06選區 大溪區光明里",
-"area_nickname": "中壢區*、八德區、大溪區、復興區",
+"area_nickname": "中壢區*、大溪區、八德區、復興區",
 "county": "68000",
 "area": "06",
 "town": "030",
 "vill": "023",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    50.81,
+"votePop":     2228,
 "candidates": [
  {
  "candNo": "1",
 "name": "邱若華",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      377,
+"disagreeTks":      748,
+"agreeRate":    33.51,
+"disagreeRate":    66.49,
+"adptVictor": "N",
+"ytpRate":    16.92,
+"ntpRate":    33.57 
 } 
 ] 
 },
 {
  "range": "桃園市 第06選區 大溪區瑞源里",
-"area_nickname": "中壢區*、八德區、大溪區、復興區",
+"area_nickname": "中壢區*、大溪區、八德區、復興區",
 "county": "68000",
 "area": "06",
 "town": "030",
 "vill": "022",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    54.43,
+"votePop":     3430,
 "candidates": [
  {
  "candNo": "1",
 "name": "邱若華",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      849,
+"disagreeTks":     1007,
+"agreeRate":    45.74,
+"disagreeRate":    54.26,
+"adptVictor": "N",
+"ytpRate":    24.75,
+"ntpRate":    29.36 
 } 
 ] 
 },
 {
  "range": "桃園市 第06選區 大溪區三元里",
-"area_nickname": "中壢區*、八德區、大溪區、復興區",
+"area_nickname": "中壢區*、大溪區、八德區、復興區",
 "county": "68000",
 "area": "06",
 "town": "030",
 "vill": "024",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    54.88,
+"votePop":     2666,
 "candidates": [
  {
  "candNo": "1",
 "name": "邱若華",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      386,
+"disagreeTks":     1073,
+"agreeRate":    26.46,
+"disagreeRate":    73.54,
+"adptVictor": "N",
+"ytpRate":    14.48,
+"ntpRate":    40.25 
 } 
 ] 
 },
 {
  "range": "桃園市 第06選區 復興區三民里",
-"area_nickname": "中壢區*、八德區、大溪區、復興區",
+"area_nickname": "中壢區*、大溪區、八德區、復興區",
 "county": "68000",
 "area": "06",
 "town": "130",
 "vill": "001",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    47.97,
+"votePop":     1405,
 "candidates": [
  {
  "candNo": "1",
 "name": "邱若華",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      298,
+"disagreeTks":      372,
+"agreeRate":    44.48,
+"disagreeRate":    55.52,
+"adptVictor": "N",
+"ytpRate":    21.21,
+"ntpRate":    26.48 
 } 
 ] 
 },
 {
  "range": "桃園市 第06選區 復興區澤仁里",
-"area_nickname": "中壢區*、八德區、大溪區、復興區",
+"area_nickname": "中壢區*、大溪區、八德區、復興區",
 "county": "68000",
 "area": "06",
 "town": "130",
 "vill": "002",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    48.28,
+"votePop":      611,
 "candidates": [
  {
  "candNo": "1",
 "name": "邱若華",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      124,
+"disagreeTks":      169,
+"agreeRate":    42.32,
+"disagreeRate":    57.68,
+"adptVictor": "N",
+"ytpRate":    20.29,
+"ntpRate":    27.66 
 } 
 ] 
 },
 {
  "range": "桃園市 第06選區 復興區霞雲里",
-"area_nickname": "中壢區*、八德區、大溪區、復興區",
+"area_nickname": "中壢區*、大溪區、八德區、復興區",
 "county": "68000",
 "area": "06",
 "town": "130",
 "vill": "004",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    46.32,
+"votePop":       95,
 "candidates": [
  {
  "candNo": "1",
 "name": "邱若華",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":       11,
+"disagreeTks":       33,
+"agreeRate":       25,
+"disagreeRate":       75,
+"adptVictor": "N",
+"ytpRate":    11.58,
+"ntpRate":    34.74 
 } 
 ] 
 },
 {
  "range": "桃園市 第06選區 復興區義盛里",
-"area_nickname": "中壢區*、八德區、大溪區、復興區",
+"area_nickname": "中壢區*、大溪區、八德區、復興區",
 "county": "68000",
 "area": "06",
 "town": "130",
 "vill": "003",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    31.25,
+"votePop":       64,
 "candidates": [
  {
  "candNo": "1",
 "name": "邱若華",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":        5,
+"disagreeTks":       15,
+"agreeRate":       25,
+"disagreeRate":       75,
+"adptVictor": "N",
+"ytpRate":     7.81,
+"ntpRate":    23.44 
 } 
 ] 
 },
 {
  "range": "桃園市 第06選區 復興區羅浮里",
-"area_nickname": "中壢區*、八德區、大溪區、復興區",
+"area_nickname": "中壢區*、大溪區、八德區、復興區",
 "county": "68000",
 "area": "06",
 "town": "130",
 "vill": "009",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    45.28,
+"votePop":      360,
 "candidates": [
  {
  "candNo": "1",
 "name": "邱若華",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":       53,
+"disagreeTks":      108,
+"agreeRate":    32.92,
+"disagreeRate":    67.08,
+"adptVictor": "N",
+"ytpRate":    14.72,
+"ntpRate":       30 
 } 
 ] 
 },
 {
  "range": "桃園市 第06選區 復興區長興里",
-"area_nickname": "中壢區*、八德區、大溪區、復興區",
+"area_nickname": "中壢區*、大溪區、八德區、復興區",
 "county": "68000",
 "area": "06",
 "town": "130",
 "vill": "005",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    35.29,
+"votePop":      119,
 "candidates": [
  {
  "candNo": "1",
 "name": "邱若華",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":       13,
+"disagreeTks":       29,
+"agreeRate":    30.95,
+"disagreeRate":    69.05,
+"adptVictor": "N",
+"ytpRate":    10.92,
+"ntpRate":    24.37 
 } 
 ] 
 },
 {
  "range": "桃園市 第06選區 復興區奎輝里",
-"area_nickname": "中壢區*、八德區、大溪區、復興區",
+"area_nickname": "中壢區*、大溪區、八德區、復興區",
 "county": "68000",
 "area": "06",
 "town": "130",
 "vill": "007",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    37.04,
+"votePop":       54,
 "candidates": [
  {
  "candNo": "1",
 "name": "邱若華",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":        5,
+"disagreeTks":       15,
+"agreeRate":       25,
+"disagreeRate":       75,
+"adptVictor": "N",
+"ytpRate":     9.26,
+"ntpRate":    27.78 
 } 
 ] 
 },
 {
  "range": "桃園市 第06選區 復興區高義里",
-"area_nickname": "中壢區*、八德區、大溪區、復興區",
+"area_nickname": "中壢區*、大溪區、八德區、復興區",
 "county": "68000",
 "area": "06",
 "town": "130",
 "vill": "010",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":     19.4,
+"votePop":       67,
 "candidates": [
  {
  "candNo": "1",
 "name": "邱若華",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":        9,
+"disagreeTks":        3,
+"agreeRate":       75,
+"disagreeRate":       25,
+"adptVictor": "N",
+"ytpRate":    13.43,
+"ntpRate":     4.48 
 } 
 ] 
 },
 {
  "range": "桃園市 第06選區 復興區三光里",
-"area_nickname": "中壢區*、八德區、大溪區、復興區",
+"area_nickname": "中壢區*、大溪區、八德區、復興區",
 "county": "68000",
 "area": "06",
 "town": "130",
 "vill": "006",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    22.81,
+"votePop":       57,
 "candidates": [
  {
  "candNo": "1",
 "name": "邱若華",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":        1,
+"disagreeTks":       11,
+"agreeRate":     8.33,
+"disagreeRate":    91.67,
+"adptVictor": "N",
+"ytpRate":     1.75,
+"ntpRate":     19.3 
 } 
 ] 
 },
 {
  "range": "桃園市 第06選區 復興區華陵里",
-"area_nickname": "中壢區*、八德區、大溪區、復興區",
+"area_nickname": "中壢區*、大溪區、八德區、復興區",
 "county": "68000",
 "area": "06",
 "town": "130",
 "vill": "008",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    30.35,
+"votePop":      402,
 "candidates": [
  {
  "candNo": "1",
 "name": "邱若華",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":       43,
+"disagreeTks":       78,
+"agreeRate":    35.54,
+"disagreeRate":    64.46,
+"adptVictor": "N",
+"ytpRate":     10.7,
+"ntpRate":     19.4 
 } 
 ] 
 },
 {
  "range": "桃園市 第06選區 八德區福元里",
-"area_nickname": "中壢區*、八德區、大溪區、復興區",
+"area_nickname": "中壢區*、大溪區、八德區、復興區",
 "county": "68000",
 "area": "06",
 "town": "080",
 "vill": "049",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    52.96,
+"votePop":     4043,
 "candidates": [
  {
  "candNo": "1",
 "name": "邱若華",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      851,
+"disagreeTks":     1269,
+"agreeRate":    40.14,
+"disagreeRate":    59.86,
+"adptVictor": "N",
+"ytpRate":    21.05,
+"ntpRate":    31.39 
 } 
 ] 
 },
 {
  "range": "桃園市 第06選區 八德區福德里",
-"area_nickname": "中壢區*、八德區、大溪區、復興區",
+"area_nickname": "中壢區*、大溪區、八德區、復興區",
 "county": "68000",
 "area": "06",
 "town": "080",
 "vill": "050",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    51.41,
+"votePop":     2834,
 "candidates": [
  {
  "candNo": "1",
 "name": "邱若華",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      582,
+"disagreeTks":      868,
+"agreeRate":    40.14,
+"disagreeRate":    59.86,
+"adptVictor": "N",
+"ytpRate":    20.54,
+"ntpRate":    30.63 
 } 
 ] 
 },
 {
  "range": "桃園市 第06選區 八德區興中里",
-"area_nickname": "中壢區*、八德區、大溪區、復興區",
+"area_nickname": "中壢區*、大溪區、八德區、復興區",
 "county": "68000",
 "area": "06",
 "town": "080",
 "vill": "051",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    48.39,
+"votePop":     4633,
 "candidates": [
  {
  "candNo": "1",
 "name": "邱若華",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      877,
+"disagreeTks":     1344,
+"agreeRate":    39.49,
+"disagreeRate":    60.51,
+"adptVictor": "N",
+"ytpRate":    18.93,
+"ntpRate":    29.01 
 } 
 ] 
 } 

@@ -1,2597 +1,2705 @@
 {
- "updatedAt": "2025-07-10 10:33:00",
+ "updatedAt": "2025-08-19 17:43:00",
 "is_running": false,
 "is_started": true,
 "districts": [
  {
  "range": "新北市 第01選區 石門區德茂里",
-"area_nickname": "石門區、三芝區、淡水區、八里區、林口區、泰山區",
+"area_nickname": "淡水區、泰山區、林口區、三芝區、石門區、八里區",
 "county": "65000",
 "area": "01",
 "town": "220",
 "vill": "001",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    48.62,
+"votePop":     1014,
 "candidates": [
  {
  "candNo": "1",
 "name": "洪孟楷",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      193,
+"disagreeTks":      296,
+"agreeRate":    39.47,
+"disagreeRate":    60.53,
+"adptVictor": "N",
+"ytpRate":    19.03,
+"ntpRate":    29.19 
 } 
 ] 
 },
 {
  "range": "新北市 第01選區 石門區富基里",
-"area_nickname": "石門區、三芝區、淡水區、八里區、林口區、泰山區",
+"area_nickname": "淡水區、泰山區、林口區、三芝區、石門區、八里區",
 "county": "65000",
 "area": "01",
 "town": "220",
 "vill": "002",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":     50.8,
+"votePop":     1181,
 "candidates": [
  {
  "candNo": "1",
 "name": "洪孟楷",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      251,
+"disagreeTks":      349,
+"agreeRate":    41.83,
+"disagreeRate":    58.17,
+"adptVictor": "N",
+"ytpRate":    21.25,
+"ntpRate":    29.55 
 } 
 ] 
 },
 {
  "range": "新北市 第01選區 石門區老梅里",
-"area_nickname": "石門區、三芝區、淡水區、八里區、林口區、泰山區",
+"area_nickname": "淡水區、泰山區、林口區、三芝區、石門區、八里區",
 "county": "65000",
 "area": "01",
 "town": "220",
 "vill": "003",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    47.63,
+"votePop":     1816,
 "candidates": [
  {
  "candNo": "1",
 "name": "洪孟楷",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      354,
+"disagreeTks":      501,
+"agreeRate":     41.4,
+"disagreeRate":     58.6,
+"adptVictor": "N",
+"ytpRate":    19.49,
+"ntpRate":    27.59 
 } 
 ] 
 },
 {
  "range": "新北市 第01選區 石門區山溪里",
-"area_nickname": "石門區、三芝區、淡水區、八里區、林口區、泰山區",
+"area_nickname": "淡水區、泰山區、林口區、三芝區、石門區、八里區",
 "county": "65000",
 "area": "01",
 "town": "220",
 "vill": "004",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    49.08,
+"votePop":      762,
 "candidates": [
  {
  "candNo": "1",
 "name": "洪孟楷",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      126,
+"disagreeTks":      247,
+"agreeRate":    33.78,
+"disagreeRate":    66.22,
+"adptVictor": "N",
+"ytpRate":    16.54,
+"ntpRate":    32.41 
 } 
 ] 
 },
 {
  "range": "新北市 第01選區 石門區石門里",
-"area_nickname": "石門區、三芝區、淡水區、八里區、林口區、泰山區",
+"area_nickname": "淡水區、泰山區、林口區、三芝區、石門區、八里區",
 "county": "65000",
 "area": "01",
 "town": "220",
 "vill": "005",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    51.54,
+"votePop":     1362,
 "candidates": [
  {
  "candNo": "1",
 "name": "洪孟楷",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      246,
+"disagreeTks":      454,
+"agreeRate":    35.14,
+"disagreeRate":    64.86,
+"adptVictor": "N",
+"ytpRate":    18.06,
+"ntpRate":    33.33 
 } 
 ] 
 },
 {
  "range": "新北市 第01選區 石門區尖鹿里",
-"area_nickname": "石門區、三芝區、淡水區、八里區、林口區、泰山區",
+"area_nickname": "淡水區、泰山區、林口區、三芝區、石門區、八里區",
 "county": "65000",
 "area": "01",
 "town": "220",
 "vill": "006",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    48.13,
+"votePop":     1313,
 "candidates": [
  {
  "candNo": "1",
 "name": "洪孟楷",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      231,
+"disagreeTks":      396,
+"agreeRate":    36.84,
+"disagreeRate":    63.16,
+"adptVictor": "N",
+"ytpRate":    17.59,
+"ntpRate":    30.16 
 } 
 ] 
 },
 {
  "range": "新北市 第01選區 石門區乾華里",
-"area_nickname": "石門區、三芝區、淡水區、八里區、林口區、泰山區",
+"area_nickname": "淡水區、泰山區、林口區、三芝區、石門區、八里區",
 "county": "65000",
 "area": "01",
 "town": "220",
 "vill": "007",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    42.86,
+"votePop":      245,
 "candidates": [
  {
  "candNo": "1",
 "name": "洪孟楷",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":       34,
+"disagreeTks":       69,
+"agreeRate":    33.01,
+"disagreeRate":    66.99,
+"adptVictor": "N",
+"ytpRate":    13.88,
+"ntpRate":    28.16 
 } 
 ] 
 },
 {
  "range": "新北市 第01選區 石門區茂林里",
-"area_nickname": "石門區、三芝區、淡水區、八里區、林口區、泰山區",
+"area_nickname": "淡水區、泰山區、林口區、三芝區、石門區、八里區",
 "county": "65000",
 "area": "01",
 "town": "220",
 "vill": "008",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    52.49,
+"votePop":      482,
 "candidates": [
  {
  "candNo": "1",
 "name": "洪孟楷",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      104,
+"disagreeTks":      147,
+"agreeRate":    41.43,
+"disagreeRate":    58.57,
+"adptVictor": "N",
+"ytpRate":    21.58,
+"ntpRate":     30.5 
 } 
 ] 
 },
 {
  "range": "新北市 第01選區 石門區草里里",
-"area_nickname": "石門區、三芝區、淡水區、八里區、林口區、泰山區",
+"area_nickname": "淡水區、泰山區、林口區、三芝區、石門區、八里區",
 "county": "65000",
 "area": "01",
 "town": "220",
 "vill": "009",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    45.11,
+"votePop":      838,
 "candidates": [
  {
  "candNo": "1",
 "name": "洪孟楷",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      141,
+"disagreeTks":      233,
+"agreeRate":     37.7,
+"disagreeRate":     62.3,
+"adptVictor": "N",
+"ytpRate":    16.83,
+"ntpRate":     27.8 
 } 
 ] 
 },
 {
  "range": "新北市 第01選區 三芝區八賢里",
-"area_nickname": "石門區、三芝區、淡水區、八里區、林口區、泰山區",
+"area_nickname": "淡水區、泰山區、林口區、三芝區、石門區、八里區",
 "county": "65000",
 "area": "01",
 "town": "210",
 "vill": "001",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    58.95,
+"votePop":      285,
 "candidates": [
  {
  "candNo": "1",
 "name": "洪孟楷",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":       82,
+"disagreeTks":       85,
+"agreeRate":     49.1,
+"disagreeRate":     50.9,
+"adptVictor": "N",
+"ytpRate":    28.77,
+"ntpRate":    29.82 
 } 
 ] 
 },
 {
  "range": "新北市 第01選區 三芝區埔頭里",
-"area_nickname": "石門區、三芝區、淡水區、八里區、林口區、泰山區",
+"area_nickname": "淡水區、泰山區、林口區、三芝區、石門區、八里區",
 "county": "65000",
 "area": "01",
 "town": "210",
 "vill": "002",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    51.68,
+"votePop":     4609,
 "candidates": [
  {
  "candNo": "1",
 "name": "洪孟楷",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      889,
+"disagreeTks":     1482,
+"agreeRate":    37.49,
+"disagreeRate":    62.51,
+"adptVictor": "N",
+"ytpRate":    19.29,
+"ntpRate":    32.15 
 } 
 ] 
 },
 {
  "range": "新北市 第01選區 三芝區古庄里",
-"area_nickname": "石門區、三芝區、淡水區、八里區、林口區、泰山區",
+"area_nickname": "淡水區、泰山區、林口區、三芝區、石門區、八里區",
 "county": "65000",
 "area": "01",
 "town": "210",
 "vill": "003",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    47.99,
+"votePop":     1146,
 "candidates": [
  {
  "candNo": "1",
 "name": "洪孟楷",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      225,
+"disagreeTks":      322,
+"agreeRate":    41.13,
+"disagreeRate":    58.87,
+"adptVictor": "N",
+"ytpRate":    19.63,
+"ntpRate":     28.1 
 } 
 ] 
 },
 {
  "range": "新北市 第01選區 三芝區新庄里",
-"area_nickname": "石門區、三芝區、淡水區、八里區、林口區、泰山區",
+"area_nickname": "淡水區、泰山區、林口區、三芝區、石門區、八里區",
 "county": "65000",
 "area": "01",
 "town": "210",
 "vill": "004",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    56.29,
+"votePop":      700,
 "candidates": [
  {
  "candNo": "1",
 "name": "洪孟楷",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      154,
+"disagreeTks":      238,
+"agreeRate":    39.29,
+"disagreeRate":    60.71,
+"adptVictor": "N",
+"ytpRate":       22,
+"ntpRate":       34 
 } 
 ] 
 },
 {
  "range": "新北市 第01選區 三芝區埔坪里",
-"area_nickname": "石門區、三芝區、淡水區、八里區、林口區、泰山區",
+"area_nickname": "淡水區、泰山區、林口區、三芝區、石門區、八里區",
 "county": "65000",
 "area": "01",
 "town": "210",
 "vill": "005",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":     49.7,
+"votePop":     6072,
 "candidates": [
  {
  "candNo": "1",
 "name": "洪孟楷",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":     1106,
+"disagreeTks":     1892,
+"agreeRate":    36.89,
+"disagreeRate":    63.11,
+"adptVictor": "N",
+"ytpRate":    18.21,
+"ntpRate":    31.16 
 } 
 ] 
 },
 {
  "range": "新北市 第01選區 三芝區茂長里",
-"area_nickname": "石門區、三芝區、淡水區、八里區、林口區、泰山區",
+"area_nickname": "淡水區、泰山區、林口區、三芝區、石門區、八里區",
 "county": "65000",
 "area": "01",
 "town": "210",
 "vill": "006",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    61.78,
+"votePop":      573,
 "candidates": [
  {
  "candNo": "1",
 "name": "洪孟楷",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      143,
+"disagreeTks":      210,
+"agreeRate":    40.51,
+"disagreeRate":    59.49,
+"adptVictor": "N",
+"ytpRate":    24.96,
+"ntpRate":    36.65 
 } 
 ] 
 },
 {
  "range": "新北市 第01選區 三芝區橫山里",
-"area_nickname": "石門區、三芝區、淡水區、八里區、林口區、泰山區",
+"area_nickname": "淡水區、泰山區、林口區、三芝區、石門區、八里區",
 "county": "65000",
 "area": "01",
 "town": "210",
 "vill": "007",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    55.35,
+"votePop":      430,
 "candidates": [
  {
  "candNo": "1",
 "name": "洪孟楷",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":       80,
+"disagreeTks":      157,
+"agreeRate":    33.76,
+"disagreeRate":    66.24,
+"adptVictor": "N",
+"ytpRate":     18.6,
+"ntpRate":    36.51 
 } 
 ] 
 },
 {
  "range": "新北市 第01選區 三芝區錫板里",
-"area_nickname": "石門區、三芝區、淡水區、八里區、林口區、泰山區",
+"area_nickname": "淡水區、泰山區、林口區、三芝區、石門區、八里區",
 "county": "65000",
 "area": "01",
 "town": "210",
 "vill": "008",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    59.65,
+"votePop":      575,
 "candidates": [
  {
  "candNo": "1",
 "name": "洪孟楷",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      157,
+"disagreeTks":      185,
+"agreeRate":    45.91,
+"disagreeRate":    54.09,
+"adptVictor": "N",
+"ytpRate":     27.3,
+"ntpRate":    32.17 
 } 
 ] 
 },
 {
  "range": "新北市 第01選區 三芝區後厝里",
-"area_nickname": "石門區、三芝區、淡水區、八里區、林口區、泰山區",
+"area_nickname": "淡水區、泰山區、林口區、三芝區、石門區、八里區",
 "county": "65000",
 "area": "01",
 "town": "210",
 "vill": "009",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":     51.5,
+"votePop":     2132,
 "candidates": [
  {
  "candNo": "1",
 "name": "洪孟楷",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      411,
+"disagreeTks":      679,
+"agreeRate":    37.71,
+"disagreeRate":    62.29,
+"adptVictor": "N",
+"ytpRate":    19.28,
+"ntpRate":    31.85 
 } 
 ] 
 },
 {
  "range": "新北市 第01選區 三芝區福德里",
-"area_nickname": "石門區、三芝區、淡水區、八里區、林口區、泰山區",
+"area_nickname": "淡水區、泰山區、林口區、三芝區、石門區、八里區",
 "county": "65000",
 "area": "01",
 "town": "210",
 "vill": "010",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    56.48,
+"votePop":      733,
 "candidates": [
  {
  "candNo": "1",
 "name": "洪孟楷",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      166,
+"disagreeTks":      247,
+"agreeRate":    40.19,
+"disagreeRate":    59.81,
+"adptVictor": "N",
+"ytpRate":    22.65,
+"ntpRate":     33.7 
 } 
 ] 
 },
 {
  "range": "新北市 第01選區 三芝區圓山里",
-"area_nickname": "石門區、三芝區、淡水區、八里區、林口區、泰山區",
+"area_nickname": "淡水區、泰山區、林口區、三芝區、石門區、八里區",
 "county": "65000",
 "area": "01",
 "town": "210",
 "vill": "011",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":       50,
+"votePop":      466,
 "candidates": [
  {
  "candNo": "1",
 "name": "洪孟楷",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":       78,
+"disagreeTks":      153,
+"agreeRate":    33.77,
+"disagreeRate":    66.23,
+"adptVictor": "N",
+"ytpRate":    16.74,
+"ntpRate":    32.83 
 } 
 ] 
 },
 {
  "range": "新北市 第01選區 三芝區店子里",
-"area_nickname": "石門區、三芝區、淡水區、八里區、林口區、泰山區",
+"area_nickname": "淡水區、泰山區、林口區、三芝區、石門區、八里區",
 "county": "65000",
 "area": "01",
 "town": "210",
 "vill": "012",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    49.71,
+"votePop":      513,
 "candidates": [
  {
  "candNo": "1",
 "name": "洪孟楷",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      128,
+"disagreeTks":      125,
+"agreeRate":    50.59,
+"disagreeRate":    49.41,
+"adptVictor": "N",
+"ytpRate":    24.95,
+"ntpRate":    24.37 
 } 
 ] 
 },
 {
  "range": "新北市 第01選區 三芝區興華里",
-"area_nickname": "石門區、三芝區、淡水區、八里區、林口區、泰山區",
+"area_nickname": "淡水區、泰山區、林口區、三芝區、石門區、八里區",
 "county": "65000",
 "area": "01",
 "town": "210",
 "vill": "013",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    52.52,
+"votePop":     1110,
 "candidates": [
  {
  "candNo": "1",
 "name": "洪孟楷",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      267,
+"disagreeTks":      312,
+"agreeRate":    46.11,
+"disagreeRate":    53.89,
+"adptVictor": "N",
+"ytpRate":    24.05,
+"ntpRate":    28.11 
 } 
 ] 
 },
 {
  "range": "新北市 第01選區 淡水區中和里",
-"area_nickname": "石門區、三芝區、淡水區、八里區、林口區、泰山區",
+"area_nickname": "淡水區、泰山區、林口區、三芝區、石門區、八里區",
 "county": "65000",
 "area": "01",
 "town": "100",
 "vill": "001",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    59.07,
+"votePop":      518,
 "candidates": [
  {
  "candNo": "1",
 "name": "洪孟楷",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      140,
+"disagreeTks":      163,
+"agreeRate":     46.2,
+"disagreeRate":     53.8,
+"adptVictor": "N",
+"ytpRate":    27.03,
+"ntpRate":    31.47 
 } 
 ] 
 },
 {
  "range": "新北市 第01選區 淡水區屯山里",
-"area_nickname": "石門區、三芝區、淡水區、八里區、林口區、泰山區",
+"area_nickname": "淡水區、泰山區、林口區、三芝區、石門區、八里區",
 "county": "65000",
 "area": "01",
 "town": "100",
 "vill": "002",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    55.67,
+"votePop":      900,
 "candidates": [
  {
  "candNo": "1",
 "name": "洪孟楷",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      249,
+"disagreeTks":      248,
+"agreeRate":     50.1,
+"disagreeRate":     49.9,
+"adptVictor": "N",
+"ytpRate":    27.67,
+"ntpRate":    27.56 
 } 
 ] 
 },
 {
  "range": "新北市 第01選區 淡水區賢孝里",
-"area_nickname": "石門區、三芝區、淡水區、八里區、林口區、泰山區",
+"area_nickname": "淡水區、泰山區、林口區、三芝區、石門區、八里區",
 "county": "65000",
 "area": "01",
 "town": "100",
 "vill": "003",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    51.85,
+"votePop":     1379,
 "candidates": [
  {
  "candNo": "1",
 "name": "洪孟楷",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      278,
+"disagreeTks":      430,
+"agreeRate":    39.27,
+"disagreeRate":    60.73,
+"adptVictor": "N",
+"ytpRate":    20.16,
+"ntpRate":    31.18 
 } 
 ] 
 },
 {
  "range": "新北市 第01選區 淡水區興仁里",
-"area_nickname": "石門區、三芝區、淡水區、八里區、林口區、泰山區",
+"area_nickname": "淡水區、泰山區、林口區、三芝區、石門區、八里區",
 "county": "65000",
 "area": "01",
 "town": "100",
 "vill": "004",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    50.41,
+"votePop":     1347,
 "candidates": [
  {
  "candNo": "1",
 "name": "洪孟楷",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      336,
+"disagreeTks":      342,
+"agreeRate":    49.56,
+"disagreeRate":    50.44,
+"adptVictor": "N",
+"ytpRate":    24.94,
+"ntpRate":    25.39 
 } 
 ] 
 },
 {
  "range": "新北市 第01選區 淡水區蕃薯里",
-"area_nickname": "石門區、三芝區、淡水區、八里區、林口區、泰山區",
+"area_nickname": "淡水區、泰山區、林口區、三芝區、石門區、八里區",
 "county": "65000",
 "area": "01",
 "town": "100",
 "vill": "005",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    47.55,
+"votePop":      978,
 "candidates": [
  {
  "candNo": "1",
 "name": "洪孟楷",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      193,
+"disagreeTks":      272,
+"agreeRate":    41.51,
+"disagreeRate":    58.49,
+"adptVictor": "N",
+"ytpRate":    19.73,
+"ntpRate":    27.81 
 } 
 ] 
 },
 {
  "range": "新北市 第01選區 淡水區忠山里",
-"area_nickname": "石門區、三芝區、淡水區、八里區、林口區、泰山區",
+"area_nickname": "淡水區、泰山區、林口區、三芝區、石門區、八里區",
 "county": "65000",
 "area": "01",
 "town": "100",
 "vill": "007",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":     57.2,
+"votePop":      743,
 "candidates": [
  {
  "candNo": "1",
 "name": "洪孟楷",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      178,
+"disagreeTks":      241,
+"agreeRate":    42.48,
+"disagreeRate":    57.52,
+"adptVictor": "N",
+"ytpRate":    23.96,
+"ntpRate":    32.44 
 } 
 ] 
 },
 {
  "range": "新北市 第01選區 淡水區義山里",
-"area_nickname": "石門區、三芝區、淡水區、八里區、林口區、泰山區",
+"area_nickname": "淡水區、泰山區、林口區、三芝區、石門區、八里區",
 "county": "65000",
 "area": "01",
 "town": "100",
 "vill": "006",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    53.81,
+"votePop":     2063,
 "candidates": [
  {
  "candNo": "1",
 "name": "洪孟楷",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      446,
+"disagreeTks":      660,
+"agreeRate":    40.33,
+"disagreeRate":    59.67,
+"adptVictor": "N",
+"ytpRate":    21.62,
+"ntpRate":    31.99 
 } 
 ] 
 },
 {
  "range": "新北市 第01選區 淡水區水源里",
-"area_nickname": "石門區、三芝區、淡水區、八里區、林口區、泰山區",
+"area_nickname": "淡水區、泰山區、林口區、三芝區、石門區、八里區",
 "county": "65000",
 "area": "01",
 "town": "100",
 "vill": "013",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    53.66,
+"votePop":     1860,
 "candidates": [
  {
  "candNo": "1",
 "name": "洪孟楷",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      521,
+"disagreeTks":      471,
+"agreeRate":    52.52,
+"disagreeRate":    47.48,
+"adptVictor": "N",
+"ytpRate":    28.01,
+"ntpRate":    25.32 
 } 
 ] 
 },
 {
  "range": "新北市 第01選區 淡水區忠寮里",
-"area_nickname": "石門區、三芝區、淡水區、八里區、林口區、泰山區",
+"area_nickname": "淡水區、泰山區、林口區、三芝區、石門區、八里區",
 "county": "65000",
 "area": "01",
 "town": "100",
 "vill": "014",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    57.06,
+"votePop":      978,
 "candidates": [
  {
  "candNo": "1",
 "name": "洪孟楷",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      271,
+"disagreeTks":      279,
+"agreeRate":    49.27,
+"disagreeRate":    50.73,
+"adptVictor": "N",
+"ytpRate":    27.71,
+"ntpRate":    28.53 
 } 
 ] 
 },
 {
  "range": "新北市 第01選區 淡水區樹興里",
-"area_nickname": "石門區、三芝區、淡水區、八里區、林口區、泰山區",
+"area_nickname": "淡水區、泰山區、林口區、三芝區、石門區、八里區",
 "county": "65000",
 "area": "01",
 "town": "100",
 "vill": "015",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    48.02,
+"votePop":     1664,
 "candidates": [
  {
  "candNo": "1",
 "name": "洪孟楷",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      391,
+"disagreeTks":      404,
+"agreeRate":    49.18,
+"disagreeRate":    50.82,
+"adptVictor": "N",
+"ytpRate":     23.5,
+"ntpRate":    24.28 
 } 
 ] 
 },
 {
  "range": "新北市 第01選區 淡水區坪頂里",
-"area_nickname": "石門區、三芝區、淡水區、八里區、林口區、泰山區",
+"area_nickname": "淡水區、泰山區、林口區、三芝區、石門區、八里區",
 "county": "65000",
 "area": "01",
 "town": "100",
 "vill": "016",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    53.44,
+"votePop":     1280,
 "candidates": [
  {
  "candNo": "1",
 "name": "洪孟楷",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      329,
+"disagreeTks":      352,
+"agreeRate":    48.31,
+"disagreeRate":    51.69,
+"adptVictor": "N",
+"ytpRate":     25.7,
+"ntpRate":     27.5 
 } 
 ] 
 },
 {
  "range": "新北市 第01選區 淡水區福德里",
-"area_nickname": "石門區、三芝區、淡水區、八里區、林口區、泰山區",
+"area_nickname": "淡水區、泰山區、林口區、三芝區、石門區、八里區",
 "county": "65000",
 "area": "01",
 "town": "100",
 "vill": "017",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    57.98,
+"votePop":     6376,
 "candidates": [
  {
  "candNo": "1",
 "name": "洪孟楷",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":     1526,
+"disagreeTks":     2154,
+"agreeRate":    41.47,
+"disagreeRate":    58.53,
+"adptVictor": "N",
+"ytpRate":    23.93,
+"ntpRate":    33.78 
 } 
 ] 
 },
 {
  "range": "新北市 第01選區 淡水區竹圍里",
-"area_nickname": "石門區、三芝區、淡水區、八里區、林口區、泰山區",
+"area_nickname": "淡水區、泰山區、林口區、三芝區、石門區、八里區",
 "county": "65000",
 "area": "01",
 "town": "100",
 "vill": "018",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    56.82,
+"votePop":     5577,
 "candidates": [
  {
  "candNo": "1",
 "name": "洪孟楷",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":     1311,
+"disagreeTks":     1847,
+"agreeRate":    41.51,
+"disagreeRate":    58.49,
+"adptVictor": "N",
+"ytpRate":    23.51,
+"ntpRate":    33.12 
 } 
 ] 
 },
 {
  "range": "新北市 第01選區 淡水區民權里",
-"area_nickname": "石門區、三芝區、淡水區、八里區、林口區、泰山區",
+"area_nickname": "淡水區、泰山區、林口區、三芝區、石門區、八里區",
 "county": "65000",
 "area": "01",
 "town": "100",
 "vill": "039",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    60.19,
+"votePop":     4423,
 "candidates": [
  {
  "candNo": "1",
 "name": "洪孟楷",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":     1226,
+"disagreeTks":     1418,
+"agreeRate":    46.37,
+"disagreeRate":    53.63,
+"adptVictor": "N",
+"ytpRate":    27.72,
+"ntpRate":    32.06 
 } 
 ] 
 },
 {
  "range": "新北市 第01選區 淡水區民生里",
-"area_nickname": "石門區、三芝區、淡水區、八里區、林口區、泰山區",
+"area_nickname": "淡水區、泰山區、林口區、三芝區、石門區、八里區",
 "county": "65000",
 "area": "01",
 "town": "100",
 "vill": "019",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    55.71,
+"votePop":     6588,
 "candidates": [
  {
  "candNo": "1",
 "name": "洪孟楷",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":     1606,
+"disagreeTks":     2036,
+"agreeRate":     44.1,
+"disagreeRate":     55.9,
+"adptVictor": "N",
+"ytpRate":    24.38,
+"ntpRate":     30.9 
 } 
 ] 
 },
 {
  "range": "新北市 第01選區 淡水區八勢里",
-"area_nickname": "石門區、三芝區、淡水區、八里區、林口區、泰山區",
+"area_nickname": "淡水區、泰山區、林口區、三芝區、石門區、八里區",
 "county": "65000",
 "area": "01",
 "town": "100",
 "vill": "020",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    52.64,
+"votePop":     7300,
 "candidates": [
  {
  "candNo": "1",
 "name": "洪孟楷",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":     1814,
+"disagreeTks":     2003,
+"agreeRate":    47.52,
+"disagreeRate":    52.48,
+"adptVictor": "N",
+"ytpRate":    24.85,
+"ntpRate":    27.44 
 } 
 ] 
 },
 {
  "range": "新北市 第01選區 淡水區竿蓁里",
-"area_nickname": "石門區、三芝區、淡水區、八里區、林口區、泰山區",
+"area_nickname": "淡水區、泰山區、林口區、三芝區、石門區、八里區",
 "county": "65000",
 "area": "01",
 "town": "100",
 "vill": "021",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    52.68,
+"votePop":    11094,
 "candidates": [
  {
  "candNo": "1",
 "name": "洪孟楷",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":     2462,
+"disagreeTks":     3355,
+"agreeRate":    42.32,
+"disagreeRate":    57.68,
+"adptVictor": "N",
+"ytpRate":    22.19,
+"ntpRate":    30.24 
 } 
 ] 
 },
 {
  "range": "新北市 第01選區 淡水區崁頂里",
-"area_nickname": "石門區、三芝區、淡水區、八里區、林口區、泰山區",
+"area_nickname": "淡水區、泰山區、林口區、三芝區、石門區、八里區",
 "county": "65000",
 "area": "01",
 "town": "100",
 "vill": "008",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    50.35,
+"votePop":    25881,
 "candidates": [
  {
  "candNo": "1",
 "name": "洪孟楷",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":     5357,
+"disagreeTks":     7598,
+"agreeRate":    41.35,
+"disagreeRate":    58.65,
+"adptVictor": "N",
+"ytpRate":     20.7,
+"ntpRate":    29.36 
 } 
 ] 
 },
 {
  "range": "新北市 第01選區 淡水區埤島里",
-"area_nickname": "石門區、三芝區、淡水區、八里區、林口區、泰山區",
+"area_nickname": "淡水區、泰山區、林口區、三芝區、石門區、八里區",
 "county": "65000",
 "area": "01",
 "town": "100",
 "vill": "009",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":     54.2,
+"votePop":     1858,
 "candidates": [
  {
  "candNo": "1",
 "name": "洪孟楷",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      444,
+"disagreeTks":      558,
+"agreeRate":    44.31,
+"disagreeRate":    55.69,
+"adptVictor": "N",
+"ytpRate":     23.9,
+"ntpRate":    30.03 
 } 
 ] 
 },
 {
  "range": "新北市 第01選區 淡水區水碓里",
-"area_nickname": "石門區、三芝區、淡水區、八里區、林口區、泰山區",
+"area_nickname": "淡水區、泰山區、林口區、三芝區、石門區、八里區",
 "county": "65000",
 "area": "01",
 "town": "100",
 "vill": "011",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":       54,
+"votePop":     4963,
 "candidates": [
  {
  "candNo": "1",
 "name": "洪孟楷",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":     1250,
+"disagreeTks":     1416,
+"agreeRate":    46.89,
+"disagreeRate":    53.11,
+"adptVictor": "N",
+"ytpRate":    25.19,
+"ntpRate":    28.53 
 } 
 ] 
 },
 {
  "range": "新北市 第01選區 淡水區北新里",
-"area_nickname": "石門區、三芝區、淡水區、八里區、林口區、泰山區",
+"area_nickname": "淡水區、泰山區、林口區、三芝區、石門區、八里區",
 "county": "65000",
 "area": "01",
 "town": "100",
 "vill": "038",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    50.95,
+"votePop":     2793,
 "candidates": [
  {
  "candNo": "1",
 "name": "洪孟楷",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      603,
+"disagreeTks":      814,
+"agreeRate":    42.55,
+"disagreeRate":    57.45,
+"adptVictor": "N",
+"ytpRate":    21.59,
+"ntpRate":    29.14 
 } 
 ] 
 },
 {
  "range": "新北市 第01選區 淡水區正德里",
-"area_nickname": "石門區、三芝區、淡水區、八里區、林口區、泰山區",
+"area_nickname": "淡水區、泰山區、林口區、三芝區、石門區、八里區",
 "county": "65000",
 "area": "01",
 "town": "100",
 "vill": "037",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    55.39,
+"votePop":     4268,
 "candidates": [
  {
  "candNo": "1",
 "name": "洪孟楷",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      995,
+"disagreeTks":     1357,
+"agreeRate":     42.3,
+"disagreeRate":     57.7,
+"adptVictor": "N",
+"ytpRate":    23.31,
+"ntpRate":    31.79 
 } 
 ] 
 },
 {
  "range": "新北市 第01選區 淡水區新興里",
-"area_nickname": "石門區、三芝區、淡水區、八里區、林口區、泰山區",
+"area_nickname": "淡水區、泰山區、林口區、三芝區、石門區、八里區",
 "county": "65000",
 "area": "01",
 "town": "100",
 "vill": "010",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    54.16,
+"votePop":     6593,
 "candidates": [
  {
  "candNo": "1",
 "name": "洪孟楷",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":     1505,
+"disagreeTks":     2038,
+"agreeRate":    42.48,
+"disagreeRate":    57.52,
+"adptVictor": "N",
+"ytpRate":    22.83,
+"ntpRate":    30.91 
 } 
 ] 
 },
 {
  "range": "新北市 第01選區 淡水區新義里",
-"area_nickname": "石門區、三芝區、淡水區、八里區、林口區、泰山區",
+"area_nickname": "淡水區、泰山區、林口區、三芝區、石門區、八里區",
 "county": "65000",
 "area": "01",
 "town": "100",
 "vill": "034",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    53.85,
+"votePop":     3465,
 "candidates": [
  {
  "candNo": "1",
 "name": "洪孟楷",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      865,
+"disagreeTks":      991,
+"agreeRate":    46.61,
+"disagreeRate":    53.39,
+"adptVictor": "N",
+"ytpRate":    24.96,
+"ntpRate":     28.6 
 } 
 ] 
 },
 {
  "range": "新北市 第01選區 淡水區新春里",
-"area_nickname": "石門區、三芝區、淡水區、八里區、林口區、泰山區",
+"area_nickname": "淡水區、泰山區、林口區、三芝區、石門區、八里區",
 "county": "65000",
 "area": "01",
 "town": "100",
 "vill": "035",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    52.34,
+"votePop":     8519,
 "candidates": [
  {
  "candNo": "1",
 "name": "洪孟楷",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":     1921,
+"disagreeTks":     2527,
+"agreeRate":    43.19,
+"disagreeRate":    56.81,
+"adptVictor": "N",
+"ytpRate":    22.55,
+"ntpRate":    29.66 
 } 
 ] 
 },
 {
  "range": "新北市 第01選區 淡水區新民里",
-"area_nickname": "石門區、三芝區、淡水區、八里區、林口區、泰山區",
+"area_nickname": "淡水區、泰山區、林口區、三芝區、石門區、八里區",
 "county": "65000",
 "area": "01",
 "town": "100",
 "vill": "036",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    55.15,
+"votePop":     4288,
 "candidates": [
  {
  "candNo": "1",
 "name": "洪孟楷",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":     1008,
+"disagreeTks":     1343,
+"agreeRate":    42.88,
+"disagreeRate":    57.12,
+"adptVictor": "N",
+"ytpRate":    23.51,
+"ntpRate":    31.32 
 } 
 ] 
 },
 {
  "range": "新北市 第01選區 淡水區北投里",
-"area_nickname": "石門區、三芝區、淡水區、八里區、林口區、泰山區",
+"area_nickname": "淡水區、泰山區、林口區、三芝區、石門區、八里區",
 "county": "65000",
 "area": "01",
 "town": "100",
 "vill": "012",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":     54.5,
+"votePop":     9791,
 "candidates": [
  {
  "candNo": "1",
 "name": "洪孟楷",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":     2192,
+"disagreeTks":     3112,
+"agreeRate":    41.33,
+"disagreeRate":    58.67,
+"adptVictor": "N",
+"ytpRate":    22.39,
+"ntpRate":    31.78 
 } 
 ] 
 },
 {
  "range": "新北市 第01選區 淡水區鄧公里",
-"area_nickname": "石門區、三芝區、淡水區、八里區、林口區、泰山區",
+"area_nickname": "淡水區、泰山區、林口區、三芝區、石門區、八里區",
 "county": "65000",
 "area": "01",
 "town": "100",
 "vill": "022",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    56.89,
+"votePop":     5337,
 "candidates": [
  {
  "candNo": "1",
 "name": "洪孟楷",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":     1310,
+"disagreeTks":     1718,
+"agreeRate":    43.26,
+"disagreeRate":    56.74,
+"adptVictor": "N",
+"ytpRate":    24.55,
+"ntpRate":    32.19 
 } 
 ] 
 },
 {
  "range": "新北市 第01選區 淡水區幸福里",
-"area_nickname": "石門區、三芝區、淡水區、八里區、林口區、泰山區",
+"area_nickname": "淡水區、泰山區、林口區、三芝區、石門區、八里區",
 "county": "65000",
 "area": "01",
 "town": "100",
 "vill": "040",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    55.13,
+"votePop":     3238,
 "candidates": [
  {
  "candNo": "1",
 "name": "洪孟楷",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      817,
+"disagreeTks":      956,
+"agreeRate":    46.08,
+"disagreeRate":    53.92,
+"adptVictor": "N",
+"ytpRate":    25.23,
+"ntpRate":    29.52 
 } 
 ] 
 },
 {
  "range": "新北市 第01選區 淡水區學府里",
-"area_nickname": "石門區、三芝區、淡水區、八里區、林口區、泰山區",
+"area_nickname": "淡水區、泰山區、林口區、三芝區、石門區、八里區",
 "county": "65000",
 "area": "01",
 "town": "100",
 "vill": "041",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":     50.2,
+"votePop":     4273,
 "candidates": [
  {
  "candNo": "1",
 "name": "洪孟楷",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      891,
+"disagreeTks":     1247,
+"agreeRate":    41.67,
+"disagreeRate":    58.33,
+"adptVictor": "N",
+"ytpRate":    20.85,
+"ntpRate":    29.18 
 } 
 ] 
 },
 {
  "range": "新北市 第01選區 淡水區中興里",
-"area_nickname": "石門區、三芝區、淡水區、八里區、林口區、泰山區",
+"area_nickname": "淡水區、泰山區、林口區、三芝區、石門區、八里區",
 "county": "65000",
 "area": "01",
 "town": "100",
 "vill": "023",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    52.51,
+"votePop":     3567,
 "candidates": [
  {
  "candNo": "1",
 "name": "洪孟楷",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      830,
+"disagreeTks":     1033,
+"agreeRate":    44.55,
+"disagreeRate":    55.45,
+"adptVictor": "N",
+"ytpRate":    23.27,
+"ntpRate":    28.96 
 } 
 ] 
 },
 {
  "range": "新北市 第01選區 淡水區長庚里",
-"area_nickname": "石門區、三芝區、淡水區、八里區、林口區、泰山區",
+"area_nickname": "淡水區、泰山區、林口區、三芝區、石門區、八里區",
 "county": "65000",
 "area": "01",
 "town": "100",
 "vill": "024",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    60.82,
+"votePop":     1238,
 "candidates": [
  {
  "candNo": "1",
 "name": "洪孟楷",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      325,
+"disagreeTks":      427,
+"agreeRate":    43.22,
+"disagreeRate":    56.78,
+"adptVictor": "N",
+"ytpRate":    26.25,
+"ntpRate":    34.49 
 } 
 ] 
 },
 {
  "range": "新北市 第01選區 淡水區清文里",
-"area_nickname": "石門區、三芝區、淡水區、八里區、林口區、泰山區",
+"area_nickname": "淡水區、泰山區、林口區、三芝區、石門區、八里區",
 "county": "65000",
 "area": "01",
 "town": "100",
 "vill": "025",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    57.14,
+"votePop":     1008,
 "candidates": [
  {
  "candNo": "1",
 "name": "洪孟楷",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      278,
+"disagreeTks":      293,
+"agreeRate":    48.69,
+"disagreeRate":    51.31,
+"adptVictor": "N",
+"ytpRate":    27.58,
+"ntpRate":    29.07 
 } 
 ] 
 },
 {
  "range": "新北市 第01選區 淡水區草東里",
-"area_nickname": "石門區、三芝區、淡水區、八里區、林口區、泰山區",
+"area_nickname": "淡水區、泰山區、林口區、三芝區、石門區、八里區",
 "county": "65000",
 "area": "01",
 "town": "100",
 "vill": "026",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    60.22,
+"votePop":      636,
 "candidates": [
  {
  "candNo": "1",
 "name": "洪孟楷",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      196,
+"disagreeTks":      185,
+"agreeRate":    51.44,
+"disagreeRate":    48.56,
+"adptVictor": "N",
+"ytpRate":    30.82,
+"ntpRate":    29.09 
 } 
 ] 
 },
 {
  "range": "新北市 第01選區 淡水區協元里",
-"area_nickname": "石門區、三芝區、淡水區、八里區、林口區、泰山區",
+"area_nickname": "淡水區、泰山區、林口區、三芝區、石門區、八里區",
 "county": "65000",
 "area": "01",
 "town": "100",
 "vill": "027",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    54.91,
+"votePop":     1231,
 "candidates": [
  {
  "candNo": "1",
 "name": "洪孟楷",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      345,
+"disagreeTks":      325,
+"agreeRate":    51.49,
+"disagreeRate":    48.51,
+"adptVictor": "N",
+"ytpRate":    28.03,
+"ntpRate":     26.4 
 } 
 ] 
 },
 {
  "range": "新北市 第01選區 淡水區永吉里",
-"area_nickname": "石門區、三芝區、淡水區、八里區、林口區、泰山區",
+"area_nickname": "淡水區、泰山區、林口區、三芝區、石門區、八里區",
 "county": "65000",
 "area": "01",
 "town": "100",
 "vill": "028",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    58.63,
+"votePop":      759,
 "candidates": [
  {
  "candNo": "1",
 "name": "洪孟楷",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      206,
+"disagreeTks":      236,
+"agreeRate":    46.61,
+"disagreeRate":    53.39,
+"adptVictor": "N",
+"ytpRate":    27.14,
+"ntpRate":    31.09 
 } 
 ] 
 },
 {
  "range": "新北市 第01選區 淡水區民安里",
-"area_nickname": "石門區、三芝區、淡水區、八里區、林口區、泰山區",
+"area_nickname": "淡水區、泰山區、林口區、三芝區、石門區、八里區",
 "county": "65000",
 "area": "01",
 "town": "100",
 "vill": "029",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    58.55,
+"votePop":      579,
 "candidates": [
  {
  "candNo": "1",
 "name": "洪孟楷",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      184,
+"disagreeTks":      153,
+"agreeRate":     54.6,
+"disagreeRate":     45.4,
+"adptVictor": "N",
+"ytpRate":    31.78,
+"ntpRate":    26.42 
 } 
 ] 
 },
 {
  "range": "新北市 第01選區 淡水區新生里",
-"area_nickname": "石門區、三芝區、淡水區、八里區、林口區、泰山區",
+"area_nickname": "淡水區、泰山區、林口區、三芝區、石門區、八里區",
 "county": "65000",
 "area": "01",
 "town": "100",
 "vill": "030",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    58.76,
+"votePop":      388,
 "candidates": [
  {
  "candNo": "1",
 "name": "洪孟楷",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      109,
+"disagreeTks":      119,
+"agreeRate":    47.81,
+"disagreeRate":    52.19,
+"adptVictor": "N",
+"ytpRate":    28.09,
+"ntpRate":    30.67 
 } 
 ] 
 },
 {
  "range": "新北市 第01選區 淡水區文化里",
-"area_nickname": "石門區、三芝區、淡水區、八里區、林口區、泰山區",
+"area_nickname": "淡水區、泰山區、林口區、三芝區、石門區、八里區",
 "county": "65000",
 "area": "01",
 "town": "100",
 "vill": "031",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    56.49,
+"votePop":     1533,
 "candidates": [
  {
  "candNo": "1",
 "name": "洪孟楷",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      331,
+"disagreeTks":      533,
+"agreeRate":    38.31,
+"disagreeRate":    61.69,
+"adptVictor": "N",
+"ytpRate":    21.59,
+"ntpRate":    34.77 
 } 
 ] 
 },
 {
  "range": "新北市 第01選區 淡水區油車里",
-"area_nickname": "石門區、三芝區、淡水區、八里區、林口區、泰山區",
+"area_nickname": "淡水區、泰山區、林口區、三芝區、石門區、八里區",
 "county": "65000",
 "area": "01",
 "town": "100",
 "vill": "032",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    56.65,
+"votePop":     4830,
 "candidates": [
  {
  "candNo": "1",
 "name": "洪孟楷",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":     1170,
+"disagreeTks":     1544,
+"agreeRate":    43.11,
+"disagreeRate":    56.89,
+"adptVictor": "N",
+"ytpRate":    24.22,
+"ntpRate":    31.97 
 } 
 ] 
 },
 {
  "range": "新北市 第01選區 淡水區沙崙里",
-"area_nickname": "石門區、三芝區、淡水區、八里區、林口區、泰山區",
+"area_nickname": "淡水區、泰山區、林口區、三芝區、石門區、八里區",
 "county": "65000",
 "area": "01",
 "town": "100",
 "vill": "033",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    50.29,
+"votePop":     4981,
 "candidates": [
  {
  "candNo": "1",
 "name": "洪孟楷",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      979,
+"disagreeTks":     1516,
+"agreeRate":    39.24,
+"disagreeRate":    60.76,
+"adptVictor": "N",
+"ytpRate":    19.65,
+"ntpRate":    30.44 
 } 
 ] 
 },
 {
  "range": "新北市 第01選區 淡水區大庄里",
-"area_nickname": "石門區、三芝區、淡水區、八里區、林口區、泰山區",
+"area_nickname": "淡水區、泰山區、林口區、三芝區、石門區、八里區",
 "county": "65000",
 "area": "01",
 "town": "100",
 "vill": "042",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    53.63,
+"votePop":    11747,
 "candidates": [
  {
  "candNo": "1",
 "name": "洪孟楷",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":     2445,
+"disagreeTks":     3811,
+"agreeRate":    39.08,
+"disagreeRate":    60.92,
+"adptVictor": "N",
+"ytpRate":    20.81,
+"ntpRate":    32.44 
 } 
 ] 
 },
 {
  "range": "新北市 第01選區 八里區龍源里",
-"area_nickname": "石門區、三芝區、淡水區、八里區、林口區、泰山區",
+"area_nickname": "淡水區、泰山區、林口區、三芝區、石門區、八里區",
 "county": "65000",
 "area": "01",
 "town": "230",
 "vill": "001",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":     54.9,
+"votePop":     7086,
 "candidates": [
  {
  "candNo": "1",
 "name": "洪孟楷",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":     1720,
+"disagreeTks":     2150,
+"agreeRate":    44.44,
+"disagreeRate":    55.56,
+"adptVictor": "N",
+"ytpRate":    24.27,
+"ntpRate":    30.34 
 } 
 ] 
 },
 {
  "range": "新北市 第01選區 八里區米倉里",
-"area_nickname": "石門區、三芝區、淡水區、八里區、林口區、泰山區",
+"area_nickname": "淡水區、泰山區、林口區、三芝區、石門區、八里區",
 "county": "65000",
 "area": "01",
 "town": "230",
 "vill": "002",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    51.81,
+"votePop":     3501,
 "candidates": [
  {
  "candNo": "1",
 "name": "洪孟楷",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      785,
+"disagreeTks":     1022,
+"agreeRate":    43.44,
+"disagreeRate":    56.56,
+"adptVictor": "N",
+"ytpRate":    22.42,
+"ntpRate":    29.19 
 } 
 ] 
 },
 {
  "range": "新北市 第01選區 八里區大崁里",
-"area_nickname": "石門區、三芝區、淡水區、八里區、林口區、泰山區",
+"area_nickname": "淡水區、泰山區、林口區、三芝區、石門區、八里區",
 "county": "65000",
 "area": "01",
 "town": "230",
 "vill": "003",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    54.37,
+"votePop":     3259,
 "candidates": [
  {
  "candNo": "1",
 "name": "洪孟楷",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      823,
+"disagreeTks":      943,
+"agreeRate":     46.6,
+"disagreeRate":     53.4,
+"adptVictor": "N",
+"ytpRate":    25.25,
+"ntpRate":    28.94 
 } 
 ] 
 },
 {
  "range": "新北市 第01選區 八里區埤頭里",
-"area_nickname": "石門區、三芝區、淡水區、八里區、林口區、泰山區",
+"area_nickname": "淡水區、泰山區、林口區、三芝區、石門區、八里區",
 "county": "65000",
 "area": "01",
 "town": "230",
 "vill": "004",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":       52,
+"votePop":     4340,
 "candidates": [
  {
  "candNo": "1",
 "name": "洪孟楷",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":     1057,
+"disagreeTks":     1183,
+"agreeRate":    47.19,
+"disagreeRate":    52.81,
+"adptVictor": "N",
+"ytpRate":    24.35,
+"ntpRate":    27.26 
 } 
 ] 
 },
 {
  "range": "新北市 第01選區 八里區頂罟里",
-"area_nickname": "石門區、三芝區、淡水區、八里區、林口區、泰山區",
+"area_nickname": "淡水區、泰山區、林口區、三芝區、石門區、八里區",
 "county": "65000",
 "area": "01",
 "town": "230",
 "vill": "005",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    48.52,
+"votePop":     2195,
 "candidates": [
  {
  "candNo": "1",
 "name": "洪孟楷",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      476,
+"disagreeTks":      587,
+"agreeRate":    44.78,
+"disagreeRate":    55.22,
+"adptVictor": "N",
+"ytpRate":    21.69,
+"ntpRate":    26.74 
 } 
 ] 
 },
 {
  "range": "新北市 第01選區 八里區舊城里",
-"area_nickname": "石門區、三芝區、淡水區、八里區、林口區、泰山區",
+"area_nickname": "淡水區、泰山區、林口區、三芝區、石門區、八里區",
 "county": "65000",
 "area": "01",
 "town": "230",
 "vill": "006",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    51.67,
+"votePop":     6309,
 "candidates": [
  {
  "candNo": "1",
 "name": "洪孟楷",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":     1400,
+"disagreeTks":     1836,
+"agreeRate":    43.26,
+"disagreeRate":    56.74,
+"adptVictor": "N",
+"ytpRate":    22.19,
+"ntpRate":     29.1 
 } 
 ] 
 },
 {
  "range": "新北市 第01選區 八里區訊塘里",
-"area_nickname": "石門區、三芝區、淡水區、八里區、林口區、泰山區",
+"area_nickname": "淡水區、泰山區、林口區、三芝區、石門區、八里區",
 "county": "65000",
 "area": "01",
 "town": "230",
 "vill": "007",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    52.47,
+"votePop":     5220,
 "candidates": [
  {
  "candNo": "1",
 "name": "洪孟楷",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":     1099,
+"disagreeTks":     1622,
+"agreeRate":    40.39,
+"disagreeRate":    59.61,
+"adptVictor": "N",
+"ytpRate":    21.05,
+"ntpRate":    31.07 
 } 
 ] 
 },
 {
  "range": "新北市 第01選區 八里區荖阡里",
-"area_nickname": "石門區、三芝區、淡水區、八里區、林口區、泰山區",
+"area_nickname": "淡水區、泰山區、林口區、三芝區、石門區、八里區",
 "county": "65000",
 "area": "01",
 "town": "230",
 "vill": "008",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    50.46,
+"votePop":     1520,
 "candidates": [
  {
  "candNo": "1",
 "name": "洪孟楷",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      346,
+"disagreeTks":      420,
+"agreeRate":    45.17,
+"disagreeRate":    54.83,
+"adptVictor": "N",
+"ytpRate":    22.76,
+"ntpRate":    27.63 
 } 
 ] 
 },
 {
  "range": "新北市 第01選區 八里區長坑里",
-"area_nickname": "石門區、三芝區、淡水區、八里區、林口區、泰山區",
+"area_nickname": "淡水區、泰山區、林口區、三芝區、石門區、八里區",
 "county": "65000",
 "area": "01",
 "town": "230",
 "vill": "009",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    52.81,
+"votePop":     1388,
 "candidates": [
  {
  "candNo": "1",
 "name": "洪孟楷",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      283,
+"disagreeTks":      446,
+"agreeRate":    38.82,
+"disagreeRate":    61.18,
+"adptVictor": "N",
+"ytpRate":    20.39,
+"ntpRate":    32.13 
 } 
 ] 
 },
 {
  "range": "新北市 第01選區 八里區下罟里",
-"area_nickname": "石門區、三芝區、淡水區、八里區、林口區、泰山區",
+"area_nickname": "淡水區、泰山區、林口區、三芝區、石門區、八里區",
 "county": "65000",
 "area": "01",
 "town": "230",
 "vill": "010",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":       57,
+"votePop":     1393,
 "candidates": [
  {
  "candNo": "1",
 "name": "洪孟楷",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      246,
+"disagreeTks":      542,
+"agreeRate":    31.22,
+"disagreeRate":    68.78,
+"adptVictor": "N",
+"ytpRate":    17.66,
+"ntpRate":    38.91 
 } 
 ] 
 },
 {
  "range": "新北市 第01選區 林口區東林里",
-"area_nickname": "石門區、三芝區、淡水區、八里區、林口區、泰山區",
+"area_nickname": "淡水區、泰山區、林口區、三芝區、石門區、八里區",
 "county": "65000",
 "area": "01",
 "town": "170",
 "vill": "001",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    52.23,
+"votePop":     3182,
 "candidates": [
  {
  "candNo": "1",
 "name": "洪孟楷",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      840,
+"disagreeTks":      807,
+"agreeRate":       51,
+"disagreeRate":       49,
+"adptVictor": "N",
+"ytpRate":     26.4,
+"ntpRate":    25.36 
 } 
 ] 
 },
 {
  "range": "新北市 第01選區 林口區林口里",
-"area_nickname": "石門區、三芝區、淡水區、八里區、林口區、泰山區",
+"area_nickname": "淡水區、泰山區、林口區、三芝區、石門區、八里區",
 "county": "65000",
 "area": "01",
 "town": "170",
 "vill": "002",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    51.31,
+"votePop":     4765,
 "candidates": [
  {
  "candNo": "1",
 "name": "洪孟楷",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":     1115,
+"disagreeTks":     1311,
+"agreeRate":    45.96,
+"disagreeRate":    54.04,
+"adptVictor": "N",
+"ytpRate":     23.4,
+"ntpRate":    27.51 
 } 
 ] 
 },
 {
  "range": "新北市 第01選區 林口區西林里",
-"area_nickname": "石門區、三芝區、淡水區、八里區、林口區、泰山區",
+"area_nickname": "淡水區、泰山區、林口區、三芝區、石門區、八里區",
 "county": "65000",
 "area": "01",
 "town": "170",
 "vill": "003",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    53.37,
+"votePop":     9732,
 "candidates": [
  {
  "candNo": "1",
 "name": "洪孟楷",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":     2303,
+"disagreeTks":     2860,
+"agreeRate":    44.61,
+"disagreeRate":    55.39,
+"adptVictor": "N",
+"ytpRate":    23.66,
+"ntpRate":    29.39 
 } 
 ] 
 },
 {
  "range": "新北市 第01選區 林口區菁湖里",
-"area_nickname": "石門區、三芝區、淡水區、八里區、林口區、泰山區",
+"area_nickname": "淡水區、泰山區、林口區、三芝區、石門區、八里區",
 "county": "65000",
 "area": "01",
 "town": "170",
 "vill": "004",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    58.82,
+"votePop":     3572,
 "candidates": [
  {
  "candNo": "1",
 "name": "洪孟楷",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":     1073,
+"disagreeTks":     1008,
+"agreeRate":    51.56,
+"disagreeRate":    48.44,
+"adptVictor": "N",
+"ytpRate":    30.04,
+"ntpRate":    28.22 
 } 
 ] 
 },
 {
  "range": "新北市 第01選區 林口區中湖里",
-"area_nickname": "石門區、三芝區、淡水區、八里區、林口區、泰山區",
+"area_nickname": "淡水區、泰山區、林口區、三芝區、石門區、八里區",
 "county": "65000",
 "area": "01",
 "town": "170",
 "vill": "005",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    51.31,
+"votePop":     4668,
 "candidates": [
  {
  "candNo": "1",
 "name": "洪孟楷",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":     1204,
+"disagreeTks":     1185,
+"agreeRate":     50.4,
+"disagreeRate":     49.6,
+"adptVictor": "N",
+"ytpRate":    25.79,
+"ntpRate":    25.39 
 } 
 ] 
 },
 {
  "range": "新北市 第01選區 林口區湖北里",
-"area_nickname": "石門區、三芝區、淡水區、八里區、林口區、泰山區",
+"area_nickname": "淡水區、泰山區、林口區、三芝區、石門區、八里區",
 "county": "65000",
 "area": "01",
 "town": "170",
 "vill": "006",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    60.25,
+"votePop":     1220,
 "candidates": [
  {
  "candNo": "1",
 "name": "洪孟楷",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      416,
+"disagreeTks":      314,
+"agreeRate":    56.99,
+"disagreeRate":    43.01,
+"adptVictor": "N",
+"ytpRate":     34.1,
+"ntpRate":    25.74 
 } 
 ] 
 },
 {
  "range": "新北市 第01選區 林口區湖南里",
-"area_nickname": "石門區、三芝區、淡水區、八里區、林口區、泰山區",
+"area_nickname": "淡水區、泰山區、林口區、三芝區、石門區、八里區",
 "county": "65000",
 "area": "01",
 "town": "170",
 "vill": "007",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    53.93,
+"votePop":    23660,
 "candidates": [
  {
  "candNo": "1",
 "name": "洪孟楷",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":     5464,
+"disagreeTks":     7249,
+"agreeRate":    42.98,
+"disagreeRate":    57.02,
+"adptVictor": "N",
+"ytpRate":    23.09,
+"ntpRate":    30.64 
 } 
 ] 
 },
 {
  "range": "新北市 第01選區 林口區南勢里",
-"area_nickname": "石門區、三芝區、淡水區、八里區、林口區、泰山區",
+"area_nickname": "淡水區、泰山區、林口區、三芝區、石門區、八里區",
 "county": "65000",
 "area": "01",
 "town": "170",
 "vill": "008",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    54.04,
+"votePop":    25651,
 "candidates": [
  {
  "candNo": "1",
 "name": "洪孟楷",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":     6129,
+"disagreeTks":     7681,
+"agreeRate":    44.38,
+"disagreeRate":    55.62,
+"adptVictor": "N",
+"ytpRate":    23.89,
+"ntpRate":    29.94 
 } 
 ] 
 },
 {
  "range": "新北市 第01選區 林口區仁愛里",
-"area_nickname": "石門區、三芝區、淡水區、八里區、林口區、泰山區",
+"area_nickname": "淡水區、泰山區、林口區、三芝區、石門區、八里區",
 "county": "65000",
 "area": "01",
 "town": "170",
 "vill": "015",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    54.24,
+"votePop":     5944,
 "candidates": [
  {
  "candNo": "1",
 "name": "洪孟楷",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":     1308,
+"disagreeTks":     1910,
+"agreeRate":    40.65,
+"disagreeRate":    59.35,
+"adptVictor": "N",
+"ytpRate":    22.01,
+"ntpRate":    32.13 
 } 
 ] 
 },
 {
  "range": "新北市 第01選區 林口區麗林里",
-"area_nickname": "石門區、三芝區、淡水區、八里區、林口區、泰山區",
+"area_nickname": "淡水區、泰山區、林口區、三芝區、石門區、八里區",
 "county": "65000",
 "area": "01",
 "town": "170",
 "vill": "016",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    54.72,
+"votePop":     7606,
 "candidates": [
  {
  "candNo": "1",
 "name": "洪孟楷",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":     1627,
+"disagreeTks":     2508,
+"agreeRate":    39.35,
+"disagreeRate":    60.65,
+"adptVictor": "N",
+"ytpRate":    21.39,
+"ntpRate":    32.97 
 } 
 ] 
 },
 {
  "range": "新北市 第01選區 林口區東勢里",
-"area_nickname": "石門區、三芝區、淡水區、八里區、林口區、泰山區",
+"area_nickname": "淡水區、泰山區、林口區、三芝區、石門區、八里區",
 "county": "65000",
 "area": "01",
 "town": "170",
 "vill": "009",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":     57.1,
+"votePop":     5975,
 "candidates": [
  {
  "candNo": "1",
 "name": "洪孟楷",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":     1465,
+"disagreeTks":     1937,
+"agreeRate":    43.06,
+"disagreeRate":    56.94,
+"adptVictor": "N",
+"ytpRate":    24.52,
+"ntpRate":    32.42 
 } 
 ] 
 },
 {
  "range": "新北市 第01選區 林口區麗園里",
-"area_nickname": "石門區、三芝區、淡水區、八里區、林口區、泰山區",
+"area_nickname": "淡水區、泰山區、林口區、三芝區、石門區、八里區",
 "county": "65000",
 "area": "01",
 "town": "170",
 "vill": "017",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    58.54,
+"votePop":     3396,
 "candidates": [
  {
  "candNo": "1",
 "name": "洪孟楷",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      882,
+"disagreeTks":     1093,
+"agreeRate":    44.66,
+"disagreeRate":    55.34,
+"adptVictor": "N",
+"ytpRate":    25.97,
+"ntpRate":    32.18 
 } 
 ] 
 },
 {
  "range": "新北市 第01選區 林口區頂福里",
-"area_nickname": "石門區、三芝區、淡水區、八里區、林口區、泰山區",
+"area_nickname": "淡水區、泰山區、林口區、三芝區、石門區、八里區",
 "county": "65000",
 "area": "01",
 "town": "170",
 "vill": "010",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    48.61,
+"votePop":      901,
 "candidates": [
  {
  "candNo": "1",
 "name": "洪孟楷",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      271,
+"disagreeTks":      167,
+"agreeRate":    61.87,
+"disagreeRate":    38.13,
+"adptVictor": "N",
+"ytpRate":    30.08,
+"ntpRate":    18.53 
 } 
 ] 
 },
 {
  "range": "新北市 第01選區 林口區下福里",
-"area_nickname": "石門區、三芝區、淡水區、八里區、林口區、泰山區",
+"area_nickname": "淡水區、泰山區、林口區、三芝區、石門區、八里區",
 "county": "65000",
 "area": "01",
 "town": "170",
 "vill": "011",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    57.53,
+"votePop":     1135,
 "candidates": [
  {
  "candNo": "1",
 "name": "洪孟楷",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      298,
+"disagreeTks":      347,
+"agreeRate":     46.2,
+"disagreeRate":     53.8,
+"adptVictor": "N",
+"ytpRate":    26.26,
+"ntpRate":    30.57 
 } 
 ] 
 },
 {
  "range": "新北市 第01選區 林口區嘉寶里",
-"area_nickname": "石門區、三芝區、淡水區、八里區、林口區、泰山區",
+"area_nickname": "淡水區、泰山區、林口區、三芝區、石門區、八里區",
 "county": "65000",
 "area": "01",
 "town": "170",
 "vill": "012",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    56.53,
+"votePop":      819,
 "candidates": [
  {
  "candNo": "1",
 "name": "洪孟楷",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      267,
+"disagreeTks":      195,
+"agreeRate":    57.79,
+"disagreeRate":    42.21,
+"adptVictor": "N",
+"ytpRate":     32.6,
+"ntpRate":    23.81 
 } 
 ] 
 },
 {
  "range": "新北市 第01選區 林口區瑞平里",
-"area_nickname": "石門區、三芝區、淡水區、八里區、林口區、泰山區",
+"area_nickname": "淡水區、泰山區、林口區、三芝區、石門區、八里區",
 "county": "65000",
 "area": "01",
 "town": "170",
 "vill": "013",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    52.33,
+"votePop":      688,
 "candidates": [
  {
  "candNo": "1",
 "name": "洪孟楷",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      199,
+"disagreeTks":      160,
+"agreeRate":    55.43,
+"disagreeRate":    44.57,
+"adptVictor": "N",
+"ytpRate":    28.92,
+"ntpRate":    23.26 
 } 
 ] 
 },
 {
  "range": "新北市 第01選區 林口區太平里",
-"area_nickname": "石門區、三芝區、淡水區、八里區、林口區、泰山區",
+"area_nickname": "淡水區、泰山區、林口區、三芝區、石門區、八里區",
 "county": "65000",
 "area": "01",
 "town": "170",
 "vill": "014",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    50.85,
+"votePop":     1351,
 "candidates": [
  {
  "candNo": "1",
 "name": "洪孟楷",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      383,
+"disagreeTks":      302,
+"agreeRate":    55.91,
+"disagreeRate":    44.09,
+"adptVictor": "N",
+"ytpRate":    28.35,
+"ntpRate":    22.35 
 } 
 ] 
 },
 {
  "range": "新北市 第01選區 泰山區大科里",
-"area_nickname": "石門區、三芝區、淡水區、八里區、林口區、泰山區",
+"area_nickname": "淡水區、泰山區、林口區、三芝區、石門區、八里區",
 "county": "65000",
 "area": "01",
 "town": "160",
 "vill": "001",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    53.33,
+"votePop":      720,
 "candidates": [
  {
  "candNo": "1",
 "name": "洪孟楷",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      201,
+"disagreeTks":      181,
+"agreeRate":    52.62,
+"disagreeRate":    47.38,
+"adptVictor": "N",
+"ytpRate":    27.92,
+"ntpRate":    25.14 
 } 
 ] 
 },
 {
  "range": "新北市 第01選區 泰山區黎明里",
-"area_nickname": "石門區、三芝區、淡水區、八里區、林口區、泰山區",
+"area_nickname": "淡水區、泰山區、林口區、三芝區、石門區、八里區",
 "county": "65000",
 "area": "01",
 "town": "160",
 "vill": "002",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    56.39,
+"votePop":     2974,
 "candidates": [
  {
  "candNo": "1",
 "name": "洪孟楷",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      782,
+"disagreeTks":      879,
+"agreeRate":    47.08,
+"disagreeRate":    52.92,
+"adptVictor": "N",
+"ytpRate":    26.29,
+"ntpRate":    29.56 
 } 
 ] 
 },
 {
  "range": "新北市 第01選區 泰山區山腳里",
-"area_nickname": "石門區、三芝區、淡水區、八里區、林口區、泰山區",
+"area_nickname": "淡水區、泰山區、林口區、三芝區、石門區、八里區",
 "county": "65000",
 "area": "01",
 "town": "160",
 "vill": "003",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    53.96,
+"votePop":     5578,
 "candidates": [
  {
  "candNo": "1",
 "name": "洪孟楷",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":     1351,
+"disagreeTks":     1644,
+"agreeRate":    45.11,
+"disagreeRate":    54.89,
+"adptVictor": "N",
+"ytpRate":    24.22,
+"ntpRate":    29.47 
 } 
 ] 
 },
 {
  "range": "新北市 第01選區 泰山區福泰里",
-"area_nickname": "石門區、三芝區、淡水區、八里區、林口區、泰山區",
+"area_nickname": "淡水區、泰山區、林口區、三芝區、石門區、八里區",
 "county": "65000",
 "area": "01",
 "town": "160",
 "vill": "004",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    54.61,
+"votePop":     2245,
 "candidates": [
  {
  "candNo": "1",
 "name": "洪孟楷",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      554,
+"disagreeTks":      665,
+"agreeRate":    45.45,
+"disagreeRate":    54.55,
+"adptVictor": "N",
+"ytpRate":    24.68,
+"ntpRate":    29.62 
 } 
 ] 
 },
 {
  "range": "新北市 第01選區 泰山區福興里",
-"area_nickname": "石門區、三芝區、淡水區、八里區、林口區、泰山區",
+"area_nickname": "淡水區、泰山區、林口區、三芝區、石門區、八里區",
 "county": "65000",
 "area": "01",
 "town": "160",
 "vill": "016",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    55.62,
+"votePop":     3035,
 "candidates": [
  {
  "candNo": "1",
 "name": "洪孟楷",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      747,
+"disagreeTks":      929,
+"agreeRate":    44.57,
+"disagreeRate":    55.43,
+"adptVictor": "N",
+"ytpRate":    24.61,
+"ntpRate":    30.61 
 } 
 ] 
 },
 {
  "range": "新北市 第01選區 泰山區楓樹里",
-"area_nickname": "石門區、三芝區、淡水區、八里區、林口區、泰山區",
+"area_nickname": "淡水區、泰山區、林口區、三芝區、石門區、八里區",
 "county": "65000",
 "area": "01",
 "town": "160",
 "vill": "005",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":     53.4,
+"votePop":     3620,
 "candidates": [
  {
  "candNo": "1",
 "name": "洪孟楷",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      846,
+"disagreeTks":     1075,
+"agreeRate":    44.04,
+"disagreeRate":    55.96,
+"adptVictor": "N",
+"ytpRate":    23.37,
+"ntpRate":     29.7 
 } 
 ] 
 },
 {
  "range": "新北市 第01選區 泰山區同榮里",
-"area_nickname": "石門區、三芝區、淡水區、八里區、林口區、泰山區",
+"area_nickname": "淡水區、泰山區、林口區、三芝區、石門區、八里區",
 "county": "65000",
 "area": "01",
 "town": "160",
 "vill": "006",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    55.98,
+"votePop":     3626,
 "candidates": [
  {
  "candNo": "1",
 "name": "洪孟楷",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      918,
+"disagreeTks":     1105,
+"agreeRate":    45.38,
+"disagreeRate":    54.62,
+"adptVictor": "N",
+"ytpRate":    25.32,
+"ntpRate":    30.47 
 } 
 ] 
 },
 {
  "range": "新北市 第01選區 泰山區同興里",
-"area_nickname": "石門區、三芝區、淡水區、八里區、林口區、泰山區",
+"area_nickname": "淡水區、泰山區、林口區、三芝區、石門區、八里區",
 "county": "65000",
 "area": "01",
 "town": "160",
 "vill": "011",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    56.15,
+"votePop":     3051,
 "candidates": [
  {
  "candNo": "1",
 "name": "洪孟楷",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      844,
+"disagreeTks":      861,
+"agreeRate":     49.5,
+"disagreeRate":     50.5,
+"adptVictor": "N",
+"ytpRate":    27.66,
+"ntpRate":    28.22 
 } 
 ] 
 },
 {
  "range": "新北市 第01選區 泰山區全興里",
-"area_nickname": "石門區、三芝區、淡水區、八里區、林口區、泰山區",
+"area_nickname": "淡水區、泰山區、林口區、三芝區、石門區、八里區",
 "county": "65000",
 "area": "01",
 "town": "160",
 "vill": "017",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    49.76,
+"votePop":     7707,
 "candidates": [
  {
  "candNo": "1",
 "name": "洪孟楷",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":     1736,
+"disagreeTks":     2084,
+"agreeRate":    45.45,
+"disagreeRate":    54.55,
+"adptVictor": "N",
+"ytpRate":    22.52,
+"ntpRate":    27.04 
 } 
 ] 
 },
 {
  "range": "新北市 第01選區 泰山區義學里",
-"area_nickname": "石門區、三芝區、淡水區、八里區、林口區、泰山區",
+"area_nickname": "淡水區、泰山區、林口區、三芝區、石門區、八里區",
 "county": "65000",
 "area": "01",
 "town": "160",
 "vill": "007",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    54.06,
+"votePop":     4025,
 "candidates": [
  {
  "candNo": "1",
 "name": "洪孟楷",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":     1047,
+"disagreeTks":     1115,
+"agreeRate":    48.43,
+"disagreeRate":    51.57,
+"adptVictor": "N",
+"ytpRate":    26.01,
+"ntpRate":     27.7 
 } 
 ] 
 },
 {
  "range": "新北市 第01選區 泰山區義仁里",
-"area_nickname": "石門區、三芝區、淡水區、八里區、林口區、泰山區",
+"area_nickname": "淡水區、泰山區、林口區、三芝區、石門區、八里區",
 "county": "65000",
 "area": "01",
 "town": "160",
 "vill": "012",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    52.12,
+"votePop":     8469,
 "candidates": [
  {
  "candNo": "1",
 "name": "洪孟楷",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":     2013,
+"disagreeTks":     2380,
+"agreeRate":    45.82,
+"disagreeRate":    54.18,
+"adptVictor": "N",
+"ytpRate":    23.77,
+"ntpRate":     28.1 
 } 
 ] 
 },
 {
  "range": "新北市 第01選區 泰山區明志里",
-"area_nickname": "石門區、三芝區、淡水區、八里區、林口區、泰山區",
+"area_nickname": "淡水區、泰山區、林口區、三芝區、石門區、八里區",
 "county": "65000",
 "area": "01",
 "town": "160",
 "vill": "008",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    57.43,
+"votePop":     3157,
 "candidates": [
  {
  "candNo": "1",
 "name": "洪孟楷",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      878,
+"disagreeTks":      929,
+"agreeRate":    48.59,
+"disagreeRate":    51.41,
+"adptVictor": "N",
+"ytpRate":    27.81,
+"ntpRate":    29.43 
 } 
 ] 
 },
 {
  "range": "新北市 第01選區 泰山區泰友里",
-"area_nickname": "石門區、三芝區、淡水區、八里區、林口區、泰山區",
+"area_nickname": "淡水區、泰山區、林口區、三芝區、石門區、八里區",
 "county": "65000",
 "area": "01",
 "town": "160",
 "vill": "013",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    59.87,
+"votePop":     1692,
 "candidates": [
  {
  "candNo": "1",
 "name": "洪孟楷",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      465,
+"disagreeTks":      541,
+"agreeRate":    46.22,
+"disagreeRate":    53.78,
+"adptVictor": "N",
+"ytpRate":    27.48,
+"ntpRate":    31.97 
 } 
 ] 
 },
 {
  "range": "新北市 第01選區 泰山區新明里",
-"area_nickname": "石門區、三芝區、淡水區、八里區、林口區、泰山區",
+"area_nickname": "淡水區、泰山區、林口區、三芝區、石門區、八里區",
 "county": "65000",
 "area": "01",
 "town": "160",
 "vill": "014",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    57.16,
+"votePop":     2647,
 "candidates": [
  {
  "candNo": "1",
 "name": "洪孟楷",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      718,
+"disagreeTks":      789,
+"agreeRate":    47.64,
+"disagreeRate":    52.36,
+"adptVictor": "N",
+"ytpRate":    27.13,
+"ntpRate":    29.81 
 } 
 ] 
 },
 {
  "range": "新北市 第01選區 泰山區貴子里",
-"area_nickname": "石門區、三芝區、淡水區、八里區、林口區、泰山區",
+"area_nickname": "淡水區、泰山區、林口區、三芝區、石門區、八里區",
 "county": "65000",
 "area": "01",
 "town": "160",
 "vill": "009",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    58.47,
+"votePop":     3465,
 "candidates": [
  {
  "candNo": "1",
 "name": "洪孟楷",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      963,
+"disagreeTks":     1054,
+"agreeRate":    47.74,
+"disagreeRate":    52.26,
+"adptVictor": "N",
+"ytpRate":    27.79,
+"ntpRate":    30.42 
 } 
 ] 
 },
 {
  "range": "新北市 第01選區 泰山區貴賢里",
-"area_nickname": "石門區、三芝區、淡水區、八里區、林口區、泰山區",
+"area_nickname": "淡水區、泰山區、林口區、三芝區、石門區、八里區",
 "county": "65000",
 "area": "01",
 "town": "160",
 "vill": "015",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    60.64,
+"votePop":     3204,
 "candidates": [
  {
  "candNo": "1",
 "name": "洪孟楷",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      862,
+"disagreeTks":     1074,
+"agreeRate":    44.52,
+"disagreeRate":    55.48,
+"adptVictor": "N",
+"ytpRate":     26.9,
+"ntpRate":    33.52 
 } 
 ] 
 },
 {
  "range": "新北市 第01選區 泰山區貴和里",
-"area_nickname": "石門區、三芝區、淡水區、八里區、林口區、泰山區",
+"area_nickname": "淡水區、泰山區、林口區、三芝區、石門區、八里區",
 "county": "65000",
 "area": "01",
 "town": "160",
 "vill": "010",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    52.94,
+"votePop":     4180,
 "candidates": [
  {
  "candNo": "1",
 "name": "洪孟楷",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":     1005,
+"disagreeTks":     1198,
+"agreeRate":    45.62,
+"disagreeRate":    54.38,
+"adptVictor": "N",
+"ytpRate":    24.04,
+"ntpRate":    28.66 
 } 
 ] 
 } 

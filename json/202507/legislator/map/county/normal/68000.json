@@ -1,53 +1,55 @@
 {
- "updatedAt": "2025-07-10 10:33:00",
+ "updatedAt": "2025-08-19 17:10:00",
 "is_running": false,
 "is_started": true,
 "districts": [
  {
  "range": "桃園市 第01選區",
-"area_nickname": "蘆竹區、龜山區、桃園區*",
+"area_nickname": "桃園區*、蘆竹區、龜山區",
 "county": "68000",
 "area": "01",
 "town": null,
 "vill": null,
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    54.89,
+"votePop":   354065,
 "candidates": [
  {
  "candNo": "1",
 "name": "牛煦庭",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":    86734,
+"disagreeTks":   106637,
+"agreeRate":    44.85,
+"disagreeRate":    55.15,
+"adptVictor": "N",
+"ytpRate":     24.5,
+"ntpRate":    30.12 
 } 
 ] 
 },
 {
  "range": "桃園市 第02選區",
-"area_nickname": "大園區、觀音區、新屋區、楊梅區",
+"area_nickname": "楊梅區、大園區、新屋區、觀音區",
 "county": "68000",
 "area": "02",
 "town": null,
 "vill": null,
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    54.57,
+"votePop":   316423,
 "candidates": [
  {
  "candNo": "1",
 "name": "涂權吉",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":    70310,
+"disagreeTks":   101419,
+"agreeRate":    40.94,
+"disagreeRate":    59.06,
+"adptVictor": "N",
+"ytpRate":    22.22,
+"ntpRate":    32.05 
 } 
 ] 
 },
@@ -59,19 +61,20 @@
 "town": null,
 "vill": null,
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    55.79,
+"votePop":   309001,
 "candidates": [
  {
  "candNo": "1",
 "name": "魯明哲",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":    66301,
+"disagreeTks":   105323,
+"agreeRate":    38.63,
+"disagreeRate":    61.37,
+"adptVictor": "N",
+"ytpRate":    21.46,
+"ntpRate":    34.09 
 } 
 ] 
 },
@@ -83,67 +86,70 @@
 "town": null,
 "vill": null,
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    55.76,
+"votePop":   306688,
 "candidates": [
  {
  "candNo": "1",
 "name": "萬美玲",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":    72626,
+"disagreeTks":    97544,
+"agreeRate":    42.68,
+"disagreeRate":    57.32,
+"adptVictor": "N",
+"ytpRate":    23.68,
+"ntpRate":    31.81 
 } 
 ] 
 },
 {
  "range": "桃園市 第05選區",
-"area_nickname": "平鎮區、龍潭區",
+"area_nickname": "龍潭區、平鎮區",
 "county": "68000",
 "area": "05",
 "town": null,
 "vill": null,
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    56.11,
+"votePop":   282711,
 "candidates": [
  {
  "candNo": "1",
 "name": "呂玉玲",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":    59756,
+"disagreeTks":    98042,
+"agreeRate":    37.87,
+"disagreeRate":    62.13,
+"adptVictor": "N",
+"ytpRate":    21.14,
+"ntpRate":    34.68 
 } 
 ] 
 },
 {
  "range": "桃園市 第06選區",
-"area_nickname": "中壢區*、八德區、大溪區、復興區",
+"area_nickname": "中壢區*、大溪區、八德區、復興區",
 "county": "68000",
 "area": "06",
 "town": null,
 "vill": null,
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    54.24,
+"votePop":   285041,
 "candidates": [
  {
  "candNo": "1",
 "name": "邱若華",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":    61635,
+"disagreeTks":    92049,
+"agreeRate":    40.11,
+"disagreeRate":    59.89,
+"adptVictor": "N",
+"ytpRate":    21.62,
+"ntpRate":    32.29 
 } 
 ] 
 } 

@@ -1,3773 +1,3930 @@
 {
- "updatedAt": "2025-07-10 10:33:00",
+ "updatedAt": "2025-08-19 17:43:00",
 "is_running": false,
 "is_started": true,
 "districts": [
  {
  "range": "基隆市 第01選區 中正區長潭里",
-"area_nickname": "中正區、信義區、仁愛區、中山區、安樂區、暖暖區、七堵區",
+"area_nickname": "中正區、七堵區、暖暖區、仁愛區、中山區、安樂區、信義區",
 "county": "10017",
 "area": "01",
 "town": "010",
 "vill": "021",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    57.99,
+"votePop":      388,
 "candidates": [
  {
  "candNo": "1",
 "name": "林沛祥",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      126,
+"disagreeTks":       97,
+"agreeRate":     56.5,
+"disagreeRate":     43.5,
+"adptVictor": "N",
+"ytpRate":    32.47,
+"ntpRate":       25 
 } 
 ] 
 },
 {
  "range": "基隆市 第01選區 中正區砂子里",
-"area_nickname": "中正區、信義區、仁愛區、中山區、安樂區、暖暖區、七堵區",
+"area_nickname": "中正區、七堵區、暖暖區、仁愛區、中山區、安樂區、信義區",
 "county": "10017",
 "area": "01",
 "town": "010",
 "vill": "022",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    46.63,
+"votePop":     5638,
 "candidates": [
  {
  "candNo": "1",
 "name": "林沛祥",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":     1137,
+"disagreeTks":     1483,
+"agreeRate":     43.4,
+"disagreeRate":     56.6,
+"adptVictor": "N",
+"ytpRate":    20.17,
+"ntpRate":     26.3 
 } 
 ] 
 },
 {
  "range": "基隆市 第01選區 中正區八斗里",
-"area_nickname": "中正區、信義區、仁愛區、中山區、安樂區、暖暖區、七堵區",
+"area_nickname": "中正區、七堵區、暖暖區、仁愛區、中山區、安樂區、信義區",
 "county": "10017",
 "area": "01",
 "town": "010",
 "vill": "019",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    50.68,
+"votePop":     1320,
 "candidates": [
  {
  "candNo": "1",
 "name": "林沛祥",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      428,
+"disagreeTks":      239,
+"agreeRate":    64.17,
+"disagreeRate":    35.83,
+"adptVictor": "N",
+"ytpRate":    32.42,
+"ntpRate":    18.11 
 } 
 ] 
 },
 {
  "range": "基隆市 第01選區 中正區碧砂里",
-"area_nickname": "中正區、信義區、仁愛區、中山區、安樂區、暖暖區、七堵區",
+"area_nickname": "中正區、七堵區、暖暖區、仁愛區、中山區、安樂區、信義區",
 "county": "10017",
 "area": "01",
 "town": "010",
 "vill": "020",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    50.59,
+"votePop":     1018,
 "candidates": [
  {
  "candNo": "1",
 "name": "林沛祥",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      270,
+"disagreeTks":      243,
+"agreeRate":    52.63,
+"disagreeRate":    47.37,
+"adptVictor": "N",
+"ytpRate":    26.52,
+"ntpRate":    23.87 
 } 
 ] 
 },
 {
  "range": "基隆市 第01選區 中正區新富里",
-"area_nickname": "中正區、信義區、仁愛區、中山區、安樂區、暖暖區、七堵區",
+"area_nickname": "中正區、七堵區、暖暖區、仁愛區、中山區、安樂區、信義區",
 "county": "10017",
 "area": "01",
 "town": "010",
 "vill": "026",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    47.95,
+"votePop":     4225,
 "candidates": [
  {
  "candNo": "1",
 "name": "林沛祥",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      770,
+"disagreeTks":     1252,
+"agreeRate":    38.08,
+"disagreeRate":    61.92,
+"adptVictor": "N",
+"ytpRate":    18.22,
+"ntpRate":    29.63 
 } 
 ] 
 },
 {
  "range": "基隆市 第01選區 中正區新豐里",
-"area_nickname": "中正區、信義區、仁愛區、中山區、安樂區、暖暖區、七堵區",
+"area_nickname": "中正區、七堵區、暖暖區、仁愛區、中山區、安樂區、信義區",
 "county": "10017",
 "area": "01",
 "town": "010",
 "vill": "025",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    51.69,
+"votePop":     6686,
 "candidates": [
  {
  "candNo": "1",
 "name": "林沛祥",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":     1270,
+"disagreeTks":     2165,
+"agreeRate":    36.97,
+"disagreeRate":    63.03,
+"adptVictor": "N",
+"ytpRate":    18.99,
+"ntpRate":    32.38 
 } 
 ] 
 },
 {
  "range": "基隆市 第01選區 中正區平寮里",
-"area_nickname": "中正區、信義區、仁愛區、中山區、安樂區、暖暖區、七堵區",
+"area_nickname": "中正區、七堵區、暖暖區、仁愛區、中山區、安樂區、信義區",
 "county": "10017",
 "area": "01",
 "town": "010",
 "vill": "018",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    46.15,
+"votePop":     1066,
 "candidates": [
  {
  "candNo": "1",
 "name": "林沛祥",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      208,
+"disagreeTks":      282,
+"agreeRate":    42.45,
+"disagreeRate":    57.55,
+"adptVictor": "N",
+"ytpRate":    19.51,
+"ntpRate":    26.45 
 } 
 ] 
 },
 {
  "range": "基隆市 第01選區 中正區社寮里",
-"area_nickname": "中正區、信義區、仁愛區、中山區、安樂區、暖暖區、七堵區",
+"area_nickname": "中正區、七堵區、暖暖區、仁愛區、中山區、安樂區、信義區",
 "county": "10017",
 "area": "01",
 "town": "010",
 "vill": "016",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    49.56,
+"votePop":     1491,
 "candidates": [
  {
  "candNo": "1",
 "name": "林沛祥",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      347,
+"disagreeTks":      387,
+"agreeRate":    47.28,
+"disagreeRate":    52.72,
+"adptVictor": "N",
+"ytpRate":    23.27,
+"ntpRate":    25.96 
 } 
 ] 
 },
 {
  "range": "基隆市 第01選區 中正區和憲里",
-"area_nickname": "中正區、信義區、仁愛區、中山區、安樂區、暖暖區、七堵區",
+"area_nickname": "中正區、七堵區、暖暖區、仁愛區、中山區、安樂區、信義區",
 "county": "10017",
 "area": "01",
 "town": "010",
 "vill": "017",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    50.83,
+"votePop":      606,
 "candidates": [
  {
  "candNo": "1",
 "name": "林沛祥",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      102,
+"disagreeTks":      204,
+"agreeRate":    33.33,
+"disagreeRate":    66.67,
+"adptVictor": "N",
+"ytpRate":    16.83,
+"ntpRate":    33.66 
 } 
 ] 
 },
 {
  "range": "基隆市 第01選區 中正區海濱里",
-"area_nickname": "中正區、信義區、仁愛區、中山區、安樂區、暖暖區、七堵區",
+"area_nickname": "中正區、七堵區、暖暖區、仁愛區、中山區、安樂區、信義區",
 "county": "10017",
 "area": "01",
 "town": "010",
 "vill": "015",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    48.73,
+"votePop":      708,
 "candidates": [
  {
  "candNo": "1",
 "name": "林沛祥",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      151,
+"disagreeTks":      193,
+"agreeRate":     43.9,
+"disagreeRate":     56.1,
+"adptVictor": "N",
+"ytpRate":    21.33,
+"ntpRate":    27.26 
 } 
 ] 
 },
 {
  "range": "基隆市 第01選區 中正區正濱里",
-"area_nickname": "中正區、信義區、仁愛區、中山區、安樂區、暖暖區、七堵區",
+"area_nickname": "中正區、七堵區、暖暖區、仁愛區、中山區、安樂區、信義區",
 "county": "10017",
 "area": "01",
 "town": "010",
 "vill": "024",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    50.06,
+"votePop":      819,
 "candidates": [
  {
  "candNo": "1",
 "name": "林沛祥",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      156,
+"disagreeTks":      251,
+"agreeRate":    38.33,
+"disagreeRate":    61.67,
+"adptVictor": "N",
+"ytpRate":    19.05,
+"ntpRate":    30.65 
 } 
 ] 
 },
 {
  "range": "基隆市 第01選區 中正區中正里",
-"area_nickname": "中正區、信義區、仁愛區、中山區、安樂區、暖暖區、七堵區",
+"area_nickname": "中正區、七堵區、暖暖區、仁愛區、中山區、安樂區、信義區",
 "county": "10017",
 "area": "01",
 "town": "010",
 "vill": "023",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    46.14,
+"votePop":     1437,
 "candidates": [
  {
  "candNo": "1",
 "name": "林沛祥",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      270,
+"disagreeTks":      391,
+"agreeRate":    40.85,
+"disagreeRate":    59.15,
+"adptVictor": "N",
+"ytpRate":    18.79,
+"ntpRate":    27.21 
 } 
 ] 
 },
 {
  "range": "基隆市 第01選區 中正區中濱里",
-"area_nickname": "中正區、信義區、仁愛區、中山區、安樂區、暖暖區、七堵區",
+"area_nickname": "中正區、七堵區、暖暖區、仁愛區、中山區、安樂區、信義區",
 "county": "10017",
 "area": "01",
 "town": "010",
 "vill": "014",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    51.48,
+"votePop":     1084,
 "candidates": [
  {
  "candNo": "1",
 "name": "林沛祥",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      215,
+"disagreeTks":      341,
+"agreeRate":    38.67,
+"disagreeRate":    61.33,
+"adptVictor": "N",
+"ytpRate":    19.83,
+"ntpRate":    31.46 
 } 
 ] 
 },
 {
  "range": "基隆市 第01選區 中正區建國里",
-"area_nickname": "中正區、信義區、仁愛區、中山區、安樂區、暖暖區、七堵區",
+"area_nickname": "中正區、七堵區、暖暖區、仁愛區、中山區、安樂區、信義區",
 "county": "10017",
 "area": "01",
 "town": "010",
 "vill": "013",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    55.25,
+"votePop":     1694,
 "candidates": [
  {
  "candNo": "1",
 "name": "林沛祥",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      291,
+"disagreeTks":      640,
+"agreeRate":    31.26,
+"disagreeRate":    68.74,
+"adptVictor": "N",
+"ytpRate":    17.18,
+"ntpRate":    37.78 
 } 
 ] 
 },
 {
  "range": "基隆市 第01選區 中正區砂灣里",
-"area_nickname": "中正區、信義區、仁愛區、中山區、安樂區、暖暖區、七堵區",
+"area_nickname": "中正區、七堵區、暖暖區、仁愛區、中山區、安樂區、信義區",
 "county": "10017",
 "area": "01",
 "town": "010",
 "vill": "012",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    50.73,
+"votePop":     1861,
 "candidates": [
  {
  "candNo": "1",
 "name": "林沛祥",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      342,
+"disagreeTks":      592,
+"agreeRate":    36.62,
+"disagreeRate":    63.38,
+"adptVictor": "N",
+"ytpRate":    18.38,
+"ntpRate":    31.81 
 } 
 ] 
 },
 {
  "range": "基隆市 第01選區 中正區真砂里",
-"area_nickname": "中正區、信義區、仁愛區、中山區、安樂區、暖暖區、七堵區",
+"area_nickname": "中正區、七堵區、暖暖區、仁愛區、中山區、安樂區、信義區",
 "county": "10017",
 "area": "01",
 "town": "010",
 "vill": "011",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    53.48,
+"votePop":     1191,
 "candidates": [
  {
  "candNo": "1",
 "name": "林沛祥",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      249,
+"disagreeTks":      384,
+"agreeRate":    39.34,
+"disagreeRate":    60.66,
+"adptVictor": "N",
+"ytpRate":    20.91,
+"ntpRate":    32.24 
 } 
 ] 
 },
 {
  "range": "基隆市 第01選區 中正區正砂里",
-"area_nickname": "中正區、信義區、仁愛區、中山區、安樂區、暖暖區、七堵區",
+"area_nickname": "中正區、七堵區、暖暖區、仁愛區、中山區、安樂區、信義區",
 "county": "10017",
 "area": "01",
 "town": "010",
 "vill": "010",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    56.17,
+"votePop":     2115,
 "candidates": [
  {
  "candNo": "1",
 "name": "林沛祥",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      427,
+"disagreeTks":      760,
+"agreeRate":    35.97,
+"disagreeRate":    64.03,
+"adptVictor": "N",
+"ytpRate":    20.19,
+"ntpRate":    35.93 
 } 
 ] 
 },
 {
  "range": "基隆市 第01選區 中正區中砂里",
-"area_nickname": "中正區、信義區、仁愛區、中山區、安樂區、暖暖區、七堵區",
+"area_nickname": "中正區、七堵區、暖暖區、仁愛區、中山區、安樂區、信義區",
 "county": "10017",
 "area": "01",
 "town": "010",
 "vill": "009",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    40.97,
+"votePop":     1601,
 "candidates": [
  {
  "candNo": "1",
 "name": "林沛祥",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      277,
+"disagreeTks":      372,
+"agreeRate":    42.68,
+"disagreeRate":    57.32,
+"adptVictor": "N",
+"ytpRate":     17.3,
+"ntpRate":    23.24 
 } 
 ] 
 },
 {
  "range": "基隆市 第01選區 中正區入船里",
-"area_nickname": "中正區、信義區、仁愛區、中山區、安樂區、暖暖區、七堵區",
+"area_nickname": "中正區、七堵區、暖暖區、仁愛區、中山區、安樂區、信義區",
 "county": "10017",
 "area": "01",
 "town": "010",
 "vill": "008",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    50.59,
+"votePop":      767,
 "candidates": [
  {
  "candNo": "1",
 "name": "林沛祥",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      159,
+"disagreeTks":      228,
+"agreeRate":    41.09,
+"disagreeRate":    58.91,
+"adptVictor": "N",
+"ytpRate":    20.73,
+"ntpRate":    29.73 
 } 
 ] 
 },
 {
  "range": "基隆市 第01選區 中正區正船里",
-"area_nickname": "中正區、信義區、仁愛區、中山區、安樂區、暖暖區、七堵區",
+"area_nickname": "中正區、七堵區、暖暖區、仁愛區、中山區、安樂區、信義區",
 "county": "10017",
 "area": "01",
 "town": "010",
 "vill": "007",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    55.64,
+"votePop":     1091,
 "candidates": [
  {
  "candNo": "1",
 "name": "林沛祥",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      222,
+"disagreeTks":      385,
+"agreeRate":    36.57,
+"disagreeRate":    63.43,
+"adptVictor": "N",
+"ytpRate":    20.35,
+"ntpRate":    35.29 
 } 
 ] 
 },
 {
  "range": "基隆市 第01選區 中正區中船里",
-"area_nickname": "中正區、信義區、仁愛區、中山區、安樂區、暖暖區、七堵區",
+"area_nickname": "中正區、七堵區、暖暖區、仁愛區、中山區、安樂區、信義區",
 "county": "10017",
 "area": "01",
 "town": "010",
 "vill": "006",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    54.49,
+"votePop":     1002,
 "candidates": [
  {
  "candNo": "1",
 "name": "林沛祥",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      235,
+"disagreeTks":      310,
+"agreeRate":    43.12,
+"disagreeRate":    56.88,
+"adptVictor": "N",
+"ytpRate":    23.45,
+"ntpRate":    30.94 
 } 
 ] 
 },
 {
  "range": "基隆市 第01選區 中正區港通里",
-"area_nickname": "中正區、信義區、仁愛區、中山區、安樂區、暖暖區、七堵區",
+"area_nickname": "中正區、七堵區、暖暖區、仁愛區、中山區、安樂區、信義區",
 "county": "10017",
 "area": "01",
 "town": "010",
 "vill": "005",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    59.82,
+"votePop":     1197,
 "candidates": [
  {
  "candNo": "1",
 "name": "林沛祥",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      336,
+"disagreeTks":      379,
+"agreeRate":    46.99,
+"disagreeRate":    53.01,
+"adptVictor": "N",
+"ytpRate":    28.07,
+"ntpRate":    31.66 
 } 
 ] 
 },
 {
  "range": "基隆市 第01選區 中正區義重里",
-"area_nickname": "中正區、信義區、仁愛區、中山區、安樂區、暖暖區、七堵區",
+"area_nickname": "中正區、七堵區、暖暖區、仁愛區、中山區、安樂區、信義區",
 "county": "10017",
 "area": "01",
 "town": "010",
 "vill": "004",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    55.58,
+"votePop":      887,
 "candidates": [
  {
  "candNo": "1",
 "name": "林沛祥",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      181,
+"disagreeTks":      310,
+"agreeRate":    36.86,
+"disagreeRate":    63.14,
+"adptVictor": "N",
+"ytpRate":    20.41,
+"ntpRate":    34.95 
 } 
 ] 
 },
 {
  "range": "基隆市 第01選區 中正區正義里",
-"area_nickname": "中正區、信義區、仁愛區、中山區、安樂區、暖暖區、七堵區",
+"area_nickname": "中正區、七堵區、暖暖區、仁愛區、中山區、安樂區、信義區",
 "county": "10017",
 "area": "01",
 "town": "010",
 "vill": "002",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    57.65,
+"votePop":     1098,
 "candidates": [
  {
  "candNo": "1",
 "name": "林沛祥",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      265,
+"disagreeTks":      363,
+"agreeRate":     42.2,
+"disagreeRate":     57.8,
+"adptVictor": "N",
+"ytpRate":    24.13,
+"ntpRate":    33.06 
 } 
 ] 
 },
 {
  "range": "基隆市 第01選區 中正區信義里",
-"area_nickname": "中正區、信義區、仁愛區、中山區、安樂區、暖暖區、七堵區",
+"area_nickname": "中正區、七堵區、暖暖區、仁愛區、中山區、安樂區、信義區",
 "county": "10017",
 "area": "01",
 "town": "010",
 "vill": "003",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    55.89,
+"votePop":      807,
 "candidates": [
  {
  "candNo": "1",
 "name": "林沛祥",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      207,
+"disagreeTks":      242,
+"agreeRate":     46.1,
+"disagreeRate":     53.9,
+"adptVictor": "N",
+"ytpRate":    25.65,
+"ntpRate":    29.99 
 } 
 ] 
 },
 {
  "range": "基隆市 第01選區 中正區德義里",
-"area_nickname": "中正區、信義區、仁愛區、中山區、安樂區、暖暖區、七堵區",
+"area_nickname": "中正區、七堵區、暖暖區、仁愛區、中山區、安樂區、信義區",
 "county": "10017",
 "area": "01",
 "town": "010",
 "vill": "001",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    58.12,
+"votePop":      597,
 "candidates": [
  {
  "candNo": "1",
 "name": "林沛祥",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      149,
+"disagreeTks":      195,
+"agreeRate":    43.31,
+"disagreeRate":    56.69,
+"adptVictor": "N",
+"ytpRate":    24.96,
+"ntpRate":    32.66 
 } 
 ] 
 },
 {
  "range": "基隆市 第01選區 信義區仁壽里",
-"area_nickname": "中正區、信義區、仁愛區、中山區、安樂區、暖暖區、七堵區",
+"area_nickname": "中正區、七堵區、暖暖區、仁愛區、中山區、安樂區、信義區",
 "county": "10017",
 "area": "01",
 "town": "070",
 "vill": "001",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    57.65,
+"votePop":      935,
 "candidates": [
  {
  "candNo": "1",
 "name": "林沛祥",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      218,
+"disagreeTks":      319,
+"agreeRate":     40.6,
+"disagreeRate":     59.4,
+"adptVictor": "N",
+"ytpRate":    23.32,
+"ntpRate":    34.12 
 } 
 ] 
 },
 {
  "range": "基隆市 第01選區 信義區仁義里",
-"area_nickname": "中正區、信義區、仁愛區、中山區、安樂區、暖暖區、七堵區",
+"area_nickname": "中正區、七堵區、暖暖區、仁愛區、中山區、安樂區、信義區",
 "county": "10017",
 "area": "01",
 "town": "070",
 "vill": "002",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    60.37,
+"votePop":     1070,
 "candidates": [
  {
  "candNo": "1",
 "name": "林沛祥",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      246,
+"disagreeTks":      395,
+"agreeRate":    38.38,
+"disagreeRate":    61.62,
+"adptVictor": "N",
+"ytpRate":    22.99,
+"ntpRate":    36.92 
 } 
 ] 
 },
 {
  "range": "基隆市 第01選區 信義區義昭里",
-"area_nickname": "中正區、信義區、仁愛區、中山區、安樂區、暖暖區、七堵區",
+"area_nickname": "中正區、七堵區、暖暖區、仁愛區、中山區、安樂區、信義區",
 "county": "10017",
 "area": "01",
 "town": "070",
 "vill": "003",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    57.93,
+"votePop":     1198,
 "candidates": [
  {
  "candNo": "1",
 "name": "林沛祥",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      285,
+"disagreeTks":      406,
+"agreeRate":    41.24,
+"disagreeRate":    58.76,
+"adptVictor": "N",
+"ytpRate":    23.79,
+"ntpRate":    33.89 
 } 
 ] 
 },
 {
  "range": "基隆市 第01選區 信義區義幸里",
-"area_nickname": "中正區、信義區、仁愛區、中山區、安樂區、暖暖區、七堵區",
+"area_nickname": "中正區、七堵區、暖暖區、仁愛區、中山區、安樂區、信義區",
 "county": "10017",
 "area": "01",
 "town": "070",
 "vill": "004",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    56.37,
+"votePop":     2104,
 "candidates": [
  {
  "candNo": "1",
 "name": "林沛祥",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      460,
+"disagreeTks":      719,
+"agreeRate":    39.02,
+"disagreeRate":    60.98,
+"adptVictor": "N",
+"ytpRate":    21.86,
+"ntpRate":    34.17 
 } 
 ] 
 },
 {
  "range": "基隆市 第01選區 信義區義民里",
-"area_nickname": "中正區、信義區、仁愛區、中山區、安樂區、暖暖區、七堵區",
+"area_nickname": "中正區、七堵區、暖暖區、仁愛區、中山區、安樂區、信義區",
 "county": "10017",
 "area": "01",
 "town": "070",
 "vill": "005",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    53.75,
+"votePop":      694,
 "candidates": [
  {
  "candNo": "1",
 "name": "林沛祥",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      160,
+"disagreeTks":      212,
+"agreeRate":    43.01,
+"disagreeRate":    56.99,
+"adptVictor": "N",
+"ytpRate":    23.05,
+"ntpRate":    30.55 
 } 
 ] 
 },
 {
  "range": "基隆市 第01選區 信義區義和里",
-"area_nickname": "中正區、信義區、仁愛區、中山區、安樂區、暖暖區、七堵區",
+"area_nickname": "中正區、七堵區、暖暖區、仁愛區、中山區、安樂區、信義區",
 "county": "10017",
 "area": "01",
 "town": "070",
 "vill": "006",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    42.89,
+"votePop":     1441,
 "candidates": [
  {
  "candNo": "1",
 "name": "林沛祥",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      227,
+"disagreeTks":      387,
+"agreeRate":    36.97,
+"disagreeRate":    63.03,
+"adptVictor": "N",
+"ytpRate":    15.75,
+"ntpRate":    26.86 
 } 
 ] 
 },
 {
  "range": "基隆市 第01選區 信義區智慧里",
-"area_nickname": "中正區、信義區、仁愛區、中山區、安樂區、暖暖區、七堵區",
+"area_nickname": "中正區、七堵區、暖暖區、仁愛區、中山區、安樂區、信義區",
 "county": "10017",
 "area": "01",
 "town": "070",
 "vill": "007",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    55.47,
+"votePop":      685,
 "candidates": [
  {
  "candNo": "1",
 "name": "林沛祥",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      150,
+"disagreeTks":      228,
+"agreeRate":    39.68,
+"disagreeRate":    60.32,
+"adptVictor": "N",
+"ytpRate":     21.9,
+"ntpRate":    33.28 
 } 
 ] 
 },
 {
  "range": "基隆市 第01選區 信義區智誠里",
-"area_nickname": "中正區、信義區、仁愛區、中山區、安樂區、暖暖區、七堵區",
+"area_nickname": "中正區、七堵區、暖暖區、仁愛區、中山區、安樂區、信義區",
 "county": "10017",
 "area": "01",
 "town": "070",
 "vill": "008",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    50.41,
+"votePop":     1355,
 "candidates": [
  {
  "candNo": "1",
 "name": "林沛祥",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      298,
+"disagreeTks":      382,
+"agreeRate":    43.82,
+"disagreeRate":    56.18,
+"adptVictor": "N",
+"ytpRate":    21.99,
+"ntpRate":    28.19 
 } 
 ] 
 },
 {
  "range": "基隆市 第01選區 信義區禮儀里",
-"area_nickname": "中正區、信義區、仁愛區、中山區、安樂區、暖暖區、七堵區",
+"area_nickname": "中正區、七堵區、暖暖區、仁愛區、中山區、安樂區、信義區",
 "county": "10017",
 "area": "01",
 "town": "070",
 "vill": "009",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    57.57,
+"votePop":     1426,
 "candidates": [
  {
  "candNo": "1",
 "name": "林沛祥",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      300,
+"disagreeTks":      518,
+"agreeRate":    36.67,
+"disagreeRate":    63.33,
+"adptVictor": "N",
+"ytpRate":    21.04,
+"ntpRate":    36.33 
 } 
 ] 
 },
 {
  "range": "基隆市 第01選區 信義區禮東里",
-"area_nickname": "中正區、信義區、仁愛區、中山區、安樂區、暖暖區、七堵區",
+"area_nickname": "中正區、七堵區、暖暖區、仁愛區、中山區、安樂區、信義區",
 "county": "10017",
 "area": "01",
 "town": "070",
 "vill": "010",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    59.11,
+"votePop":     1377,
 "candidates": [
  {
  "candNo": "1",
 "name": "林沛祥",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      307,
+"disagreeTks":      499,
+"agreeRate":    38.09,
+"disagreeRate":    61.91,
+"adptVictor": "N",
+"ytpRate":    22.29,
+"ntpRate":    36.24 
 } 
 ] 
 },
 {
  "range": "基隆市 第01選區 信義區信綠里",
-"area_nickname": "中正區、信義區、仁愛區、中山區、安樂區、暖暖區、七堵區",
+"area_nickname": "中正區、七堵區、暖暖區、仁愛區、中山區、安樂區、信義區",
 "county": "10017",
 "area": "01",
 "town": "070",
 "vill": "011",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    54.36,
+"votePop":     1790,
 "candidates": [
  {
  "candNo": "1",
 "name": "林沛祥",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      384,
+"disagreeTks":      588,
+"agreeRate":    39.51,
+"disagreeRate":    60.49,
+"adptVictor": "N",
+"ytpRate":    21.45,
+"ntpRate":    32.85 
 } 
 ] 
 },
 {
  "range": "基隆市 第01選區 信義區東信里",
-"area_nickname": "中正區、信義區、仁愛區、中山區、安樂區、暖暖區、七堵區",
+"area_nickname": "中正區、七堵區、暖暖區、仁愛區、中山區、安樂區、信義區",
 "county": "10017",
 "area": "01",
 "town": "070",
 "vill": "016",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    57.41,
+"votePop":     3832,
 "candidates": [
  {
  "candNo": "1",
 "name": "林沛祥",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      788,
+"disagreeTks":     1405,
+"agreeRate":    35.93,
+"disagreeRate":    64.07,
+"adptVictor": "N",
+"ytpRate":    20.56,
+"ntpRate":    36.66 
 } 
 ] 
 },
 {
  "range": "基隆市 第01選區 信義區東光里",
-"area_nickname": "中正區、信義區、仁愛區、中山區、安樂區、暖暖區、七堵區",
+"area_nickname": "中正區、七堵區、暖暖區、仁愛區、中山區、安樂區、信義區",
 "county": "10017",
 "area": "01",
 "town": "070",
 "vill": "012",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    55.75,
+"votePop":     1774,
 "candidates": [
  {
  "candNo": "1",
 "name": "林沛祥",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      384,
+"disagreeTks":      599,
+"agreeRate":    39.06,
+"disagreeRate":    60.94,
+"adptVictor": "N",
+"ytpRate":    21.65,
+"ntpRate":    33.77 
 } 
 ] 
 },
 {
  "range": "基隆市 第01選區 信義區東明里",
-"area_nickname": "中正區、信義區、仁愛區、中山區、安樂區、暖暖區、七堵區",
+"area_nickname": "中正區、七堵區、暖暖區、仁愛區、中山區、安樂區、信義區",
 "county": "10017",
 "area": "01",
 "town": "070",
 "vill": "013",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    55.94,
+"votePop":     3216,
 "candidates": [
  {
  "candNo": "1",
 "name": "林沛祥",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      576,
+"disagreeTks":     1215,
+"agreeRate":    32.16,
+"disagreeRate":    67.84,
+"adptVictor": "N",
+"ytpRate":    17.91,
+"ntpRate":    37.78 
 } 
 ] 
 },
 {
  "range": "基隆市 第01選區 信義區東安里",
-"area_nickname": "中正區、信義區、仁愛區、中山區、安樂區、暖暖區、七堵區",
+"area_nickname": "中正區、七堵區、暖暖區、仁愛區、中山區、安樂區、信義區",
 "county": "10017",
 "area": "01",
 "town": "070",
 "vill": "014",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    52.53,
+"votePop":     2490,
 "candidates": [
  {
  "candNo": "1",
 "name": "林沛祥",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      494,
+"disagreeTks":      806,
+"agreeRate":       38,
+"disagreeRate":       62,
+"adptVictor": "N",
+"ytpRate":    19.84,
+"ntpRate":    32.37 
 } 
 ] 
 },
 {
  "range": "基隆市 第01選區 信義區孝賢里",
-"area_nickname": "中正區、信義區、仁愛區、中山區、安樂區、暖暖區、七堵區",
+"area_nickname": "中正區、七堵區、暖暖區、仁愛區、中山區、安樂區、信義區",
 "county": "10017",
 "area": "01",
 "town": "070",
 "vill": "018",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    56.94,
+"votePop":     3309,
 "candidates": [
  {
  "candNo": "1",
 "name": "林沛祥",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      694,
+"disagreeTks":     1180,
+"agreeRate":    37.03,
+"disagreeRate":    62.97,
+"adptVictor": "N",
+"ytpRate":    20.97,
+"ntpRate":    35.66 
 } 
 ] 
 },
 {
  "range": "基隆市 第01選區 信義區孝忠里",
-"area_nickname": "中正區、信義區、仁愛區、中山區、安樂區、暖暖區、七堵區",
+"area_nickname": "中正區、七堵區、暖暖區、仁愛區、中山區、安樂區、信義區",
 "county": "10017",
 "area": "01",
 "town": "070",
 "vill": "020",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":     53.6,
+"votePop":     7245,
 "candidates": [
  {
  "candNo": "1",
 "name": "林沛祥",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":     1430,
+"disagreeTks":     2428,
+"agreeRate":    37.07,
+"disagreeRate":    62.93,
+"adptVictor": "N",
+"ytpRate":    19.74,
+"ntpRate":    33.51 
 } 
 ] 
 },
 {
  "range": "基隆市 第01選區 信義區孝德里",
-"area_nickname": "中正區、信義區、仁愛區、中山區、安樂區、暖暖區、七堵區",
+"area_nickname": "中正區、七堵區、暖暖區、仁愛區、中山區、安樂區、信義區",
 "county": "10017",
 "area": "01",
 "town": "070",
 "vill": "019",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    53.12,
+"votePop":     2850,
 "candidates": [
  {
  "candNo": "1",
 "name": "林沛祥",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      518,
+"disagreeTks":      986,
+"agreeRate":    34.44,
+"disagreeRate":    65.56,
+"adptVictor": "N",
+"ytpRate":    18.18,
+"ntpRate":     34.6 
 } 
 ] 
 },
 {
  "range": "基隆市 第01選區 信義區孝深里",
-"area_nickname": "中正區、信義區、仁愛區、中山區、安樂區、暖暖區、七堵區",
+"area_nickname": "中正區、七堵區、暖暖區、仁愛區、中山區、安樂區、信義區",
 "county": "10017",
 "area": "01",
 "town": "070",
 "vill": "017",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    50.72,
+"votePop":     5035,
 "candidates": [
  {
  "candNo": "1",
 "name": "林沛祥",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      869,
+"disagreeTks":     1668,
+"agreeRate":    34.25,
+"disagreeRate":    65.75,
+"adptVictor": "N",
+"ytpRate":    17.26,
+"ntpRate":    33.13 
 } 
 ] 
 },
 {
  "range": "基隆市 第01選區 信義區孝岡里",
-"area_nickname": "中正區、信義區、仁愛區、中山區、安樂區、暖暖區、七堵區",
+"area_nickname": "中正區、七堵區、暖暖區、仁愛區、中山區、安樂區、信義區",
 "county": "10017",
 "area": "01",
 "town": "070",
 "vill": "015",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    53.33,
+"votePop":     1232,
 "candidates": [
  {
  "candNo": "1",
 "name": "林沛祥",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      235,
+"disagreeTks":      421,
+"agreeRate":    35.82,
+"disagreeRate":    64.18,
+"adptVictor": "N",
+"ytpRate":    19.07,
+"ntpRate":    34.17 
 } 
 ] 
 },
 {
  "range": "基隆市 第01選區 仁愛區林泉里",
-"area_nickname": "中正區、信義區、仁愛區、中山區、安樂區、暖暖區、七堵區",
+"area_nickname": "中正區、七堵區、暖暖區、仁愛區、中山區、安樂區、信義區",
 "county": "10017",
 "area": "01",
 "town": "040",
 "vill": "001",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":     49.2,
+"votePop":     1569,
 "candidates": [
  {
  "candNo": "1",
 "name": "林沛祥",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      320,
+"disagreeTks":      450,
+"agreeRate":    41.56,
+"disagreeRate":    58.44,
+"adptVictor": "N",
+"ytpRate":     20.4,
+"ntpRate":    28.68 
 } 
 ] 
 },
 {
  "range": "基隆市 第01選區 仁愛區花崗里",
-"area_nickname": "中正區、信義區、仁愛區、中山區、安樂區、暖暖區、七堵區",
+"area_nickname": "中正區、七堵區、暖暖區、仁愛區、中山區、安樂區、信義區",
 "county": "10017",
 "area": "01",
 "town": "040",
 "vill": "002",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    55.12,
+"votePop":      947,
 "candidates": [
  {
  "candNo": "1",
 "name": "林沛祥",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      220,
+"disagreeTks":      300,
+"agreeRate":    42.31,
+"disagreeRate":    57.69,
+"adptVictor": "N",
+"ytpRate":    23.23,
+"ntpRate":    31.68 
 } 
 ] 
 },
 {
  "range": "基隆市 第01選區 仁愛區虹橋里",
-"area_nickname": "中正區、信義區、仁愛區、中山區、安樂區、暖暖區、七堵區",
+"area_nickname": "中正區、七堵區、暖暖區、仁愛區、中山區、安樂區、信義區",
 "county": "10017",
 "area": "01",
 "town": "040",
 "vill": "003",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    52.82,
+"votePop":     1348,
 "candidates": [
  {
  "candNo": "1",
 "name": "林沛祥",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      273,
+"disagreeTks":      435,
+"agreeRate":    38.56,
+"disagreeRate":    61.44,
+"adptVictor": "N",
+"ytpRate":    20.25,
+"ntpRate":    32.27 
 } 
 ] 
 },
 {
  "range": "基隆市 第01選區 仁愛區水錦里",
-"area_nickname": "中正區、信義區、仁愛區、中山區、安樂區、暖暖區、七堵區",
+"area_nickname": "中正區、七堵區、暖暖區、仁愛區、中山區、安樂區、信義區",
 "county": "10017",
 "area": "01",
 "town": "040",
 "vill": "004",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    53.01,
+"votePop":     1596,
 "candidates": [
  {
  "candNo": "1",
 "name": "林沛祥",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      317,
+"disagreeTks":      526,
+"agreeRate":     37.6,
+"disagreeRate":     62.4,
+"adptVictor": "N",
+"ytpRate":    19.86,
+"ntpRate":    32.96 
 } 
 ] 
 },
 {
  "range": "基隆市 第01選區 仁愛區智仁里",
-"area_nickname": "中正區、信義區、仁愛區、中山區、安樂區、暖暖區、七堵區",
+"area_nickname": "中正區、七堵區、暖暖區、仁愛區、中山區、安樂區、信義區",
 "county": "10017",
 "area": "01",
 "town": "040",
 "vill": "005",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    52.83,
+"votePop":     2067,
 "candidates": [
  {
  "candNo": "1",
 "name": "林沛祥",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      468,
+"disagreeTks":      613,
+"agreeRate":    43.29,
+"disagreeRate":    56.71,
+"adptVictor": "N",
+"ytpRate":    22.64,
+"ntpRate":    29.66 
 } 
 ] 
 },
 {
  "range": "基隆市 第01選區 仁愛區和明里",
-"area_nickname": "中正區、信義區、仁愛區、中山區、安樂區、暖暖區、七堵區",
+"area_nickname": "中正區、七堵區、暖暖區、仁愛區、中山區、安樂區、信義區",
 "county": "10017",
 "area": "01",
 "town": "040",
 "vill": "006",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    54.14,
+"votePop":     1583,
 "candidates": [
  {
  "candNo": "1",
 "name": "林沛祥",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      338,
+"disagreeTks":      515,
+"agreeRate":    39.62,
+"disagreeRate":    60.38,
+"adptVictor": "N",
+"ytpRate":    21.35,
+"ntpRate":    32.53 
 } 
 ] 
 },
 {
  "range": "基隆市 第01選區 仁愛區忠勇里",
-"area_nickname": "中正區、信義區、仁愛區、中山區、安樂區、暖暖區、七堵區",
+"area_nickname": "中正區、七堵區、暖暖區、仁愛區、中山區、安樂區、信義區",
 "county": "10017",
 "area": "01",
 "town": "040",
 "vill": "007",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    49.54,
+"votePop":      876,
 "candidates": [
  {
  "candNo": "1",
 "name": "林沛祥",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      211,
+"disagreeTks":      221,
+"agreeRate":    48.84,
+"disagreeRate":    51.16,
+"adptVictor": "N",
+"ytpRate":    24.09,
+"ntpRate":    25.23 
 } 
 ] 
 },
 {
  "range": "基隆市 第01選區 仁愛區玉田里",
-"area_nickname": "中正區、信義區、仁愛區、中山區、安樂區、暖暖區、七堵區",
+"area_nickname": "中正區、七堵區、暖暖區、仁愛區、中山區、安樂區、信義區",
 "county": "10017",
 "area": "01",
 "town": "040",
 "vill": "008",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    55.16,
+"votePop":      814,
 "candidates": [
  {
  "candNo": "1",
 "name": "林沛祥",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      222,
+"disagreeTks":      226,
+"agreeRate":    49.55,
+"disagreeRate":    50.45,
+"adptVictor": "N",
+"ytpRate":    27.27,
+"ntpRate":    27.76 
 } 
 ] 
 },
 {
  "range": "基隆市 第01選區 仁愛區仁德里",
-"area_nickname": "中正區、信義區、仁愛區、中山區、安樂區、暖暖區、七堵區",
+"area_nickname": "中正區、七堵區、暖暖區、仁愛區、中山區、安樂區、信義區",
 "county": "10017",
 "area": "01",
 "town": "040",
 "vill": "009",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    55.11,
+"votePop":      744,
 "candidates": [
  {
  "candNo": "1",
 "name": "林沛祥",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      192,
+"disagreeTks":      215,
+"agreeRate":    47.17,
+"disagreeRate":    52.83,
+"adptVictor": "N",
+"ytpRate":    25.81,
+"ntpRate":     28.9 
 } 
 ] 
 },
 {
  "range": "基隆市 第01選區 仁愛區博愛里",
-"area_nickname": "中正區、信義區、仁愛區、中山區、安樂區、暖暖區、七堵區",
+"area_nickname": "中正區、七堵區、暖暖區、仁愛區、中山區、安樂區、信義區",
 "county": "10017",
 "area": "01",
 "town": "040",
 "vill": "010",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    58.47,
+"votePop":     1281,
 "candidates": [
  {
  "candNo": "1",
 "name": "林沛祥",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      342,
+"disagreeTks":      403,
+"agreeRate":    45.91,
+"disagreeRate":    54.09,
+"adptVictor": "N",
+"ytpRate":     26.7,
+"ntpRate":    31.46 
 } 
 ] 
 },
 {
  "range": "基隆市 第01選區 仁愛區福仁里",
-"area_nickname": "中正區、信義區、仁愛區、中山區、安樂區、暖暖區、七堵區",
+"area_nickname": "中正區、七堵區、暖暖區、仁愛區、中山區、安樂區、信義區",
 "county": "10017",
 "area": "01",
 "town": "040",
 "vill": "011",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    58.37,
+"votePop":      675,
 "candidates": [
  {
  "candNo": "1",
 "name": "林沛祥",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      186,
+"disagreeTks":      207,
+"agreeRate":    47.33,
+"disagreeRate":    52.67,
+"adptVictor": "N",
+"ytpRate":    27.56,
+"ntpRate":    30.67 
 } 
 ] 
 },
 {
  "range": "基隆市 第01選區 仁愛區誠仁里",
-"area_nickname": "中正區、信義區、仁愛區、中山區、安樂區、暖暖區、七堵區",
+"area_nickname": "中正區、七堵區、暖暖區、仁愛區、中山區、安樂區、信義區",
 "county": "10017",
 "area": "01",
 "town": "040",
 "vill": "012",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    56.11,
+"votePop":      818,
 "candidates": [
  {
  "candNo": "1",
 "name": "林沛祥",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      229,
+"disagreeTks":      226,
+"agreeRate":    50.33,
+"disagreeRate":    49.67,
+"adptVictor": "N",
+"ytpRate":       28,
+"ntpRate":    27.63 
 } 
 ] 
 },
 {
  "range": "基隆市 第01選區 仁愛區吉仁里",
-"area_nickname": "中正區、信義區、仁愛區、中山區、安樂區、暖暖區、七堵區",
+"area_nickname": "中正區、七堵區、暖暖區、仁愛區、中山區、安樂區、信義區",
 "county": "10017",
 "area": "01",
 "town": "040",
 "vill": "013",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    51.26,
+"votePop":     2376,
 "candidates": [
  {
  "candNo": "1",
 "name": "林沛祥",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      546,
+"disagreeTks":      666,
+"agreeRate":    45.05,
+"disagreeRate":    54.95,
+"adptVictor": "N",
+"ytpRate":    22.98,
+"ntpRate":    28.03 
 } 
 ] 
 },
 {
  "range": "基隆市 第01選區 仁愛區育仁里",
-"area_nickname": "中正區、信義區、仁愛區、中山區、安樂區、暖暖區、七堵區",
+"area_nickname": "中正區、七堵區、暖暖區、仁愛區、中山區、安樂區、信義區",
 "county": "10017",
 "area": "01",
 "town": "040",
 "vill": "014",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    48.42,
+"votePop":      634,
 "candidates": [
  {
  "candNo": "1",
 "name": "林沛祥",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      171,
+"disagreeTks":      135,
+"agreeRate":    55.88,
+"disagreeRate":    44.12,
+"adptVictor": "N",
+"ytpRate":    26.97,
+"ntpRate":    21.29 
 } 
 ] 
 },
 {
  "range": "基隆市 第01選區 仁愛區英仁里",
-"area_nickname": "中正區、信義區、仁愛區、中山區、安樂區、暖暖區、七堵區",
+"area_nickname": "中正區、七堵區、暖暖區、仁愛區、中山區、安樂區、信義區",
 "county": "10017",
 "area": "01",
 "town": "040",
 "vill": "015",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    52.25,
+"votePop":     1156,
 "candidates": [
  {
  "candNo": "1",
 "name": "林沛祥",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      273,
+"disagreeTks":      328,
+"agreeRate":    45.42,
+"disagreeRate":    54.58,
+"adptVictor": "N",
+"ytpRate":    23.62,
+"ntpRate":    28.37 
 } 
 ] 
 },
 {
  "range": "基隆市 第01選區 仁愛區龍門里",
-"area_nickname": "中正區、信義區、仁愛區、中山區、安樂區、暖暖區、七堵區",
+"area_nickname": "中正區、七堵區、暖暖區、仁愛區、中山區、安樂區、信義區",
 "county": "10017",
 "area": "01",
 "town": "040",
 "vill": "016",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    57.86,
+"votePop":      738,
 "candidates": [
  {
  "candNo": "1",
 "name": "林沛祥",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      218,
+"disagreeTks":      209,
+"agreeRate":    51.05,
+"disagreeRate":    48.95,
+"adptVictor": "N",
+"ytpRate":    29.54,
+"ntpRate":    28.32 
 } 
 ] 
 },
 {
  "range": "基隆市 第01選區 仁愛區德厚里",
-"area_nickname": "中正區、信義區、仁愛區、中山區、安樂區、暖暖區、七堵區",
+"area_nickname": "中正區、七堵區、暖暖區、仁愛區、中山區、安樂區、信義區",
 "county": "10017",
 "area": "01",
 "town": "040",
 "vill": "017",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    57.48,
+"votePop":     1637,
 "candidates": [
  {
  "candNo": "1",
 "name": "林沛祥",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      362,
+"disagreeTks":      577,
+"agreeRate":    38.55,
+"disagreeRate":    61.45,
+"adptVictor": "N",
+"ytpRate":    22.11,
+"ntpRate":    35.25 
 } 
 ] 
 },
 {
  "range": "基隆市 第01選區 仁愛區曲水里",
-"area_nickname": "中正區、信義區、仁愛區、中山區、安樂區、暖暖區、七堵區",
+"area_nickname": "中正區、七堵區、暖暖區、仁愛區、中山區、安樂區、信義區",
 "county": "10017",
 "area": "01",
 "town": "040",
 "vill": "018",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    56.51,
+"votePop":      722,
 "candidates": [
  {
  "candNo": "1",
 "name": "林沛祥",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      214,
+"disagreeTks":      193,
+"agreeRate":    52.58,
+"disagreeRate":    47.42,
+"adptVictor": "N",
+"ytpRate":    29.64,
+"ntpRate":    26.73 
 } 
 ] 
 },
 {
  "range": "基隆市 第01選區 仁愛區崇文里",
-"area_nickname": "中正區、信義區、仁愛區、中山區、安樂區、暖暖區、七堵區",
+"area_nickname": "中正區、七堵區、暖暖區、仁愛區、中山區、安樂區、信義區",
 "county": "10017",
 "area": "01",
 "town": "040",
 "vill": "019",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":     56.3,
+"votePop":      833,
 "candidates": [
  {
  "candNo": "1",
 "name": "林沛祥",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      202,
+"disagreeTks":      265,
+"agreeRate":    43.25,
+"disagreeRate":    56.75,
+"adptVictor": "N",
+"ytpRate":    24.25,
+"ntpRate":    31.81 
 } 
 ] 
 },
 {
  "range": "基隆市 第01選區 仁愛區文安里",
-"area_nickname": "中正區、信義區、仁愛區、中山區、安樂區、暖暖區、七堵區",
+"area_nickname": "中正區、七堵區、暖暖區、仁愛區、中山區、安樂區、信義區",
 "county": "10017",
 "area": "01",
 "town": "040",
 "vill": "020",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    50.13,
+"votePop":      770,
 "candidates": [
  {
  "candNo": "1",
 "name": "林沛祥",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      177,
+"disagreeTks":      208,
+"agreeRate":    45.97,
+"disagreeRate":    54.03,
+"adptVictor": "N",
+"ytpRate":    22.99,
+"ntpRate":    27.01 
 } 
 ] 
 },
 {
  "range": "基隆市 第01選區 仁愛區兆連里",
-"area_nickname": "中正區、信義區、仁愛區、中山區、安樂區、暖暖區、七堵區",
+"area_nickname": "中正區、七堵區、暖暖區、仁愛區、中山區、安樂區、信義區",
 "county": "10017",
 "area": "01",
 "town": "040",
 "vill": "021",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":     58.8,
+"votePop":      665,
 "candidates": [
  {
  "candNo": "1",
 "name": "林沛祥",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      144,
+"disagreeTks":      247,
+"agreeRate":    36.83,
+"disagreeRate":    63.17,
+"adptVictor": "N",
+"ytpRate":    21.65,
+"ntpRate":    37.14 
 } 
 ] 
 },
 {
  "range": "基隆市 第01選區 仁愛區獅球里",
-"area_nickname": "中正區、信義區、仁愛區、中山區、安樂區、暖暖區、七堵區",
+"area_nickname": "中正區、七堵區、暖暖區、仁愛區、中山區、安樂區、信義區",
 "county": "10017",
 "area": "01",
 "town": "040",
 "vill": "022",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    51.28,
+"votePop":      897,
 "candidates": [
  {
  "candNo": "1",
 "name": "林沛祥",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      198,
+"disagreeTks":      257,
+"agreeRate":    43.52,
+"disagreeRate":    56.48,
+"adptVictor": "N",
+"ytpRate":    22.07,
+"ntpRate":    28.65 
 } 
 ] 
 },
 {
  "range": "基隆市 第01選區 仁愛區書院里",
-"area_nickname": "中正區、信義區、仁愛區、中山區、安樂區、暖暖區、七堵區",
+"area_nickname": "中正區、七堵區、暖暖區、仁愛區、中山區、安樂區、信義區",
 "county": "10017",
 "area": "01",
 "town": "040",
 "vill": "023",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    53.05,
+"votePop":     1050,
 "candidates": [
  {
  "candNo": "1",
 "name": "林沛祥",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      229,
+"disagreeTks":      325,
+"agreeRate":    41.34,
+"disagreeRate":    58.66,
+"adptVictor": "N",
+"ytpRate":    21.81,
+"ntpRate":    30.95 
 } 
 ] 
 },
 {
  "range": "基隆市 第01選區 仁愛區朝棟里",
-"area_nickname": "中正區、信義區、仁愛區、中山區、安樂區、暖暖區、七堵區",
+"area_nickname": "中正區、七堵區、暖暖區、仁愛區、中山區、安樂區、信義區",
 "county": "10017",
 "area": "01",
 "town": "040",
 "vill": "024",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    54.66,
+"votePop":     2521,
 "candidates": [
  {
  "candNo": "1",
 "name": "林沛祥",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      450,
+"disagreeTks":      920,
+"agreeRate":    32.85,
+"disagreeRate":    67.15,
+"adptVictor": "N",
+"ytpRate":    17.85,
+"ntpRate":    36.49 
 } 
 ] 
 },
 {
  "range": "基隆市 第01選區 仁愛區光華里",
-"area_nickname": "中正區、信義區、仁愛區、中山區、安樂區、暖暖區、七堵區",
+"area_nickname": "中正區、七堵區、暖暖區、仁愛區、中山區、安樂區、信義區",
 "county": "10017",
 "area": "01",
 "town": "040",
 "vill": "029",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    52.38,
+"votePop":     2421,
 "candidates": [
  {
  "candNo": "1",
 "name": "林沛祥",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      575,
+"disagreeTks":      690,
+"agreeRate":    45.45,
+"disagreeRate":    54.55,
+"adptVictor": "N",
+"ytpRate":    23.75,
+"ntpRate":     28.5 
 } 
 ] 
 },
 {
  "range": "基隆市 第01選區 仁愛區明德里",
-"area_nickname": "中正區、信義區、仁愛區、中山區、安樂區、暖暖區、七堵區",
+"area_nickname": "中正區、七堵區、暖暖區、仁愛區、中山區、安樂區、信義區",
 "county": "10017",
 "area": "01",
 "town": "040",
 "vill": "025",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    56.04,
+"votePop":      621,
 "candidates": [
  {
  "candNo": "1",
 "name": "林沛祥",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      139,
+"disagreeTks":      208,
+"agreeRate":    40.06,
+"disagreeRate":    59.94,
+"adptVictor": "N",
+"ytpRate":    22.38,
+"ntpRate":    33.49 
 } 
 ] 
 },
 {
  "range": "基隆市 第01選區 仁愛區同風里",
-"area_nickname": "中正區、信義區、仁愛區、中山區、安樂區、暖暖區、七堵區",
+"area_nickname": "中正區、七堵區、暖暖區、仁愛區、中山區、安樂區、信義區",
 "county": "10017",
 "area": "01",
 "town": "040",
 "vill": "026",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    54.36,
+"votePop":      539,
 "candidates": [
  {
  "candNo": "1",
 "name": "林沛祥",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      141,
+"disagreeTks":      149,
+"agreeRate":    48.62,
+"disagreeRate":    51.38,
+"adptVictor": "N",
+"ytpRate":    26.16,
+"ntpRate":    27.64 
 } 
 ] 
 },
 {
  "range": "基隆市 第01選區 仁愛區文昌里",
-"area_nickname": "中正區、信義區、仁愛區、中山區、安樂區、暖暖區、七堵區",
+"area_nickname": "中正區、七堵區、暖暖區、仁愛區、中山區、安樂區、信義區",
 "county": "10017",
 "area": "01",
 "town": "040",
 "vill": "027",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    61.49,
+"votePop":      670,
 "candidates": [
  {
  "candNo": "1",
 "name": "林沛祥",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      237,
+"disagreeTks":      174,
+"agreeRate":    57.66,
+"disagreeRate":    42.34,
+"adptVictor": "N",
+"ytpRate":    35.37,
+"ntpRate":    25.97 
 } 
 ] 
 },
 {
  "range": "基隆市 第01選區 仁愛區新店里",
-"area_nickname": "中正區、信義區、仁愛區、中山區、安樂區、暖暖區、七堵區",
+"area_nickname": "中正區、七堵區、暖暖區、仁愛區、中山區、安樂區、信義區",
 "county": "10017",
 "area": "01",
 "town": "040",
 "vill": "028",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":     60.6,
+"votePop":      500,
 "candidates": [
  {
  "candNo": "1",
 "name": "林沛祥",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      154,
+"disagreeTks":      148,
+"agreeRate":    50.99,
+"disagreeRate":    49.01,
+"adptVictor": "N",
+"ytpRate":     30.8,
+"ntpRate":     29.6 
 } 
 ] 
 },
 {
  "range": "基隆市 第01選區 中山區新建里",
-"area_nickname": "中正區、信義區、仁愛區、中山區、安樂區、暖暖區、七堵區",
+"area_nickname": "中正區、七堵區、暖暖區、仁愛區、中山區、安樂區、信義區",
 "county": "10017",
 "area": "01",
 "town": "050",
 "vill": "001",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    54.55,
+"votePop":      726,
 "candidates": [
  {
  "candNo": "1",
 "name": "林沛祥",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      186,
+"disagreeTks":      209,
+"agreeRate":    47.09,
+"disagreeRate":    52.91,
+"adptVictor": "N",
+"ytpRate":    25.62,
+"ntpRate":    28.79 
 } 
 ] 
 },
 {
  "range": "基隆市 第01選區 中山區安民里",
-"area_nickname": "中正區、信義區、仁愛區、中山區、安樂區、暖暖區、七堵區",
+"area_nickname": "中正區、七堵區、暖暖區、仁愛區、中山區、安樂區、信義區",
 "county": "10017",
 "area": "01",
 "town": "050",
 "vill": "002",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":     56.8,
+"votePop":      956,
 "candidates": [
  {
  "candNo": "1",
 "name": "林沛祥",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      233,
+"disagreeTks":      305,
+"agreeRate":    43.31,
+"disagreeRate":    56.69,
+"adptVictor": "N",
+"ytpRate":    24.37,
+"ntpRate":     31.9 
 } 
 ] 
 },
 {
  "range": "基隆市 第01選區 中山區安平里",
-"area_nickname": "中正區、信義區、仁愛區、中山區、安樂區、暖暖區、七堵區",
+"area_nickname": "中正區、七堵區、暖暖區、仁愛區、中山區、安樂區、信義區",
 "county": "10017",
 "area": "01",
 "town": "050",
 "vill": "003",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    59.94,
+"votePop":      659,
 "candidates": [
  {
  "candNo": "1",
 "name": "林沛祥",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      192,
+"disagreeTks":      201,
+"agreeRate":    48.85,
+"disagreeRate":    51.15,
+"adptVictor": "N",
+"ytpRate":    29.14,
+"ntpRate":     30.5 
 } 
 ] 
 },
 {
  "range": "基隆市 第01選區 中山區中山里",
-"area_nickname": "中正區、信義區、仁愛區、中山區、安樂區、暖暖區、七堵區",
+"area_nickname": "中正區、七堵區、暖暖區、仁愛區、中山區、安樂區、信義區",
 "county": "10017",
 "area": "01",
 "town": "050",
 "vill": "004",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    53.21,
+"votePop":      872,
 "candidates": [
  {
  "candNo": "1",
 "name": "林沛祥",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      235,
+"disagreeTks":      224,
+"agreeRate":     51.2,
+"disagreeRate":     48.8,
+"adptVictor": "N",
+"ytpRate":    26.95,
+"ntpRate":    25.69 
 } 
 ] 
 },
 {
  "range": "基隆市 第01選區 中山區民治里",
-"area_nickname": "中正區、信義區、仁愛區、中山區、安樂區、暖暖區、七堵區",
+"area_nickname": "中正區、七堵區、暖暖區、仁愛區、中山區、安樂區、信義區",
 "county": "10017",
 "area": "01",
 "town": "050",
 "vill": "005",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    60.14,
+"votePop":      720,
 "candidates": [
  {
  "candNo": "1",
 "name": "林沛祥",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      169,
+"disagreeTks":      261,
+"agreeRate":     39.3,
+"disagreeRate":     60.7,
+"adptVictor": "N",
+"ytpRate":    23.47,
+"ntpRate":    36.25 
 } 
 ] 
 },
 {
  "range": "基隆市 第01選區 中山區中興里",
-"area_nickname": "中正區、信義區、仁愛區、中山區、安樂區、暖暖區、七堵區",
+"area_nickname": "中正區、七堵區、暖暖區、仁愛區、中山區、安樂區、信義區",
 "county": "10017",
 "area": "01",
 "town": "050",
 "vill": "006",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    57.45,
+"votePop":     1128,
 "candidates": [
  {
  "candNo": "1",
 "name": "林沛祥",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      265,
+"disagreeTks":      380,
+"agreeRate":    41.09,
+"disagreeRate":    58.91,
+"adptVictor": "N",
+"ytpRate":    23.49,
+"ntpRate":    33.69 
 } 
 ] 
 },
 {
  "range": "基隆市 第01選區 中山區仁正里",
-"area_nickname": "中正區、信義區、仁愛區、中山區、安樂區、暖暖區、七堵區",
+"area_nickname": "中正區、七堵區、暖暖區、仁愛區、中山區、安樂區、信義區",
 "county": "10017",
 "area": "01",
 "town": "050",
 "vill": "007",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    53.71,
+"votePop":      661,
 "candidates": [
  {
  "candNo": "1",
 "name": "林沛祥",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      123,
+"disagreeTks":      231,
+"agreeRate":    34.75,
+"disagreeRate":    65.25,
+"adptVictor": "N",
+"ytpRate":    18.61,
+"ntpRate":    34.95 
 } 
 ] 
 },
 {
  "range": "基隆市 第01選區 中山區健民里",
-"area_nickname": "中正區、信義區、仁愛區、中山區、安樂區、暖暖區、七堵區",
+"area_nickname": "中正區、七堵區、暖暖區、仁愛區、中山區、安樂區、信義區",
 "county": "10017",
 "area": "01",
 "town": "050",
 "vill": "008",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    55.11,
+"votePop":     1047,
 "candidates": [
  {
  "candNo": "1",
 "name": "林沛祥",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      246,
+"disagreeTks":      325,
+"agreeRate":    43.08,
+"disagreeRate":    56.92,
+"adptVictor": "N",
+"ytpRate":     23.5,
+"ntpRate":    31.04 
 } 
 ] 
 },
 {
  "range": "基隆市 第01選區 中山區通化里",
-"area_nickname": "中正區、信義區、仁愛區、中山區、安樂區、暖暖區、七堵區",
+"area_nickname": "中正區、七堵區、暖暖區、仁愛區、中山區、安樂區、信義區",
 "county": "10017",
 "area": "01",
 "town": "050",
 "vill": "009",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    49.83,
+"votePop":      885,
 "candidates": [
  {
  "candNo": "1",
 "name": "林沛祥",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      154,
+"disagreeTks":      283,
+"agreeRate":    35.24,
+"disagreeRate":    64.76,
+"adptVictor": "N",
+"ytpRate":     17.4,
+"ntpRate":    31.98 
 } 
 ] 
 },
 {
  "range": "基隆市 第01選區 中山區居仁里",
-"area_nickname": "中正區、信義區、仁愛區、中山區、安樂區、暖暖區、七堵區",
+"area_nickname": "中正區、七堵區、暖暖區、仁愛區、中山區、安樂區、信義區",
 "county": "10017",
 "area": "01",
 "town": "050",
 "vill": "010",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    50.43,
+"votePop":     1160,
 "candidates": [
  {
  "candNo": "1",
 "name": "林沛祥",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      201,
+"disagreeTks":      381,
+"agreeRate":    34.54,
+"disagreeRate":    65.46,
+"adptVictor": "N",
+"ytpRate":    17.33,
+"ntpRate":    32.84 
 } 
 ] 
 },
 {
  "range": "基隆市 第01選區 中山區通明里",
-"area_nickname": "中正區、信義區、仁愛區、中山區、安樂區、暖暖區、七堵區",
+"area_nickname": "中正區、七堵區、暖暖區、仁愛區、中山區、安樂區、信義區",
 "county": "10017",
 "area": "01",
 "town": "050",
 "vill": "011",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    52.27,
+"votePop":     1519,
 "candidates": [
  {
  "candNo": "1",
 "name": "林沛祥",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      348,
+"disagreeTks":      444,
+"agreeRate":    43.94,
+"disagreeRate":    56.06,
+"adptVictor": "N",
+"ytpRate":    22.91,
+"ntpRate":    29.23 
 } 
 ] 
 },
 {
  "range": "基隆市 第01選區 中山區和平里",
-"area_nickname": "中正區、信義區、仁愛區、中山區、安樂區、暖暖區、七堵區",
+"area_nickname": "中正區、七堵區、暖暖區、仁愛區、中山區、安樂區、信義區",
 "county": "10017",
 "area": "01",
 "town": "050",
 "vill": "023",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":     59.9,
+"votePop":      409,
 "candidates": [
  {
  "candNo": "1",
 "name": "林沛祥",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":       81,
+"disagreeTks":      163,
+"agreeRate":     33.2,
+"disagreeRate":     66.8,
+"adptVictor": "N",
+"ytpRate":     19.8,
+"ntpRate":    39.85 
 } 
 ] 
 },
 {
  "range": "基隆市 第01選區 中山區仙洞里",
-"area_nickname": "中正區、信義區、仁愛區、中山區、安樂區、暖暖區、七堵區",
+"area_nickname": "中正區、七堵區、暖暖區、仁愛區、中山區、安樂區、信義區",
 "county": "10017",
 "area": "01",
 "town": "050",
 "vill": "014",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    51.15,
+"votePop":      477,
 "candidates": [
  {
  "candNo": "1",
 "name": "林沛祥",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      102,
+"disagreeTks":      140,
+"agreeRate":    42.15,
+"disagreeRate":    57.85,
+"adptVictor": "N",
+"ytpRate":    21.38,
+"ntpRate":    29.35 
 } 
 ] 
 },
 {
  "range": "基隆市 第01選區 中山區太白里",
-"area_nickname": "中正區、信義區、仁愛區、中山區、安樂區、暖暖區、七堵區",
+"area_nickname": "中正區、七堵區、暖暖區、仁愛區、中山區、安樂區、信義區",
 "county": "10017",
 "area": "01",
 "town": "050",
 "vill": "015",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":     53.6,
+"votePop":      737,
 "candidates": [
  {
  "candNo": "1",
 "name": "林沛祥",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      153,
+"disagreeTks":      237,
+"agreeRate":    39.23,
+"disagreeRate":    60.77,
+"adptVictor": "N",
+"ytpRate":    20.76,
+"ntpRate":    32.16 
 } 
 ] 
 },
 {
  "range": "基隆市 第01選區 中山區協和里",
-"area_nickname": "中正區、信義區、仁愛區、中山區、安樂區、暖暖區、七堵區",
+"area_nickname": "中正區、七堵區、暖暖區、仁愛區、中山區、安樂區、信義區",
 "county": "10017",
 "area": "01",
 "town": "050",
 "vill": "012",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    53.23,
+"votePop":     1332,
 "candidates": [
  {
  "candNo": "1",
 "name": "林沛祥",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      299,
+"disagreeTks":      405,
+"agreeRate":    42.47,
+"disagreeRate":    57.53,
+"adptVictor": "N",
+"ytpRate":    22.45,
+"ntpRate":    30.41 
 } 
 ] 
 },
 {
  "range": "基隆市 第01選區 中山區文化里",
-"area_nickname": "中正區、信義區、仁愛區、中山區、安樂區、暖暖區、七堵區",
+"area_nickname": "中正區、七堵區、暖暖區、仁愛區、中山區、安樂區、信義區",
 "county": "10017",
 "area": "01",
 "town": "050",
 "vill": "013",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    37.35,
+"votePop":     1245,
 "candidates": [
  {
  "candNo": "1",
 "name": "林沛祥",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      181,
+"disagreeTks":      283,
+"agreeRate":    39.01,
+"disagreeRate":    60.99,
+"adptVictor": "N",
+"ytpRate":    14.54,
+"ntpRate":    22.73 
 } 
 ] 
 },
 {
  "range": "基隆市 第01選區 中山區德安里",
-"area_nickname": "中正區、信義區、仁愛區、中山區、安樂區、暖暖區、七堵區",
+"area_nickname": "中正區、七堵區、暖暖區、仁愛區、中山區、安樂區、信義區",
 "county": "10017",
 "area": "01",
 "town": "050",
 "vill": "022",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    53.36,
+"votePop":     3598,
 "candidates": [
  {
  "candNo": "1",
 "name": "林沛祥",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      812,
+"disagreeTks":     1095,
+"agreeRate":    42.58,
+"disagreeRate":    57.42,
+"adptVictor": "N",
+"ytpRate":    22.57,
+"ntpRate":    30.43 
 } 
 ] 
 },
 {
  "range": "基隆市 第01選區 中山區德和里",
-"area_nickname": "中正區、信義區、仁愛區、中山區、安樂區、暖暖區、七堵區",
+"area_nickname": "中正區、七堵區、暖暖區、仁愛區、中山區、安樂區、信義區",
 "county": "10017",
 "area": "01",
 "town": "050",
 "vill": "020",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    55.17,
+"votePop":     6899,
 "candidates": [
  {
  "candNo": "1",
 "name": "林沛祥",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":     1411,
+"disagreeTks":     2376,
+"agreeRate":    37.26,
+"disagreeRate":    62.74,
+"adptVictor": "N",
+"ytpRate":    20.45,
+"ntpRate":    34.44 
 } 
 ] 
 },
 {
  "range": "基隆市 第01選區 中山區中和里",
-"area_nickname": "中正區、信義區、仁愛區、中山區、安樂區、暖暖區、七堵區",
+"area_nickname": "中正區、七堵區、暖暖區、仁愛區、中山區、安樂區、信義區",
 "county": "10017",
 "area": "01",
 "town": "050",
 "vill": "021",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    51.03,
+"votePop":     5234,
 "candidates": [
  {
  "candNo": "1",
 "name": "林沛祥",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      996,
+"disagreeTks":     1659,
+"agreeRate":    37.51,
+"disagreeRate":    62.49,
+"adptVictor": "N",
+"ytpRate":    19.03,
+"ntpRate":     31.7 
 } 
 ] 
 },
 {
  "range": "基隆市 第01選區 中山區和慶里",
-"area_nickname": "中正區、信義區、仁愛區、中山區、安樂區、暖暖區、七堵區",
+"area_nickname": "中正區、七堵區、暖暖區、仁愛區、中山區、安樂區、信義區",
 "county": "10017",
 "area": "01",
 "town": "050",
 "vill": "024",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    47.58,
+"votePop":     6192,
 "candidates": [
  {
  "candNo": "1",
 "name": "林沛祥",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":     1203,
+"disagreeTks":     1720,
+"agreeRate":    41.16,
+"disagreeRate":    58.84,
+"adptVictor": "N",
+"ytpRate":    19.43,
+"ntpRate":    27.78 
 } 
 ] 
 },
 {
  "range": "基隆市 第01選區 中山區西康里",
-"area_nickname": "中正區、信義區、仁愛區、中山區、安樂區、暖暖區、七堵區",
+"area_nickname": "中正區、七堵區、暖暖區、仁愛區、中山區、安樂區、信義區",
 "county": "10017",
 "area": "01",
 "town": "050",
 "vill": "019",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    51.26,
+"votePop":     1426,
 "candidates": [
  {
  "candNo": "1",
 "name": "林沛祥",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      312,
+"disagreeTks":      414,
+"agreeRate":    42.98,
+"disagreeRate":    57.02,
+"adptVictor": "N",
+"ytpRate":    21.88,
+"ntpRate":    29.03 
 } 
 ] 
 },
 {
  "range": "基隆市 第01選區 中山區西定里",
-"area_nickname": "中正區、信義區、仁愛區、中山區、安樂區、暖暖區、七堵區",
+"area_nickname": "中正區、七堵區、暖暖區、仁愛區、中山區、安樂區、信義區",
 "county": "10017",
 "area": "01",
 "town": "050",
 "vill": "018",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    52.84,
+"votePop":      810,
 "candidates": [
  {
  "candNo": "1",
 "name": "林沛祥",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      176,
+"disagreeTks":      250,
+"agreeRate":    41.31,
+"disagreeRate":    58.69,
+"adptVictor": "N",
+"ytpRate":    21.73,
+"ntpRate":    30.86 
 } 
 ] 
 },
 {
  "range": "基隆市 第01選區 中山區西華里",
-"area_nickname": "中正區、信義區、仁愛區、中山區、安樂區、暖暖區、七堵區",
+"area_nickname": "中正區、七堵區、暖暖區、仁愛區、中山區、安樂區、信義區",
 "county": "10017",
 "area": "01",
 "town": "050",
 "vill": "017",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    55.14,
+"votePop":      740,
 "candidates": [
  {
  "candNo": "1",
 "name": "林沛祥",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      196,
+"disagreeTks":      211,
+"agreeRate":    48.16,
+"disagreeRate":    51.84,
+"adptVictor": "N",
+"ytpRate":    26.49,
+"ntpRate":    28.51 
 } 
 ] 
 },
 {
  "range": "基隆市 第01選區 中山區西榮里",
-"area_nickname": "中正區、信義區、仁愛區、中山區、安樂區、暖暖區、七堵區",
+"area_nickname": "中正區、七堵區、暖暖區、仁愛區、中山區、安樂區、信義區",
 "county": "10017",
 "area": "01",
 "town": "050",
 "vill": "016",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    54.29,
+"votePop":      595,
 "candidates": [
  {
  "candNo": "1",
 "name": "林沛祥",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      160,
+"disagreeTks":      162,
+"agreeRate":    49.69,
+"disagreeRate":    50.31,
+"adptVictor": "N",
+"ytpRate":    26.89,
+"ntpRate":    27.23 
 } 
 ] 
 },
 {
  "range": "基隆市 第01選區 安樂區新西里",
-"area_nickname": "中正區、信義區、仁愛區、中山區、安樂區、暖暖區、七堵區",
+"area_nickname": "中正區、七堵區、暖暖區、仁愛區、中山區、安樂區、信義區",
 "county": "10017",
 "area": "01",
 "town": "060",
 "vill": "003",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    48.55,
+"votePop":     1203,
 "candidates": [
  {
  "candNo": "1",
 "name": "林沛祥",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      232,
+"disagreeTks":      349,
+"agreeRate":    39.93,
+"disagreeRate":    60.07,
+"adptVictor": "N",
+"ytpRate":    19.29,
+"ntpRate":    29.01 
 } 
 ] 
 },
 {
  "range": "基隆市 第01選區 安樂區西川里",
-"area_nickname": "中正區、信義區、仁愛區、中山區、安樂區、暖暖區、七堵區",
+"area_nickname": "中正區、七堵區、暖暖區、仁愛區、中山區、安樂區、信義區",
 "county": "10017",
 "area": "01",
 "town": "060",
 "vill": "001",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    49.95,
+"votePop":     1107,
 "candidates": [
  {
  "candNo": "1",
 "name": "林沛祥",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      216,
+"disagreeTks":      334,
+"agreeRate":    39.27,
+"disagreeRate":    60.73,
+"adptVictor": "N",
+"ytpRate":    19.51,
+"ntpRate":    30.17 
 } 
 ] 
 },
 {
  "range": "基隆市 第01選區 安樂區定國里",
-"area_nickname": "中正區、信義區、仁愛區、中山區、安樂區、暖暖區、七堵區",
+"area_nickname": "中正區、七堵區、暖暖區、仁愛區、中山區、安樂區、信義區",
 "county": "10017",
 "area": "01",
 "town": "060",
 "vill": "002",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    53.85,
+"votePop":      934,
 "candidates": [
  {
  "candNo": "1",
 "name": "林沛祥",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      225,
+"disagreeTks":      275,
+"agreeRate":       45,
+"disagreeRate":       55,
+"adptVictor": "N",
+"ytpRate":    24.09,
+"ntpRate":    29.44 
 } 
 ] 
 },
 {
  "range": "基隆市 第01選區 安樂區定邦里",
-"area_nickname": "中正區、信義區、仁愛區、中山區、安樂區、暖暖區、七堵區",
+"area_nickname": "中正區、七堵區、暖暖區、仁愛區、中山區、安樂區、信義區",
 "county": "10017",
 "area": "01",
 "town": "060",
 "vill": "004",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    58.33,
+"votePop":      900,
 "candidates": [
  {
  "candNo": "1",
 "name": "林沛祥",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      228,
+"disagreeTks":      296,
+"agreeRate":    43.51,
+"disagreeRate":    56.49,
+"adptVictor": "N",
+"ytpRate":    25.33,
+"ntpRate":    32.89 
 } 
 ] 
 },
 {
  "range": "基隆市 第01選區 安樂區慈仁里",
-"area_nickname": "中正區、信義區、仁愛區、中山區、安樂區、暖暖區、七堵區",
+"area_nickname": "中正區、七堵區、暖暖區、仁愛區、中山區、安樂區、信義區",
 "county": "10017",
 "area": "01",
 "town": "060",
 "vill": "005",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    52.62,
+"votePop":      783,
 "candidates": [
  {
  "candNo": "1",
 "name": "林沛祥",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      240,
+"disagreeTks":      170,
+"agreeRate":    58.54,
+"disagreeRate":    41.46,
+"adptVictor": "N",
+"ytpRate":    30.65,
+"ntpRate":    21.71 
 } 
 ] 
 },
 {
  "range": "基隆市 第01選區 安樂區干城里",
-"area_nickname": "中正區、信義區、仁愛區、中山區、安樂區、暖暖區、七堵區",
+"area_nickname": "中正區、七堵區、暖暖區、仁愛區、中山區、安樂區、信義區",
 "county": "10017",
 "area": "01",
 "town": "060",
 "vill": "006",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    50.56,
+"votePop":     1792,
 "candidates": [
  {
  "candNo": "1",
 "name": "林沛祥",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      363,
+"disagreeTks":      537,
+"agreeRate":    40.33,
+"disagreeRate":    59.67,
+"adptVictor": "N",
+"ytpRate":    20.26,
+"ntpRate":    29.97 
 } 
 ] 
 },
 {
  "range": "基隆市 第01選區 安樂區永康里",
-"area_nickname": "中正區、信義區、仁愛區、中山區、安樂區、暖暖區、七堵區",
+"area_nickname": "中正區、七堵區、暖暖區、仁愛區、中山區、安樂區、信義區",
 "county": "10017",
 "area": "01",
 "town": "060",
 "vill": "007",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    50.75,
+"votePop":     1740,
 "candidates": [
  {
  "candNo": "1",
 "name": "林沛祥",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      387,
+"disagreeTks":      491,
+"agreeRate":    44.08,
+"disagreeRate":    55.92,
+"adptVictor": "N",
+"ytpRate":    22.24,
+"ntpRate":    28.22 
 } 
 ] 
 },
 {
  "range": "基隆市 第01選區 安樂區安和里",
-"area_nickname": "中正區、信義區、仁愛區、中山區、安樂區、暖暖區、七堵區",
+"area_nickname": "中正區、七堵區、暖暖區、仁愛區、中山區、安樂區、信義區",
 "county": "10017",
 "area": "01",
 "town": "060",
 "vill": "009",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    56.24,
+"votePop":      777,
 "candidates": [
  {
  "candNo": "1",
 "name": "林沛祥",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      235,
+"disagreeTks":      199,
+"agreeRate":    54.15,
+"disagreeRate":    45.85,
+"adptVictor": "N",
+"ytpRate":    30.24,
+"ntpRate":    25.61 
 } 
 ] 
 },
 {
  "range": "基隆市 第01選區 安樂區樂一里",
-"area_nickname": "中正區、信義區、仁愛區、中山區、安樂區、暖暖區、七堵區",
+"area_nickname": "中正區、七堵區、暖暖區、仁愛區、中山區、安樂區、信義區",
 "county": "10017",
 "area": "01",
 "town": "060",
 "vill": "010",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    54.48,
+"votePop":      591,
 "candidates": [
  {
  "candNo": "1",
 "name": "林沛祥",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      162,
+"disagreeTks":      158,
+"agreeRate":    50.62,
+"disagreeRate":    49.38,
+"adptVictor": "N",
+"ytpRate":    27.41,
+"ntpRate":    26.73 
 } 
 ] 
 },
 {
  "range": "基隆市 第01選區 安樂區嘉仁里",
-"area_nickname": "中正區、信義區、仁愛區、中山區、安樂區、暖暖區、七堵區",
+"area_nickname": "中正區、七堵區、暖暖區、仁愛區、中山區、安樂區、信義區",
 "county": "10017",
 "area": "01",
 "town": "060",
 "vill": "008",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    53.44,
+"votePop":     2889,
 "candidates": [
  {
  "candNo": "1",
 "name": "林沛祥",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      706,
+"disagreeTks":      831,
+"agreeRate":    45.93,
+"disagreeRate":    54.07,
+"adptVictor": "N",
+"ytpRate":    24.44,
+"ntpRate":    28.76 
 } 
 ] 
 },
 {
  "range": "基隆市 第01選區 安樂區三民里",
-"area_nickname": "中正區、信義區、仁愛區、中山區、安樂區、暖暖區、七堵區",
+"area_nickname": "中正區、七堵區、暖暖區、仁愛區、中山區、安樂區、信義區",
 "county": "10017",
 "area": "01",
 "town": "060",
 "vill": "015",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    56.14,
+"votePop":     2239,
 "candidates": [
  {
  "candNo": "1",
 "name": "林沛祥",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      494,
+"disagreeTks":      758,
+"agreeRate":    39.46,
+"disagreeRate":    60.54,
+"adptVictor": "N",
+"ytpRate":    22.06,
+"ntpRate":    33.85 
 } 
 ] 
 },
 {
  "range": "基隆市 第01選區 安樂區壯觀里",
-"area_nickname": "中正區、信義區、仁愛區、中山區、安樂區、暖暖區、七堵區",
+"area_nickname": "中正區、七堵區、暖暖區、仁愛區、中山區、安樂區、信義區",
 "county": "10017",
 "area": "01",
 "town": "060",
 "vill": "025",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    57.11,
+"votePop":     4271,
 "candidates": [
  {
  "candNo": "1",
 "name": "林沛祥",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      861,
+"disagreeTks":     1568,
+"agreeRate":    35.45,
+"disagreeRate":    64.55,
+"adptVictor": "N",
+"ytpRate":    20.16,
+"ntpRate":    36.71 
 } 
 ] 
 },
 {
  "range": "基隆市 第01選區 安樂區四維里",
-"area_nickname": "中正區、信義區、仁愛區、中山區、安樂區、暖暖區、七堵區",
+"area_nickname": "中正區、七堵區、暖暖區、仁愛區、中山區、安樂區、信義區",
 "county": "10017",
 "area": "01",
 "town": "060",
 "vill": "016",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    62.65,
+"votePop":     4329,
 "candidates": [
  {
  "candNo": "1",
 "name": "林沛祥",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":     1055,
+"disagreeTks":     1644,
+"agreeRate":    39.09,
+"disagreeRate":    60.91,
+"adptVictor": "N",
+"ytpRate":    24.37,
+"ntpRate":    37.98 
 } 
 ] 
 },
 {
  "range": "基隆市 第01選區 安樂區五福里",
-"area_nickname": "中正區、信義區、仁愛區、中山區、安樂區、暖暖區、七堵區",
+"area_nickname": "中正區、七堵區、暖暖區、仁愛區、中山區、安樂區、信義區",
 "county": "10017",
 "area": "01",
 "town": "060",
 "vill": "017",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    56.74,
+"votePop":     3116,
 "candidates": [
  {
  "candNo": "1",
 "name": "林沛祥",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      660,
+"disagreeTks":     1099,
+"agreeRate":    37.52,
+"disagreeRate":    62.48,
+"adptVictor": "N",
+"ytpRate":    21.18,
+"ntpRate":    35.27 
 } 
 ] 
 },
 {
  "range": "基隆市 第01選區 安樂區六合里",
-"area_nickname": "中正區、信義區、仁愛區、中山區、安樂區、暖暖區、七堵區",
+"area_nickname": "中正區、七堵區、暖暖區、仁愛區、中山區、安樂區、信義區",
 "county": "10017",
 "area": "01",
 "town": "060",
 "vill": "018",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    60.25,
+"votePop":     3590,
 "candidates": [
  {
  "candNo": "1",
 "name": "林沛祥",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      767,
+"disagreeTks":     1383,
+"agreeRate":    35.67,
+"disagreeRate":    64.33,
+"adptVictor": "N",
+"ytpRate":    21.36,
+"ntpRate":    38.52 
 } 
 ] 
 },
 {
  "range": "基隆市 第01選區 安樂區七賢里",
-"area_nickname": "中正區、信義區、仁愛區、中山區、安樂區、暖暖區、七堵區",
+"area_nickname": "中正區、七堵區、暖暖區、仁愛區、中山區、安樂區、信義區",
 "county": "10017",
 "area": "01",
 "town": "060",
 "vill": "019",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    54.25,
+"votePop":     2155,
 "candidates": [
  {
  "candNo": "1",
 "name": "林沛祥",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      499,
+"disagreeTks":      665,
+"agreeRate":    42.87,
+"disagreeRate":    57.13,
+"adptVictor": "N",
+"ytpRate":    23.16,
+"ntpRate":    30.86 
 } 
 ] 
 },
 {
  "range": "基隆市 第01選區 安樂區長樂里",
-"area_nickname": "中正區、信義區、仁愛區、中山區、安樂區、暖暖區、七堵區",
+"area_nickname": "中正區、七堵區、暖暖區、仁愛區、中山區、安樂區、信義區",
 "county": "10017",
 "area": "01",
 "town": "060",
 "vill": "022",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    61.89,
+"votePop":     3201,
 "candidates": [
  {
  "candNo": "1",
 "name": "林沛祥",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      673,
+"disagreeTks":     1300,
+"agreeRate":    34.11,
+"disagreeRate":    65.89,
+"adptVictor": "N",
+"ytpRate":    21.02,
+"ntpRate":    40.61 
 } 
 ] 
 },
 {
  "range": "基隆市 第01選區 安樂區鶯歌里",
-"area_nickname": "中正區、信義區、仁愛區、中山區、安樂區、暖暖區、七堵區",
+"area_nickname": "中正區、七堵區、暖暖區、仁愛區、中山區、安樂區、信義區",
 "county": "10017",
 "area": "01",
 "town": "060",
 "vill": "020",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    49.25,
+"votePop":     2595,
 "candidates": [
  {
  "candNo": "1",
 "name": "林沛祥",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      478,
+"disagreeTks":      795,
+"agreeRate":    37.55,
+"disagreeRate":    62.45,
+"adptVictor": "N",
+"ytpRate":    18.42,
+"ntpRate":    30.64 
 } 
 ] 
 },
 {
  "range": "基隆市 第01選區 安樂區鶯安里",
-"area_nickname": "中正區、信義區、仁愛區、中山區、安樂區、暖暖區、七堵區",
+"area_nickname": "中正區、七堵區、暖暖區、仁愛區、中山區、安樂區、信義區",
 "county": "10017",
 "area": "01",
 "town": "060",
 "vill": "024",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    59.08,
+"votePop":     5330,
 "candidates": [
  {
  "candNo": "1",
 "name": "林沛祥",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":     1084,
+"disagreeTks":     2045,
+"agreeRate":    34.64,
+"disagreeRate":    65.36,
+"adptVictor": "N",
+"ytpRate":    20.34,
+"ntpRate":    38.37 
 } 
 ] 
 },
 {
  "range": "基隆市 第01選區 安樂區興寮里",
-"area_nickname": "中正區、信義區、仁愛區、中山區、安樂區、暖暖區、七堵區",
+"area_nickname": "中正區、七堵區、暖暖區、仁愛區、中山區、安樂區、信義區",
 "county": "10017",
 "area": "01",
 "town": "060",
 "vill": "023",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    51.85,
+"votePop":     4594,
 "candidates": [
  {
  "candNo": "1",
 "name": "林沛祥",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      931,
+"disagreeTks":     1442,
+"agreeRate":    39.23,
+"disagreeRate":    60.77,
+"adptVictor": "N",
+"ytpRate":    20.27,
+"ntpRate":    31.39 
 } 
 ] 
 },
 {
  "range": "基隆市 第01選區 安樂區外寮里",
-"area_nickname": "中正區、信義區、仁愛區、中山區、安樂區、暖暖區、七堵區",
+"area_nickname": "中正區、七堵區、暖暖區、仁愛區、中山區、安樂區、信義區",
 "county": "10017",
 "area": "01",
 "town": "060",
 "vill": "011",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    51.23,
+"votePop":     3687,
 "candidates": [
  {
  "candNo": "1",
 "name": "林沛祥",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      719,
+"disagreeTks":     1160,
+"agreeRate":    38.27,
+"disagreeRate":    61.73,
+"adptVictor": "N",
+"ytpRate":     19.5,
+"ntpRate":    31.46 
 } 
 ] 
 },
 {
  "range": "基隆市 第01選區 安樂區新崙里",
-"area_nickname": "中正區、信義區、仁愛區、中山區、安樂區、暖暖區、七堵區",
+"area_nickname": "中正區、七堵區、暖暖區、仁愛區、中山區、安樂區、信義區",
 "county": "10017",
 "area": "01",
 "town": "060",
 "vill": "014",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    53.23,
+"votePop":     3921,
 "candidates": [
  {
  "candNo": "1",
 "name": "林沛祥",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      800,
+"disagreeTks":     1279,
+"agreeRate":    38.48,
+"disagreeRate":    61.52,
+"adptVictor": "N",
+"ytpRate":     20.4,
+"ntpRate":    32.62 
 } 
 ] 
 },
 {
  "range": "基隆市 第01選區 安樂區武崙里",
-"area_nickname": "中正區、信義區、仁愛區、中山區、安樂區、暖暖區、七堵區",
+"area_nickname": "中正區、七堵區、暖暖區、仁愛區、中山區、安樂區、信義區",
 "county": "10017",
 "area": "01",
 "town": "060",
 "vill": "021",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    56.47,
+"votePop":     4944,
 "candidates": [
  {
  "candNo": "1",
 "name": "林沛祥",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":     1062,
+"disagreeTks":     1714,
+"agreeRate":    38.26,
+"disagreeRate":    61.74,
+"adptVictor": "N",
+"ytpRate":    21.48,
+"ntpRate":    34.67 
 } 
 ] 
 },
 {
  "range": "基隆市 第01選區 安樂區中崙里",
-"area_nickname": "中正區、信義區、仁愛區、中山區、安樂區、暖暖區、七堵區",
+"area_nickname": "中正區、七堵區、暖暖區、仁愛區、中山區、安樂區、信義區",
 "county": "10017",
 "area": "01",
 "town": "060",
 "vill": "012",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    52.91,
+"votePop":     1652,
 "candidates": [
  {
  "candNo": "1",
 "name": "林沛祥",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      347,
+"disagreeTks":      525,
+"agreeRate":    39.79,
+"disagreeRate":    60.21,
+"adptVictor": "N",
+"ytpRate":       21,
+"ntpRate":    31.78 
 } 
 ] 
 },
 {
  "range": "基隆市 第01選區 安樂區內寮里",
-"area_nickname": "中正區、信義區、仁愛區、中山區、安樂區、暖暖區、七堵區",
+"area_nickname": "中正區、七堵區、暖暖區、仁愛區、中山區、安樂區、信義區",
 "county": "10017",
 "area": "01",
 "town": "060",
 "vill": "013",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":     50.6,
+"votePop":     5277,
 "candidates": [
  {
  "candNo": "1",
 "name": "林沛祥",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":     1077,
+"disagreeTks":     1580,
+"agreeRate":    40.53,
+"disagreeRate":    59.47,
+"adptVictor": "N",
+"ytpRate":    20.41,
+"ntpRate":    29.94 
 } 
 ] 
 },
 {
  "range": "基隆市 第01選區 暖暖區八西里",
-"area_nickname": "中正區、信義區、仁愛區、中山區、安樂區、暖暖區、七堵區",
+"area_nickname": "中正區、七堵區、暖暖區、仁愛區、中山區、安樂區、信義區",
 "county": "10017",
 "area": "01",
 "town": "030",
 "vill": "001",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    52.22,
+"votePop":     1281,
 "candidates": [
  {
  "candNo": "1",
 "name": "林沛祥",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      272,
+"disagreeTks":      394,
+"agreeRate":    40.84,
+"disagreeRate":    59.16,
+"adptVictor": "N",
+"ytpRate":    21.23,
+"ntpRate":    30.76 
 } 
 ] 
 },
 {
  "range": "基隆市 第01選區 暖暖區八中里",
-"area_nickname": "中正區、信義區、仁愛區、中山區、安樂區、暖暖區、七堵區",
+"area_nickname": "中正區、七堵區、暖暖區、仁愛區、中山區、安樂區、信義區",
 "county": "10017",
 "area": "01",
 "town": "030",
 "vill": "011",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    50.82,
+"votePop":      368,
 "candidates": [
  {
  "candNo": "1",
 "name": "林沛祥",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":       85,
+"disagreeTks":      100,
+"agreeRate":    45.95,
+"disagreeRate":    54.05,
+"adptVictor": "N",
+"ytpRate":     23.1,
+"ntpRate":    27.17 
 } 
 ] 
 },
 {
  "range": "基隆市 第01選區 暖暖區八堵里",
-"area_nickname": "中正區、信義區、仁愛區、中山區、安樂區、暖暖區、七堵區",
+"area_nickname": "中正區、七堵區、暖暖區、仁愛區、中山區、安樂區、信義區",
 "county": "10017",
 "area": "01",
 "town": "030",
 "vill": "002",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":     53.9,
+"votePop":      564,
 "candidates": [
  {
  "candNo": "1",
 "name": "林沛祥",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      146,
+"disagreeTks":      157,
+"agreeRate":    48.18,
+"disagreeRate":    51.82,
+"adptVictor": "N",
+"ytpRate":    25.89,
+"ntpRate":    27.84 
 } 
 ] 
 },
 {
  "range": "基隆市 第01選區 暖暖區八南里",
-"area_nickname": "中正區、信義區、仁愛區、中山區、安樂區、暖暖區、七堵區",
+"area_nickname": "中正區、七堵區、暖暖區、仁愛區、中山區、安樂區、信義區",
 "county": "10017",
 "area": "01",
 "town": "030",
 "vill": "003",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":     50.2,
+"votePop":      733,
 "candidates": [
  {
  "candNo": "1",
 "name": "林沛祥",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      181,
+"disagreeTks":      185,
+"agreeRate":    49.45,
+"disagreeRate":    50.55,
+"adptVictor": "N",
+"ytpRate":    24.69,
+"ntpRate":    25.24 
 } 
 ] 
 },
 {
  "range": "基隆市 第01選區 暖暖區過港里",
-"area_nickname": "中正區、信義區、仁愛區、中山區、安樂區、暖暖區、七堵區",
+"area_nickname": "中正區、七堵區、暖暖區、仁愛區、中山區、安樂區、信義區",
 "county": "10017",
 "area": "01",
 "town": "030",
 "vill": "004",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    52.46,
+"votePop":     3490,
 "candidates": [
  {
  "candNo": "1",
 "name": "林沛祥",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      756,
+"disagreeTks":     1066,
+"agreeRate":    41.49,
+"disagreeRate":    58.51,
+"adptVictor": "N",
+"ytpRate":    21.66,
+"ntpRate":    30.54 
 } 
 ] 
 },
 {
  "range": "基隆市 第01選區 暖暖區暖暖里",
-"area_nickname": "中正區、信義區、仁愛區、中山區、安樂區、暖暖區、七堵區",
+"area_nickname": "中正區、七堵區、暖暖區、仁愛區、中山區、安樂區、信義區",
 "county": "10017",
 "area": "01",
 "town": "030",
 "vill": "008",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    56.92,
+"votePop":     2419,
 "candidates": [
  {
  "candNo": "1",
 "name": "林沛祥",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      556,
+"disagreeTks":      812,
+"agreeRate":    40.64,
+"disagreeRate":    59.36,
+"adptVictor": "N",
+"ytpRate":    22.98,
+"ntpRate":    33.57 
 } 
 ] 
 },
 {
  "range": "基隆市 第01選區 暖暖區暖同里",
-"area_nickname": "中正區、信義區、仁愛區、中山區、安樂區、暖暖區、七堵區",
+"area_nickname": "中正區、七堵區、暖暖區、仁愛區、中山區、安樂區、信義區",
 "county": "10017",
 "area": "01",
 "town": "030",
 "vill": "007",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    50.82,
+"votePop":     2513,
 "candidates": [
  {
  "candNo": "1",
 "name": "林沛祥",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      664,
+"disagreeTks":      607,
+"agreeRate":    52.24,
+"disagreeRate":    47.76,
+"adptVictor": "N",
+"ytpRate":    26.42,
+"ntpRate":    24.15 
 } 
 ] 
 },
 {
  "range": "基隆市 第01選區 暖暖區暖東里",
-"area_nickname": "中正區、信義區、仁愛區、中山區、安樂區、暖暖區、七堵區",
+"area_nickname": "中正區、七堵區、暖暖區、仁愛區、中山區、安樂區、信義區",
 "county": "10017",
 "area": "01",
 "town": "030",
 "vill": "009",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    48.75,
+"votePop":      359,
 "candidates": [
  {
  "candNo": "1",
 "name": "林沛祥",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":       74,
+"disagreeTks":      100,
+"agreeRate":    42.53,
+"disagreeRate":    57.47,
+"adptVictor": "N",
+"ytpRate":    20.61,
+"ntpRate":    27.86 
 } 
 ] 
 },
 {
  "range": "基隆市 第01選區 暖暖區暖西里",
-"area_nickname": "中正區、信義區、仁愛區、中山區、安樂區、暖暖區、七堵區",
+"area_nickname": "中正區、七堵區、暖暖區、仁愛區、中山區、安樂區、信義區",
 "county": "10017",
 "area": "01",
 "town": "030",
 "vill": "010",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    54.93,
+"votePop":     4600,
 "candidates": [
  {
  "candNo": "1",
 "name": "林沛祥",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":     1058,
+"disagreeTks":     1454,
+"agreeRate":    42.12,
+"disagreeRate":    57.88,
+"adptVictor": "N",
+"ytpRate":       23,
+"ntpRate":    31.61 
 } 
 ] 
 },
 {
  "range": "基隆市 第01選區 暖暖區碇內里",
-"area_nickname": "中正區、信義區、仁愛區、中山區、安樂區、暖暖區、七堵區",
+"area_nickname": "中正區、七堵區、暖暖區、仁愛區、中山區、安樂區、信義區",
 "county": "10017",
 "area": "01",
 "town": "030",
 "vill": "005",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    54.52,
+"votePop":     2469,
 "candidates": [
  {
  "candNo": "1",
 "name": "林沛祥",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      486,
+"disagreeTks":      855,
+"agreeRate":    36.24,
+"disagreeRate":    63.76,
+"adptVictor": "N",
+"ytpRate":    19.68,
+"ntpRate":    34.63 
 } 
 ] 
 },
 {
  "range": "基隆市 第01選區 暖暖區碇和里",
-"area_nickname": "中正區、信義區、仁愛區、中山區、安樂區、暖暖區、七堵區",
+"area_nickname": "中正區、七堵區、暖暖區、仁愛區、中山區、安樂區、信義區",
 "county": "10017",
 "area": "01",
 "town": "030",
 "vill": "006",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    53.69,
+"votePop":     2926,
 "candidates": [
  {
  "candNo": "1",
 "name": "林沛祥",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      528,
+"disagreeTks":     1035,
+"agreeRate":    33.78,
+"disagreeRate":    66.22,
+"adptVictor": "N",
+"ytpRate":    18.05,
+"ntpRate":    35.37 
 } 
 ] 
 },
 {
  "range": "基隆市 第01選區 暖暖區碇祥里",
-"area_nickname": "中正區、信義區、仁愛區、中山區、安樂區、暖暖區、七堵區",
+"area_nickname": "中正區、七堵區、暖暖區、仁愛區、中山區、安樂區、信義區",
 "county": "10017",
 "area": "01",
 "town": "030",
 "vill": "013",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    50.89,
+"votePop":     5873,
 "candidates": [
  {
  "candNo": "1",
 "name": "林沛祥",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":     1069,
+"disagreeTks":     1910,
+"agreeRate":    35.88,
+"disagreeRate":    64.12,
+"adptVictor": "N",
+"ytpRate":     18.2,
+"ntpRate":    32.52 
 } 
 ] 
 },
 {
  "range": "基隆市 第01選區 暖暖區碇安里",
-"area_nickname": "中正區、信義區、仁愛區、中山區、安樂區、暖暖區、七堵區",
+"area_nickname": "中正區、七堵區、暖暖區、仁愛區、中山區、安樂區、信義區",
 "county": "10017",
 "area": "01",
 "town": "030",
 "vill": "012",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    53.15,
+"votePop":     4715,
 "candidates": [
  {
  "candNo": "1",
 "name": "林沛祥",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      977,
+"disagreeTks":     1519,
+"agreeRate":    39.14,
+"disagreeRate":    60.86,
+"adptVictor": "N",
+"ytpRate":    20.72,
+"ntpRate":    32.22 
 } 
 ] 
 },
 {
  "range": "基隆市 第01選區 七堵區長興里",
-"area_nickname": "中正區、信義區、仁愛區、中山區、安樂區、暖暖區、七堵區",
+"area_nickname": "中正區、七堵區、暖暖區、仁愛區、中山區、安樂區、信義區",
 "county": "10017",
 "area": "01",
 "town": "020",
 "vill": "001",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    52.88,
+"votePop":     3504,
 "candidates": [
  {
  "candNo": "1",
 "name": "林沛祥",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      749,
+"disagreeTks":     1088,
+"agreeRate":    40.77,
+"disagreeRate":    59.23,
+"adptVictor": "N",
+"ytpRate":    21.38,
+"ntpRate":    31.05 
 } 
 ] 
 },
 {
  "range": "基隆市 第01選區 七堵區正光里",
-"area_nickname": "中正區、信義區、仁愛區、中山區、安樂區、暖暖區、七堵區",
+"area_nickname": "中正區、七堵區、暖暖區、仁愛區、中山區、安樂區、信義區",
 "county": "10017",
 "area": "01",
 "town": "020",
 "vill": "002",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    51.81,
+"votePop":     2432,
 "candidates": [
  {
  "candNo": "1",
 "name": "林沛祥",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      529,
+"disagreeTks":      725,
+"agreeRate":    42.19,
+"disagreeRate":    57.81,
+"adptVictor": "N",
+"ytpRate":    21.75,
+"ntpRate":    29.81 
 } 
 ] 
 },
 {
  "range": "基隆市 第01選區 七堵區正明里",
-"area_nickname": "中正區、信義區、仁愛區、中山區、安樂區、暖暖區、七堵區",
+"area_nickname": "中正區、七堵區、暖暖區、仁愛區、中山區、安樂區、信義區",
 "county": "10017",
 "area": "01",
 "town": "020",
 "vill": "017",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    54.87,
+"votePop":     1766,
 "candidates": [
  {
  "candNo": "1",
 "name": "林沛祥",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      428,
+"disagreeTks":      540,
+"agreeRate":    44.21,
+"disagreeRate":    55.79,
+"adptVictor": "N",
+"ytpRate":    24.24,
+"ntpRate":    30.58 
 } 
 ] 
 },
 {
  "range": "基隆市 第01選區 七堵區富民里",
-"area_nickname": "中正區、信義區、仁愛區、中山區、安樂區、暖暖區、七堵區",
+"area_nickname": "中正區、七堵區、暖暖區、仁愛區、中山區、安樂區、信義區",
 "county": "10017",
 "area": "01",
 "town": "020",
 "vill": "003",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    56.31,
+"votePop":     3209,
 "candidates": [
  {
  "candNo": "1",
 "name": "林沛祥",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      679,
+"disagreeTks":     1118,
+"agreeRate":    37.79,
+"disagreeRate":    62.21,
+"adptVictor": "N",
+"ytpRate":    21.16,
+"ntpRate":    34.84 
 } 
 ] 
 },
 {
  "range": "基隆市 第01選區 七堵區永平里",
-"area_nickname": "中正區、信義區、仁愛區、中山區、安樂區、暖暖區、七堵區",
+"area_nickname": "中正區、七堵區、暖暖區、仁愛區、中山區、安樂區、信義區",
 "county": "10017",
 "area": "01",
 "town": "020",
 "vill": "004",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    57.69,
+"votePop":     1756,
 "candidates": [
  {
  "candNo": "1",
 "name": "林沛祥",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      393,
+"disagreeTks":      615,
+"agreeRate":    38.99,
+"disagreeRate":    61.01,
+"adptVictor": "N",
+"ytpRate":    22.38,
+"ntpRate":    35.02 
 } 
 ] 
 },
 {
  "range": "基隆市 第01選區 七堵區永安里",
-"area_nickname": "中正區、信義區、仁愛區、中山區、安樂區、暖暖區、七堵區",
+"area_nickname": "中正區、七堵區、暖暖區、仁愛區、中山區、安樂區、信義區",
 "county": "10017",
 "area": "01",
 "town": "020",
 "vill": "005",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    56.38,
+"votePop":     1997,
 "candidates": [
  {
  "candNo": "1",
 "name": "林沛祥",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      430,
+"disagreeTks":      691,
+"agreeRate":    38.36,
+"disagreeRate":    61.64,
+"adptVictor": "N",
+"ytpRate":    21.53,
+"ntpRate":     34.6 
 } 
 ] 
 },
 {
  "range": "基隆市 第01選區 七堵區八德里",
-"area_nickname": "中正區、信義區、仁愛區、中山區、安樂區、暖暖區、七堵區",
+"area_nickname": "中正區、七堵區、暖暖區、仁愛區、中山區、安樂區、信義區",
 "county": "10017",
 "area": "01",
 "town": "020",
 "vill": "006",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    48.48,
+"votePop":     1386,
 "candidates": [
  {
  "candNo": "1",
 "name": "林沛祥",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      279,
+"disagreeTks":      387,
+"agreeRate":    41.89,
+"disagreeRate":    58.11,
+"adptVictor": "N",
+"ytpRate":    20.13,
+"ntpRate":    27.92 
 } 
 ] 
 },
 {
  "range": "基隆市 第01選區 七堵區自強里",
-"area_nickname": "中正區、信義區、仁愛區、中山區、安樂區、暖暖區、七堵區",
+"area_nickname": "中正區、七堵區、暖暖區、仁愛區、中山區、安樂區、信義區",
 "county": "10017",
 "area": "01",
 "town": "020",
 "vill": "007",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    53.03,
+"votePop":     1088,
 "candidates": [
  {
  "candNo": "1",
 "name": "林沛祥",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      241,
+"disagreeTks":      334,
+"agreeRate":    41.91,
+"disagreeRate":    58.09,
+"adptVictor": "N",
+"ytpRate":    22.15,
+"ntpRate":     30.7 
 } 
 ] 
 },
 {
  "range": "基隆市 第01選區 七堵區泰安里",
-"area_nickname": "中正區、信義區、仁愛區、中山區、安樂區、暖暖區、七堵區",
+"area_nickname": "中正區、七堵區、暖暖區、仁愛區、中山區、安樂區、信義區",
 "county": "10017",
 "area": "01",
 "town": "020",
 "vill": "009",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    52.75,
+"votePop":     4292,
 "candidates": [
  {
  "candNo": "1",
 "name": "林沛祥",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":     1056,
+"disagreeTks":     1196,
+"agreeRate":    46.89,
+"disagreeRate":    53.11,
+"adptVictor": "N",
+"ytpRate":     24.6,
+"ntpRate":    27.87 
 } 
 ] 
 },
 {
  "range": "基隆市 第01選區 七堵區六堵里",
-"area_nickname": "中正區、信義區、仁愛區、中山區、安樂區、暖暖區、七堵區",
+"area_nickname": "中正區、七堵區、暖暖區、仁愛區、中山區、安樂區、信義區",
 "county": "10017",
 "area": "01",
 "town": "020",
 "vill": "008",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    53.63,
+"votePop":     2165,
 "candidates": [
  {
  "candNo": "1",
 "name": "林沛祥",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      487,
+"disagreeTks":      667,
+"agreeRate":     42.2,
+"disagreeRate":     57.8,
+"adptVictor": "N",
+"ytpRate":    22.49,
+"ntpRate":    30.81 
 } 
 ] 
 },
 {
  "range": "基隆市 第01選區 七堵區堵南里",
-"area_nickname": "中正區、信義區、仁愛區、中山區、安樂區、暖暖區、七堵區",
+"area_nickname": "中正區、七堵區、暖暖區、仁愛區、中山區、安樂區、信義區",
 "county": "10017",
 "area": "01",
 "town": "020",
 "vill": "011",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    50.53,
+"votePop":     1963,
 "candidates": [
  {
  "candNo": "1",
 "name": "林沛祥",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      443,
+"disagreeTks":      543,
+"agreeRate":    44.93,
+"disagreeRate":    55.07,
+"adptVictor": "N",
+"ytpRate":    22.57,
+"ntpRate":    27.66 
 } 
 ] 
 },
 {
  "range": "基隆市 第01選區 七堵區長安里",
-"area_nickname": "中正區、信義區、仁愛區、中山區、安樂區、暖暖區、七堵區",
+"area_nickname": "中正區、七堵區、暖暖區、仁愛區、中山區、安樂區、信義區",
 "county": "10017",
 "area": "01",
 "town": "020",
 "vill": "020",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    50.51,
+"votePop":     2071,
 "candidates": [
  {
  "candNo": "1",
 "name": "林沛祥",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      447,
+"disagreeTks":      594,
+"agreeRate":    42.94,
+"disagreeRate":    57.06,
+"adptVictor": "N",
+"ytpRate":    21.58,
+"ntpRate":    28.68 
 } 
 ] 
 },
 {
  "range": "基隆市 第01選區 七堵區堵北里",
-"area_nickname": "中正區、信義區、仁愛區、中山區、安樂區、暖暖區、七堵區",
+"area_nickname": "中正區、七堵區、暖暖區、仁愛區、中山區、安樂區、信義區",
 "county": "10017",
 "area": "01",
 "town": "020",
 "vill": "010",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    53.12,
+"votePop":     3351,
 "candidates": [
  {
  "candNo": "1",
 "name": "林沛祥",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      794,
+"disagreeTks":      980,
+"agreeRate":    44.76,
+"disagreeRate":    55.24,
+"adptVictor": "N",
+"ytpRate":    23.69,
+"ntpRate":    29.25 
 } 
 ] 
 },
 {
  "range": "基隆市 第01選區 七堵區百福里",
-"area_nickname": "中正區、信義區、仁愛區、中山區、安樂區、暖暖區、七堵區",
+"area_nickname": "中正區、七堵區、暖暖區、仁愛區、中山區、安樂區、信義區",
 "county": "10017",
 "area": "01",
 "town": "020",
 "vill": "018",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    51.81,
+"votePop":     5694,
 "candidates": [
  {
  "candNo": "1",
 "name": "林沛祥",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":     1346,
+"disagreeTks":     1586,
+"agreeRate":    45.91,
+"disagreeRate":    54.09,
+"adptVictor": "N",
+"ytpRate":    23.64,
+"ntpRate":    27.85 
 } 
 ] 
 },
 {
  "range": "基隆市 第01選區 七堵區實踐里",
-"area_nickname": "中正區、信義區、仁愛區、中山區、安樂區、暖暖區、七堵區",
+"area_nickname": "中正區、七堵區、暖暖區、仁愛區、中山區、安樂區、信義區",
 "county": "10017",
 "area": "01",
 "town": "020",
 "vill": "019",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    50.48,
+"votePop":     3465,
 "candidates": [
  {
  "candNo": "1",
 "name": "林沛祥",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      758,
+"disagreeTks":      984,
+"agreeRate":    43.51,
+"disagreeRate":    56.49,
+"adptVictor": "N",
+"ytpRate":    21.88,
+"ntpRate":     28.4 
 } 
 ] 
 },
 {
  "range": "基隆市 第01選區 七堵區瑪南里",
-"area_nickname": "中正區、信義區、仁愛區、中山區、安樂區、暖暖區、七堵區",
+"area_nickname": "中正區、七堵區、暖暖區、仁愛區、中山區、安樂區、信義區",
 "county": "10017",
 "area": "01",
 "town": "020",
 "vill": "012",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    48.74,
+"votePop":      357,
 "candidates": [
  {
  "candNo": "1",
 "name": "林沛祥",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":       92,
+"disagreeTks":       81,
+"agreeRate":    53.18,
+"disagreeRate":    46.82,
+"adptVictor": "N",
+"ytpRate":    25.77,
+"ntpRate":    22.69 
 } 
 ] 
 },
 {
  "range": "基隆市 第01選區 七堵區瑪東里",
-"area_nickname": "中正區、信義區、仁愛區、中山區、安樂區、暖暖區、七堵區",
+"area_nickname": "中正區、七堵區、暖暖區、仁愛區、中山區、安樂區、信義區",
 "county": "10017",
 "area": "01",
 "town": "020",
 "vill": "013",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    47.08,
+"votePop":      308,
 "candidates": [
  {
  "candNo": "1",
 "name": "林沛祥",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":       66,
+"disagreeTks":       77,
+"agreeRate":    46.15,
+"disagreeRate":    53.85,
+"adptVictor": "N",
+"ytpRate":    21.43,
+"ntpRate":       25 
 } 
 ] 
 },
 {
  "range": "基隆市 第01選區 七堵區瑪西里",
-"area_nickname": "中正區、信義區、仁愛區、中山區、安樂區、暖暖區、七堵區",
+"area_nickname": "中正區、七堵區、暖暖區、仁愛區、中山區、安樂區、信義區",
 "county": "10017",
 "area": "01",
 "town": "020",
 "vill": "014",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    52.19,
+"votePop":      297,
 "candidates": [
  {
  "candNo": "1",
 "name": "林沛祥",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":       70,
+"disagreeTks":       84,
+"agreeRate":    45.45,
+"disagreeRate":    54.55,
+"adptVictor": "N",
+"ytpRate":    23.57,
+"ntpRate":    28.28 
 } 
 ] 
 },
 {
  "range": "基隆市 第01選區 七堵區友一里",
-"area_nickname": "中正區、信義區、仁愛區、中山區、安樂區、暖暖區、七堵區",
+"area_nickname": "中正區、七堵區、暖暖區、仁愛區、中山區、安樂區、信義區",
 "county": "10017",
 "area": "01",
 "town": "020",
 "vill": "015",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":     53.5,
+"votePop":     1983,
 "candidates": [
  {
  "candNo": "1",
 "name": "林沛祥",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      393,
+"disagreeTks":      662,
+"agreeRate":    37.25,
+"disagreeRate":    62.75,
+"adptVictor": "N",
+"ytpRate":    19.82,
+"ntpRate":    33.38 
 } 
 ] 
 },
 {
  "range": "基隆市 第01選區 七堵區友二里",
-"area_nickname": "中正區、信義區、仁愛區、中山區、安樂區、暖暖區、七堵區",
+"area_nickname": "中正區、七堵區、暖暖區、仁愛區、中山區、安樂區、信義區",
 "county": "10017",
 "area": "01",
 "town": "020",
 "vill": "016",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    52.84,
+"votePop":      422,
 "candidates": [
  {
  "candNo": "1",
 "name": "林沛祥",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      115,
+"disagreeTks":      107,
+"agreeRate":     51.8,
+"disagreeRate":     48.2,
+"adptVictor": "N",
+"ytpRate":    27.25,
+"ntpRate":    25.36 
 } 
 ] 
 } 

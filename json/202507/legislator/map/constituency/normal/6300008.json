@@ -1,5 +1,5 @@
 {
- "updatedAt": "2025-07-10 10:33:00",
+ "updatedAt": "2025-08-19 17:43:00",
 "is_running": false,
 "is_started": true,
 "districts": [
@@ -11,19 +11,20 @@
 "town": "050",
 "vill": "001",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":     52.8,
+"votePop":     2394,
 "candidates": [
  {
  "candNo": "1",
 "name": "賴士葆",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      571,
+"disagreeTks":      687,
+"agreeRate":    45.39,
+"disagreeRate":    54.61,
+"adptVictor": "N",
+"ytpRate":    23.85,
+"ntpRate":     28.7 
 } 
 ] 
 },
@@ -35,19 +36,20 @@
 "town": "050",
 "vill": "002",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    52.22,
+"votePop":     1848,
 "candidates": [
  {
  "candNo": "1",
 "name": "賴士葆",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      306,
+"disagreeTks":      653,
+"agreeRate":    31.91,
+"disagreeRate":    68.09,
+"adptVictor": "N",
+"ytpRate":    16.56,
+"ntpRate":    35.34 
 } 
 ] 
 },
@@ -59,19 +61,20 @@
 "town": "050",
 "vill": "003",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    57.39,
+"votePop":     2058,
 "candidates": [
  {
  "candNo": "1",
 "name": "賴士葆",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      529,
+"disagreeTks":      649,
+"agreeRate":    44.91,
+"disagreeRate":    55.09,
+"adptVictor": "N",
+"ytpRate":     25.7,
+"ntpRate":    31.54 
 } 
 ] 
 },
@@ -83,19 +86,20 @@
 "town": "050",
 "vill": "004",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    55.14,
+"votePop":     3868,
 "candidates": [
  {
  "candNo": "1",
 "name": "賴士葆",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      847,
+"disagreeTks":     1276,
+"agreeRate":     39.9,
+"disagreeRate":     60.1,
+"adptVictor": "N",
+"ytpRate":     21.9,
+"ntpRate":    32.99 
 } 
 ] 
 },
@@ -107,19 +111,20 @@
 "town": "050",
 "vill": "005",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    57.72,
+"votePop":     3642,
 "candidates": [
  {
  "candNo": "1",
 "name": "賴士葆",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      891,
+"disagreeTks":     1203,
+"agreeRate":    42.55,
+"disagreeRate":    57.45,
+"adptVictor": "N",
+"ytpRate":    24.46,
+"ntpRate":    33.03 
 } 
 ] 
 },
@@ -131,19 +136,20 @@
 "town": "050",
 "vill": "006",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    58.96,
+"votePop":     4778,
 "candidates": [
  {
  "candNo": "1",
 "name": "賴士葆",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":     1230,
+"disagreeTks":     1577,
+"agreeRate":    43.82,
+"disagreeRate":    56.18,
+"adptVictor": "N",
+"ytpRate":    25.74,
+"ntpRate":    33.01 
 } 
 ] 
 },
@@ -155,19 +161,20 @@
 "town": "050",
 "vill": "007",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    58.18,
+"votePop":     4691,
 "candidates": [
  {
  "candNo": "1",
 "name": "賴士葆",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":     1187,
+"disagreeTks":     1526,
+"agreeRate":    43.75,
+"disagreeRate":    56.25,
+"adptVictor": "N",
+"ytpRate":     25.3,
+"ntpRate":    32.53 
 } 
 ] 
 },
@@ -179,19 +186,20 @@
 "town": "050",
 "vill": "008",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    56.91,
+"votePop":     2799,
 "candidates": [
  {
  "candNo": "1",
 "name": "賴士葆",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      633,
+"disagreeTks":      950,
+"agreeRate":    39.99,
+"disagreeRate":    60.01,
+"adptVictor": "N",
+"ytpRate":    22.62,
+"ntpRate":    33.94 
 } 
 ] 
 },
@@ -203,19 +211,20 @@
 "town": "050",
 "vill": "009",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    58.61,
+"votePop":     4545,
 "candidates": [
  {
  "candNo": "1",
 "name": "賴士葆",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":     1091,
+"disagreeTks":     1563,
+"agreeRate":    41.11,
+"disagreeRate":    58.89,
+"adptVictor": "N",
+"ytpRate":       24,
+"ntpRate":    34.39 
 } 
 ] 
 },
@@ -227,19 +236,20 @@
 "town": "050",
 "vill": "010",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    55.69,
+"votePop":     3288,
 "candidates": [
  {
  "candNo": "1",
 "name": "賴士葆",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      778,
+"disagreeTks":     1045,
+"agreeRate":    42.68,
+"disagreeRate":    57.32,
+"adptVictor": "N",
+"ytpRate":    23.66,
+"ntpRate":    31.78 
 } 
 ] 
 },
@@ -251,19 +261,20 @@
 "town": "080",
 "vill": "001",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    56.93,
+"votePop":     6102,
 "candidates": [
  {
  "candNo": "1",
 "name": "賴士葆",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":     1564,
+"disagreeTks":     1894,
+"agreeRate":    45.23,
+"disagreeRate":    54.77,
+"adptVictor": "N",
+"ytpRate":    25.63,
+"ntpRate":    31.04 
 } 
 ] 
 },
@@ -275,19 +286,20 @@
 "town": "080",
 "vill": "002",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    57.64,
+"votePop":     5581,
 "candidates": [
  {
  "candNo": "1",
 "name": "賴士葆",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":     1193,
+"disagreeTks":     2008,
+"agreeRate":    37.27,
+"disagreeRate":    62.73,
+"adptVictor": "N",
+"ytpRate":    21.38,
+"ntpRate":    35.98 
 } 
 ] 
 },
@@ -299,19 +311,20 @@
 "town": "080",
 "vill": "003",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    58.37,
+"votePop":     4100,
 "candidates": [
  {
  "candNo": "1",
 "name": "賴士葆",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":     1011,
+"disagreeTks":     1373,
+"agreeRate":    42.41,
+"disagreeRate":    57.59,
+"adptVictor": "N",
+"ytpRate":    24.66,
+"ntpRate":    33.49 
 } 
 ] 
 },
@@ -323,19 +336,20 @@
 "town": "080",
 "vill": "004",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    59.24,
+"votePop":     5069,
 "candidates": [
  {
  "candNo": "1",
 "name": "賴士葆",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":     1232,
+"disagreeTks":     1762,
+"agreeRate":    41.15,
+"disagreeRate":    58.85,
+"adptVictor": "N",
+"ytpRate":     24.3,
+"ntpRate":    34.76 
 } 
 ] 
 },
@@ -347,19 +361,20 @@
 "town": "080",
 "vill": "005",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    60.53,
+"votePop":     4748,
 "candidates": [
  {
  "candNo": "1",
 "name": "賴士葆",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":     1128,
+"disagreeTks":     1737,
+"agreeRate":    39.37,
+"disagreeRate":    60.63,
+"adptVictor": "N",
+"ytpRate":    23.76,
+"ntpRate":    36.58 
 } 
 ] 
 },
@@ -371,19 +386,20 @@
 "town": "080",
 "vill": "006",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":     60.2,
+"votePop":     4387,
 "candidates": [
  {
  "candNo": "1",
 "name": "賴士葆",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":     1039,
+"disagreeTks":     1590,
+"agreeRate":    39.52,
+"disagreeRate":    60.48,
+"adptVictor": "N",
+"ytpRate":    23.68,
+"ntpRate":    36.24 
 } 
 ] 
 },
@@ -395,19 +411,20 @@
 "town": "080",
 "vill": "007",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    61.12,
+"votePop":     4372,
 "candidates": [
  {
  "candNo": "1",
 "name": "賴士葆",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":     1035,
+"disagreeTks":     1628,
+"agreeRate":    38.87,
+"disagreeRate":    61.13,
+"adptVictor": "N",
+"ytpRate":    23.67,
+"ntpRate":    37.24 
 } 
 ] 
 },
@@ -419,19 +436,20 @@
 "town": "080",
 "vill": "008",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    59.67,
+"votePop":     3608,
 "candidates": [
  {
  "candNo": "1",
 "name": "賴士葆",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      911,
+"disagreeTks":     1236,
+"agreeRate":    42.43,
+"disagreeRate":    57.57,
+"adptVictor": "N",
+"ytpRate":    25.25,
+"ntpRate":    34.26 
 } 
 ] 
 },
@@ -443,19 +461,20 @@
 "town": "080",
 "vill": "009",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    60.58,
+"votePop":     5558,
 "candidates": [
  {
  "candNo": "1",
 "name": "賴士葆",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":     1264,
+"disagreeTks":     2086,
+"agreeRate":    37.73,
+"disagreeRate":    62.27,
+"adptVictor": "N",
+"ytpRate":    22.74,
+"ntpRate":    37.53 
 } 
 ] 
 },
@@ -467,19 +486,20 @@
 "town": "080",
 "vill": "010",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    60.13,
+"votePop":     4226,
 "candidates": [
  {
  "candNo": "1",
 "name": "賴士葆",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":     1075,
+"disagreeTks":     1465,
+"agreeRate":    42.32,
+"disagreeRate":    57.68,
+"adptVictor": "N",
+"ytpRate":    25.44,
+"ntpRate":    34.67 
 } 
 ] 
 },
@@ -491,19 +511,20 @@
 "town": "080",
 "vill": "011",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    60.29,
+"votePop":     2994,
 "candidates": [
  {
  "candNo": "1",
 "name": "賴士葆",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      574,
+"disagreeTks":     1221,
+"agreeRate":    31.98,
+"disagreeRate":    68.02,
+"adptVictor": "N",
+"ytpRate":    19.17,
+"ntpRate":    40.78 
 } 
 ] 
 },
@@ -515,19 +536,20 @@
 "town": "080",
 "vill": "012",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    59.79,
+"votePop":     3790,
 "candidates": [
  {
  "candNo": "1",
 "name": "賴士葆",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      909,
+"disagreeTks":     1350,
+"agreeRate":    40.24,
+"disagreeRate":    59.76,
+"adptVictor": "N",
+"ytpRate":    23.98,
+"ntpRate":    35.62 
 } 
 ] 
 },
@@ -539,19 +561,20 @@
 "town": "080",
 "vill": "013",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    60.71,
+"votePop":     4024,
 "candidates": [
  {
  "candNo": "1",
 "name": "賴士葆",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      965,
+"disagreeTks":     1465,
+"agreeRate":    39.71,
+"disagreeRate":    60.29,
+"adptVictor": "N",
+"ytpRate":    23.98,
+"ntpRate":    36.41 
 } 
 ] 
 },
@@ -563,19 +586,20 @@
 "town": "080",
 "vill": "042",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":     61.8,
+"votePop":     4063,
 "candidates": [
  {
  "candNo": "1",
 "name": "賴士葆",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      802,
+"disagreeTks":     1700,
+"agreeRate":    32.05,
+"disagreeRate":    67.95,
+"adptVictor": "N",
+"ytpRate":    19.74,
+"ntpRate":    41.84 
 } 
 ] 
 },
@@ -587,19 +611,20 @@
 "town": "080",
 "vill": "014",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    57.46,
+"votePop":     3249,
 "candidates": [
  {
  "candNo": "1",
 "name": "賴士葆",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      782,
+"disagreeTks":     1072,
+"agreeRate":    42.18,
+"disagreeRate":    57.82,
+"adptVictor": "N",
+"ytpRate":    24.07,
+"ntpRate":    32.99 
 } 
 ] 
 },
@@ -611,19 +636,20 @@
 "town": "080",
 "vill": "015",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    60.98,
+"votePop":     5912,
 "candidates": [
  {
  "candNo": "1",
 "name": "賴士葆",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":     1254,
+"disagreeTks":     2337,
+"agreeRate":    34.92,
+"disagreeRate":    65.08,
+"adptVictor": "N",
+"ytpRate":    21.21,
+"ntpRate":    39.53 
 } 
 ] 
 },
@@ -635,19 +661,20 @@
 "town": "080",
 "vill": "016",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    59.43,
+"votePop":     5011,
 "candidates": [
  {
  "candNo": "1",
 "name": "賴士葆",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":     1116,
+"disagreeTks":     1855,
+"agreeRate":    37.56,
+"disagreeRate":    62.44,
+"adptVictor": "N",
+"ytpRate":    22.27,
+"ntpRate":    37.02 
 } 
 ] 
 },
@@ -659,19 +686,20 @@
 "town": "080",
 "vill": "017",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    58.91,
+"votePop":     4213,
 "candidates": [
  {
  "candNo": "1",
 "name": "賴士葆",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      833,
+"disagreeTks":     1642,
+"agreeRate":    33.66,
+"disagreeRate":    66.34,
+"adptVictor": "N",
+"ytpRate":    19.77,
+"ntpRate":    38.97 
 } 
 ] 
 },
@@ -683,19 +711,20 @@
 "town": "080",
 "vill": "018",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    60.75,
+"votePop":     5460,
 "candidates": [
  {
  "candNo": "1",
 "name": "賴士葆",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":     1180,
+"disagreeTks":     2128,
+"agreeRate":    35.67,
+"disagreeRate":    64.33,
+"adptVictor": "N",
+"ytpRate":    21.61,
+"ntpRate":    38.97 
 } 
 ] 
 },
@@ -707,19 +736,20 @@
 "town": "080",
 "vill": "019",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    60.79,
+"votePop":     4366,
 "candidates": [
  {
  "candNo": "1",
 "name": "賴士葆",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":     1101,
+"disagreeTks":     1540,
+"agreeRate":    41.69,
+"disagreeRate":    58.31,
+"adptVictor": "N",
+"ytpRate":    25.22,
+"ntpRate":    35.27 
 } 
 ] 
 },
@@ -731,19 +761,20 @@
 "town": "080",
 "vill": "020",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    59.43,
+"votePop":     6635,
 "candidates": [
  {
  "candNo": "1",
 "name": "賴士葆",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":     1314,
+"disagreeTks":     2611,
+"agreeRate":    33.48,
+"disagreeRate":    66.52,
+"adptVictor": "N",
+"ytpRate":     19.8,
+"ntpRate":    39.35 
 } 
 ] 
 },
@@ -755,19 +786,20 @@
 "town": "080",
 "vill": "021",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    58.83,
+"votePop":     3357,
 "candidates": [
  {
  "candNo": "1",
 "name": "賴士葆",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      770,
+"disagreeTks":     1193,
+"agreeRate":    39.23,
+"disagreeRate":    60.77,
+"adptVictor": "N",
+"ytpRate":    22.94,
+"ntpRate":    35.54 
 } 
 ] 
 },
@@ -779,19 +811,20 @@
 "town": "080",
 "vill": "022",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    58.25,
+"votePop":     5325,
 "candidates": [
  {
  "candNo": "1",
 "name": "賴士葆",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":     1131,
+"disagreeTks":     1955,
+"agreeRate":    36.65,
+"disagreeRate":    63.35,
+"adptVictor": "N",
+"ytpRate":    21.24,
+"ntpRate":    36.71 
 } 
 ] 
 },
@@ -803,19 +836,20 @@
 "town": "080",
 "vill": "023",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    61.79,
+"votePop":     5569,
 "candidates": [
  {
  "candNo": "1",
 "name": "賴士葆",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":     1243,
+"disagreeTks":     2176,
+"agreeRate":    36.36,
+"disagreeRate":    63.64,
+"adptVictor": "N",
+"ytpRate":    22.32,
+"ntpRate":    39.07 
 } 
 ] 
 },
@@ -827,19 +861,20 @@
 "town": "080",
 "vill": "024",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    58.74,
+"votePop":     7339,
 "candidates": [
  {
  "candNo": "1",
 "name": "賴士葆",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":     1640,
+"disagreeTks":     2656,
+"agreeRate":    38.18,
+"disagreeRate":    61.82,
+"adptVictor": "N",
+"ytpRate":    22.35,
+"ntpRate":    36.19 
 } 
 ] 
 },
@@ -851,19 +886,20 @@
 "town": "080",
 "vill": "025",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    53.27,
+"votePop":     2934,
 "candidates": [
  {
  "candNo": "1",
 "name": "賴士葆",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      556,
+"disagreeTks":      996,
+"agreeRate":    35.82,
+"disagreeRate":    64.18,
+"adptVictor": "N",
+"ytpRate":    18.95,
+"ntpRate":    33.95 
 } 
 ] 
 },
@@ -875,19 +911,20 @@
 "town": "080",
 "vill": "026",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    59.35,
+"votePop":     5447,
 "candidates": [
  {
  "candNo": "1",
 "name": "賴士葆",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":     1205,
+"disagreeTks":     2010,
+"agreeRate":    37.48,
+"disagreeRate":    62.52,
+"adptVictor": "N",
+"ytpRate":    22.12,
+"ntpRate":     36.9 
 } 
 ] 
 },
@@ -899,19 +936,20 @@
 "town": "080",
 "vill": "027",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    59.96,
+"votePop":     7904,
 "candidates": [
  {
  "candNo": "1",
 "name": "賴士葆",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":     1616,
+"disagreeTks":     3105,
+"agreeRate":    34.23,
+"disagreeRate":    65.77,
+"adptVictor": "N",
+"ytpRate":    20.45,
+"ntpRate":    39.28 
 } 
 ] 
 },
@@ -923,19 +961,20 @@
 "town": "080",
 "vill": "028",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    49.94,
+"votePop":     8640,
 "candidates": [
  {
  "candNo": "1",
 "name": "賴士葆",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":     1875,
+"disagreeTks":     2425,
+"agreeRate":     43.6,
+"disagreeRate":     56.4,
+"adptVictor": "N",
+"ytpRate":     21.7,
+"ntpRate":    28.07 
 } 
 ] 
 },
@@ -947,19 +986,20 @@
 "town": "080",
 "vill": "029",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    60.29,
+"votePop":     5815,
 "candidates": [
  {
  "candNo": "1",
 "name": "賴士葆",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":     1398,
+"disagreeTks":     2096,
+"agreeRate":    40.01,
+"disagreeRate":    59.99,
+"adptVictor": "N",
+"ytpRate":    24.04,
+"ntpRate":    36.04 
 } 
 ] 
 },
@@ -971,19 +1011,20 @@
 "town": "080",
 "vill": "038",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    61.47,
+"votePop":     3470,
 "candidates": [
  {
  "candNo": "1",
 "name": "賴士葆",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      713,
+"disagreeTks":     1407,
+"agreeRate":    33.63,
+"disagreeRate":    66.37,
+"adptVictor": "N",
+"ytpRate":    20.55,
+"ntpRate":    40.55 
 } 
 ] 
 },
@@ -995,19 +1036,20 @@
 "town": "080",
 "vill": "030",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    57.34,
+"votePop":     6727,
 "candidates": [
  {
  "candNo": "1",
 "name": "賴士葆",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":     1439,
+"disagreeTks":     2401,
+"agreeRate":    37.47,
+"disagreeRate":    62.53,
+"adptVictor": "N",
+"ytpRate":    21.39,
+"ntpRate":    35.69 
 } 
 ] 
 },
@@ -1019,19 +1061,20 @@
 "town": "080",
 "vill": "031",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":     59.5,
+"votePop":     4338,
 "candidates": [
  {
  "candNo": "1",
 "name": "賴士葆",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      947,
+"disagreeTks":     1621,
+"agreeRate":    36.88,
+"disagreeRate":    63.12,
+"adptVictor": "N",
+"ytpRate":    21.83,
+"ntpRate":    37.37 
 } 
 ] 
 },
@@ -1043,19 +1086,20 @@
 "town": "080",
 "vill": "041",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    59.39,
+"votePop":     4844,
 "candidates": [
  {
  "candNo": "1",
 "name": "賴士葆",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":     1208,
+"disagreeTks":     1658,
+"agreeRate":    42.15,
+"disagreeRate":    57.85,
+"adptVictor": "N",
+"ytpRate":    24.94,
+"ntpRate":    34.23 
 } 
 ] 
 },
@@ -1067,19 +1111,20 @@
 "town": "080",
 "vill": "032",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    60.23,
+"votePop":     4322,
 "candidates": [
  {
  "candNo": "1",
 "name": "賴士葆",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      994,
+"disagreeTks":     1594,
+"agreeRate":    38.41,
+"disagreeRate":    61.59,
+"adptVictor": "N",
+"ytpRate":       23,
+"ntpRate":    36.88 
 } 
 ] 
 },
@@ -1091,19 +1136,20 @@
 "town": "080",
 "vill": "043",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    59.04,
+"votePop":     3689,
 "candidates": [
  {
  "candNo": "1",
 "name": "賴士葆",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      864,
+"disagreeTks":     1305,
+"agreeRate":    39.83,
+"disagreeRate":    60.17,
+"adptVictor": "N",
+"ytpRate":    23.42,
+"ntpRate":    35.38 
 } 
 ] 
 },
@@ -1115,19 +1161,20 @@
 "town": "080",
 "vill": "033",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    59.12,
+"votePop":     6313,
 "candidates": [
  {
  "candNo": "1",
 "name": "賴士葆",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":     1418,
+"disagreeTks":     2298,
+"agreeRate":    38.16,
+"disagreeRate":    61.84,
+"adptVictor": "N",
+"ytpRate":    22.46,
+"ntpRate":     36.4 
 } 
 ] 
 },
@@ -1139,19 +1186,20 @@
 "town": "080",
 "vill": "039",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    58.03,
+"votePop":     5756,
 "candidates": [
  {
  "candNo": "1",
 "name": "賴士葆",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":     1282,
+"disagreeTks":     2035,
+"agreeRate":    38.65,
+"disagreeRate":    61.35,
+"adptVictor": "N",
+"ytpRate":    22.27,
+"ntpRate":    35.35 
 } 
 ] 
 },
@@ -1163,19 +1211,20 @@
 "town": "080",
 "vill": "034",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    58.04,
+"votePop":     4750,
 "candidates": [
  {
  "candNo": "1",
 "name": "賴士葆",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":     1105,
+"disagreeTks":     1639,
+"agreeRate":    40.27,
+"disagreeRate":    59.73,
+"adptVictor": "N",
+"ytpRate":    23.26,
+"ntpRate":    34.51 
 } 
 ] 
 },
@@ -1187,19 +1236,20 @@
 "town": "080",
 "vill": "035",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    58.71,
+"votePop":     6743,
 "candidates": [
  {
  "candNo": "1",
 "name": "賴士葆",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":     1652,
+"disagreeTks":     2288,
+"agreeRate":    41.93,
+"disagreeRate":    58.07,
+"adptVictor": "N",
+"ytpRate":     24.5,
+"ntpRate":    33.93 
 } 
 ] 
 },
@@ -1211,19 +1261,20 @@
 "town": "080",
 "vill": "040",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    57.61,
+"votePop":     5997,
 "candidates": [
  {
  "candNo": "1",
 "name": "賴士葆",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":     1473,
+"disagreeTks":     1968,
+"agreeRate":    42.81,
+"disagreeRate":    57.19,
+"adptVictor": "N",
+"ytpRate":    24.56,
+"ntpRate":    32.82 
 } 
 ] 
 },
@@ -1235,19 +1286,20 @@
 "town": "080",
 "vill": "036",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    56.53,
+"votePop":     3382,
 "candidates": [
  {
  "candNo": "1",
 "name": "賴士葆",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      853,
+"disagreeTks":     1050,
+"agreeRate":    44.82,
+"disagreeRate":    55.18,
+"adptVictor": "N",
+"ytpRate":    25.22,
+"ntpRate":    31.05 
 } 
 ] 
 },
@@ -1259,19 +1311,20 @@
 "town": "080",
 "vill": "037",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    61.01,
+"votePop":      713,
 "candidates": [
  {
  "candNo": "1",
 "name": "賴士葆",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      231,
+"disagreeTks":      202,
+"agreeRate":    53.35,
+"disagreeRate":    46.65,
+"adptVictor": "N",
+"ytpRate":     32.4,
+"ntpRate":    28.33 
 } 
 ] 
 } 

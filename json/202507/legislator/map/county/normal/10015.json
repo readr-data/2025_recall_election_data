@@ -1,29 +1,30 @@
 {
- "updatedAt": "2025-07-10 10:33:00",
+ "updatedAt": "2025-08-19 17:10:00",
 "is_running": false,
 "is_started": true,
 "districts": [
  {
  "range": "花蓮縣 第01選區",
-"area_nickname": "花蓮市、新城鄉、秀林鄉、吉安鄉、壽豐鄉、鳳林鎮、光復鄉、豐濱鄉、萬榮鄉、瑞穗鄉、玉里鎮、富里鄉、卓溪鄉",
+"area_nickname": "花蓮市、鳳林鎮、玉里鎮、新城鄉、吉安鄉、壽豐鄉、光復鄉、豐濱鄉、瑞穗鄉、富里鄉、秀林鄉、萬榮鄉、卓溪鄉",
 "county": "10015",
 "area": "01",
 "town": null,
 "vill": null,
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":     60.1,
+"votePop":   191367,
 "candidates": [
  {
  "candNo": "1",
 "name": "傅崐萁",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":    48969,
+"disagreeTks":    65300,
+"agreeRate":    42.85,
+"disagreeRate":    57.15,
+"adptVictor": "N",
+"ytpRate":    25.59,
+"ntpRate":    34.12 
 } 
 ] 
 } 

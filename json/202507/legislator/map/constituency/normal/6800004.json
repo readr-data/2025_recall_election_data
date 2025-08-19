@@ -1,5 +1,5 @@
 {
- "updatedAt": "2025-07-10 10:33:00",
+ "updatedAt": "2025-08-19 17:43:00",
 "is_running": false,
 "is_started": true,
 "districts": [
@@ -11,19 +11,20 @@
 "town": "010",
 "vill": "004",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":     53.3,
+"votePop":     6685,
 "candidates": [
  {
  "candNo": "1",
 "name": "萬美玲",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":     1592,
+"disagreeTks":     1964,
+"agreeRate":    44.77,
+"disagreeRate":    55.23,
+"adptVictor": "N",
+"ytpRate":    23.81,
+"ntpRate":    29.38 
 } 
 ] 
 },
@@ -35,19 +36,20 @@
 "town": "010",
 "vill": "032",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    59.16,
+"votePop":     5658,
 "candidates": [
  {
  "candNo": "1",
 "name": "萬美玲",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":     1411,
+"disagreeTks":     1923,
+"agreeRate":    42.32,
+"disagreeRate":    57.68,
+"adptVictor": "N",
+"ytpRate":    24.94,
+"ntpRate":    33.99 
 } 
 ] 
 },
@@ -59,19 +61,20 @@
 "town": "010",
 "vill": "043",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":     57.1,
+"votePop":     4669,
 "candidates": [
  {
  "candNo": "1",
 "name": "萬美玲",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":     1203,
+"disagreeTks":     1450,
+"agreeRate":    45.34,
+"disagreeRate":    54.66,
+"adptVictor": "N",
+"ytpRate":    25.77,
+"ntpRate":    31.06 
 } 
 ] 
 },
@@ -83,19 +86,20 @@
 "town": "010",
 "vill": "033",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    58.52,
+"votePop":     5687,
 "candidates": [
  {
  "candNo": "1",
 "name": "萬美玲",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":     1492,
+"disagreeTks":     1822,
+"agreeRate":    45.02,
+"disagreeRate":    54.98,
+"adptVictor": "N",
+"ytpRate":    26.24,
+"ntpRate":    32.04 
 } 
 ] 
 },
@@ -107,19 +111,20 @@
 "town": "010",
 "vill": "044",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    55.97,
+"votePop":     3927,
 "candidates": [
  {
  "candNo": "1",
 "name": "萬美玲",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      990,
+"disagreeTks":     1199,
+"agreeRate":    45.23,
+"disagreeRate":    54.77,
+"adptVictor": "N",
+"ytpRate":    25.21,
+"ntpRate":    30.53 
 } 
 ] 
 },
@@ -131,19 +136,20 @@
 "town": "010",
 "vill": "041",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    58.83,
+"votePop":     5774,
 "candidates": [
  {
  "candNo": "1",
 "name": "萬美玲",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":     1465,
+"disagreeTks":     1914,
+"agreeRate":    43.36,
+"disagreeRate":    56.64,
+"adptVictor": "N",
+"ytpRate":    25.37,
+"ntpRate":    33.15 
 } 
 ] 
 },
@@ -155,19 +161,20 @@
 "town": "010",
 "vill": "042",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":     56.9,
+"votePop":     4793,
 "candidates": [
  {
  "candNo": "1",
 "name": "萬美玲",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":     1200,
+"disagreeTks":     1512,
+"agreeRate":    44.25,
+"disagreeRate":    55.75,
+"adptVictor": "N",
+"ytpRate":    25.04,
+"ntpRate":    31.55 
 } 
 ] 
 },
@@ -179,19 +186,20 @@
 "town": "010",
 "vill": "003",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    44.18,
+"votePop":     1736,
 "candidates": [
  {
  "candNo": "1",
 "name": "萬美玲",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      350,
+"disagreeTks":      411,
+"agreeRate":    45.99,
+"disagreeRate":    54.01,
+"adptVictor": "N",
+"ytpRate":    20.16,
+"ntpRate":    23.68 
 } 
 ] 
 },
@@ -203,19 +211,20 @@
 "town": "010",
 "vill": "008",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    52.94,
+"votePop":     1717,
 "candidates": [
  {
  "candNo": "1",
 "name": "萬美玲",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      391,
+"disagreeTks":      514,
+"agreeRate":     43.2,
+"disagreeRate":     56.8,
+"adptVictor": "N",
+"ytpRate":    22.77,
+"ntpRate":    29.94 
 } 
 ] 
 },
@@ -227,19 +236,20 @@
 "town": "010",
 "vill": "001",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":     58.8,
+"votePop":     1080,
 "candidates": [
  {
  "candNo": "1",
 "name": "萬美玲",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      285,
+"disagreeTks":      347,
+"agreeRate":    45.09,
+"disagreeRate":    54.91,
+"adptVictor": "N",
+"ytpRate":    26.39,
+"ntpRate":    32.13 
 } 
 ] 
 },
@@ -251,19 +261,20 @@
 "town": "010",
 "vill": "002",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    58.41,
+"votePop":     1450,
 "candidates": [
  {
  "candNo": "1",
 "name": "萬美玲",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      382,
+"disagreeTks":      462,
+"agreeRate":    45.26,
+"disagreeRate":    54.74,
+"adptVictor": "N",
+"ytpRate":    26.34,
+"ntpRate":    31.86 
 } 
 ] 
 },
@@ -275,19 +286,20 @@
 "town": "010",
 "vill": "021",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    55.76,
+"votePop":      834,
 "candidates": [
  {
  "candNo": "1",
 "name": "萬美玲",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      222,
+"disagreeTks":      240,
+"agreeRate":    48.05,
+"disagreeRate":    51.95,
+"adptVictor": "N",
+"ytpRate":    26.62,
+"ntpRate":    28.78 
 } 
 ] 
 },
@@ -299,19 +311,20 @@
 "town": "010",
 "vill": "026",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    56.06,
+"votePop":     5665,
 "candidates": [
  {
  "candNo": "1",
 "name": "萬美玲",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":     1383,
+"disagreeTks":     1780,
+"agreeRate":    43.72,
+"disagreeRate":    56.28,
+"adptVictor": "N",
+"ytpRate":    24.41,
+"ntpRate":    31.42 
 } 
 ] 
 },
@@ -323,19 +336,20 @@
 "town": "010",
 "vill": "027",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    52.39,
+"votePop":     1275,
 "candidates": [
  {
  "candNo": "1",
 "name": "萬美玲",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      350,
+"disagreeTks":      317,
+"agreeRate":    52.47,
+"disagreeRate":    47.53,
+"adptVictor": "N",
+"ytpRate":    27.45,
+"ntpRate":    24.86 
 } 
 ] 
 },
@@ -347,19 +361,20 @@
 "town": "010",
 "vill": "019",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    51.83,
+"votePop":     1750,
 "candidates": [
  {
  "candNo": "1",
 "name": "萬美玲",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      428,
+"disagreeTks":      472,
+"agreeRate":    47.56,
+"disagreeRate":    52.44,
+"adptVictor": "N",
+"ytpRate":    24.46,
+"ntpRate":    26.97 
 } 
 ] 
 },
@@ -371,19 +386,20 @@
 "town": "010",
 "vill": "025",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    59.57,
+"votePop":     1353,
 "candidates": [
  {
  "candNo": "1",
 "name": "萬美玲",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      361,
+"disagreeTks":      440,
+"agreeRate":    45.07,
+"disagreeRate":    54.93,
+"adptVictor": "N",
+"ytpRate":    26.68,
+"ntpRate":    32.52 
 } 
 ] 
 },
@@ -395,19 +411,20 @@
 "town": "010",
 "vill": "007",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    56.58,
+"votePop":      988,
 "candidates": [
  {
  "candNo": "1",
 "name": "萬美玲",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      316,
+"disagreeTks":      239,
+"agreeRate":    56.94,
+"disagreeRate":    43.06,
+"adptVictor": "N",
+"ytpRate":    31.98,
+"ntpRate":    24.19 
 } 
 ] 
 },
@@ -419,19 +436,20 @@
 "town": "010",
 "vill": "009",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    51.17,
+"votePop":     1798,
 "candidates": [
  {
  "candNo": "1",
 "name": "萬美玲",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      481,
+"disagreeTks":      432,
+"agreeRate":    52.68,
+"disagreeRate":    47.32,
+"adptVictor": "N",
+"ytpRate":    26.75,
+"ntpRate":    24.03 
 } 
 ] 
 },
@@ -443,19 +461,20 @@
 "town": "010",
 "vill": "040",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    58.49,
+"votePop":     5645,
 "candidates": [
  {
  "candNo": "1",
 "name": "萬美玲",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":     1528,
+"disagreeTks":     1765,
+"agreeRate":     46.4,
+"disagreeRate":     53.6,
+"adptVictor": "N",
+"ytpRate":    27.07,
+"ntpRate":    31.27 
 } 
 ] 
 },
@@ -467,19 +486,20 @@
 "town": "010",
 "vill": "034",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    58.35,
+"votePop":     4269,
 "candidates": [
  {
  "candNo": "1",
 "name": "萬美玲",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":     1228,
+"disagreeTks":     1250,
+"agreeRate":    49.56,
+"disagreeRate":    50.44,
+"adptVictor": "N",
+"ytpRate":    28.77,
+"ntpRate":    29.28 
 } 
 ] 
 },
@@ -491,19 +511,20 @@
 "town": "010",
 "vill": "020",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    55.18,
+"votePop":     1236,
 "candidates": [
  {
  "candNo": "1",
 "name": "萬美玲",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      361,
+"disagreeTks":      316,
+"agreeRate":    53.32,
+"disagreeRate":    46.68,
+"adptVictor": "N",
+"ytpRate":    29.21,
+"ntpRate":    25.57 
 } 
 ] 
 },
@@ -515,19 +536,20 @@
 "town": "010",
 "vill": "031",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    56.03,
+"votePop":     1624,
 "candidates": [
  {
  "candNo": "1",
 "name": "萬美玲",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      453,
+"disagreeTks":      455,
+"agreeRate":    49.89,
+"disagreeRate":    50.11,
+"adptVictor": "N",
+"ytpRate":    27.89,
+"ntpRate":    28.02 
 } 
 ] 
 },
@@ -539,19 +561,20 @@
 "town": "010",
 "vill": "054",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":       57,
+"votePop":     3788,
 "candidates": [
  {
  "candNo": "1",
 "name": "萬美玲",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      906,
+"disagreeTks":     1245,
+"agreeRate":    42.12,
+"disagreeRate":    57.88,
+"adptVictor": "N",
+"ytpRate":    23.92,
+"ntpRate":    32.87 
 } 
 ] 
 },
@@ -563,19 +586,20 @@
 "town": "010",
 "vill": "062",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    54.01,
+"votePop":     5560,
 "candidates": [
  {
  "candNo": "1",
 "name": "萬美玲",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":     1272,
+"disagreeTks":     1717,
+"agreeRate":    42.56,
+"disagreeRate":    57.44,
+"adptVictor": "N",
+"ytpRate":    22.88,
+"ntpRate":    30.88 
 } 
 ] 
 },
@@ -587,19 +611,20 @@
 "town": "010",
 "vill": "023",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    56.59,
+"votePop":     6378,
 "candidates": [
  {
  "candNo": "1",
 "name": "萬美玲",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":     1498,
+"disagreeTks":     2090,
+"agreeRate":    41.75,
+"disagreeRate":    58.25,
+"adptVictor": "N",
+"ytpRate":    23.49,
+"ntpRate":    32.77 
 } 
 ] 
 },
@@ -611,19 +636,20 @@
 "town": "010",
 "vill": "064",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    57.44,
+"votePop":     4481,
 "candidates": [
  {
  "candNo": "1",
 "name": "萬美玲",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":     1020,
+"disagreeTks":     1538,
+"agreeRate":    39.87,
+"disagreeRate":    60.13,
+"adptVictor": "N",
+"ytpRate":    22.76,
+"ntpRate":    34.32 
 } 
 ] 
 },
@@ -635,19 +661,20 @@
 "town": "010",
 "vill": "065",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    58.38,
+"votePop":     4359,
 "candidates": [
  {
  "candNo": "1",
 "name": "萬美玲",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      971,
+"disagreeTks":     1561,
+"agreeRate":    38.35,
+"disagreeRate":    61.65,
+"adptVictor": "N",
+"ytpRate":    22.28,
+"ntpRate":    35.81 
 } 
 ] 
 },
@@ -659,19 +686,20 @@
 "town": "010",
 "vill": "066",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    59.24,
+"votePop":     4006,
 "candidates": [
  {
  "candNo": "1",
 "name": "萬美玲",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      927,
+"disagreeTks":     1434,
+"agreeRate":    39.26,
+"disagreeRate":    60.74,
+"adptVictor": "N",
+"ytpRate":    23.14,
+"ntpRate":     35.8 
 } 
 ] 
 },
@@ -683,19 +711,20 @@
 "town": "010",
 "vill": "070",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    57.66,
+"votePop":     5265,
 "candidates": [
  {
  "candNo": "1",
 "name": "萬美玲",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":     1093,
+"disagreeTks":     1932,
+"agreeRate":    36.13,
+"disagreeRate":    63.87,
+"adptVictor": "N",
+"ytpRate":    20.76,
+"ntpRate":     36.7 
 } 
 ] 
 },
@@ -707,19 +736,20 @@
 "town": "010",
 "vill": "055",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    55.91,
+"votePop":     6233,
 "candidates": [
  {
  "candNo": "1",
 "name": "萬美玲",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":     1438,
+"disagreeTks":     2023,
+"agreeRate":    41.55,
+"disagreeRate":    58.45,
+"adptVictor": "N",
+"ytpRate":    23.07,
+"ntpRate":    32.46 
 } 
 ] 
 },
@@ -731,19 +761,20 @@
 "town": "010",
 "vill": "030",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    57.36,
+"votePop":     7343,
 "candidates": [
  {
  "candNo": "1",
 "name": "萬美玲",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":     1795,
+"disagreeTks":     2395,
+"agreeRate":    42.84,
+"disagreeRate":    57.16,
+"adptVictor": "N",
+"ytpRate":    24.45,
+"ntpRate":    32.62 
 } 
 ] 
 },
@@ -755,19 +786,20 @@
 "town": "010",
 "vill": "052",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    56.82,
+"votePop":     6399,
 "candidates": [
  {
  "candNo": "1",
 "name": "萬美玲",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":     1562,
+"disagreeTks":     2060,
+"agreeRate":    43.13,
+"disagreeRate":    56.87,
+"adptVictor": "N",
+"ytpRate":    24.41,
+"ntpRate":    32.19 
 } 
 ] 
 },
@@ -779,19 +811,20 @@
 "town": "010",
 "vill": "029",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    56.01,
+"votePop":     7766,
 "candidates": [
  {
  "candNo": "1",
 "name": "萬美玲",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":     1890,
+"disagreeTks":     2438,
+"agreeRate":    43.67,
+"disagreeRate":    56.33,
+"adptVictor": "N",
+"ytpRate":    24.34,
+"ntpRate":    31.39 
 } 
 ] 
 },
@@ -803,19 +836,20 @@
 "town": "010",
 "vill": "028",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    57.09,
+"votePop":     4617,
 "candidates": [
  {
  "candNo": "1",
 "name": "萬美玲",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":     1245,
+"disagreeTks":     1383,
+"agreeRate":    47.37,
+"disagreeRate":    52.63,
+"adptVictor": "N",
+"ytpRate":    26.97,
+"ntpRate":    29.95 
 } 
 ] 
 },
@@ -827,19 +861,20 @@
 "town": "010",
 "vill": "053",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    57.99,
+"votePop":     3506,
 "candidates": [
  {
  "candNo": "1",
 "name": "萬美玲",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      890,
+"disagreeTks":     1134,
+"agreeRate":    43.97,
+"disagreeRate":    56.03,
+"adptVictor": "N",
+"ytpRate":    25.39,
+"ntpRate":    32.34 
 } 
 ] 
 },
@@ -851,19 +886,20 @@
 "town": "010",
 "vill": "036",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    56.63,
+"votePop":     5529,
 "candidates": [
  {
  "candNo": "1",
 "name": "萬美玲",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":     1166,
+"disagreeTks":     1951,
+"agreeRate":    37.41,
+"disagreeRate":    62.59,
+"adptVictor": "N",
+"ytpRate":    21.09,
+"ntpRate":    35.29 
 } 
 ] 
 },
@@ -875,19 +911,20 @@
 "town": "010",
 "vill": "060",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    55.64,
+"votePop":     5435,
 "candidates": [
  {
  "candNo": "1",
 "name": "萬美玲",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":     1161,
+"disagreeTks":     1850,
+"agreeRate":    38.56,
+"disagreeRate":    61.44,
+"adptVictor": "N",
+"ytpRate":    21.36,
+"ntpRate":    34.04 
 } 
 ] 
 },
@@ -899,19 +936,20 @@
 "town": "010",
 "vill": "059",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    42.38,
+"votePop":     9760,
 "candidates": [
  {
  "candNo": "1",
 "name": "萬美玲",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":     1591,
+"disagreeTks":     2522,
+"agreeRate":    38.68,
+"disagreeRate":    61.32,
+"adptVictor": "N",
+"ytpRate":     16.3,
+"ntpRate":    25.84 
 } 
 ] 
 },
@@ -923,19 +961,20 @@
 "town": "010",
 "vill": "056",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    54.31,
+"votePop":     4787,
 "candidates": [
  {
  "candNo": "1",
 "name": "萬美玲",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      911,
+"disagreeTks":     1675,
+"agreeRate":    35.23,
+"disagreeRate":    64.77,
+"adptVictor": "N",
+"ytpRate":    19.03,
+"ntpRate":    34.99 
 } 
 ] 
 },
@@ -947,19 +986,20 @@
 "town": "010",
 "vill": "071",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    55.51,
+"votePop":     6491,
 "candidates": [
  {
  "candNo": "1",
 "name": "萬美玲",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":     1425,
+"disagreeTks":     2165,
+"agreeRate":    39.69,
+"disagreeRate":    60.31,
+"adptVictor": "N",
+"ytpRate":    21.95,
+"ntpRate":    33.35 
 } 
 ] 
 },
@@ -971,19 +1011,20 @@
 "town": "010",
 "vill": "035",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":     51.8,
+"votePop":     3243,
 "candidates": [
  {
  "candNo": "1",
 "name": "萬美玲",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      647,
+"disagreeTks":     1021,
+"agreeRate":    38.79,
+"disagreeRate":    61.21,
+"adptVictor": "N",
+"ytpRate":    19.95,
+"ntpRate":    31.48 
 } 
 ] 
 },
@@ -995,19 +1036,20 @@
 "town": "010",
 "vill": "012",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    55.11,
+"votePop":     4602,
 "candidates": [
  {
  "candNo": "1",
 "name": "萬美玲",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":     1194,
+"disagreeTks":     1327,
+"agreeRate":    47.36,
+"disagreeRate":    52.64,
+"adptVictor": "N",
+"ytpRate":    25.95,
+"ntpRate":    28.84 
 } 
 ] 
 },
@@ -1019,19 +1061,20 @@
 "town": "010",
 "vill": "048",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    55.29,
+"votePop":     6866,
 "candidates": [
  {
  "candNo": "1",
 "name": "萬美玲",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":     1683,
+"disagreeTks":     2089,
+"agreeRate":    44.62,
+"disagreeRate":    55.38,
+"adptVictor": "N",
+"ytpRate":    24.51,
+"ntpRate":    30.43 
 } 
 ] 
 },
@@ -1043,19 +1086,20 @@
 "town": "010",
 "vill": "011",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    57.99,
+"votePop":     4306,
 "candidates": [
  {
  "candNo": "1",
 "name": "萬美玲",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":     1249,
+"disagreeTks":     1232,
+"agreeRate":    50.34,
+"disagreeRate":    49.66,
+"adptVictor": "N",
+"ytpRate":    29.01,
+"ntpRate":    28.61 
 } 
 ] 
 },
@@ -1067,19 +1111,20 @@
 "town": "010",
 "vill": "049",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    53.88,
+"votePop":     6229,
 "candidates": [
  {
  "candNo": "1",
 "name": "萬美玲",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":     1344,
+"disagreeTks":     2003,
+"agreeRate":    40.16,
+"disagreeRate":    59.84,
+"adptVictor": "N",
+"ytpRate":    21.58,
+"ntpRate":    32.16 
 } 
 ] 
 },
@@ -1091,19 +1136,20 @@
 "town": "010",
 "vill": "072",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    56.03,
+"votePop":     6020,
 "candidates": [
  {
  "candNo": "1",
 "name": "萬美玲",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":     1340,
+"disagreeTks":     2009,
+"agreeRate":    40.01,
+"disagreeRate":    59.99,
+"adptVictor": "N",
+"ytpRate":    22.26,
+"ntpRate":    33.37 
 } 
 ] 
 },
@@ -1115,19 +1161,20 @@
 "town": "010",
 "vill": "073",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    56.11,
+"votePop":     3083,
 "candidates": [
  {
  "candNo": "1",
 "name": "萬美玲",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      681,
+"disagreeTks":     1040,
+"agreeRate":    39.57,
+"disagreeRate":    60.43,
+"adptVictor": "N",
+"ytpRate":    22.09,
+"ntpRate":    33.73 
 } 
 ] 
 },
@@ -1139,19 +1186,20 @@
 "town": "010",
 "vill": "017",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    53.45,
+"votePop":     3392,
 "candidates": [
  {
  "candNo": "1",
 "name": "萬美玲",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      845,
+"disagreeTks":      960,
+"agreeRate":    46.81,
+"disagreeRate":    53.19,
+"adptVictor": "N",
+"ytpRate":    24.91,
+"ntpRate":     28.3 
 } 
 ] 
 },
@@ -1163,19 +1211,20 @@
 "town": "010",
 "vill": "067",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    55.13,
+"votePop":     5892,
 "candidates": [
  {
  "candNo": "1",
 "name": "萬美玲",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":     1457,
+"disagreeTks":     1769,
+"agreeRate":    45.16,
+"disagreeRate":    54.84,
+"adptVictor": "N",
+"ytpRate":    24.73,
+"ntpRate":    30.02 
 } 
 ] 
 },
@@ -1187,19 +1236,20 @@
 "town": "010",
 "vill": "068",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    56.18,
+"votePop":     6096,
 "candidates": [
  {
  "candNo": "1",
 "name": "萬美玲",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":     1371,
+"disagreeTks":     2044,
+"agreeRate":    40.15,
+"disagreeRate":    59.85,
+"adptVictor": "N",
+"ytpRate":    22.49,
+"ntpRate":    33.53 
 } 
 ] 
 },
@@ -1211,19 +1261,20 @@
 "town": "010",
 "vill": "074",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":     54.9,
+"votePop":     7865,
 "candidates": [
  {
  "candNo": "1",
 "name": "萬美玲",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":     1671,
+"disagreeTks":     2623,
+"agreeRate":    38.91,
+"disagreeRate":    61.09,
+"adptVictor": "N",
+"ytpRate":    21.25,
+"ntpRate":    33.35 
 } 
 ] 
 },
@@ -1235,19 +1286,20 @@
 "town": "010",
 "vill": "069",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    55.13,
+"votePop":     4727,
 "candidates": [
  {
  "candNo": "1",
 "name": "萬美玲",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":     1034,
+"disagreeTks":     1568,
+"agreeRate":    39.74,
+"disagreeRate":    60.26,
+"adptVictor": "N",
+"ytpRate":    21.87,
+"ntpRate":    33.17 
 } 
 ] 
 },
@@ -1259,19 +1311,20 @@
 "town": "010",
 "vill": "075",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    53.63,
+"votePop":     5756,
 "candidates": [
  {
  "candNo": "1",
 "name": "萬美玲",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":     1201,
+"disagreeTks":     1879,
+"agreeRate":    38.99,
+"disagreeRate":    61.01,
+"adptVictor": "N",
+"ytpRate":    20.87,
+"ntpRate":    32.64 
 } 
 ] 
 },
@@ -1283,19 +1336,20 @@
 "town": "010",
 "vill": "018",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    57.66,
+"votePop":     2943,
 "candidates": [
  {
  "candNo": "1",
 "name": "萬美玲",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      847,
+"disagreeTks":      835,
+"agreeRate":    50.36,
+"disagreeRate":    49.64,
+"adptVictor": "N",
+"ytpRate":    28.78,
+"ntpRate":    28.37 
 } 
 ] 
 },
@@ -1307,19 +1361,20 @@
 "town": "010",
 "vill": "024",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    54.15,
+"votePop":     6207,
 "candidates": [
  {
  "candNo": "1",
 "name": "萬美玲",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":     1480,
+"disagreeTks":     1864,
+"agreeRate":    44.26,
+"disagreeRate":    55.74,
+"adptVictor": "N",
+"ytpRate":    23.84,
+"ntpRate":    30.03 
 } 
 ] 
 },
@@ -1331,19 +1386,20 @@
 "town": "010",
 "vill": "022",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    58.75,
+"votePop":     4645,
 "candidates": [
  {
  "candNo": "1",
 "name": "萬美玲",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":     1098,
+"disagreeTks":     1610,
+"agreeRate":    40.55,
+"disagreeRate":    59.45,
+"adptVictor": "N",
+"ytpRate":    23.64,
+"ntpRate":    34.66 
 } 
 ] 
 },
@@ -1355,19 +1411,20 @@
 "town": "010",
 "vill": "050",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    55.35,
+"votePop":     9945,
 "candidates": [
  {
  "candNo": "1",
 "name": "萬美玲",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":     2440,
+"disagreeTks":     3040,
+"agreeRate":    44.53,
+"disagreeRate":    55.47,
+"adptVictor": "N",
+"ytpRate":    24.53,
+"ntpRate":    30.57 
 } 
 ] 
 },
@@ -1379,19 +1436,20 @@
 "town": "010",
 "vill": "051",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    55.64,
+"votePop":     8711,
 "candidates": [
  {
  "candNo": "1",
 "name": "萬美玲",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":     1885,
+"disagreeTks":     2944,
+"agreeRate":    39.03,
+"disagreeRate":    60.97,
+"adptVictor": "N",
+"ytpRate":    21.64,
+"ntpRate":     33.8 
 } 
 ] 
 },
@@ -1403,19 +1461,20 @@
 "town": "010",
 "vill": "061",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    59.18,
+"votePop":     7401,
 "candidates": [
  {
  "candNo": "1",
 "name": "萬美玲",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":     1738,
+"disagreeTks":     2625,
+"agreeRate":    39.83,
+"disagreeRate":    60.17,
+"adptVictor": "N",
+"ytpRate":    23.48,
+"ntpRate":    35.47 
 } 
 ] 
 },
@@ -1427,19 +1486,20 @@
 "town": "010",
 "vill": "016",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    57.53,
+"votePop":     3292,
 "candidates": [
  {
  "candNo": "1",
 "name": "萬美玲",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      862,
+"disagreeTks":     1019,
+"agreeRate":    45.83,
+"disagreeRate":    54.17,
+"adptVictor": "N",
+"ytpRate":    26.18,
+"ntpRate":    30.95 
 } 
 ] 
 },
@@ -1451,19 +1511,20 @@
 "town": "010",
 "vill": "063",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    57.97,
+"votePop":     4737,
 "candidates": [
  {
  "candNo": "1",
 "name": "萬美玲",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":     1257,
+"disagreeTks":     1478,
+"agreeRate":    45.96,
+"disagreeRate":    54.04,
+"adptVictor": "N",
+"ytpRate":    26.54,
+"ntpRate":     31.2 
 } 
 ] 
 },
@@ -1475,19 +1536,20 @@
 "town": "010",
 "vill": "039",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    56.55,
+"votePop":     1892,
 "candidates": [
  {
  "candNo": "1",
 "name": "萬美玲",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      517,
+"disagreeTks":      549,
+"agreeRate":     48.5,
+"disagreeRate":     51.5,
+"adptVictor": "N",
+"ytpRate":    27.33,
+"ntpRate":    29.02 
 } 
 ] 
 },
@@ -1499,19 +1561,20 @@
 "town": "010",
 "vill": "037",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":     58.8,
+"votePop":     3677,
 "candidates": [
  {
  "candNo": "1",
 "name": "萬美玲",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      940,
+"disagreeTks":     1213,
+"agreeRate":    43.66,
+"disagreeRate":    56.34,
+"adptVictor": "N",
+"ytpRate":    25.56,
+"ntpRate":    32.99 
 } 
 ] 
 },
@@ -1523,19 +1586,20 @@
 "town": "010",
 "vill": "013",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    56.77,
+"votePop":     2931,
 "candidates": [
  {
  "candNo": "1",
 "name": "萬美玲",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      724,
+"disagreeTks":      925,
+"agreeRate":    43.91,
+"disagreeRate":    56.09,
+"adptVictor": "N",
+"ytpRate":     24.7,
+"ntpRate":    31.56 
 } 
 ] 
 },
@@ -1547,19 +1611,20 @@
 "town": "010",
 "vill": "014",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    55.08,
+"votePop":     2037,
 "candidates": [
  {
  "candNo": "1",
 "name": "萬美玲",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      501,
+"disagreeTks":      616,
+"agreeRate":    44.85,
+"disagreeRate":    55.15,
+"adptVictor": "N",
+"ytpRate":    24.59,
+"ntpRate":    30.24 
 } 
 ] 
 },
@@ -1571,19 +1636,20 @@
 "town": "010",
 "vill": "080",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":     56.2,
+"votePop":     5153,
 "candidates": [
  {
  "candNo": "1",
 "name": "萬美玲",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":     1140,
+"disagreeTks":     1744,
+"agreeRate":    39.53,
+"disagreeRate":    60.47,
+"adptVictor": "N",
+"ytpRate":    22.12,
+"ntpRate":    33.84 
 } 
 ] 
 },
@@ -1595,19 +1661,20 @@
 "town": "010",
 "vill": "077",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    54.83,
+"votePop":     3724,
 "candidates": [
  {
  "candNo": "1",
 "name": "萬美玲",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      847,
+"disagreeTks":     1181,
+"agreeRate":    41.77,
+"disagreeRate":    58.23,
+"adptVictor": "N",
+"ytpRate":    22.74,
+"ntpRate":    31.71 
 } 
 ] 
 } 

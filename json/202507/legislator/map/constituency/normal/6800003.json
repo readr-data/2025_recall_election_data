@@ -1,5 +1,5 @@
 {
- "updatedAt": "2025-07-10 10:33:00",
+ "updatedAt": "2025-08-19 17:43:00",
 "is_running": false,
 "is_started": true,
 "districts": [
@@ -11,19 +11,20 @@
 "town": "020",
 "vill": "042",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    52.37,
+"votePop":     5083,
 "candidates": [
  {
  "candNo": "1",
 "name": "魯明哲",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      954,
+"disagreeTks":     1689,
+"agreeRate":     36.1,
+"disagreeRate":     63.9,
+"adptVictor": "N",
+"ytpRate":    18.77,
+"ntpRate":    33.23 
 } 
 ] 
 },
@@ -35,19 +36,20 @@
 "town": "020",
 "vill": "062",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    58.39,
+"votePop":     4468,
 "candidates": [
  {
  "candNo": "1",
 "name": "魯明哲",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":     1053,
+"disagreeTks":     1547,
+"agreeRate":     40.5,
+"disagreeRate":     59.5,
+"adptVictor": "N",
+"ytpRate":    23.57,
+"ntpRate":    34.62 
 } 
 ] 
 },
@@ -59,19 +61,20 @@
 "town": "020",
 "vill": "063",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    54.29,
+"votePop":     3682,
 "candidates": [
  {
  "candNo": "1",
 "name": "魯明哲",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      563,
+"disagreeTks":     1428,
+"agreeRate":    28.28,
+"disagreeRate":    71.72,
+"adptVictor": "N",
+"ytpRate":    15.29,
+"ntpRate":    38.78 
 } 
 ] 
 },
@@ -83,19 +86,20 @@
 "town": "020",
 "vill": "082",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    56.95,
+"votePop":     4727,
 "candidates": [
  {
  "candNo": "1",
 "name": "魯明哲",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      815,
+"disagreeTks":     1864,
+"agreeRate":    30.42,
+"disagreeRate":    69.58,
+"adptVictor": "N",
+"ytpRate":    17.24,
+"ntpRate":    39.43 
 } 
 ] 
 },
@@ -107,19 +111,20 @@
 "town": "020",
 "vill": "011",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    56.53,
+"votePop":     4037,
 "candidates": [
  {
  "candNo": "1",
 "name": "魯明哲",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      828,
+"disagreeTks":     1436,
+"agreeRate":    36.57,
+"disagreeRate":    63.43,
+"adptVictor": "N",
+"ytpRate":    20.51,
+"ntpRate":    35.57 
 } 
 ] 
 },
@@ -131,19 +136,20 @@
 "town": "020",
 "vill": "065",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    59.65,
+"votePop":     3871,
 "candidates": [
  {
  "candNo": "1",
 "name": "魯明哲",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      779,
+"disagreeTks":     1521,
+"agreeRate":    33.87,
+"disagreeRate":    66.13,
+"adptVictor": "N",
+"ytpRate":    20.12,
+"ntpRate":    39.29 
 } 
 ] 
 },
@@ -155,19 +161,20 @@
 "town": "020",
 "vill": "029",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    59.09,
+"votePop":     4199,
 "candidates": [
  {
  "candNo": "1",
 "name": "魯明哲",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      729,
+"disagreeTks":     1743,
+"agreeRate":    29.49,
+"disagreeRate":    70.51,
+"adptVictor": "N",
+"ytpRate":    17.36,
+"ntpRate":    41.51 
 } 
 ] 
 },
@@ -179,19 +186,20 @@
 "town": "020",
 "vill": "039",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    57.18,
+"votePop":     4708,
 "candidates": [
  {
  "candNo": "1",
 "name": "魯明哲",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      567,
+"disagreeTks":     2114,
+"agreeRate":    21.15,
+"disagreeRate":    78.85,
+"adptVictor": "N",
+"ytpRate":    12.04,
+"ntpRate":     44.9 
 } 
 ] 
 },
@@ -203,19 +211,20 @@
 "town": "020",
 "vill": "002",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    55.78,
+"votePop":     5864,
 "candidates": [
  {
  "candNo": "1",
 "name": "魯明哲",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      958,
+"disagreeTks":     2290,
+"agreeRate":     29.5,
+"disagreeRate":     70.5,
+"adptVictor": "N",
+"ytpRate":    16.34,
+"ntpRate":    39.05 
 } 
 ] 
 },
@@ -227,19 +236,20 @@
 "town": "020",
 "vill": "001",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    58.67,
+"votePop":     2671,
 "candidates": [
  {
  "candNo": "1",
 "name": "魯明哲",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      336,
+"disagreeTks":     1221,
+"agreeRate":    21.58,
+"disagreeRate":    78.42,
+"adptVictor": "N",
+"ytpRate":    12.58,
+"ntpRate":    45.71 
 } 
 ] 
 },
@@ -251,19 +261,20 @@
 "town": "020",
 "vill": "012",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    56.31,
+"votePop":     5347,
 "candidates": [
  {
  "candNo": "1",
 "name": "魯明哲",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      991,
+"disagreeTks":     2011,
+"agreeRate":    33.01,
+"disagreeRate":    66.99,
+"adptVictor": "N",
+"ytpRate":    18.53,
+"ntpRate":    37.61 
 } 
 ] 
 },
@@ -275,19 +286,20 @@
 "town": "020",
 "vill": "072",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    54.11,
+"votePop":     4537,
 "candidates": [
  {
  "candNo": "1",
 "name": "魯明哲",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      797,
+"disagreeTks":     1649,
+"agreeRate":    32.58,
+"disagreeRate":    67.42,
+"adptVictor": "N",
+"ytpRate":    17.57,
+"ntpRate":    36.35 
 } 
 ] 
 },
@@ -299,19 +311,20 @@
 "town": "020",
 "vill": "076",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    56.79,
+"votePop":     3363,
 "candidates": [
  {
  "candNo": "1",
 "name": "魯明哲",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      580,
+"disagreeTks":     1320,
+"agreeRate":    30.53,
+"disagreeRate":    69.47,
+"adptVictor": "N",
+"ytpRate":    17.25,
+"ntpRate":    39.25 
 } 
 ] 
 },
@@ -323,19 +336,20 @@
 "town": "020",
 "vill": "016",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":     50.4,
+"votePop":     4254,
 "candidates": [
  {
  "candNo": "1",
 "name": "魯明哲",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      794,
+"disagreeTks":     1335,
+"agreeRate":    37.29,
+"disagreeRate":    62.71,
+"adptVictor": "N",
+"ytpRate":    18.66,
+"ntpRate":    31.38 
 } 
 ] 
 },
@@ -347,19 +361,20 @@
 "town": "020",
 "vill": "060",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    53.29,
+"votePop":     3119,
 "candidates": [
  {
  "candNo": "1",
 "name": "魯明哲",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      651,
+"disagreeTks":     1004,
+"agreeRate":    39.34,
+"disagreeRate":    60.66,
+"adptVictor": "N",
+"ytpRate":    20.87,
+"ntpRate":    32.19 
 } 
 ] 
 },
@@ -371,19 +386,20 @@
 "town": "020",
 "vill": "061",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    58.49,
+"votePop":     3476,
 "candidates": [
  {
  "candNo": "1",
 "name": "魯明哲",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      708,
+"disagreeTks":     1315,
+"agreeRate":       35,
+"disagreeRate":       65,
+"adptVictor": "N",
+"ytpRate":    20.37,
+"ntpRate":    37.83 
 } 
 ] 
 },
@@ -395,19 +411,20 @@
 "town": "020",
 "vill": "053",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    60.62,
+"votePop":     2565,
 "candidates": [
  {
  "candNo": "1",
 "name": "魯明哲",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      558,
+"disagreeTks":      992,
+"agreeRate":       36,
+"disagreeRate":       64,
+"adptVictor": "N",
+"ytpRate":    21.75,
+"ntpRate":    38.67 
 } 
 ] 
 },
@@ -419,19 +436,20 @@
 "town": "020",
 "vill": "037",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    58.48,
+"votePop":     4244,
 "candidates": [
  {
  "candNo": "1",
 "name": "魯明哲",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      990,
+"disagreeTks":     1480,
+"agreeRate":    40.08,
+"disagreeRate":    59.92,
+"adptVictor": "N",
+"ytpRate":    23.33,
+"ntpRate":    34.87 
 } 
 ] 
 },
@@ -443,19 +461,20 @@
 "town": "020",
 "vill": "066",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    57.26,
+"votePop":     4043,
 "candidates": [
  {
  "candNo": "1",
 "name": "魯明哲",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      914,
+"disagreeTks":     1389,
+"agreeRate":    39.69,
+"disagreeRate":    60.31,
+"adptVictor": "N",
+"ytpRate":    22.61,
+"ntpRate":    34.36 
 } 
 ] 
 },
@@ -467,19 +486,20 @@
 "town": "020",
 "vill": "017",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    39.66,
+"votePop":     5676,
 "candidates": [
  {
  "candNo": "1",
 "name": "魯明哲",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      793,
+"disagreeTks":     1446,
+"agreeRate":    35.42,
+"disagreeRate":    64.58,
+"adptVictor": "N",
+"ytpRate":    13.97,
+"ntpRate":    25.48 
 } 
 ] 
 },
@@ -491,19 +511,20 @@
 "town": "020",
 "vill": "069",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    57.35,
+"votePop":     2441,
 "candidates": [
  {
  "candNo": "1",
 "name": "魯明哲",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      546,
+"disagreeTks":      844,
+"agreeRate":    39.28,
+"disagreeRate":    60.72,
+"adptVictor": "N",
+"ytpRate":    22.37,
+"ntpRate":    34.58 
 } 
 ] 
 },
@@ -515,19 +536,20 @@
 "town": "020",
 "vill": "070",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    53.87,
+"votePop":     3761,
 "candidates": [
  {
  "candNo": "1",
 "name": "魯明哲",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      847,
+"disagreeTks":     1163,
+"agreeRate":    42.14,
+"disagreeRate":    57.86,
+"adptVictor": "N",
+"ytpRate":    22.52,
+"ntpRate":    30.92 
 } 
 ] 
 },
@@ -539,19 +561,20 @@
 "town": "020",
 "vill": "018",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    53.35,
+"votePop":     4039,
 "candidates": [
  {
  "candNo": "1",
 "name": "魯明哲",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      814,
+"disagreeTks":     1335,
+"agreeRate":    37.88,
+"disagreeRate":    62.12,
+"adptVictor": "N",
+"ytpRate":    20.15,
+"ntpRate":    33.05 
 } 
 ] 
 },
@@ -563,19 +586,20 @@
 "town": "020",
 "vill": "081",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    57.36,
+"votePop":     3342,
 "candidates": [
  {
  "candNo": "1",
 "name": "魯明哲",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      606,
+"disagreeTks":     1302,
+"agreeRate":    31.76,
+"disagreeRate":    68.24,
+"adptVictor": "N",
+"ytpRate":    18.13,
+"ntpRate":    38.96 
 } 
 ] 
 },
@@ -587,19 +611,20 @@
 "town": "020",
 "vill": "008",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    57.96,
+"votePop":     4869,
 "candidates": [
  {
  "candNo": "1",
 "name": "魯明哲",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      499,
+"disagreeTks":     2305,
+"agreeRate":     17.8,
+"disagreeRate":     82.2,
+"adptVictor": "N",
+"ytpRate":    10.25,
+"ntpRate":    47.34 
 } 
 ] 
 },
@@ -611,19 +636,20 @@
 "town": "020",
 "vill": "083",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    54.11,
+"votePop":     5496,
 "candidates": [
  {
  "candNo": "1",
 "name": "魯明哲",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      910,
+"disagreeTks":     2057,
+"agreeRate":    30.67,
+"disagreeRate":    69.33,
+"adptVictor": "N",
+"ytpRate":    16.56,
+"ntpRate":    37.43 
 } 
 ] 
 },
@@ -635,19 +661,20 @@
 "town": "020",
 "vill": "077",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    58.88,
+"votePop":     3249,
 "candidates": [
  {
  "candNo": "1",
 "name": "魯明哲",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      422,
+"disagreeTks":     1486,
+"agreeRate":    22.12,
+"disagreeRate":    77.88,
+"adptVictor": "N",
+"ytpRate":    12.99,
+"ntpRate":    45.74 
 } 
 ] 
 },
@@ -659,19 +686,20 @@
 "town": "020",
 "vill": "078",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    59.47,
+"votePop":     3516,
 "candidates": [
  {
  "candNo": "1",
 "name": "魯明哲",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      495,
+"disagreeTks":     1589,
+"agreeRate":    23.75,
+"disagreeRate":    76.25,
+"adptVictor": "N",
+"ytpRate":    14.08,
+"ntpRate":    45.19 
 } 
 ] 
 },
@@ -683,19 +711,20 @@
 "town": "020",
 "vill": "005",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    57.26,
+"votePop":     2045,
 "candidates": [
  {
  "candNo": "1",
 "name": "魯明哲",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      394,
+"disagreeTks":      770,
+"agreeRate":    33.85,
+"disagreeRate":    66.15,
+"adptVictor": "N",
+"ytpRate":    19.27,
+"ntpRate":    37.65 
 } 
 ] 
 },
@@ -707,19 +736,20 @@
 "town": "020",
 "vill": "006",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    53.44,
+"votePop":     4167,
 "candidates": [
  {
  "candNo": "1",
 "name": "魯明哲",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      793,
+"disagreeTks":     1426,
+"agreeRate":    35.74,
+"disagreeRate":    64.26,
+"adptVictor": "N",
+"ytpRate":    19.03,
+"ntpRate":    34.22 
 } 
 ] 
 },
@@ -731,19 +761,20 @@
 "town": "020",
 "vill": "058",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":     58.1,
+"votePop":     2697,
 "candidates": [
  {
  "candNo": "1",
 "name": "魯明哲",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      557,
+"disagreeTks":     1004,
+"agreeRate":    35.68,
+"disagreeRate":    64.32,
+"adptVictor": "N",
+"ytpRate":    20.65,
+"ntpRate":    37.23 
 } 
 ] 
 },
@@ -755,19 +786,20 @@
 "town": "020",
 "vill": "026",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    56.66,
+"votePop":     3431,
 "candidates": [
  {
  "candNo": "1",
 "name": "魯明哲",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      751,
+"disagreeTks":     1191,
+"agreeRate":    38.67,
+"disagreeRate":    61.33,
+"adptVictor": "N",
+"ytpRate":    21.89,
+"ntpRate":    34.71 
 } 
 ] 
 },
@@ -779,19 +811,20 @@
 "town": "020",
 "vill": "057",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    56.35,
+"votePop":     4394,
 "candidates": [
  {
  "candNo": "1",
 "name": "魯明哲",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      870,
+"disagreeTks":     1596,
+"agreeRate":    35.28,
+"disagreeRate":    64.72,
+"adptVictor": "N",
+"ytpRate":     19.8,
+"ntpRate":    36.32 
 } 
 ] 
 },
@@ -803,19 +836,20 @@
 "town": "020",
 "vill": "033",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    50.86,
+"votePop":     3769,
 "candidates": [
  {
  "candNo": "1",
 "name": "魯明哲",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      767,
+"disagreeTks":     1144,
+"agreeRate":    40.14,
+"disagreeRate":    59.86,
+"adptVictor": "N",
+"ytpRate":    20.35,
+"ntpRate":    30.35 
 } 
 ] 
 },
@@ -827,19 +861,20 @@
 "town": "020",
 "vill": "056",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    57.32,
+"votePop":     5345,
 "candidates": [
  {
  "candNo": "1",
 "name": "魯明哲",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":     1126,
+"disagreeTks":     1927,
+"agreeRate":    36.88,
+"disagreeRate":    63.12,
+"adptVictor": "N",
+"ytpRate":    21.07,
+"ntpRate":    36.05 
 } 
 ] 
 },
@@ -851,19 +886,20 @@
 "town": "020",
 "vill": "034",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    54.96,
+"votePop":     8309,
 "candidates": [
  {
  "candNo": "1",
 "name": "魯明哲",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":     1822,
+"disagreeTks":     2725,
+"agreeRate":    40.07,
+"disagreeRate":    59.93,
+"adptVictor": "N",
+"ytpRate":    21.93,
+"ntpRate":     32.8 
 } 
 ] 
 },
@@ -875,19 +911,20 @@
 "town": "020",
 "vill": "059",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    58.81,
+"votePop":     2377,
 "candidates": [
  {
  "candNo": "1",
 "name": "魯明哲",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      546,
+"disagreeTks":      846,
+"agreeRate":    39.22,
+"disagreeRate":    60.78,
+"adptVictor": "N",
+"ytpRate":    22.97,
+"ntpRate":    35.59 
 } 
 ] 
 },
@@ -899,19 +936,20 @@
 "town": "020",
 "vill": "027",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    55.72,
+"votePop":     6612,
 "candidates": [
  {
  "candNo": "1",
 "name": "魯明哲",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":     1738,
+"disagreeTks":     1936,
+"agreeRate":    47.31,
+"disagreeRate":    52.69,
+"adptVictor": "N",
+"ytpRate":    26.29,
+"ntpRate":    29.28 
 } 
 ] 
 },
@@ -923,19 +961,20 @@
 "town": "020",
 "vill": "038",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    54.21,
+"votePop":     1555,
 "candidates": [
  {
  "candNo": "1",
 "name": "魯明哲",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      380,
+"disagreeTks":      459,
+"agreeRate":    45.29,
+"disagreeRate":    54.71,
+"adptVictor": "N",
+"ytpRate":    24.44,
+"ntpRate":    29.52 
 } 
 ] 
 },
@@ -947,19 +986,20 @@
 "town": "020",
 "vill": "015",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    60.65,
+"votePop":     3278,
 "candidates": [
  {
  "candNo": "1",
 "name": "魯明哲",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      832,
+"disagreeTks":     1148,
+"agreeRate":    42.02,
+"disagreeRate":    57.98,
+"adptVictor": "N",
+"ytpRate":    25.38,
+"ntpRate":    35.02 
 } 
 ] 
 },
@@ -971,19 +1011,20 @@
 "town": "020",
 "vill": "025",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    58.52,
+"votePop":     3486,
 "candidates": [
  {
  "candNo": "1",
 "name": "魯明哲",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      811,
+"disagreeTks":     1220,
+"agreeRate":    39.93,
+"disagreeRate":    60.07,
+"adptVictor": "N",
+"ytpRate":    23.26,
+"ntpRate":       35 
 } 
 ] 
 },
@@ -995,19 +1036,20 @@
 "town": "020",
 "vill": "084",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    59.02,
+"votePop":     3738,
 "candidates": [
  {
  "candNo": "1",
 "name": "魯明哲",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      834,
+"disagreeTks":     1361,
+"agreeRate":       38,
+"disagreeRate":       62,
+"adptVictor": "N",
+"ytpRate":    22.31,
+"ntpRate":    36.41 
 } 
 ] 
 },
@@ -1019,19 +1061,20 @@
 "town": "020",
 "vill": "052",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    60.57,
+"votePop":     4517,
 "candidates": [
  {
  "candNo": "1",
 "name": "魯明哲",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      979,
+"disagreeTks":     1742,
+"agreeRate":    35.98,
+"disagreeRate":    64.02,
+"adptVictor": "N",
+"ytpRate":    21.67,
+"ntpRate":    38.57 
 } 
 ] 
 },
@@ -1043,19 +1086,20 @@
 "town": "020",
 "vill": "021",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    58.13,
+"votePop":     3284,
 "candidates": [
  {
  "candNo": "1",
 "name": "魯明哲",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      802,
+"disagreeTks":     1102,
+"agreeRate":    42.12,
+"disagreeRate":    57.88,
+"adptVictor": "N",
+"ytpRate":    24.42,
+"ntpRate":    33.56 
 } 
 ] 
 },
@@ -1067,19 +1111,20 @@
 "town": "020",
 "vill": "079",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":     57.6,
+"votePop":     4241,
 "candidates": [
  {
  "candNo": "1",
 "name": "魯明哲",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      929,
+"disagreeTks":     1504,
+"agreeRate":    38.18,
+"disagreeRate":    61.82,
+"adptVictor": "N",
+"ytpRate":    21.91,
+"ntpRate":    35.46 
 } 
 ] 
 },
@@ -1091,19 +1136,20 @@
 "town": "020",
 "vill": "031",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    58.43,
+"votePop":     3517,
 "candidates": [
  {
  "candNo": "1",
 "name": "魯明哲",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      886,
+"disagreeTks":     1160,
+"agreeRate":     43.3,
+"disagreeRate":     56.7,
+"adptVictor": "N",
+"ytpRate":    25.19,
+"ntpRate":    32.98 
 } 
 ] 
 },
@@ -1115,19 +1161,20 @@
 "town": "020",
 "vill": "085",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    61.87,
+"votePop":     4018,
 "candidates": [
  {
  "candNo": "1",
 "name": "魯明哲",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      843,
+"disagreeTks":     1633,
+"agreeRate":    34.05,
+"disagreeRate":    65.95,
+"adptVictor": "N",
+"ytpRate":    20.98,
+"ntpRate":    40.64 
 } 
 ] 
 },
@@ -1139,19 +1186,20 @@
 "town": "020",
 "vill": "036",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    58.05,
+"votePop":     4062,
 "candidates": [
  {
  "candNo": "1",
 "name": "魯明哲",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      917,
+"disagreeTks":     1425,
+"agreeRate":    39.15,
+"disagreeRate":    60.85,
+"adptVictor": "N",
+"ytpRate":    22.58,
+"ntpRate":    35.08 
 } 
 ] 
 },
@@ -1163,19 +1211,20 @@
 "town": "020",
 "vill": "073",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    55.02,
+"votePop":     5947,
 "candidates": [
  {
  "candNo": "1",
 "name": "魯明哲",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":     1319,
+"disagreeTks":     1938,
+"agreeRate":     40.5,
+"disagreeRate":     59.5,
+"adptVictor": "N",
+"ytpRate":    22.18,
+"ntpRate":    32.59 
 } 
 ] 
 },
@@ -1187,19 +1236,20 @@
 "town": "020",
 "vill": "074",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    59.17,
+"votePop":     5290,
 "candidates": [
  {
  "candNo": "1",
 "name": "魯明哲",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":     1329,
+"disagreeTks":     1781,
+"agreeRate":    42.73,
+"disagreeRate":    57.27,
+"adptVictor": "N",
+"ytpRate":    25.12,
+"ntpRate":    33.67 
 } 
 ] 
 },
@@ -1211,19 +1261,20 @@
 "town": "020",
 "vill": "032",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    50.78,
+"votePop":    12385,
 "candidates": [
  {
  "candNo": "1",
 "name": "魯明哲",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":     2841,
+"disagreeTks":     3428,
+"agreeRate":    45.32,
+"disagreeRate":    54.68,
+"adptVictor": "N",
+"ytpRate":    22.94,
+"ntpRate":    27.68 
 } 
 ] 
 },
@@ -1235,19 +1286,20 @@
 "town": "020",
 "vill": "014",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":     54.3,
+"votePop":     2385,
 "candidates": [
  {
  "candNo": "1",
 "name": "魯明哲",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      518,
+"disagreeTks":      773,
+"agreeRate":    40.12,
+"disagreeRate":    59.88,
+"adptVictor": "N",
+"ytpRate":    21.72,
+"ntpRate":    32.41 
 } 
 ] 
 },
@@ -1259,19 +1311,20 @@
 "town": "020",
 "vill": "041",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    53.14,
+"votePop":     3133,
 "candidates": [
  {
  "candNo": "1",
 "name": "魯明哲",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      618,
+"disagreeTks":     1034,
+"agreeRate":    37.41,
+"disagreeRate":    62.59,
+"adptVictor": "N",
+"ytpRate":    19.73,
+"ntpRate":       33 
 } 
 ] 
 },
@@ -1283,19 +1336,20 @@
 "town": "020",
 "vill": "035",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    56.66,
+"votePop":     1943,
 "candidates": [
  {
  "candNo": "1",
 "name": "魯明哲",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      474,
+"disagreeTks":      621,
+"agreeRate":    43.29,
+"disagreeRate":    56.71,
+"adptVictor": "N",
+"ytpRate":     24.4,
+"ntpRate":    31.96 
 } 
 ] 
 },
@@ -1307,19 +1361,20 @@
 "town": "020",
 "vill": "080",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    60.12,
+"votePop":     2292,
 "candidates": [
  {
  "candNo": "1",
 "name": "魯明哲",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      660,
+"disagreeTks":      715,
+"agreeRate":       48,
+"disagreeRate":       52,
+"adptVictor": "N",
+"ytpRate":     28.8,
+"ntpRate":     31.2 
 } 
 ] 
 },
@@ -1331,19 +1386,20 @@
 "town": "020",
 "vill": "054",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    62.16,
+"votePop":     2566,
 "candidates": [
  {
  "candNo": "1",
 "name": "魯明哲",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      737,
+"disagreeTks":      857,
+"agreeRate":    46.24,
+"disagreeRate":    53.76,
+"adptVictor": "N",
+"ytpRate":    28.72,
+"ntpRate":     33.4 
 } 
 ] 
 },
@@ -1355,19 +1411,20 @@
 "town": "020",
 "vill": "004",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    51.21,
+"votePop":      869,
 "candidates": [
  {
  "candNo": "1",
 "name": "魯明哲",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      190,
+"disagreeTks":      253,
+"agreeRate":    42.89,
+"disagreeRate":    57.11,
+"adptVictor": "N",
+"ytpRate":    21.86,
+"ntpRate":    29.11 
 } 
 ] 
 },
@@ -1379,19 +1436,20 @@
 "town": "020",
 "vill": "028",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    53.86,
+"votePop":      674,
 "candidates": [
  {
  "candNo": "1",
 "name": "魯明哲",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      149,
+"disagreeTks":      213,
+"agreeRate":    41.16,
+"disagreeRate":    58.84,
+"adptVictor": "N",
+"ytpRate":    22.11,
+"ntpRate":     31.6 
 } 
 ] 
 },
@@ -1403,19 +1461,20 @@
 "town": "020",
 "vill": "050",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    56.19,
+"votePop":      977,
 "candidates": [
  {
  "candNo": "1",
 "name": "魯明哲",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      273,
+"disagreeTks":      274,
+"agreeRate":    49.91,
+"disagreeRate":    50.09,
+"adptVictor": "N",
+"ytpRate":    27.94,
+"ntpRate":    28.05 
 } 
 ] 
 },
@@ -1427,19 +1486,20 @@
 "town": "020",
 "vill": "040",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":     57.6,
+"votePop":     1026,
 "candidates": [
  {
  "candNo": "1",
 "name": "魯明哲",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      286,
+"disagreeTks":      303,
+"agreeRate":    48.56,
+"disagreeRate":    51.44,
+"adptVictor": "N",
+"ytpRate":    27.88,
+"ntpRate":    29.53 
 } 
 ] 
 },
@@ -1451,19 +1511,20 @@
 "town": "020",
 "vill": "045",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    59.02,
+"votePop":     1330,
 "candidates": [
  {
  "candNo": "1",
 "name": "魯明哲",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      390,
+"disagreeTks":      390,
+"agreeRate":       50,
+"disagreeRate":       50,
+"adptVictor": "N",
+"ytpRate":    29.32,
+"ntpRate":    29.32 
 } 
 ] 
 },
@@ -1475,19 +1536,20 @@
 "town": "020",
 "vill": "024",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":     55.5,
+"votePop":     3564,
 "candidates": [
  {
  "candNo": "1",
 "name": "魯明哲",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      887,
+"disagreeTks":     1077,
+"agreeRate":    45.16,
+"disagreeRate":    54.84,
+"adptVictor": "N",
+"ytpRate":    24.89,
+"ntpRate":    30.22 
 } 
 ] 
 },
@@ -1499,19 +1561,20 @@
 "town": "020",
 "vill": "007",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    56.16,
+"votePop":     5130,
 "candidates": [
  {
  "candNo": "1",
 "name": "魯明哲",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":     1089,
+"disagreeTks":     1778,
+"agreeRate":    37.98,
+"disagreeRate":    62.02,
+"adptVictor": "N",
+"ytpRate":    21.23,
+"ntpRate":    34.66 
 } 
 ] 
 },
@@ -1523,19 +1586,20 @@
 "town": "020",
 "vill": "055",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    53.66,
+"votePop":     5388,
 "candidates": [
  {
  "candNo": "1",
 "name": "魯明哲",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":     1232,
+"disagreeTks":     1646,
+"agreeRate":    42.81,
+"disagreeRate":    57.19,
+"adptVictor": "N",
+"ytpRate":    22.87,
+"ntpRate":    30.55 
 } 
 ] 
 },
@@ -1547,19 +1611,20 @@
 "town": "020",
 "vill": "048",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    57.77,
+"votePop":     3192,
 "candidates": [
  {
  "candNo": "1",
 "name": "魯明哲",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      860,
+"disagreeTks":      974,
+"agreeRate":    46.89,
+"disagreeRate":    53.11,
+"adptVictor": "N",
+"ytpRate":    26.94,
+"ntpRate":    30.51 
 } 
 ] 
 },
@@ -1571,19 +1636,20 @@
 "town": "020",
 "vill": "044",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    57.67,
+"votePop":     6114,
 "candidates": [
  {
  "candNo": "1",
 "name": "魯明哲",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":     1476,
+"disagreeTks":     2028,
+"agreeRate":    42.12,
+"disagreeRate":    57.88,
+"adptVictor": "N",
+"ytpRate":    24.14,
+"ntpRate":    33.17 
 } 
 ] 
 },
@@ -1595,19 +1661,20 @@
 "town": "020",
 "vill": "064",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    55.48,
+"votePop":     3378,
 "candidates": [
  {
  "candNo": "1",
 "name": "魯明哲",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      861,
+"disagreeTks":     1007,
+"agreeRate":    46.09,
+"disagreeRate":    53.91,
+"adptVictor": "N",
+"ytpRate":    25.49,
+"ntpRate":    29.81 
 } 
 ] 
 },
@@ -1619,19 +1686,20 @@
 "town": "020",
 "vill": "046",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    53.11,
+"votePop":     5521,
 "candidates": [
  {
  "candNo": "1",
 "name": "魯明哲",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":     1461,
+"disagreeTks":     1457,
+"agreeRate":    50.07,
+"disagreeRate":    49.93,
+"adptVictor": "N",
+"ytpRate":    26.46,
+"ntpRate":    26.39 
 } 
 ] 
 },
@@ -1643,19 +1711,20 @@
 "town": "020",
 "vill": "022",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    52.72,
+"votePop":     5751,
 "candidates": [
  {
  "candNo": "1",
 "name": "魯明哲",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":     1432,
+"disagreeTks":     1593,
+"agreeRate":    47.34,
+"disagreeRate":    52.66,
+"adptVictor": "N",
+"ytpRate":     24.9,
+"ntpRate":     27.7 
 } 
 ] 
 },
@@ -1667,19 +1736,20 @@
 "town": "020",
 "vill": "051",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":     56.7,
+"votePop":     4640,
 "candidates": [
  {
  "candNo": "1",
 "name": "魯明哲",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":     1301,
+"disagreeTks":     1322,
+"agreeRate":     49.6,
+"disagreeRate":     50.4,
+"adptVictor": "N",
+"ytpRate":    28.04,
+"ntpRate":    28.49 
 } 
 ] 
 },
@@ -1691,19 +1761,20 @@
 "town": "020",
 "vill": "047",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    54.94,
+"votePop":     5863,
 "candidates": [
  {
  "candNo": "1",
 "name": "魯明哲",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":     1745,
+"disagreeTks":     1464,
+"agreeRate":    54.38,
+"disagreeRate":    45.62,
+"adptVictor": "N",
+"ytpRate":    29.76,
+"ntpRate":    24.97 
 } 
 ] 
 },
@@ -1715,19 +1786,20 @@
 "town": "020",
 "vill": "049",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":     54.8,
+"votePop":     3836,
 "candidates": [
  {
  "candNo": "1",
 "name": "魯明哲",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":     1134,
+"disagreeTks":      954,
+"agreeRate":    54.31,
+"disagreeRate":    45.69,
+"adptVictor": "N",
+"ytpRate":    29.56,
+"ntpRate":    24.87 
 } 
 ] 
 },
@@ -1739,19 +1811,20 @@
 "town": "020",
 "vill": "043",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    53.24,
+"votePop":     9484,
 "candidates": [
  {
  "candNo": "1",
 "name": "魯明哲",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":     2126,
+"disagreeTks":     2896,
+"agreeRate":    42.33,
+"disagreeRate":    57.67,
+"adptVictor": "N",
+"ytpRate":    22.42,
+"ntpRate":    30.54 
 } 
 ] 
 },
@@ -1763,19 +1836,20 @@
 "town": "020",
 "vill": "086",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    56.29,
+"votePop":     3670,
 "candidates": [
  {
  "candNo": "1",
 "name": "魯明哲",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      910,
+"disagreeTks":     1153,
+"agreeRate":    44.11,
+"disagreeRate":    55.89,
+"adptVictor": "N",
+"ytpRate":     24.8,
+"ntpRate":    31.42 
 } 
 ] 
 },
@@ -1787,19 +1861,20 @@
 "town": "020",
 "vill": "087",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":     55.2,
+"votePop":     5540,
 "candidates": [
  {
  "candNo": "1",
 "name": "魯明哲",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":     1067,
+"disagreeTks":     1974,
+"agreeRate":    35.09,
+"disagreeRate":    64.91,
+"adptVictor": "N",
+"ytpRate":    19.26,
+"ntpRate":    35.63 
 } 
 ] 
 },
@@ -1811,45 +1886,34 @@
 "town": "020",
 "vill": "088",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    57.75,
+"votePop":     3624,
 "candidates": [
  {
  "candNo": "1",
 "name": "魯明哲",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      862,
+"disagreeTks":     1226,
+"agreeRate":    41.28,
+"disagreeRate":    58.72,
+"adptVictor": "N",
+"ytpRate":    23.79,
+"ntpRate":    33.83 
 } 
 ] 
 },
 {
- "range": "桃園市 第03選區 大溪區仁美里",
-"area_nickname": "中壢區*",
-"county": "68000",
-"area": "03",
+ "range": null,
+"area_nickname": null,
+"county": null,
+"area": null,
 "town": "030",
 "vill": "028",
-"type": "normal",
+"type": null,
 "profRate": null,
 "votePop": null,
-"candidates": [
- {
- "candNo": "1",
-"name": "魯明哲",
-"party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
-} 
-] 
+"candidates": [] 
 } 
 ] 
 }

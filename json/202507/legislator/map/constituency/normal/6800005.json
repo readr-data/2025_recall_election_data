@@ -1,1877 +1,1955 @@
 {
- "updatedAt": "2025-07-10 10:33:00",
+ "updatedAt": "2025-08-19 17:43:00",
 "is_running": false,
 "is_started": true,
 "districts": [
  {
  "range": "桃園市 第05選區 平鎮區平鎮里",
-"area_nickname": "平鎮區、龍潭區",
+"area_nickname": "龍潭區、平鎮區",
 "county": "68000",
 "area": "05",
 "town": "100",
 "vill": "012",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    55.42,
+"votePop":     4282,
 "candidates": [
  {
  "candNo": "1",
 "name": "呂玉玲",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":     1018,
+"disagreeTks":     1343,
+"agreeRate":    43.12,
+"disagreeRate":    56.88,
+"adptVictor": "N",
+"ytpRate":    23.77,
+"ntpRate":    31.36 
 } 
 ] 
 },
 {
  "range": "桃園市 第05選區 平鎮區鎮興里",
-"area_nickname": "平鎮區、龍潭區",
+"area_nickname": "龍潭區、平鎮區",
 "county": "68000",
 "area": "05",
 "town": "100",
 "vill": "027",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    55.61,
+"votePop":     2915,
 "candidates": [
  {
  "candNo": "1",
 "name": "呂玉玲",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      685,
+"disagreeTks":      923,
+"agreeRate":     42.6,
+"disagreeRate":     57.4,
+"adptVictor": "N",
+"ytpRate":     23.5,
+"ntpRate":    31.66 
 } 
 ] 
 },
 {
  "range": "桃園市 第05選區 平鎮區南勢里",
-"area_nickname": "平鎮區、龍潭區",
+"area_nickname": "龍潭區、平鎮區",
 "county": "68000",
 "area": "05",
 "town": "100",
 "vill": "013",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":     56.3,
+"votePop":     5577,
 "candidates": [
  {
  "candNo": "1",
 "name": "呂玉玲",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":     1295,
+"disagreeTks":     1823,
+"agreeRate":    41.53,
+"disagreeRate":    58.47,
+"adptVictor": "N",
+"ytpRate":    23.22,
+"ntpRate":    32.69 
 } 
 ] 
 },
 {
  "range": "桃園市 第05選區 平鎮區金星里",
-"area_nickname": "平鎮區、龍潭區",
+"area_nickname": "龍潭區、平鎮區",
 "county": "68000",
 "area": "05",
 "town": "100",
 "vill": "033",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    53.11,
+"votePop":     6759,
 "candidates": [
  {
  "candNo": "1",
 "name": "呂玉玲",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":     1307,
+"disagreeTks":     2267,
+"agreeRate":    36.57,
+"disagreeRate":    63.43,
+"adptVictor": "N",
+"ytpRate":    19.34,
+"ntpRate":    33.54 
 } 
 ] 
 },
 {
  "range": "桃園市 第05選區 平鎮區平安里",
-"area_nickname": "平鎮區、龍潭區",
+"area_nickname": "龍潭區、平鎮區",
 "county": "68000",
 "area": "05",
 "town": "100",
 "vill": "045",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    56.65,
+"votePop":     5465,
 "candidates": [
  {
  "candNo": "1",
 "name": "呂玉玲",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":     1220,
+"disagreeTks":     1858,
+"agreeRate":    39.64,
+"disagreeRate":    60.36,
+"adptVictor": "N",
+"ytpRate":    22.32,
+"ntpRate":       34 
 } 
 ] 
 },
 {
  "range": "桃園市 第05選區 平鎮區平南里",
-"area_nickname": "平鎮區、龍潭區",
+"area_nickname": "龍潭區、平鎮區",
 "county": "68000",
 "area": "05",
 "town": "100",
 "vill": "046",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    57.27,
+"votePop":     6616,
 "candidates": [
  {
  "candNo": "1",
 "name": "呂玉玲",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":     1423,
+"disagreeTks":     2357,
+"agreeRate":    37.65,
+"disagreeRate":    62.35,
+"adptVictor": "N",
+"ytpRate":    21.51,
+"ntpRate":    35.63 
 } 
 ] 
 },
 {
  "range": "桃園市 第05選區 平鎮區山峰里",
-"area_nickname": "平鎮區、龍潭區",
+"area_nickname": "龍潭區、平鎮區",
 "county": "68000",
 "area": "05",
 "town": "100",
 "vill": "015",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    57.72,
+"votePop":     2039,
 "candidates": [
  {
  "candNo": "1",
 "name": "呂玉玲",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      387,
+"disagreeTks":      785,
+"agreeRate":    33.02,
+"disagreeRate":    66.98,
+"adptVictor": "N",
+"ytpRate":    18.98,
+"ntpRate":     38.5 
 } 
 ] 
 },
 {
  "range": "桃園市 第05選區 平鎮區福林里",
-"area_nickname": "平鎮區、龍潭區",
+"area_nickname": "龍潭區、平鎮區",
 "county": "68000",
 "area": "05",
 "town": "100",
 "vill": "032",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":     59.2,
+"votePop":     3257,
 "candidates": [
  {
  "candNo": "1",
 "name": "呂玉玲",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      815,
+"disagreeTks":     1103,
+"agreeRate":    42.49,
+"disagreeRate":    57.51,
+"adptVictor": "N",
+"ytpRate":    25.02,
+"ntpRate":    33.87 
 } 
 ] 
 },
 {
  "range": "桃園市 第05選區 平鎮區湧光里",
-"area_nickname": "平鎮區、龍潭區",
+"area_nickname": "龍潭區、平鎮區",
 "county": "68000",
 "area": "05",
 "town": "100",
 "vill": "016",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    57.25,
+"votePop":     4688,
 "candidates": [
  {
  "candNo": "1",
 "name": "呂玉玲",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":     1054,
+"disagreeTks":     1614,
+"agreeRate":    39.51,
+"disagreeRate":    60.49,
+"adptVictor": "N",
+"ytpRate":    22.48,
+"ntpRate":    34.43 
 } 
 ] 
 },
 {
  "range": "桃園市 第05選區 平鎮區莊敬里",
-"area_nickname": "平鎮區、龍潭區",
+"area_nickname": "龍潭區、平鎮區",
 "county": "68000",
 "area": "05",
 "town": "100",
 "vill": "014",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    57.29,
+"votePop":     4589,
 "candidates": [
  {
  "candNo": "1",
 "name": "呂玉玲",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      878,
+"disagreeTks":     1734,
+"agreeRate":    33.61,
+"disagreeRate":    66.39,
+"adptVictor": "N",
+"ytpRate":    19.13,
+"ntpRate":    37.79 
 } 
 ] 
 },
 {
  "range": "桃園市 第05選區 平鎮區湧豐里",
-"area_nickname": "平鎮區、龍潭區",
+"area_nickname": "龍潭區、平鎮區",
 "county": "68000",
 "area": "05",
 "town": "100",
 "vill": "029",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    56.58,
+"votePop":     1794,
 "candidates": [
  {
  "candNo": "1",
 "name": "呂玉玲",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      394,
+"disagreeTks":      613,
+"agreeRate":    39.13,
+"disagreeRate":    60.87,
+"adptVictor": "N",
+"ytpRate":    21.96,
+"ntpRate":    34.17 
 } 
 ] 
 },
 {
  "range": "桃園市 第05選區 平鎮區湧安里",
-"area_nickname": "平鎮區、龍潭區",
+"area_nickname": "龍潭區、平鎮區",
 "county": "68000",
 "area": "05",
 "town": "100",
 "vill": "030",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    55.91,
+"votePop":     4282,
 "candidates": [
  {
  "candNo": "1",
 "name": "呂玉玲",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      848,
+"disagreeTks":     1526,
+"agreeRate":    35.72,
+"disagreeRate":    64.28,
+"adptVictor": "N",
+"ytpRate":     19.8,
+"ntpRate":    35.64 
 } 
 ] 
 },
 {
  "range": "桃園市 第05選區 平鎮區宋屋里",
-"area_nickname": "平鎮區、龍潭區",
+"area_nickname": "龍潭區、平鎮區",
 "county": "68000",
 "area": "05",
 "town": "100",
 "vill": "006",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    56.44,
+"votePop":     4073,
 "candidates": [
  {
  "candNo": "1",
 "name": "呂玉玲",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      912,
+"disagreeTks":     1382,
+"agreeRate":    39.76,
+"disagreeRate":    60.24,
+"adptVictor": "N",
+"ytpRate":    22.39,
+"ntpRate":    33.93 
 } 
 ] 
 },
 {
  "range": "桃園市 第05選區 平鎮區平興里",
-"area_nickname": "平鎮區、龍潭區",
+"area_nickname": "龍潭區、平鎮區",
 "county": "68000",
 "area": "05",
 "town": "100",
 "vill": "043",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    56.46,
+"votePop":     5354,
 "candidates": [
  {
  "candNo": "1",
 "name": "呂玉玲",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":     1196,
+"disagreeTks":     1809,
+"agreeRate":     39.8,
+"disagreeRate":     60.2,
+"adptVictor": "N",
+"ytpRate":    22.34,
+"ntpRate":    33.79 
 } 
 ] 
 },
 {
  "range": "桃園市 第05選區 平鎮區廣興里",
-"area_nickname": "平鎮區、龍潭區",
+"area_nickname": "龍潭區、平鎮區",
 "county": "68000",
 "area": "05",
 "town": "100",
 "vill": "004",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    56.52,
+"votePop":     5334,
 "candidates": [
  {
  "candNo": "1",
 "name": "呂玉玲",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":     1297,
+"disagreeTks":     1698,
+"agreeRate":    43.31,
+"disagreeRate":    56.69,
+"adptVictor": "N",
+"ytpRate":    24.32,
+"ntpRate":    31.83 
 } 
 ] 
 },
 {
  "range": "桃園市 第05選區 平鎮區廣達里",
-"area_nickname": "平鎮區、龍潭區",
+"area_nickname": "龍潭區、平鎮區",
 "county": "68000",
 "area": "05",
 "town": "100",
 "vill": "031",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    59.64,
+"votePop":     3878,
 "candidates": [
  {
  "candNo": "1",
 "name": "呂玉玲",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":     1061,
+"disagreeTks":     1240,
+"agreeRate":    46.11,
+"disagreeRate":    53.89,
+"adptVictor": "N",
+"ytpRate":    27.36,
+"ntpRate":    31.98 
 } 
 ] 
 },
 {
  "range": "桃園市 第05選區 平鎮區廣仁里",
-"area_nickname": "平鎮區、龍潭區",
+"area_nickname": "龍潭區、平鎮區",
 "county": "68000",
 "area": "05",
 "town": "100",
 "vill": "034",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    53.87,
+"votePop":     3963,
 "candidates": [
  {
  "candNo": "1",
 "name": "呂玉玲",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      856,
+"disagreeTks":     1266,
+"agreeRate":    40.34,
+"disagreeRate":    59.66,
+"adptVictor": "N",
+"ytpRate":     21.6,
+"ntpRate":    31.95 
 } 
 ] 
 },
 {
  "range": "桃園市 第05選區 平鎮區復旦里",
-"area_nickname": "平鎮區、龍潭區",
+"area_nickname": "龍潭區、平鎮區",
 "county": "68000",
 "area": "05",
 "town": "100",
 "vill": "003",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    54.87,
+"votePop":     5272,
 "candidates": [
  {
  "candNo": "1",
 "name": "呂玉玲",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":     1133,
+"disagreeTks":     1755,
+"agreeRate":    39.23,
+"disagreeRate":    60.77,
+"adptVictor": "N",
+"ytpRate":    21.49,
+"ntpRate":    33.29 
 } 
 ] 
 },
 {
  "range": "桃園市 第05選區 平鎮區復興里",
-"area_nickname": "平鎮區、龍潭區",
+"area_nickname": "龍潭區、平鎮區",
 "county": "68000",
 "area": "05",
 "town": "100",
 "vill": "042",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    59.38,
+"votePop":     4655,
 "candidates": [
  {
  "candNo": "1",
 "name": "呂玉玲",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":     1180,
+"disagreeTks":     1576,
+"agreeRate":    42.82,
+"disagreeRate":    57.18,
+"adptVictor": "N",
+"ytpRate":    25.35,
+"ntpRate":    33.86 
 } 
 ] 
 },
 {
  "range": "桃園市 第05選區 平鎮區義民里",
-"area_nickname": "平鎮區、龍潭區",
+"area_nickname": "龍潭區、平鎮區",
 "county": "68000",
 "area": "05",
 "town": "100",
 "vill": "005",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    54.77,
+"votePop":     5050,
 "candidates": [
  {
  "candNo": "1",
 "name": "呂玉玲",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":     1082,
+"disagreeTks":     1671,
+"agreeRate":     39.3,
+"disagreeRate":     60.7,
+"adptVictor": "N",
+"ytpRate":    21.43,
+"ntpRate":    33.09 
 } 
 ] 
 },
 {
  "range": "桃園市 第05選區 平鎮區義興里",
-"area_nickname": "平鎮區、龍潭區",
+"area_nickname": "龍潭區、平鎮區",
 "county": "68000",
 "area": "05",
 "town": "100",
 "vill": "028",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    57.81,
+"votePop":     6540,
 "candidates": [
  {
  "candNo": "1",
 "name": "呂玉玲",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":     1577,
+"disagreeTks":     2183,
+"agreeRate":    41.94,
+"disagreeRate":    58.06,
+"adptVictor": "N",
+"ytpRate":    24.11,
+"ntpRate":    33.38 
 } 
 ] 
 },
 {
  "range": "桃園市 第05選區 平鎮區雙連里",
-"area_nickname": "平鎮區、龍潭區",
+"area_nickname": "龍潭區、平鎮區",
 "county": "68000",
 "area": "05",
 "town": "100",
 "vill": "001",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    53.94,
+"votePop":     4379,
 "candidates": [
  {
  "candNo": "1",
 "name": "呂玉玲",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      927,
+"disagreeTks":     1414,
+"agreeRate":     39.6,
+"disagreeRate":     60.4,
+"adptVictor": "N",
+"ytpRate":    21.17,
+"ntpRate":    32.29 
 } 
 ] 
 },
 {
  "range": "桃園市 第05選區 平鎮區高雙里",
-"area_nickname": "平鎮區、龍潭區",
+"area_nickname": "龍潭區、平鎮區",
 "county": "68000",
 "area": "05",
 "town": "100",
 "vill": "002",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    57.85,
+"votePop":     4294,
 "candidates": [
  {
  "candNo": "1",
 "name": "呂玉玲",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":     1102,
+"disagreeTks":     1369,
+"agreeRate":     44.6,
+"disagreeRate":     55.4,
+"adptVictor": "N",
+"ytpRate":    25.66,
+"ntpRate":    31.88 
 } 
 ] 
 },
 {
  "range": "桃園市 第05選區 平鎮區北勢里",
-"area_nickname": "平鎮區、龍潭區",
+"area_nickname": "龍潭區、平鎮區",
 "county": "68000",
 "area": "05",
 "town": "100",
 "vill": "009",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    60.59,
+"votePop":     2370,
 "candidates": [
  {
  "candNo": "1",
 "name": "呂玉玲",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      649,
+"disagreeTks":      783,
+"agreeRate":    45.32,
+"disagreeRate":    54.68,
+"adptVictor": "N",
+"ytpRate":    27.38,
+"ntpRate":    33.04 
 } 
 ] 
 },
 {
  "range": "桃園市 第05選區 平鎮區北華里",
-"area_nickname": "平鎮區、龍潭區",
+"area_nickname": "龍潭區、平鎮區",
 "county": "68000",
 "area": "05",
 "town": "100",
 "vill": "041",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    59.48,
+"votePop":     3662,
 "candidates": [
  {
  "candNo": "1",
 "name": "呂玉玲",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      854,
+"disagreeTks":     1315,
+"agreeRate":    39.37,
+"disagreeRate":    60.63,
+"adptVictor": "N",
+"ytpRate":    23.32,
+"ntpRate":    35.91 
 } 
 ] 
 },
 {
  "range": "桃園市 第05選區 平鎮區新勢里",
-"area_nickname": "平鎮區、龍潭區",
+"area_nickname": "龍潭區、平鎮區",
 "county": "68000",
 "area": "05",
 "town": "100",
 "vill": "007",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    58.98,
+"votePop":     3520,
 "candidates": [
  {
  "candNo": "1",
 "name": "呂玉玲",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      868,
+"disagreeTks":     1195,
+"agreeRate":    42.07,
+"disagreeRate":    57.93,
+"adptVictor": "N",
+"ytpRate":    24.66,
+"ntpRate":    33.95 
 } 
 ] 
 },
 {
  "range": "桃園市 第05選區 平鎮區北安里",
-"area_nickname": "平鎮區、龍潭區",
+"area_nickname": "龍潭區、平鎮區",
 "county": "68000",
 "area": "05",
 "town": "100",
 "vill": "040",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    55.35,
+"votePop":     1626,
 "candidates": [
  {
  "candNo": "1",
 "name": "呂玉玲",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      421,
+"disagreeTks":      477,
+"agreeRate":    46.88,
+"disagreeRate":    53.12,
+"adptVictor": "N",
+"ytpRate":    25.89,
+"ntpRate":    29.34 
 } 
 ] 
 },
 {
  "range": "桃園市 第05選區 平鎮區新榮里",
-"area_nickname": "平鎮區、龍潭區",
+"area_nickname": "龍潭區、平鎮區",
 "county": "68000",
 "area": "05",
 "town": "100",
 "vill": "037",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    59.49,
+"votePop":     4981,
 "candidates": [
  {
  "candNo": "1",
 "name": "呂玉玲",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":     1273,
+"disagreeTks":     1681,
+"agreeRate":    43.09,
+"disagreeRate":    56.91,
+"adptVictor": "N",
+"ytpRate":    25.56,
+"ntpRate":    33.75 
 } 
 ] 
 },
 {
  "range": "桃園市 第05選區 平鎮區新富里",
-"area_nickname": "平鎮區、龍潭區",
+"area_nickname": "龍潭區、平鎮區",
 "county": "68000",
 "area": "05",
 "town": "100",
 "vill": "008",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    47.41,
+"votePop":     6781,
 "candidates": [
  {
  "candNo": "1",
 "name": "呂玉玲",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":     1321,
+"disagreeTks":     1881,
+"agreeRate":    41.26,
+"disagreeRate":    58.74,
+"adptVictor": "N",
+"ytpRate":    19.48,
+"ntpRate":    27.74 
 } 
 ] 
 },
 {
  "range": "桃園市 第05選區 平鎮區新英里",
-"area_nickname": "平鎮區、龍潭區",
+"area_nickname": "龍潭區、平鎮區",
 "county": "68000",
 "area": "05",
 "town": "100",
 "vill": "044",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    55.77,
+"votePop":     3796,
 "candidates": [
  {
  "candNo": "1",
 "name": "呂玉玲",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      793,
+"disagreeTks":     1319,
+"agreeRate":    37.55,
+"disagreeRate":    62.45,
+"adptVictor": "N",
+"ytpRate":    20.89,
+"ntpRate":    34.75 
 } 
 ] 
 },
 {
  "range": "桃園市 第05選區 平鎮區新貴里",
-"area_nickname": "平鎮區、龍潭區",
+"area_nickname": "龍潭區、平鎮區",
 "county": "68000",
 "area": "05",
 "town": "100",
 "vill": "035",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    59.59,
+"votePop":     2898,
 "candidates": [
  {
  "candNo": "1",
 "name": "呂玉玲",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      734,
+"disagreeTks":      980,
+"agreeRate":    42.82,
+"disagreeRate":    57.18,
+"adptVictor": "N",
+"ytpRate":    25.33,
+"ntpRate":    33.82 
 } 
 ] 
 },
 {
  "range": "桃園市 第05選區 平鎮區北興里",
-"area_nickname": "平鎮區、龍潭區",
+"area_nickname": "龍潭區、平鎮區",
 "county": "68000",
 "area": "05",
 "town": "100",
 "vill": "010",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    59.46,
+"votePop":     3577,
 "candidates": [
  {
  "candNo": "1",
 "name": "呂玉玲",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      888,
+"disagreeTks":     1216,
+"agreeRate":    42.21,
+"disagreeRate":    57.79,
+"adptVictor": "N",
+"ytpRate":    24.83,
+"ntpRate":    33.99 
 } 
 ] 
 },
 {
  "range": "桃園市 第05選區 平鎮區金陵里",
-"area_nickname": "平鎮區、龍潭區",
+"area_nickname": "龍潭區、平鎮區",
 "county": "68000",
 "area": "05",
 "town": "100",
 "vill": "039",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    59.68,
+"votePop":     2723,
 "candidates": [
  {
  "candNo": "1",
 "name": "呂玉玲",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      647,
+"disagreeTks":      966,
+"agreeRate":    40.11,
+"disagreeRate":    59.89,
+"adptVictor": "N",
+"ytpRate":    23.76,
+"ntpRate":    35.48 
 } 
 ] 
 },
 {
  "range": "桃園市 第05選區 平鎮區北貴里",
-"area_nickname": "平鎮區、龍潭區",
+"area_nickname": "龍潭區、平鎮區",
 "county": "68000",
 "area": "05",
 "town": "100",
 "vill": "011",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    58.32,
+"votePop":     3853,
 "candidates": [
  {
  "candNo": "1",
 "name": "呂玉玲",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      942,
+"disagreeTks":     1296,
+"agreeRate":    42.09,
+"disagreeRate":    57.91,
+"adptVictor": "N",
+"ytpRate":    24.45,
+"ntpRate":    33.64 
 } 
 ] 
 },
 {
  "range": "桃園市 第05選區 平鎮區北富里",
-"area_nickname": "平鎮區、龍潭區",
+"area_nickname": "龍潭區、平鎮區",
 "county": "68000",
 "area": "05",
 "town": "100",
 "vill": "036",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    57.15,
+"votePop":     3568,
 "candidates": [
  {
  "candNo": "1",
 "name": "呂玉玲",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      878,
+"disagreeTks":     1149,
+"agreeRate":    43.32,
+"disagreeRate":    56.68,
+"adptVictor": "N",
+"ytpRate":    24.61,
+"ntpRate":     32.2 
 } 
 ] 
 },
 {
  "range": "桃園市 第05選區 平鎮區建安里",
-"area_nickname": "平鎮區、龍潭區",
+"area_nickname": "龍潭區、平鎮區",
 "county": "68000",
 "area": "05",
 "town": "100",
 "vill": "023",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    56.84,
+"votePop":     4133,
 "candidates": [
  {
  "candNo": "1",
 "name": "呂玉玲",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      958,
+"disagreeTks":     1379,
+"agreeRate":    40.99,
+"disagreeRate":    59.01,
+"adptVictor": "N",
+"ytpRate":    23.18,
+"ntpRate":    33.37 
 } 
 ] 
 },
 {
  "range": "桃園市 第05選區 平鎮區華安里",
-"area_nickname": "平鎮區、龍潭區",
+"area_nickname": "龍潭區、平鎮區",
 "county": "68000",
 "area": "05",
 "town": "100",
 "vill": "038",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    55.93,
+"votePop":     3678,
 "candidates": [
  {
  "candNo": "1",
 "name": "呂玉玲",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      602,
+"disagreeTks":     1436,
+"agreeRate":    29.54,
+"disagreeRate":    70.46,
+"adptVictor": "N",
+"ytpRate":    16.37,
+"ntpRate":    39.04 
 } 
 ] 
 },
 {
  "range": "桃園市 第05選區 平鎮區東安里",
-"area_nickname": "平鎮區、龍潭區",
+"area_nickname": "龍潭區、平鎮區",
 "county": "68000",
 "area": "05",
 "town": "100",
 "vill": "025",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    56.06,
+"votePop":     2551,
 "candidates": [
  {
  "candNo": "1",
 "name": "呂玉玲",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      423,
+"disagreeTks":      995,
+"agreeRate":    29.83,
+"disagreeRate":    70.17,
+"adptVictor": "N",
+"ytpRate":    16.58,
+"ntpRate":       39 
 } 
 ] 
 },
 {
  "range": "桃園市 第05選區 平鎮區新安里",
-"area_nickname": "平鎮區、龍潭區",
+"area_nickname": "龍潭區、平鎮區",
 "county": "68000",
 "area": "05",
 "town": "100",
 "vill": "026",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":     56.5,
+"votePop":     3938,
 "candidates": [
  {
  "candNo": "1",
 "name": "呂玉玲",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      767,
+"disagreeTks":     1443,
+"agreeRate":    34.71,
+"disagreeRate":    65.29,
+"adptVictor": "N",
+"ytpRate":    19.48,
+"ntpRate":    36.64 
 } 
 ] 
 },
 {
  "range": "桃園市 第05選區 平鎮區東勢里",
-"area_nickname": "平鎮區、龍潭區",
+"area_nickname": "龍潭區、平鎮區",
 "county": "68000",
 "area": "05",
 "town": "100",
 "vill": "024",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    53.32,
+"votePop":     5098,
 "candidates": [
  {
  "candNo": "1",
 "name": "呂玉玲",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":     1265,
+"disagreeTks":     1438,
+"agreeRate":     46.8,
+"disagreeRate":     53.2,
+"adptVictor": "N",
+"ytpRate":    24.81,
+"ntpRate":    28.21 
 } 
 ] 
 },
 {
  "range": "桃園市 第05選區 平鎮區龍恩里",
-"area_nickname": "平鎮區、龍潭區",
+"area_nickname": "龍潭區、平鎮區",
 "county": "68000",
 "area": "05",
 "town": "100",
 "vill": "017",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    57.14,
+"votePop":     2723,
 "candidates": [
  {
  "candNo": "1",
 "name": "呂玉玲",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      454,
+"disagreeTks":     1093,
+"agreeRate":    29.35,
+"disagreeRate":    70.65,
+"adptVictor": "N",
+"ytpRate":    16.67,
+"ntpRate":    40.14 
 } 
 ] 
 },
 {
  "range": "桃園市 第05選區 平鎮區東社里",
-"area_nickname": "平鎮區、龍潭區",
+"area_nickname": "龍潭區、平鎮區",
 "county": "68000",
 "area": "05",
 "town": "100",
 "vill": "018",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    54.27,
+"votePop":     2985,
 "candidates": [
  {
  "candNo": "1",
 "name": "呂玉玲",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      506,
+"disagreeTks":     1107,
+"agreeRate":    31.37,
+"disagreeRate":    68.63,
+"adptVictor": "N",
+"ytpRate":    16.95,
+"ntpRate":    37.09 
 } 
 ] 
 },
 {
  "range": "桃園市 第05選區 平鎮區忠貞里",
-"area_nickname": "平鎮區、龍潭區",
+"area_nickname": "龍潭區、平鎮區",
 "county": "68000",
 "area": "05",
 "town": "100",
 "vill": "021",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    59.92,
+"votePop":     1462,
 "candidates": [
  {
  "candNo": "1",
 "name": "呂玉玲",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      219,
+"disagreeTks":      656,
+"agreeRate":    25.03,
+"disagreeRate":    74.97,
+"adptVictor": "N",
+"ytpRate":    14.98,
+"ntpRate":    44.87 
 } 
 ] 
 },
 {
  "range": "桃園市 第05選區 平鎮區貿易里",
-"area_nickname": "平鎮區、龍潭區",
+"area_nickname": "龍潭區、平鎮區",
 "county": "68000",
 "area": "05",
 "town": "100",
 "vill": "020",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    62.26,
+"votePop":     1892,
 "candidates": [
  {
  "candNo": "1",
 "name": "呂玉玲",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      348,
+"disagreeTks":      823,
+"agreeRate":    29.72,
+"disagreeRate":    70.28,
+"adptVictor": "N",
+"ytpRate":    18.39,
+"ntpRate":     43.5 
 } 
 ] 
 },
 {
  "range": "桃園市 第05選區 平鎮區龍興里",
-"area_nickname": "平鎮區、龍潭區",
+"area_nickname": "龍潭區、平鎮區",
 "county": "68000",
 "area": "05",
 "town": "100",
 "vill": "019",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    58.29,
+"votePop":     2251,
 "candidates": [
  {
  "candNo": "1",
 "name": "呂玉玲",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      307,
+"disagreeTks":      996,
+"agreeRate":    23.56,
+"disagreeRate":    76.44,
+"adptVictor": "N",
+"ytpRate":    13.64,
+"ntpRate":    44.25 
 } 
 ] 
 },
 {
  "range": "桃園市 第05選區 平鎮區中正里",
-"area_nickname": "平鎮區、龍潭區",
+"area_nickname": "龍潭區、平鎮區",
 "county": "68000",
 "area": "05",
 "town": "100",
 "vill": "022",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    61.26,
+"votePop":     1577,
 "candidates": [
  {
  "candNo": "1",
 "name": "呂玉玲",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      216,
+"disagreeTks":      742,
+"agreeRate":    22.55,
+"disagreeRate":    77.45,
+"adptVictor": "N",
+"ytpRate":     13.7,
+"ntpRate":    47.05 
 } 
 ] 
 },
 {
  "range": "桃園市 第05選區 龍潭區黃唐里",
-"area_nickname": "平鎮區、龍潭區",
+"area_nickname": "龍潭區、平鎮區",
 "county": "68000",
 "area": "05",
 "town": "090",
 "vill": "001",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    55.47,
+"votePop":     4525,
 "candidates": [
  {
  "candNo": "1",
 "name": "呂玉玲",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      923,
+"disagreeTks":     1577,
+"agreeRate":    36.92,
+"disagreeRate":    63.08,
+"adptVictor": "N",
+"ytpRate":     20.4,
+"ntpRate":    34.85 
 } 
 ] 
 },
 {
  "range": "桃園市 第05選區 龍潭區永興里",
-"area_nickname": "平鎮區、龍潭區",
+"area_nickname": "龍潭區、平鎮區",
 "county": "68000",
 "area": "05",
 "town": "090",
 "vill": "020",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    54.77,
+"votePop":     2569,
 "candidates": [
  {
  "candNo": "1",
 "name": "呂玉玲",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      554,
+"disagreeTks":      844,
+"agreeRate":    39.63,
+"disagreeRate":    60.37,
+"adptVictor": "N",
+"ytpRate":    21.56,
+"ntpRate":    32.85 
 } 
 ] 
 },
 {
  "range": "桃園市 第05選區 龍潭區中山里",
-"area_nickname": "平鎮區、龍潭區",
+"area_nickname": "龍潭區、平鎮區",
 "county": "68000",
 "area": "05",
 "town": "090",
 "vill": "002",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    53.64,
+"votePop":     6471,
 "candidates": [
  {
  "candNo": "1",
 "name": "呂玉玲",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":     1287,
+"disagreeTks":     2172,
+"agreeRate":    37.21,
+"disagreeRate":    62.79,
+"adptVictor": "N",
+"ytpRate":    19.89,
+"ntpRate":    33.57 
 } 
 ] 
 },
 {
  "range": "桃園市 第05選區 龍潭區烏樹林里",
-"area_nickname": "平鎮區、龍潭區",
+"area_nickname": "龍潭區、平鎮區",
 "county": "68000",
 "area": "05",
 "town": "090",
 "vill": "021",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":     53.6,
+"votePop":     2573,
 "candidates": [
  {
  "candNo": "1",
 "name": "呂玉玲",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      557,
+"disagreeTks":      817,
+"agreeRate":    40.54,
+"disagreeRate":    59.46,
+"adptVictor": "N",
+"ytpRate":    21.65,
+"ntpRate":    31.75 
 } 
 ] 
 },
 {
  "range": "桃園市 第05選區 龍潭區烏林里",
-"area_nickname": "平鎮區、龍潭區",
+"area_nickname": "龍潭區、平鎮區",
 "county": "68000",
 "area": "05",
 "town": "090",
 "vill": "003",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    51.78,
+"votePop":     4502,
 "candidates": [
  {
  "candNo": "1",
 "name": "呂玉玲",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      824,
+"disagreeTks":     1492,
+"agreeRate":    35.58,
+"disagreeRate":    64.42,
+"adptVictor": "N",
+"ytpRate":     18.3,
+"ntpRate":    33.14 
 } 
 ] 
 },
 {
  "range": "桃園市 第05選區 龍潭區百年里",
-"area_nickname": "平鎮區、龍潭區",
+"area_nickname": "龍潭區、平鎮區",
 "county": "68000",
 "area": "05",
 "town": "090",
 "vill": "022",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    60.41,
+"votePop":     4256,
 "candidates": [
  {
  "candNo": "1",
 "name": "呂玉玲",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      695,
+"disagreeTks":     1866,
+"agreeRate":    27.14,
+"disagreeRate":    72.86,
+"adptVictor": "N",
+"ytpRate":    16.33,
+"ntpRate":    43.84 
 } 
 ] 
 },
 {
  "range": "桃園市 第05選區 龍潭區凌雲里",
-"area_nickname": "平鎮區、龍潭區",
+"area_nickname": "龍潭區、平鎮區",
 "county": "68000",
 "area": "05",
 "town": "090",
 "vill": "006",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    53.25,
+"votePop":     3615,
 "candidates": [
  {
  "candNo": "1",
 "name": "呂玉玲",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      681,
+"disagreeTks":     1235,
+"agreeRate":    35.54,
+"disagreeRate":    64.46,
+"adptVictor": "N",
+"ytpRate":    18.84,
+"ntpRate":    34.16 
 } 
 ] 
 },
 {
  "range": "桃園市 第05選區 龍潭區龍祥里",
-"area_nickname": "平鎮區、龍潭區",
+"area_nickname": "龍潭區、平鎮區",
 "county": "68000",
 "area": "05",
 "town": "090",
 "vill": "023",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    54.76,
+"votePop":     3256,
 "candidates": [
  {
  "candNo": "1",
 "name": "呂玉玲",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      600,
+"disagreeTks":     1179,
+"agreeRate":    33.73,
+"disagreeRate":    66.27,
+"adptVictor": "N",
+"ytpRate":    18.43,
+"ntpRate":    36.21 
 } 
 ] 
 },
 {
  "range": "桃園市 第05選區 龍潭區八德里",
-"area_nickname": "平鎮區、龍潭區",
+"area_nickname": "龍潭區、平鎮區",
 "county": "68000",
 "area": "05",
 "town": "090",
 "vill": "007",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":     54.2,
+"votePop":     4201,
 "candidates": [
  {
  "candNo": "1",
 "name": "呂玉玲",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      873,
+"disagreeTks":     1394,
+"agreeRate":    38.51,
+"disagreeRate":    61.49,
+"adptVictor": "N",
+"ytpRate":    20.78,
+"ntpRate":    33.18 
 } 
 ] 
 },
 {
  "range": "桃園市 第05選區 龍潭區聖德里",
-"area_nickname": "平鎮區、龍潭區",
+"area_nickname": "龍潭區、平鎮區",
 "county": "68000",
 "area": "05",
 "town": "090",
 "vill": "024",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    54.38,
+"votePop":     2786,
 "candidates": [
  {
  "candNo": "1",
 "name": "呂玉玲",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      661,
+"disagreeTks":      847,
+"agreeRate":    43.83,
+"disagreeRate":    56.17,
+"adptVictor": "N",
+"ytpRate":    23.73,
+"ntpRate":     30.4 
 } 
 ] 
 },
 {
  "range": "桃園市 第05選區 龍潭區上林里",
-"area_nickname": "平鎮區、龍潭區",
+"area_nickname": "龍潭區、平鎮區",
 "county": "68000",
 "area": "05",
 "town": "090",
 "vill": "009",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    54.07,
+"votePop":     4333,
 "candidates": [
  {
  "candNo": "1",
 "name": "呂玉玲",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      956,
+"disagreeTks":     1371,
+"agreeRate":    41.08,
+"disagreeRate":    58.92,
+"adptVictor": "N",
+"ytpRate":    22.06,
+"ntpRate":    31.64 
 } 
 ] 
 },
 {
  "range": "桃園市 第05選區 龍潭區龍潭里",
-"area_nickname": "平鎮區、龍潭區",
+"area_nickname": "龍潭區、平鎮區",
 "county": "68000",
 "area": "05",
 "town": "090",
 "vill": "011",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    59.85,
+"votePop":     1691,
 "candidates": [
  {
  "candNo": "1",
 "name": "呂玉玲",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      421,
+"disagreeTks":      589,
+"agreeRate":    41.68,
+"disagreeRate":    58.32,
+"adptVictor": "N",
+"ytpRate":     24.9,
+"ntpRate":    34.83 
 } 
 ] 
 },
 {
  "range": "桃園市 第05選區 龍潭區龍星里",
-"area_nickname": "平鎮區、龍潭區",
+"area_nickname": "龍潭區、平鎮區",
 "county": "68000",
 "area": "05",
 "town": "090",
 "vill": "025",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    59.06,
+"votePop":     3981,
 "candidates": [
  {
  "candNo": "1",
 "name": "呂玉玲",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      858,
+"disagreeTks":     1485,
+"agreeRate":    36.62,
+"disagreeRate":    63.38,
+"adptVictor": "N",
+"ytpRate":    21.55,
+"ntpRate":     37.3 
 } 
 ] 
 },
 {
  "range": "桃園市 第05選區 龍潭區中正里",
-"area_nickname": "平鎮區、龍潭區",
+"area_nickname": "龍潭區、平鎮區",
 "county": "68000",
 "area": "05",
 "town": "090",
 "vill": "010",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    56.43,
+"votePop":     5479,
 "candidates": [
  {
  "candNo": "1",
 "name": "呂玉玲",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":     1014,
+"disagreeTks":     2067,
+"agreeRate":    32.91,
+"disagreeRate":    67.09,
+"adptVictor": "N",
+"ytpRate":    18.51,
+"ntpRate":    37.73 
 } 
 ] 
 },
 {
  "range": "桃園市 第05選區 龍潭區上華里",
-"area_nickname": "平鎮區、龍潭區",
+"area_nickname": "龍潭區、平鎮區",
 "county": "68000",
 "area": "05",
 "town": "090",
 "vill": "026",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    55.01,
+"votePop":     3094,
 "candidates": [
  {
  "candNo": "1",
 "name": "呂玉玲",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      502,
+"disagreeTks":     1195,
+"agreeRate":    29.58,
+"disagreeRate":    70.42,
+"adptVictor": "N",
+"ytpRate":    16.22,
+"ntpRate":    38.62 
 } 
 ] 
 },
 {
  "range": "桃園市 第05選區 龍潭區九龍里",
-"area_nickname": "平鎮區、龍潭區",
+"area_nickname": "龍潭區、平鎮區",
 "county": "68000",
 "area": "05",
 "town": "090",
 "vill": "013",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    52.94,
+"votePop":     3608,
 "candidates": [
  {
  "candNo": "1",
 "name": "呂玉玲",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      635,
+"disagreeTks":     1259,
+"agreeRate":    33.53,
+"disagreeRate":    66.47,
+"adptVictor": "N",
+"ytpRate":     17.6,
+"ntpRate":    34.89 
 } 
 ] 
 },
 {
  "range": "桃園市 第05選區 龍潭區武漢里",
-"area_nickname": "平鎮區、龍潭區",
+"area_nickname": "龍潭區、平鎮區",
 "county": "68000",
 "area": "05",
 "town": "090",
 "vill": "027",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    55.42,
+"votePop":     1393,
 "candidates": [
  {
  "candNo": "1",
 "name": "呂玉玲",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      240,
+"disagreeTks":      529,
+"agreeRate":    31.21,
+"disagreeRate":    68.79,
+"adptVictor": "N",
+"ytpRate":    17.23,
+"ntpRate":    37.98 
 } 
 ] 
 },
 {
  "range": "桃園市 第05選區 龍潭區東興里",
-"area_nickname": "平鎮區、龍潭區",
+"area_nickname": "龍潭區、平鎮區",
 "county": "68000",
 "area": "05",
 "town": "090",
 "vill": "028",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    54.53,
+"votePop":     3589,
 "candidates": [
  {
  "candNo": "1",
 "name": "呂玉玲",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      584,
+"disagreeTks":     1358,
+"agreeRate":    30.07,
+"disagreeRate":    69.93,
+"adptVictor": "N",
+"ytpRate":    16.27,
+"ntpRate":    37.84 
 } 
 ] 
 },
 {
  "range": "桃園市 第05選區 龍潭區中興里",
-"area_nickname": "平鎮區、龍潭區",
+"area_nickname": "龍潭區、平鎮區",
 "county": "68000",
 "area": "05",
 "town": "090",
 "vill": "014",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    54.01,
+"votePop":     3955,
 "candidates": [
  {
  "candNo": "1",
 "name": "呂玉玲",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      683,
+"disagreeTks":     1440,
+"agreeRate":    32.17,
+"disagreeRate":    67.83,
+"adptVictor": "N",
+"ytpRate":    17.27,
+"ntpRate":    36.41 
 } 
 ] 
 },
 {
  "range": "桃園市 第05選區 龍潭區北興里",
-"area_nickname": "平鎮區、龍潭區",
+"area_nickname": "龍潭區、平鎮區",
 "county": "68000",
 "area": "05",
 "town": "090",
 "vill": "029",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    54.83,
+"votePop":     2061,
 "candidates": [
  {
  "candNo": "1",
 "name": "呂玉玲",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      341,
+"disagreeTks":      778,
+"agreeRate":    30.47,
+"disagreeRate":    69.53,
+"adptVictor": "N",
+"ytpRate":    16.55,
+"ntpRate":    37.75 
 } 
 ] 
 },
 {
  "range": "桃園市 第05選區 龍潭區佳安里",
-"area_nickname": "平鎮區、龍潭區",
+"area_nickname": "龍潭區、平鎮區",
 "county": "68000",
 "area": "05",
 "town": "090",
 "vill": "015",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    57.77,
+"votePop":     3306,
 "candidates": [
  {
  "candNo": "1",
 "name": "呂玉玲",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      577,
+"disagreeTks":     1321,
+"agreeRate":     30.4,
+"disagreeRate":     69.6,
+"adptVictor": "N",
+"ytpRate":    17.45,
+"ntpRate":    39.96 
 } 
 ] 
 },
 {
  "range": "桃園市 第05選區 龍潭區三坑里",
-"area_nickname": "平鎮區、龍潭區",
+"area_nickname": "龍潭區、平鎮區",
 "county": "68000",
 "area": "05",
 "town": "090",
 "vill": "017",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    55.67,
+"votePop":     1509,
 "candidates": [
  {
  "candNo": "1",
 "name": "呂玉玲",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      371,
+"disagreeTks":      464,
+"agreeRate":    44.43,
+"disagreeRate":    55.57,
+"adptVictor": "N",
+"ytpRate":    24.59,
+"ntpRate":    30.75 
 } 
 ] 
 },
 {
  "range": "桃園市 第05選區 龍潭區大平里",
-"area_nickname": "平鎮區、龍潭區",
+"area_nickname": "龍潭區、平鎮區",
 "county": "68000",
 "area": "05",
 "town": "090",
 "vill": "018",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    51.73,
+"votePop":     3180,
 "candidates": [
  {
  "candNo": "1",
 "name": "呂玉玲",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      659,
+"disagreeTks":      981,
+"agreeRate":    40.18,
+"disagreeRate":    59.82,
+"adptVictor": "N",
+"ytpRate":    20.72,
+"ntpRate":    30.85 
 } 
 ] 
 },
 {
  "range": "桃園市 第05選區 龍潭區三林里",
-"area_nickname": "平鎮區、龍潭區",
+"area_nickname": "龍潭區、平鎮區",
 "county": "68000",
 "area": "05",
 "town": "090",
 "vill": "019",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":     58.2,
+"votePop":     2964,
 "candidates": [
  {
  "candNo": "1",
 "name": "呂玉玲",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      582,
+"disagreeTks":     1136,
+"agreeRate":    33.88,
+"disagreeRate":    66.12,
+"adptVictor": "N",
+"ytpRate":    19.64,
+"ntpRate":    38.33 
 } 
 ] 
 },
 {
  "range": "桃園市 第05選區 龍潭區建林里",
-"area_nickname": "平鎮區、龍潭區",
+"area_nickname": "龍潭區、平鎮區",
 "county": "68000",
 "area": "05",
 "town": "090",
 "vill": "030",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    61.34,
+"votePop":     3427,
 "candidates": [
  {
  "candNo": "1",
 "name": "呂玉玲",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      553,
+"disagreeTks":     1538,
+"agreeRate":    26.45,
+"disagreeRate":    73.55,
+"adptVictor": "N",
+"ytpRate":    16.14,
+"ntpRate":    44.88 
 } 
 ] 
 },
 {
  "range": "桃園市 第05選區 龍潭區富林里",
-"area_nickname": "平鎮區、龍潭區",
+"area_nickname": "龍潭區、平鎮區",
 "county": "68000",
 "area": "05",
 "town": "090",
 "vill": "031",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":     56.9,
+"votePop":     3158,
 "candidates": [
  {
  "candNo": "1",
 "name": "呂玉玲",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      510,
+"disagreeTks":     1279,
+"agreeRate":    28.51,
+"disagreeRate":    71.49,
+"adptVictor": "N",
+"ytpRate":    16.15,
+"ntpRate":     40.5 
 } 
 ] 
 },
 {
  "range": "桃園市 第05選區 龍潭區高平里",
-"area_nickname": "平鎮區、龍潭區",
+"area_nickname": "龍潭區、平鎮區",
 "county": "68000",
 "area": "05",
 "town": "090",
 "vill": "004",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    54.23,
+"votePop":     3041,
 "candidates": [
  {
  "candNo": "1",
 "name": "呂玉玲",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      667,
+"disagreeTks":      973,
+"agreeRate":    40.67,
+"disagreeRate":    59.33,
+"adptVictor": "N",
+"ytpRate":    21.93,
+"ntpRate":       32 
 } 
 ] 
 },
 {
  "range": "桃園市 第05選區 龍潭區高原里",
-"area_nickname": "平鎮區、龍潭區",
+"area_nickname": "龍潭區、平鎮區",
 "county": "68000",
 "area": "05",
 "town": "090",
 "vill": "012",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":     52.2,
+"votePop":     4090,
 "candidates": [
  {
  "candNo": "1",
 "name": "呂玉玲",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      854,
+"disagreeTks":     1267,
+"agreeRate":    40.26,
+"disagreeRate":    59.74,
+"adptVictor": "N",
+"ytpRate":    20.88,
+"ntpRate":    30.98 
 } 
 ] 
 },
 {
  "range": "桃園市 第05選區 龍潭區三和里",
-"area_nickname": "平鎮區、龍潭區",
+"area_nickname": "龍潭區、平鎮區",
 "county": "68000",
 "area": "05",
 "town": "090",
 "vill": "016",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    55.26,
+"votePop":      780,
 "candidates": [
  {
  "candNo": "1",
 "name": "呂玉玲",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      175,
+"disagreeTks":      256,
+"agreeRate":     40.6,
+"disagreeRate":     59.4,
+"adptVictor": "N",
+"ytpRate":    22.44,
+"ntpRate":    32.82 
 } 
 ] 
 },
 {
  "range": "桃園市 第05選區 龍潭區三水里",
-"area_nickname": "平鎮區、龍潭區",
+"area_nickname": "龍潭區、平鎮區",
 "county": "68000",
 "area": "05",
 "town": "090",
 "vill": "008",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    59.49,
+"votePop":      632,
 "candidates": [
  {
  "candNo": "1",
 "name": "呂玉玲",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      175,
+"disagreeTks":      198,
+"agreeRate":    46.92,
+"disagreeRate":    53.08,
+"adptVictor": "N",
+"ytpRate":    27.69,
+"ntpRate":    31.33 
 } 
 ] 
 },
 {
  "range": "桃園市 第05選區 龍潭區祥和里",
-"area_nickname": "平鎮區、龍潭區",
+"area_nickname": "龍潭區、平鎮區",
 "county": "68000",
 "area": "05",
 "town": "090",
 "vill": "032",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    51.93,
+"votePop":     1658,
 "candidates": [
  {
  "candNo": "1",
 "name": "呂玉玲",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      328,
+"disagreeTks":      524,
+"agreeRate":     38.5,
+"disagreeRate":     61.5,
+"adptVictor": "N",
+"ytpRate":    19.78,
+"ntpRate":     31.6 
 } 
 ] 
 },
 {
  "range": "桃園市 第05選區 龍潭區渴望里",
-"area_nickname": "平鎮區、龍潭區",
+"area_nickname": "龍潭區、平鎮區",
 "county": "68000",
 "area": "05",
 "town": "090",
 "vill": "033",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    58.97,
+"votePop":     2330,
 "candidates": [
  {
  "candNo": "1",
 "name": "呂玉玲",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      436,
+"disagreeTks":      936,
+"agreeRate":    31.78,
+"disagreeRate":    68.22,
+"adptVictor": "N",
+"ytpRate":    18.71,
+"ntpRate":    40.17 
 } 
 ] 
 } 

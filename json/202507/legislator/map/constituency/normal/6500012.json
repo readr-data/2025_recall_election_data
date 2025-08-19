@@ -1,3461 +1,3605 @@
 {
- "updatedAt": "2025-07-10 10:33:00",
+ "updatedAt": "2025-08-19 17:43:00",
 "is_running": false,
 "is_started": true,
 "districts": [
  {
  "range": "新北市 第12選區 金山區和平里",
-"area_nickname": "金山區、萬里區、汐止區、平溪區、瑞芳區、雙溪區、貢寮區",
+"area_nickname": "汐止區、瑞芳區、平溪區、雙溪區、貢寮區、金山區、萬里區",
 "county": "65000",
 "area": "12",
 "town": "270",
 "vill": "001",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    55.45,
+"votePop":      404,
 "candidates": [
  {
  "candNo": "1",
 "name": "廖先翔",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":       89,
+"disagreeTks":      134,
+"agreeRate":    39.91,
+"disagreeRate":    60.09,
+"adptVictor": "N",
+"ytpRate":    22.03,
+"ntpRate":    33.17 
 } 
 ] 
 },
 {
  "range": "新北市 第12選區 金山區大同里",
-"area_nickname": "金山區、萬里區、汐止區、平溪區、瑞芳區、雙溪區、貢寮區",
+"area_nickname": "汐止區、瑞芳區、平溪區、雙溪區、貢寮區、金山區、萬里區",
 "county": "65000",
 "area": "12",
 "town": "270",
 "vill": "002",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    48.24,
+"votePop":      624,
 "candidates": [
  {
  "candNo": "1",
 "name": "廖先翔",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      136,
+"disagreeTks":      165,
+"agreeRate":    45.18,
+"disagreeRate":    54.82,
+"adptVictor": "N",
+"ytpRate":    21.79,
+"ntpRate":    26.44 
 } 
 ] 
 },
 {
  "range": "新北市 第12選區 金山區豐漁里",
-"area_nickname": "金山區、萬里區、汐止區、平溪區、瑞芳區、雙溪區、貢寮區",
+"area_nickname": "汐止區、瑞芳區、平溪區、雙溪區、貢寮區、金山區、萬里區",
 "county": "65000",
 "area": "12",
 "town": "270",
 "vill": "003",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    49.46,
+"votePop":      465,
 "candidates": [
  {
  "candNo": "1",
 "name": "廖先翔",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      121,
+"disagreeTks":      109,
+"agreeRate":    52.61,
+"disagreeRate":    47.39,
+"adptVictor": "N",
+"ytpRate":    26.02,
+"ntpRate":    23.44 
 } 
 ] 
 },
 {
  "range": "新北市 第12選區 金山區磺港里",
-"area_nickname": "金山區、萬里區、汐止區、平溪區、瑞芳區、雙溪區、貢寮區",
+"area_nickname": "汐止區、瑞芳區、平溪區、雙溪區、貢寮區、金山區、萬里區",
 "county": "65000",
 "area": "12",
 "town": "270",
 "vill": "004",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    46.93,
+"votePop":     1547,
 "candidates": [
  {
  "candNo": "1",
 "name": "廖先翔",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      436,
+"disagreeTks":      285,
+"agreeRate":    60.47,
+"disagreeRate":    39.53,
+"adptVictor": "N",
+"ytpRate":    28.18,
+"ntpRate":    18.42 
 } 
 ] 
 },
 {
  "range": "新北市 第12選區 金山區美田里",
-"area_nickname": "金山區、萬里區、汐止區、平溪區、瑞芳區、雙溪區、貢寮區",
+"area_nickname": "汐止區、瑞芳區、平溪區、雙溪區、貢寮區、金山區、萬里區",
 "county": "65000",
 "area": "12",
 "town": "270",
 "vill": "005",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":     47.9,
+"votePop":     3622,
 "candidates": [
  {
  "candNo": "1",
 "name": "廖先翔",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      790,
+"disagreeTks":      937,
+"agreeRate":    45.74,
+"disagreeRate":    54.26,
+"adptVictor": "N",
+"ytpRate":    21.81,
+"ntpRate":    25.87 
 } 
 ] 
 },
 {
  "range": "新北市 第12選區 金山區金美里",
-"area_nickname": "金山區、萬里區、汐止區、平溪區、瑞芳區、雙溪區、貢寮區",
+"area_nickname": "汐止區、瑞芳區、平溪區、雙溪區、貢寮區、金山區、萬里區",
 "county": "65000",
 "area": "12",
 "town": "270",
 "vill": "015",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    48.67,
+"votePop":     4761,
 "candidates": [
  {
  "candNo": "1",
 "name": "廖先翔",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":     1084,
+"disagreeTks":     1221,
+"agreeRate":    47.03,
+"disagreeRate":    52.97,
+"adptVictor": "N",
+"ytpRate":    22.77,
+"ntpRate":    25.65 
 } 
 ] 
 },
 {
  "range": "新北市 第12選區 金山區五湖里",
-"area_nickname": "金山區、萬里區、汐止區、平溪區、瑞芳區、雙溪區、貢寮區",
+"area_nickname": "汐止區、瑞芳區、平溪區、雙溪區、貢寮區、金山區、萬里區",
 "county": "65000",
 "area": "12",
 "town": "270",
 "vill": "006",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    53.14,
+"votePop":     1543,
 "candidates": [
  {
  "candNo": "1",
 "name": "廖先翔",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      336,
+"disagreeTks":      482,
+"agreeRate":    41.08,
+"disagreeRate":    58.92,
+"adptVictor": "N",
+"ytpRate":    21.78,
+"ntpRate":    31.24 
 } 
 ] 
 },
 {
  "range": "新北市 第12選區 金山區重和里",
-"area_nickname": "金山區、萬里區、汐止區、平溪區、瑞芳區、雙溪區、貢寮區",
+"area_nickname": "汐止區、瑞芳區、平溪區、雙溪區、貢寮區、金山區、萬里區",
 "county": "65000",
 "area": "12",
 "town": "270",
 "vill": "007",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    44.14,
+"votePop":     1160,
 "candidates": [
  {
  "candNo": "1",
 "name": "廖先翔",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      262,
+"disagreeTks":      247,
+"agreeRate":    51.47,
+"disagreeRate":    48.53,
+"adptVictor": "N",
+"ytpRate":    22.59,
+"ntpRate":    21.29 
 } 
 ] 
 },
 {
  "range": "新北市 第12選區 金山區兩湖里",
-"area_nickname": "金山區、萬里區、汐止區、平溪區、瑞芳區、雙溪區、貢寮區",
+"area_nickname": "汐止區、瑞芳區、平溪區、雙溪區、貢寮區、金山區、萬里區",
 "county": "65000",
 "area": "12",
 "town": "270",
 "vill": "008",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    48.94,
+"votePop":      376,
 "candidates": [
  {
  "candNo": "1",
 "name": "廖先翔",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":       85,
+"disagreeTks":       98,
+"agreeRate":    46.45,
+"disagreeRate":    53.55,
+"adptVictor": "N",
+"ytpRate":    22.61,
+"ntpRate":    26.06 
 } 
 ] 
 },
 {
  "range": "新北市 第12選區 金山區六股里",
-"area_nickname": "金山區、萬里區、汐止區、平溪區、瑞芳區、雙溪區、貢寮區",
+"area_nickname": "汐止區、瑞芳區、平溪區、雙溪區、貢寮區、金山區、萬里區",
 "county": "65000",
 "area": "12",
 "town": "270",
 "vill": "009",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":       50,
+"votePop":      608,
 "candidates": [
  {
  "candNo": "1",
 "name": "廖先翔",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      163,
+"disagreeTks":      140,
+"agreeRate":     53.8,
+"disagreeRate":     46.2,
+"adptVictor": "N",
+"ytpRate":    26.81,
+"ntpRate":    23.03 
 } 
 ] 
 },
 {
  "range": "新北市 第12選區 金山區三界里",
-"area_nickname": "金山區、萬里區、汐止區、平溪區、瑞芳區、雙溪區、貢寮區",
+"area_nickname": "汐止區、瑞芳區、平溪區、雙溪區、貢寮區、金山區、萬里區",
 "county": "65000",
 "area": "12",
 "town": "270",
 "vill": "010",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    49.57,
+"votePop":      587,
 "candidates": [
  {
  "candNo": "1",
 "name": "廖先翔",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      164,
+"disagreeTks":      124,
+"agreeRate":    56.94,
+"disagreeRate":    43.06,
+"adptVictor": "N",
+"ytpRate":    27.94,
+"ntpRate":    21.12 
 } 
 ] 
 },
 {
  "range": "新北市 第12選區 金山區清泉里",
-"area_nickname": "金山區、萬里區、汐止區、平溪區、瑞芳區、雙溪區、貢寮區",
+"area_nickname": "汐止區、瑞芳區、平溪區、雙溪區、貢寮區、金山區、萬里區",
 "county": "65000",
 "area": "12",
 "town": "270",
 "vill": "011",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    48.74,
+"votePop":      751,
 "candidates": [
  {
  "candNo": "1",
 "name": "廖先翔",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      168,
+"disagreeTks":      197,
+"agreeRate":    46.03,
+"disagreeRate":    53.97,
+"adptVictor": "N",
+"ytpRate":    22.37,
+"ntpRate":    26.23 
 } 
 ] 
 },
 {
  "range": "新北市 第12選區 金山區西湖里",
-"area_nickname": "金山區、萬里區、汐止區、平溪區、瑞芳區、雙溪區、貢寮區",
+"area_nickname": "汐止區、瑞芳區、平溪區、雙溪區、貢寮區、金山區、萬里區",
 "county": "65000",
 "area": "12",
 "town": "270",
 "vill": "013",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    45.06,
+"votePop":      162,
 "candidates": [
  {
  "candNo": "1",
 "name": "廖先翔",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":       34,
+"disagreeTks":       39,
+"agreeRate":    46.58,
+"disagreeRate":    53.42,
+"adptVictor": "N",
+"ytpRate":    20.99,
+"ntpRate":    24.07 
 } 
 ] 
 },
 {
  "range": "新北市 第12選區 金山區萬壽里",
-"area_nickname": "金山區、萬里區、汐止區、平溪區、瑞芳區、雙溪區、貢寮區",
+"area_nickname": "汐止區、瑞芳區、平溪區、雙溪區、貢寮區、金山區、萬里區",
 "county": "65000",
 "area": "12",
 "town": "270",
 "vill": "012",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    50.36,
+"votePop":      413,
 "candidates": [
  {
  "candNo": "1",
 "name": "廖先翔",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      124,
+"disagreeTks":       84,
+"agreeRate":    59.62,
+"disagreeRate":    40.38,
+"adptVictor": "N",
+"ytpRate":    30.02,
+"ntpRate":    20.34 
 } 
 ] 
 },
 {
  "range": "新北市 第12選區 金山區永興里",
-"area_nickname": "金山區、萬里區、汐止區、平溪區、瑞芳區、雙溪區、貢寮區",
+"area_nickname": "汐止區、瑞芳區、平溪區、雙溪區、貢寮區、金山區、萬里區",
 "county": "65000",
 "area": "12",
 "town": "270",
 "vill": "014",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    38.74,
+"votePop":      506,
 "candidates": [
  {
  "candNo": "1",
 "name": "廖先翔",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      113,
+"disagreeTks":       82,
+"agreeRate":    57.95,
+"disagreeRate":    42.05,
+"adptVictor": "N",
+"ytpRate":    22.33,
+"ntpRate":    16.21 
 } 
 ] 
 },
 {
  "range": "新北市 第12選區 萬里區萬里里",
-"area_nickname": "金山區、萬里區、汐止區、平溪區、瑞芳區、雙溪區、貢寮區",
+"area_nickname": "汐止區、瑞芳區、平溪區、雙溪區、貢寮區、金山區、萬里區",
 "county": "65000",
 "area": "12",
 "town": "280",
 "vill": "001",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    49.52,
+"votePop":     3934,
 "candidates": [
  {
  "candNo": "1",
 "name": "廖先翔",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      916,
+"disagreeTks":     1026,
+"agreeRate":    47.17,
+"disagreeRate":    52.83,
+"adptVictor": "N",
+"ytpRate":    23.28,
+"ntpRate":    26.08 
 } 
 ] 
 },
 {
  "range": "新北市 第12選區 萬里區北基里",
-"area_nickname": "金山區、萬里區、汐止區、平溪區、瑞芳區、雙溪區、貢寮區",
+"area_nickname": "汐止區、瑞芳區、平溪區、雙溪區、貢寮區、金山區、萬里區",
 "county": "65000",
 "area": "12",
 "town": "280",
 "vill": "010",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    43.07,
+"votePop":     2466,
 "candidates": [
  {
  "candNo": "1",
 "name": "廖先翔",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      477,
+"disagreeTks":      579,
+"agreeRate":    45.17,
+"disagreeRate":    54.83,
+"adptVictor": "N",
+"ytpRate":    19.34,
+"ntpRate":    23.48 
 } 
 ] 
 },
 {
  "range": "新北市 第12選區 萬里區龜吼里",
-"area_nickname": "金山區、萬里區、汐止區、平溪區、瑞芳區、雙溪區、貢寮區",
+"area_nickname": "汐止區、瑞芳區、平溪區、雙溪區、貢寮區、金山區、萬里區",
 "county": "65000",
 "area": "12",
 "town": "280",
 "vill": "002",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    42.33,
+"votePop":     2639,
 "candidates": [
  {
  "candNo": "1",
 "name": "廖先翔",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      502,
+"disagreeTks":      607,
+"agreeRate":    45.27,
+"disagreeRate":    54.73,
+"adptVictor": "N",
+"ytpRate":    19.02,
+"ntpRate":       23 
 } 
 ] 
 },
 {
  "range": "新北市 第12選區 萬里區野柳里",
-"area_nickname": "金山區、萬里區、汐止區、平溪區、瑞芳區、雙溪區、貢寮區",
+"area_nickname": "汐止區、瑞芳區、平溪區、雙溪區、貢寮區、金山區、萬里區",
 "county": "65000",
 "area": "12",
 "town": "280",
 "vill": "003",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    45.72,
+"votePop":     2981,
 "candidates": [
  {
  "candNo": "1",
 "name": "廖先翔",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      666,
+"disagreeTks":      691,
+"agreeRate":    49.08,
+"disagreeRate":    50.92,
+"adptVictor": "N",
+"ytpRate":    22.34,
+"ntpRate":    23.18 
 } 
 ] 
 },
 {
  "range": "新北市 第12選區 萬里區大鵬里",
-"area_nickname": "金山區、萬里區、汐止區、平溪區、瑞芳區、雙溪區、貢寮區",
+"area_nickname": "汐止區、瑞芳區、平溪區、雙溪區、貢寮區、金山區、萬里區",
 "county": "65000",
 "area": "12",
 "town": "280",
 "vill": "004",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    46.93,
+"votePop":     2512,
 "candidates": [
  {
  "candNo": "1",
 "name": "廖先翔",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      542,
+"disagreeTks":      631,
+"agreeRate":    46.21,
+"disagreeRate":    53.79,
+"adptVictor": "N",
+"ytpRate":    21.58,
+"ntpRate":    25.12 
 } 
 ] 
 },
 {
  "range": "新北市 第12選區 萬里區磺潭里",
-"area_nickname": "金山區、萬里區、汐止區、平溪區、瑞芳區、雙溪區、貢寮區",
+"area_nickname": "汐止區、瑞芳區、平溪區、雙溪區、貢寮區、金山區、萬里區",
 "county": "65000",
 "area": "12",
 "town": "280",
 "vill": "005",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    50.29,
+"votePop":      519,
 "candidates": [
  {
  "candNo": "1",
 "name": "廖先翔",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      102,
+"disagreeTks":      158,
+"agreeRate":    39.23,
+"disagreeRate":    60.77,
+"adptVictor": "N",
+"ytpRate":    19.65,
+"ntpRate":    30.44 
 } 
 ] 
 },
 {
  "range": "新北市 第12選區 萬里區雙興里",
-"area_nickname": "金山區、萬里區、汐止區、平溪區、瑞芳區、雙溪區、貢寮區",
+"area_nickname": "汐止區、瑞芳區、平溪區、雙溪區、貢寮區、金山區、萬里區",
 "county": "65000",
 "area": "12",
 "town": "280",
 "vill": "006",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    48.33,
+"votePop":      898,
 "candidates": [
  {
  "candNo": "1",
 "name": "廖先翔",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      209,
+"disagreeTks":      220,
+"agreeRate":    48.72,
+"disagreeRate":    51.28,
+"adptVictor": "N",
+"ytpRate":    23.27,
+"ntpRate":     24.5 
 } 
 ] 
 },
 {
  "range": "新北市 第12選區 萬里區溪底里",
-"area_nickname": "金山區、萬里區、汐止區、平溪區、瑞芳區、雙溪區、貢寮區",
+"area_nickname": "汐止區、瑞芳區、平溪區、雙溪區、貢寮區、金山區、萬里區",
 "county": "65000",
 "area": "12",
 "town": "280",
 "vill": "007",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    44.05,
+"votePop":      597,
 "candidates": [
  {
  "candNo": "1",
 "name": "廖先翔",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      158,
+"disagreeTks":      102,
+"agreeRate":    60.77,
+"disagreeRate":    39.23,
+"adptVictor": "N",
+"ytpRate":    26.47,
+"ntpRate":    17.09 
 } 
 ] 
 },
 {
  "range": "新北市 第12選區 萬里區崁脚里",
-"area_nickname": "金山區、萬里區、汐止區、平溪區、瑞芳區、雙溪區、貢寮區",
+"area_nickname": "汐止區、瑞芳區、平溪區、雙溪區、貢寮區、金山區、萬里區",
 "county": "65000",
 "area": "12",
 "town": "280",
 "vill": "008",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    49.43,
+"votePop":      352,
 "candidates": [
  {
  "candNo": "1",
 "name": "廖先翔",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":       93,
+"disagreeTks":       80,
+"agreeRate":    53.76,
+"disagreeRate":    46.24,
+"adptVictor": "N",
+"ytpRate":    26.42,
+"ntpRate":    22.73 
 } 
 ] 
 },
 {
  "range": "新北市 第12選區 萬里區中幅里",
-"area_nickname": "金山區、萬里區、汐止區、平溪區、瑞芳區、雙溪區、貢寮區",
+"area_nickname": "汐止區、瑞芳區、平溪區、雙溪區、貢寮區、金山區、萬里區",
 "county": "65000",
 "area": "12",
 "town": "280",
 "vill": "009",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    45.06,
+"votePop":     1003,
 "candidates": [
  {
  "candNo": "1",
 "name": "廖先翔",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      217,
+"disagreeTks":      230,
+"agreeRate":    48.55,
+"disagreeRate":    51.45,
+"adptVictor": "N",
+"ytpRate":    21.64,
+"ntpRate":    22.93 
 } 
 ] 
 },
 {
  "range": "新北市 第12選區 汐止區仁德里",
-"area_nickname": "金山區、萬里區、汐止區、平溪區、瑞芳區、雙溪區、貢寮區",
+"area_nickname": "汐止區、瑞芳區、平溪區、雙溪區、貢寮區、金山區、萬里區",
 "county": "65000",
 "area": "12",
 "town": "110",
 "vill": "028",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    58.07,
+"votePop":     1629,
 "candidates": [
  {
  "candNo": "1",
 "name": "廖先翔",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      416,
+"disagreeTks":      525,
+"agreeRate":    44.21,
+"disagreeRate":    55.79,
+"adptVictor": "N",
+"ytpRate":    25.54,
+"ntpRate":    32.23 
 } 
 ] 
 },
 {
  "range": "新北市 第12選區 汐止區義民里",
-"area_nickname": "金山區、萬里區、汐止區、平溪區、瑞芳區、雙溪區、貢寮區",
+"area_nickname": "汐止區、瑞芳區、平溪區、雙溪區、貢寮區、金山區、萬里區",
 "county": "65000",
 "area": "12",
 "town": "110",
 "vill": "001",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    57.03,
+"votePop":     1096,
 "candidates": [
  {
  "candNo": "1",
 "name": "廖先翔",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      272,
+"disagreeTks":      350,
+"agreeRate":    43.73,
+"disagreeRate":    56.27,
+"adptVictor": "N",
+"ytpRate":    24.82,
+"ntpRate":    31.93 
 } 
 ] 
 },
 {
  "range": "新北市 第12選區 汐止區禮門里",
-"area_nickname": "金山區、萬里區、汐止區、平溪區、瑞芳區、雙溪區、貢寮區",
+"area_nickname": "汐止區、瑞芳區、平溪區、雙溪區、貢寮區、金山區、萬里區",
 "county": "65000",
 "area": "12",
 "town": "110",
 "vill": "002",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    54.79,
+"votePop":      991,
 "candidates": [
  {
  "candNo": "1",
 "name": "廖先翔",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      255,
+"disagreeTks":      286,
+"agreeRate":    47.13,
+"disagreeRate":    52.87,
+"adptVictor": "N",
+"ytpRate":    25.73,
+"ntpRate":    28.86 
 } 
 ] 
 },
 {
  "range": "新北市 第12選區 汐止區智慧里",
-"area_nickname": "金山區、萬里區、汐止區、平溪區、瑞芳區、雙溪區、貢寮區",
+"area_nickname": "汐止區、瑞芳區、平溪區、雙溪區、貢寮區、金山區、萬里區",
 "county": "65000",
 "area": "12",
 "town": "110",
 "vill": "003",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    57.24,
+"votePop":     4181,
 "candidates": [
  {
  "candNo": "1",
 "name": "廖先翔",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      975,
+"disagreeTks":     1412,
+"agreeRate":    40.85,
+"disagreeRate":    59.15,
+"adptVictor": "N",
+"ytpRate":    23.32,
+"ntpRate":    33.77 
 } 
 ] 
 },
 {
  "range": "新北市 第12選區 汐止區大同里",
-"area_nickname": "金山區、萬里區、汐止區、平溪區、瑞芳區、雙溪區、貢寮區",
+"area_nickname": "汐止區、瑞芳區、平溪區、雙溪區、貢寮區、金山區、萬里區",
 "county": "65000",
 "area": "12",
 "town": "110",
 "vill": "041",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    54.73,
+"votePop":     2529,
 "candidates": [
  {
  "candNo": "1",
 "name": "廖先翔",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      597,
+"disagreeTks":      782,
+"agreeRate":    43.29,
+"disagreeRate":    56.71,
+"adptVictor": "N",
+"ytpRate":    23.61,
+"ntpRate":    30.92 
 } 
 ] 
 },
 {
  "range": "新北市 第12選區 汐止區信望里",
-"area_nickname": "金山區、萬里區、汐止區、平溪區、瑞芳區、雙溪區、貢寮區",
+"area_nickname": "汐止區、瑞芳區、平溪區、雙溪區、貢寮區、金山區、萬里區",
 "county": "65000",
 "area": "12",
 "town": "110",
 "vill": "004",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    56.79,
+"votePop":      287,
 "candidates": [
  {
  "candNo": "1",
 "name": "廖先翔",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":       82,
+"disagreeTks":       80,
+"agreeRate":    50.62,
+"disagreeRate":    49.38,
+"adptVictor": "N",
+"ytpRate":    28.57,
+"ntpRate":    27.87 
 } 
 ] 
 },
 {
  "range": "新北市 第12選區 汐止區新昌里",
-"area_nickname": "金山區、萬里區、汐止區、平溪區、瑞芳區、雙溪區、貢寮區",
+"area_nickname": "汐止區、瑞芳區、平溪區、雙溪區、貢寮區、金山區、萬里區",
 "county": "65000",
 "area": "12",
 "town": "110",
 "vill": "007",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    55.94,
+"votePop":     4707,
 "candidates": [
  {
  "candNo": "1",
 "name": "廖先翔",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":     1185,
+"disagreeTks":     1440,
+"agreeRate":    45.14,
+"disagreeRate":    54.86,
+"adptVictor": "N",
+"ytpRate":    25.18,
+"ntpRate":    30.59 
 } 
 ] 
 },
 {
  "range": "新北市 第12選區 汐止區福安里",
-"area_nickname": "金山區、萬里區、汐止區、平溪區、瑞芳區、雙溪區、貢寮區",
+"area_nickname": "汐止區、瑞芳區、平溪區、雙溪區、貢寮區、金山區、萬里區",
 "county": "65000",
 "area": "12",
 "town": "110",
 "vill": "045",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    54.81,
+"votePop":     5463,
 "candidates": [
  {
  "candNo": "1",
 "name": "廖先翔",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":     1336,
+"disagreeTks":     1640,
+"agreeRate":    44.89,
+"disagreeRate":    55.11,
+"adptVictor": "N",
+"ytpRate":    24.46,
+"ntpRate":    30.02 
 } 
 ] 
 },
 {
  "range": "新北市 第12選區 汐止區秀峰里",
-"area_nickname": "金山區、萬里區、汐止區、平溪區、瑞芳區、雙溪區、貢寮區",
+"area_nickname": "汐止區、瑞芳區、平溪區、雙溪區、貢寮區、金山區、萬里區",
 "county": "65000",
 "area": "12",
 "town": "110",
 "vill": "006",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    39.61,
+"votePop":     4829,
 "candidates": [
  {
  "candNo": "1",
 "name": "廖先翔",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      879,
+"disagreeTks":     1023,
+"agreeRate":    46.21,
+"disagreeRate":    53.79,
+"adptVictor": "N",
+"ytpRate":     18.2,
+"ntpRate":    21.18 
 } 
 ] 
 },
 {
  "range": "新北市 第12選區 汐止區秀山里",
-"area_nickname": "金山區、萬里區、汐止區、平溪區、瑞芳區、雙溪區、貢寮區",
+"area_nickname": "汐止區、瑞芳區、平溪區、雙溪區、貢寮區、金山區、萬里區",
 "county": "65000",
 "area": "12",
 "town": "110",
 "vill": "046",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    56.88,
+"votePop":     4035,
 "candidates": [
  {
  "candNo": "1",
 "name": "廖先翔",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      925,
+"disagreeTks":     1353,
+"agreeRate":    40.61,
+"disagreeRate":    59.39,
+"adptVictor": "N",
+"ytpRate":    22.92,
+"ntpRate":    33.53 
 } 
 ] 
 },
 {
  "range": "新北市 第12選區 汐止區復興里",
-"area_nickname": "金山區、萬里區、汐止區、平溪區、瑞芳區、雙溪區、貢寮區",
+"area_nickname": "汐止區、瑞芳區、平溪區、雙溪區、貢寮區、金山區、萬里區",
 "county": "65000",
 "area": "12",
 "town": "110",
 "vill": "008",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    62.44,
+"votePop":     6400,
 "candidates": [
  {
  "candNo": "1",
 "name": "廖先翔",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":     1720,
+"disagreeTks":     2256,
+"agreeRate":    43.26,
+"disagreeRate":    56.74,
+"adptVictor": "N",
+"ytpRate":    26.88,
+"ntpRate":    35.25 
 } 
 ] 
 },
 {
  "range": "新北市 第12選區 汐止區自強里",
-"area_nickname": "金山區、萬里區、汐止區、平溪區、瑞芳區、雙溪區、貢寮區",
+"area_nickname": "汐止區、瑞芳區、平溪區、雙溪區、貢寮區、金山區、萬里區",
 "county": "65000",
 "area": "12",
 "town": "110",
 "vill": "031",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    56.68,
+"votePop":     5141,
 "candidates": [
  {
  "candNo": "1",
 "name": "廖先翔",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":     1245,
+"disagreeTks":     1652,
+"agreeRate":    42.98,
+"disagreeRate":    57.02,
+"adptVictor": "N",
+"ytpRate":    24.22,
+"ntpRate":    32.13 
 } 
 ] 
 },
 {
  "range": "新北市 第12選區 汐止區文化里",
-"area_nickname": "金山區、萬里區、汐止區、平溪區、瑞芳區、雙溪區、貢寮區",
+"area_nickname": "汐止區、瑞芳區、平溪區、雙溪區、貢寮區、金山區、萬里區",
 "county": "65000",
 "area": "12",
 "town": "110",
 "vill": "032",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    57.53,
+"votePop":     4095,
 "candidates": [
  {
  "candNo": "1",
 "name": "廖先翔",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      944,
+"disagreeTks":     1390,
+"agreeRate":    40.45,
+"disagreeRate":    59.55,
+"adptVictor": "N",
+"ytpRate":    23.05,
+"ntpRate":    33.94 
 } 
 ] 
 },
 {
  "range": "新北市 第12選區 汐止區白雲里",
-"area_nickname": "金山區、萬里區、汐止區、平溪區、瑞芳區、雙溪區、貢寮區",
+"area_nickname": "汐止區、瑞芳區、平溪區、雙溪區、貢寮區、金山區、萬里區",
 "county": "65000",
 "area": "12",
 "town": "110",
 "vill": "021",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    54.74,
+"votePop":     4194,
 "candidates": [
  {
  "candNo": "1",
 "name": "廖先翔",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      974,
+"disagreeTks":     1310,
+"agreeRate":    42.64,
+"disagreeRate":    57.36,
+"adptVictor": "N",
+"ytpRate":    23.22,
+"ntpRate":    31.24 
 } 
 ] 
 },
 {
  "range": "新北市 第12選區 汐止區茄苳里",
-"area_nickname": "金山區、萬里區、汐止區、平溪區、瑞芳區、雙溪區、貢寮區",
+"area_nickname": "汐止區、瑞芳區、平溪區、雙溪區、貢寮區、金山區、萬里區",
 "county": "65000",
 "area": "12",
 "town": "110",
 "vill": "009",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    52.66,
+"votePop":     4288,
 "candidates": [
  {
  "candNo": "1",
 "name": "廖先翔",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      976,
+"disagreeTks":     1271,
+"agreeRate":    43.44,
+"disagreeRate":    56.56,
+"adptVictor": "N",
+"ytpRate":    22.76,
+"ntpRate":    29.64 
 } 
 ] 
 },
 {
  "range": "新北市 第12選區 汐止區崇德里",
-"area_nickname": "金山區、萬里區、汐止區、平溪區、瑞芳區、雙溪區、貢寮區",
+"area_nickname": "汐止區、瑞芳區、平溪區、雙溪區、貢寮區、金山區、萬里區",
 "county": "65000",
 "area": "12",
 "town": "110",
 "vill": "042",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    55.26,
+"votePop":     4329,
 "candidates": [
  {
  "candNo": "1",
 "name": "廖先翔",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":     1032,
+"disagreeTks":     1352,
+"agreeRate":    43.29,
+"disagreeRate":    56.71,
+"adptVictor": "N",
+"ytpRate":    23.84,
+"ntpRate":    31.23 
 } 
 ] 
 },
 {
  "range": "新北市 第12選區 汐止區城中里",
-"area_nickname": "金山區、萬里區、汐止區、平溪區、瑞芳區、雙溪區、貢寮區",
+"area_nickname": "汐止區、瑞芳區、平溪區、雙溪區、貢寮區、金山區、萬里區",
 "county": "65000",
 "area": "12",
 "town": "110",
 "vill": "048",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    59.67,
+"votePop":     4081,
 "candidates": [
  {
  "candNo": "1",
 "name": "廖先翔",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      980,
+"disagreeTks":     1445,
+"agreeRate":    40.41,
+"disagreeRate":    59.59,
+"adptVictor": "N",
+"ytpRate":    24.01,
+"ntpRate":    35.41 
 } 
 ] 
 },
 {
  "range": "新北市 第12選區 汐止區橋東里",
-"area_nickname": "金山區、萬里區、汐止區、平溪區、瑞芳區、雙溪區、貢寮區",
+"area_nickname": "汐止區、瑞芳區、平溪區、雙溪區、貢寮區、金山區、萬里區",
 "county": "65000",
 "area": "12",
 "town": "110",
 "vill": "005",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    58.07,
+"votePop":     3291,
 "candidates": [
  {
  "candNo": "1",
 "name": "廖先翔",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      787,
+"disagreeTks":     1109,
+"agreeRate":    41.51,
+"disagreeRate":    58.49,
+"adptVictor": "N",
+"ytpRate":    23.91,
+"ntpRate":     33.7 
 } 
 ] 
 },
 {
  "range": "新北市 第12選區 汐止區建成里",
-"area_nickname": "金山區、萬里區、汐止區、平溪區、瑞芳區、雙溪區、貢寮區",
+"area_nickname": "汐止區、瑞芳區、平溪區、雙溪區、貢寮區、金山區、萬里區",
 "county": "65000",
 "area": "12",
 "town": "110",
 "vill": "047",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    60.52,
+"votePop":     4585,
 "candidates": [
  {
  "candNo": "1",
 "name": "廖先翔",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":     1064,
+"disagreeTks":     1702,
+"agreeRate":    38.47,
+"disagreeRate":    61.53,
+"adptVictor": "N",
+"ytpRate":    23.21,
+"ntpRate":    37.12 
 } 
 ] 
 },
 {
  "range": "新北市 第12選區 汐止區長安里",
-"area_nickname": "金山區、萬里區、汐止區、平溪區、瑞芳區、雙溪區、貢寮區",
+"area_nickname": "汐止區、瑞芳區、平溪區、雙溪區、貢寮區、金山區、萬里區",
 "county": "65000",
 "area": "12",
 "town": "110",
 "vill": "010",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":     56.1,
+"votePop":     1385,
 "candidates": [
  {
  "candNo": "1",
 "name": "廖先翔",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      358,
+"disagreeTks":      415,
+"agreeRate":    46.31,
+"disagreeRate":    53.69,
+"adptVictor": "N",
+"ytpRate":    25.85,
+"ntpRate":    29.96 
 } 
 ] 
 },
 {
  "range": "新北市 第12選區 汐止區保安里",
-"area_nickname": "金山區、萬里區、汐止區、平溪區、瑞芳區、雙溪區、貢寮區",
+"area_nickname": "汐止區、瑞芳區、平溪區、雙溪區、貢寮區、金山區、萬里區",
 "county": "65000",
 "area": "12",
 "town": "110",
 "vill": "011",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":     51.7,
+"votePop":     1408,
 "candidates": [
  {
  "candNo": "1",
 "name": "廖先翔",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      309,
+"disagreeTks":      416,
+"agreeRate":    42.62,
+"disagreeRate":    57.38,
+"adptVictor": "N",
+"ytpRate":    21.95,
+"ntpRate":    29.55 
 } 
 ] 
 },
 {
  "range": "新北市 第12選區 汐止區東山里",
-"area_nickname": "金山區、萬里區、汐止區、平溪區、瑞芳區、雙溪區、貢寮區",
+"area_nickname": "汐止區、瑞芳區、平溪區、雙溪區、貢寮區、金山區、萬里區",
 "county": "65000",
 "area": "12",
 "town": "110",
 "vill": "023",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    47.92,
+"votePop":      530,
 "candidates": [
  {
  "candNo": "1",
 "name": "廖先翔",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      128,
+"disagreeTks":      125,
+"agreeRate":    50.59,
+"disagreeRate":    49.41,
+"adptVictor": "N",
+"ytpRate":    24.15,
+"ntpRate":    23.58 
 } 
 ] 
 },
 {
  "range": "新北市 第12選區 汐止區保長里",
-"area_nickname": "金山區、萬里區、汐止區、平溪區、瑞芳區、雙溪區、貢寮區",
+"area_nickname": "汐止區、瑞芳區、平溪區、雙溪區、貢寮區、金山區、萬里區",
 "county": "65000",
 "area": "12",
 "town": "110",
 "vill": "012",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    53.82,
+"votePop":     4121,
 "candidates": [
  {
  "candNo": "1",
 "name": "廖先翔",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      951,
+"disagreeTks":     1262,
+"agreeRate":    42.97,
+"disagreeRate":    57.03,
+"adptVictor": "N",
+"ytpRate":    23.08,
+"ntpRate":    30.62 
 } 
 ] 
 },
 {
  "range": "新北市 第12選區 汐止區保新里",
-"area_nickname": "金山區、萬里區、汐止區、平溪區、瑞芳區、雙溪區、貢寮區",
+"area_nickname": "汐止區、瑞芳區、平溪區、雙溪區、貢寮區、金山區、萬里區",
 "county": "65000",
 "area": "12",
 "town": "110",
 "vill": "050",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    52.23,
+"votePop":     2707,
 "candidates": [
  {
  "candNo": "1",
 "name": "廖先翔",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      514,
+"disagreeTks":      891,
+"agreeRate":    36.58,
+"disagreeRate":    63.42,
+"adptVictor": "N",
+"ytpRate":    18.99,
+"ntpRate":    32.91 
 } 
 ] 
 },
 {
  "range": "新北市 第12選區 汐止區鄉長里",
-"area_nickname": "金山區、萬里區、汐止區、平溪區、瑞芳區、雙溪區、貢寮區",
+"area_nickname": "汐止區、瑞芳區、平溪區、雙溪區、貢寮區、金山區、萬里區",
 "county": "65000",
 "area": "12",
 "town": "110",
 "vill": "013",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    59.16,
+"votePop":     1986,
 "candidates": [
  {
  "candNo": "1",
 "name": "廖先翔",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      526,
+"disagreeTks":      643,
+"agreeRate":       45,
+"disagreeRate":       55,
+"adptVictor": "N",
+"ytpRate":    26.49,
+"ntpRate":    32.38 
 } 
 ] 
 },
 {
  "range": "新北市 第12選區 汐止區江北里",
-"area_nickname": "金山區、萬里區、汐止區、平溪區、瑞芳區、雙溪區、貢寮區",
+"area_nickname": "汐止區、瑞芳區、平溪區、雙溪區、貢寮區、金山區、萬里區",
 "county": "65000",
 "area": "12",
 "town": "110",
 "vill": "014",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    53.15,
+"votePop":     5477,
 "candidates": [
  {
  "candNo": "1",
 "name": "廖先翔",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":     1284,
+"disagreeTks":     1613,
+"agreeRate":    44.32,
+"disagreeRate":    55.68,
+"adptVictor": "N",
+"ytpRate":    23.44,
+"ntpRate":    29.45 
 } 
 ] 
 },
 {
  "range": "新北市 第12選區 汐止區拱北里",
-"area_nickname": "金山區、萬里區、汐止區、平溪區、瑞芳區、雙溪區、貢寮區",
+"area_nickname": "汐止區、瑞芳區、平溪區、雙溪區、貢寮區、金山區、萬里區",
 "county": "65000",
 "area": "12",
 "town": "110",
 "vill": "015",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    49.04,
+"votePop":     4562,
 "candidates": [
  {
  "candNo": "1",
 "name": "廖先翔",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      943,
+"disagreeTks":     1282,
+"agreeRate":    42.38,
+"disagreeRate":    57.62,
+"adptVictor": "N",
+"ytpRate":    20.67,
+"ntpRate":     28.1 
 } 
 ] 
 },
 {
  "range": "新北市 第12選區 汐止區烘內里",
-"area_nickname": "金山區、萬里區、汐止區、平溪區、瑞芳區、雙溪區、貢寮區",
+"area_nickname": "汐止區、瑞芳區、平溪區、雙溪區、貢寮區、金山區、萬里區",
 "county": "65000",
 "area": "12",
 "town": "110",
 "vill": "016",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    54.21,
+"votePop":     1437,
 "candidates": [
  {
  "candNo": "1",
 "name": "廖先翔",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      342,
+"disagreeTks":      435,
+"agreeRate":    44.02,
+"disagreeRate":    55.98,
+"adptVictor": "N",
+"ytpRate":     23.8,
+"ntpRate":    30.27 
 } 
 ] 
 },
 {
  "range": "新北市 第12選區 汐止區八連里",
-"area_nickname": "金山區、萬里區、汐止區、平溪區、瑞芳區、雙溪區、貢寮區",
+"area_nickname": "汐止區、瑞芳區、平溪區、雙溪區、貢寮區、金山區、萬里區",
 "county": "65000",
 "area": "12",
 "town": "110",
 "vill": "017",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    55.91,
+"votePop":      914,
 "candidates": [
  {
  "candNo": "1",
 "name": "廖先翔",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      262,
+"disagreeTks":      249,
+"agreeRate":    51.27,
+"disagreeRate":    48.73,
+"adptVictor": "N",
+"ytpRate":    28.67,
+"ntpRate":    27.24 
 } 
 ] 
 },
 {
  "range": "新北市 第12選區 汐止區長青里",
-"area_nickname": "金山區、萬里區、汐止區、平溪區、瑞芳區、雙溪區、貢寮區",
+"area_nickname": "汐止區、瑞芳區、平溪區、雙溪區、貢寮區、金山區、萬里區",
 "county": "65000",
 "area": "12",
 "town": "110",
 "vill": "044",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    59.43,
+"votePop":      880,
 "candidates": [
  {
  "candNo": "1",
 "name": "廖先翔",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      221,
+"disagreeTks":      297,
+"agreeRate":    42.66,
+"disagreeRate":    57.34,
+"adptVictor": "N",
+"ytpRate":    25.11,
+"ntpRate":    33.75 
 } 
 ] 
 },
 {
  "range": "新北市 第12選區 汐止區北峰里",
-"area_nickname": "金山區、萬里區、汐止區、平溪區、瑞芳區、雙溪區、貢寮區",
+"area_nickname": "汐止區、瑞芳區、平溪區、雙溪區、貢寮區、金山區、萬里區",
 "county": "65000",
 "area": "12",
 "town": "110",
 "vill": "019",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    53.16,
+"votePop":     4460,
 "candidates": [
  {
  "candNo": "1",
 "name": "廖先翔",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":     1137,
+"disagreeTks":     1223,
+"agreeRate":    48.18,
+"disagreeRate":    51.82,
+"adptVictor": "N",
+"ytpRate":    25.49,
+"ntpRate":    27.42 
 } 
 ] 
 },
 {
  "range": "新北市 第12選區 汐止區金龍里",
-"area_nickname": "金山區、萬里區、汐止區、平溪區、瑞芳區、雙溪區、貢寮區",
+"area_nickname": "汐止區、瑞芳區、平溪區、雙溪區、貢寮區、金山區、萬里區",
 "county": "65000",
 "area": "12",
 "town": "110",
 "vill": "033",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    56.04,
+"votePop":     4955,
 "candidates": [
  {
  "candNo": "1",
 "name": "廖先翔",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":     1168,
+"disagreeTks":     1598,
+"agreeRate":    42.23,
+"disagreeRate":    57.77,
+"adptVictor": "N",
+"ytpRate":    23.57,
+"ntpRate":    32.25 
 } 
 ] 
 },
 {
  "range": "新北市 第12選區 汐止區樟樹里",
-"area_nickname": "金山區、萬里區、汐止區、平溪區、瑞芳區、雙溪區、貢寮區",
+"area_nickname": "汐止區、瑞芳區、平溪區、雙溪區、貢寮區、金山區、萬里區",
 "county": "65000",
 "area": "12",
 "town": "110",
 "vill": "018",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    53.02,
+"votePop":     1856,
 "candidates": [
  {
  "candNo": "1",
 "name": "廖先翔",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      439,
+"disagreeTks":      539,
+"agreeRate":    44.89,
+"disagreeRate":    55.11,
+"adptVictor": "N",
+"ytpRate":    23.65,
+"ntpRate":    29.04 
 } 
 ] 
 },
 {
  "range": "新北市 第12選區 汐止區忠孝里",
-"area_nickname": "金山區、萬里區、汐止區、平溪區、瑞芳區、雙溪區、貢寮區",
+"area_nickname": "汐止區、瑞芳區、平溪區、雙溪區、貢寮區、金山區、萬里區",
 "county": "65000",
 "area": "12",
 "town": "110",
 "vill": "030",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    54.27,
+"votePop":     7190,
 "candidates": [
  {
  "candNo": "1",
 "name": "廖先翔",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":     1625,
+"disagreeTks":     2259,
+"agreeRate":    41.84,
+"disagreeRate":    58.16,
+"adptVictor": "N",
+"ytpRate":     22.6,
+"ntpRate":    31.42 
 } 
 ] 
 },
 {
  "range": "新北市 第12選區 汐止區厚德里",
-"area_nickname": "金山區、萬里區、汐止區、平溪區、瑞芳區、雙溪區、貢寮區",
+"area_nickname": "汐止區、瑞芳區、平溪區、雙溪區、貢寮區、金山區、萬里區",
 "county": "65000",
 "area": "12",
 "town": "110",
 "vill": "029",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    54.54,
+"votePop":     6012,
 "candidates": [
  {
  "candNo": "1",
 "name": "廖先翔",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":     1350,
+"disagreeTks":     1912,
+"agreeRate":    41.39,
+"disagreeRate":    58.61,
+"adptVictor": "N",
+"ytpRate":    22.46,
+"ntpRate":     31.8 
 } 
 ] 
 },
 {
  "range": "新北市 第12選區 汐止區山光里",
-"area_nickname": "金山區、萬里區、汐止區、平溪區、瑞芳區、雙溪區、貢寮區",
+"area_nickname": "汐止區、瑞芳區、平溪區、雙溪區、貢寮區、金山區、萬里區",
 "county": "65000",
 "area": "12",
 "town": "110",
 "vill": "040",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    52.92,
+"votePop":     2804,
 "candidates": [
  {
  "candNo": "1",
 "name": "廖先翔",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      576,
+"disagreeTks":      903,
+"agreeRate":    38.95,
+"disagreeRate":    61.05,
+"adptVictor": "N",
+"ytpRate":    20.54,
+"ntpRate":     32.2 
 } 
 ] 
 },
 {
  "range": "新北市 第12選區 汐止區中興里",
-"area_nickname": "金山區、萬里區、汐止區、平溪區、瑞芳區、雙溪區、貢寮區",
+"area_nickname": "汐止區、瑞芳區、平溪區、雙溪區、貢寮區、金山區、萬里區",
 "county": "65000",
 "area": "12",
 "town": "110",
 "vill": "026",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    53.85,
+"votePop":     6991,
 "candidates": [
  {
  "candNo": "1",
 "name": "廖先翔",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":     1662,
+"disagreeTks":     2087,
+"agreeRate":    44.33,
+"disagreeRate":    55.67,
+"adptVictor": "N",
+"ytpRate":    23.77,
+"ntpRate":    29.85 
 } 
 ] 
 },
 {
  "range": "新北市 第12選區 汐止區福德里",
-"area_nickname": "金山區、萬里區、汐止區、平溪區、瑞芳區、雙溪區、貢寮區",
+"area_nickname": "汐止區、瑞芳區、平溪區、雙溪區、貢寮區、金山區、萬里區",
 "county": "65000",
 "area": "12",
 "town": "110",
 "vill": "034",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    52.64,
+"votePop":     3159,
 "candidates": [
  {
  "candNo": "1",
 "name": "廖先翔",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      756,
+"disagreeTks":      893,
+"agreeRate":    45.85,
+"disagreeRate":    54.15,
+"adptVictor": "N",
+"ytpRate":    23.93,
+"ntpRate":    28.27 
 } 
 ] 
 },
 {
  "range": "新北市 第12選區 汐止區興福里",
-"area_nickname": "金山區、萬里區、汐止區、平溪區、瑞芳區、雙溪區、貢寮區",
+"area_nickname": "汐止區、瑞芳區、平溪區、雙溪區、貢寮區、金山區、萬里區",
 "county": "65000",
 "area": "12",
 "town": "110",
 "vill": "035",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    56.66,
+"votePop":     3034,
 "candidates": [
  {
  "candNo": "1",
 "name": "廖先翔",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      709,
+"disagreeTks":      996,
+"agreeRate":    41.58,
+"disagreeRate":    58.42,
+"adptVictor": "N",
+"ytpRate":    23.37,
+"ntpRate":    32.83 
 } 
 ] 
 },
 {
  "range": "新北市 第12選區 汐止區康福里",
-"area_nickname": "金山區、萬里區、汐止區、平溪區、瑞芳區、雙溪區、貢寮區",
+"area_nickname": "汐止區、瑞芳區、平溪區、雙溪區、貢寮區、金山區、萬里區",
 "county": "65000",
 "area": "12",
 "town": "110",
 "vill": "036",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    55.57,
+"votePop":     4956,
 "candidates": [
  {
  "candNo": "1",
 "name": "廖先翔",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":     1206,
+"disagreeTks":     1533,
+"agreeRate":    44.03,
+"disagreeRate":    55.97,
+"adptVictor": "N",
+"ytpRate":    24.33,
+"ntpRate":    30.93 
 } 
 ] 
 },
 {
  "range": "新北市 第12選區 汐止區湖光里",
-"area_nickname": "金山區、萬里區、汐止區、平溪區、瑞芳區、雙溪區、貢寮區",
+"area_nickname": "汐止區、瑞芳區、平溪區、雙溪區、貢寮區、金山區、萬里區",
 "county": "65000",
 "area": "12",
 "town": "110",
 "vill": "027",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    58.82,
+"votePop":     5780,
 "candidates": [
  {
  "candNo": "1",
 "name": "廖先翔",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":     1403,
+"disagreeTks":     1984,
+"agreeRate":    41.42,
+"disagreeRate":    58.58,
+"adptVictor": "N",
+"ytpRate":    24.27,
+"ntpRate":    34.33 
 } 
 ] 
 },
 {
  "range": "新北市 第12選區 汐止區湖蓮里",
-"area_nickname": "金山區、萬里區、汐止區、平溪區、瑞芳區、雙溪區、貢寮區",
+"area_nickname": "汐止區、瑞芳區、平溪區、雙溪區、貢寮區、金山區、萬里區",
 "county": "65000",
 "area": "12",
 "town": "110",
 "vill": "049",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    60.63,
+"votePop":     2748,
 "candidates": [
  {
  "candNo": "1",
 "name": "廖先翔",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      622,
+"disagreeTks":     1035,
+"agreeRate":    37.54,
+"disagreeRate":    62.46,
+"adptVictor": "N",
+"ytpRate":    22.63,
+"ntpRate":    37.66 
 } 
 ] 
 },
 {
  "range": "新北市 第12選區 汐止區湖興里",
-"area_nickname": "金山區、萬里區、汐止區、平溪區、瑞芳區、雙溪區、貢寮區",
+"area_nickname": "汐止區、瑞芳區、平溪區、雙溪區、貢寮區、金山區、萬里區",
 "county": "65000",
 "area": "12",
 "town": "110",
 "vill": "043",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    57.76,
+"votePop":     5997,
 "candidates": [
  {
  "candNo": "1",
 "name": "廖先翔",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":     1333,
+"disagreeTks":     2110,
+"agreeRate":    38.72,
+"disagreeRate":    61.28,
+"adptVictor": "N",
+"ytpRate":    22.23,
+"ntpRate":    35.18 
 } 
 ] 
 },
 {
  "range": "新北市 第12選區 汐止區北山里",
-"area_nickname": "金山區、萬里區、汐止區、平溪區、瑞芳區、雙溪區、貢寮區",
+"area_nickname": "汐止區、瑞芳區、平溪區、雙溪區、貢寮區、金山區、萬里區",
 "county": "65000",
 "area": "12",
 "town": "110",
 "vill": "020",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    57.34,
+"votePop":     5258,
 "candidates": [
  {
  "candNo": "1",
 "name": "廖先翔",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":     1338,
+"disagreeTks":     1661,
+"agreeRate":    44.61,
+"disagreeRate":    55.39,
+"adptVictor": "N",
+"ytpRate":    25.45,
+"ntpRate":    31.59 
 } 
 ] 
 },
 {
  "range": "新北市 第12選區 汐止區忠山里",
-"area_nickname": "金山區、萬里區、汐止區、平溪區、瑞芳區、雙溪區、貢寮區",
+"area_nickname": "汐止區、瑞芳區、平溪區、雙溪區、貢寮區、金山區、萬里區",
 "county": "65000",
 "area": "12",
 "town": "110",
 "vill": "037",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    59.07,
+"votePop":     3061,
 "candidates": [
  {
  "candNo": "1",
 "name": "廖先翔",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      632,
+"disagreeTks":     1168,
+"agreeRate":    35.11,
+"disagreeRate":    64.89,
+"adptVictor": "N",
+"ytpRate":    20.65,
+"ntpRate":    38.16 
 } 
 ] 
 },
 {
  "range": "新北市 第12選區 汐止區環河里",
-"area_nickname": "金山區、萬里區、汐止區、平溪區、瑞芳區、雙溪區、貢寮區",
+"area_nickname": "汐止區、瑞芳區、平溪區、雙溪區、貢寮區、金山區、萬里區",
 "county": "65000",
 "area": "12",
 "town": "110",
 "vill": "038",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    56.83,
+"votePop":     1040,
 "candidates": [
  {
  "candNo": "1",
 "name": "廖先翔",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      350,
+"disagreeTks":      237,
+"agreeRate":    59.63,
+"disagreeRate":    40.37,
+"adptVictor": "N",
+"ytpRate":    33.65,
+"ntpRate":    22.79 
 } 
 ] 
 },
 {
  "range": "新北市 第12選區 汐止區橫科里",
-"area_nickname": "金山區、萬里區、汐止區、平溪區、瑞芳區、雙溪區、貢寮區",
+"area_nickname": "汐止區、瑞芳區、平溪區、雙溪區、貢寮區、金山區、萬里區",
 "county": "65000",
 "area": "12",
 "town": "110",
 "vill": "022",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    56.58,
+"votePop":     4040,
 "candidates": [
  {
  "candNo": "1",
 "name": "廖先翔",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      973,
+"disagreeTks":     1298,
+"agreeRate":    42.84,
+"disagreeRate":    57.16,
+"adptVictor": "N",
+"ytpRate":    24.08,
+"ntpRate":    32.13 
 } 
 ] 
 },
 {
  "range": "新北市 第12選區 汐止區福山里",
-"area_nickname": "金山區、萬里區、汐止區、平溪區、瑞芳區、雙溪區、貢寮區",
+"area_nickname": "汐止區、瑞芳區、平溪區、雙溪區、貢寮區、金山區、萬里區",
 "county": "65000",
 "area": "12",
 "town": "110",
 "vill": "024",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    56.93,
+"votePop":     3399,
 "candidates": [
  {
  "candNo": "1",
 "name": "廖先翔",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      818,
+"disagreeTks":     1110,
+"agreeRate":    42.43,
+"disagreeRate":    57.57,
+"adptVictor": "N",
+"ytpRate":    24.07,
+"ntpRate":    32.66 
 } 
 ] 
 },
 {
  "range": "新北市 第12選區 汐止區宜興里",
-"area_nickname": "金山區、萬里區、汐止區、平溪區、瑞芳區、雙溪區、貢寮區",
+"area_nickname": "汐止區、瑞芳區、平溪區、雙溪區、貢寮區、金山區、萬里區",
 "county": "65000",
 "area": "12",
 "town": "110",
 "vill": "025",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    58.48,
+"votePop":     2587,
 "candidates": [
  {
  "candNo": "1",
 "name": "廖先翔",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      549,
+"disagreeTks":      959,
+"agreeRate":    36.41,
+"disagreeRate":    63.59,
+"adptVictor": "N",
+"ytpRate":    21.22,
+"ntpRate":    37.07 
 } 
 ] 
 },
 {
  "range": "新北市 第12選區 汐止區東勢里",
-"area_nickname": "金山區、萬里區、汐止區、平溪區、瑞芳區、雙溪區、貢寮區",
+"area_nickname": "汐止區、瑞芳區、平溪區、雙溪區、貢寮區、金山區、萬里區",
 "county": "65000",
 "area": "12",
 "town": "110",
 "vill": "039",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    57.04,
+"votePop":     4651,
 "candidates": [
  {
  "candNo": "1",
 "name": "廖先翔",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":     1035,
+"disagreeTks":     1605,
+"agreeRate":     39.2,
+"disagreeRate":     60.8,
+"adptVictor": "N",
+"ytpRate":    22.25,
+"ntpRate":    34.51 
 } 
 ] 
 },
 {
  "range": "新北市 第12選區 平溪區薯榔里",
-"area_nickname": "金山區、萬里區、汐止區、平溪區、瑞芳區、雙溪區、貢寮區",
+"area_nickname": "汐止區、瑞芳區、平溪區、雙溪區、貢寮區、金山區、萬里區",
 "county": "65000",
 "area": "12",
 "town": "240",
 "vill": "001",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    46.82,
+"votePop":      314,
 "candidates": [
  {
  "candNo": "1",
 "name": "廖先翔",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":       80,
+"disagreeTks":       67,
+"agreeRate":    54.42,
+"disagreeRate":    45.58,
+"adptVictor": "N",
+"ytpRate":    25.48,
+"ntpRate":    21.34 
 } 
 ] 
 },
 {
  "range": "新北市 第12選區 平溪區菁桐里",
-"area_nickname": "金山區、萬里區、汐止區、平溪區、瑞芳區、雙溪區、貢寮區",
+"area_nickname": "汐止區、瑞芳區、平溪區、雙溪區、貢寮區、金山區、萬里區",
 "county": "65000",
 "area": "12",
 "town": "240",
 "vill": "002",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    41.41,
+"votePop":      227,
 "candidates": [
  {
  "candNo": "1",
 "name": "廖先翔",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":       40,
+"disagreeTks":       54,
+"agreeRate":    42.55,
+"disagreeRate":    57.45,
+"adptVictor": "N",
+"ytpRate":    17.62,
+"ntpRate":    23.79 
 } 
 ] 
 },
 {
  "range": "新北市 第12選區 平溪區白石里",
-"area_nickname": "金山區、萬里區、汐止區、平溪區、瑞芳區、雙溪區、貢寮區",
+"area_nickname": "汐止區、瑞芳區、平溪區、雙溪區、貢寮區、金山區、萬里區",
 "county": "65000",
 "area": "12",
 "town": "240",
 "vill": "003",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":     46.6,
+"votePop":      206,
 "candidates": [
  {
  "candNo": "1",
 "name": "廖先翔",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":       44,
+"disagreeTks":       52,
+"agreeRate":    45.83,
+"disagreeRate":    54.17,
+"adptVictor": "N",
+"ytpRate":    21.36,
+"ntpRate":    25.24 
 } 
 ] 
 },
 {
  "range": "新北市 第12選區 平溪區石底里",
-"area_nickname": "金山區、萬里區、汐止區、平溪區、瑞芳區、雙溪區、貢寮區",
+"area_nickname": "汐止區、瑞芳區、平溪區、雙溪區、貢寮區、金山區、萬里區",
 "county": "65000",
 "area": "12",
 "town": "240",
 "vill": "004",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    51.74,
+"votePop":      373,
 "candidates": [
  {
  "candNo": "1",
 "name": "廖先翔",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      109,
+"disagreeTks":       81,
+"agreeRate":    57.37,
+"disagreeRate":    42.63,
+"adptVictor": "N",
+"ytpRate":    29.22,
+"ntpRate":    21.72 
 } 
 ] 
 },
 {
  "range": "新北市 第12選區 平溪區平溪里",
-"area_nickname": "金山區、萬里區、汐止區、平溪區、瑞芳區、雙溪區、貢寮區",
+"area_nickname": "汐止區、瑞芳區、平溪區、雙溪區、貢寮區、金山區、萬里區",
 "county": "65000",
 "area": "12",
 "town": "240",
 "vill": "005",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    47.95,
+"votePop":      219,
 "candidates": [
  {
  "candNo": "1",
 "name": "廖先翔",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":       41,
+"disagreeTks":       63,
+"agreeRate":    39.42,
+"disagreeRate":    60.58,
+"adptVictor": "N",
+"ytpRate":    18.72,
+"ntpRate":    28.77 
 } 
 ] 
 },
 {
  "range": "新北市 第12選區 平溪區嶺腳里",
-"area_nickname": "金山區、萬里區、汐止區、平溪區、瑞芳區、雙溪區、貢寮區",
+"area_nickname": "汐止區、瑞芳區、平溪區、雙溪區、貢寮區、金山區、萬里區",
 "county": "65000",
 "area": "12",
 "town": "240",
 "vill": "006",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":       43,
+"votePop":      507,
 "candidates": [
  {
  "candNo": "1",
 "name": "廖先翔",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":       89,
+"disagreeTks":      128,
+"agreeRate":    41.01,
+"disagreeRate":    58.99,
+"adptVictor": "N",
+"ytpRate":    17.55,
+"ntpRate":    25.25 
 } 
 ] 
 },
 {
  "range": "新北市 第12選區 平溪區東勢里",
-"area_nickname": "金山區、萬里區、汐止區、平溪區、瑞芳區、雙溪區、貢寮區",
+"area_nickname": "汐止區、瑞芳區、平溪區、雙溪區、貢寮區、金山區、萬里區",
 "county": "65000",
 "area": "12",
 "town": "240",
 "vill": "007",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    50.26,
+"votePop":      386,
 "candidates": [
  {
  "candNo": "1",
 "name": "廖先翔",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":       90,
+"disagreeTks":      103,
+"agreeRate":    46.63,
+"disagreeRate":    53.37,
+"adptVictor": "N",
+"ytpRate":    23.32,
+"ntpRate":    26.68 
 } 
 ] 
 },
 {
  "range": "新北市 第12選區 平溪區十分里",
-"area_nickname": "金山區、萬里區、汐止區、平溪區、瑞芳區、雙溪區、貢寮區",
+"area_nickname": "汐止區、瑞芳區、平溪區、雙溪區、貢寮區、金山區、萬里區",
 "county": "65000",
 "area": "12",
 "town": "240",
 "vill": "011",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    40.84,
+"votePop":      742,
 "candidates": [
  {
  "candNo": "1",
 "name": "廖先翔",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      130,
+"disagreeTks":      172,
+"agreeRate":    43.05,
+"disagreeRate":    56.95,
+"adptVictor": "N",
+"ytpRate":    17.52,
+"ntpRate":    23.18 
 } 
 ] 
 },
 {
  "range": "新北市 第12選區 平溪區望古里",
-"area_nickname": "金山區、萬里區、汐止區、平溪區、瑞芳區、雙溪區、貢寮區",
+"area_nickname": "汐止區、瑞芳區、平溪區、雙溪區、貢寮區、金山區、萬里區",
 "county": "65000",
 "area": "12",
 "town": "240",
 "vill": "008",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    55.48,
+"votePop":      146,
 "candidates": [
  {
  "candNo": "1",
 "name": "廖先翔",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":       27,
+"disagreeTks":       53,
+"agreeRate":    33.75,
+"disagreeRate":    66.25,
+"adptVictor": "N",
+"ytpRate":    18.49,
+"ntpRate":     36.3 
 } 
 ] 
 },
 {
  "range": "新北市 第12選區 平溪區南山里",
-"area_nickname": "金山區、萬里區、汐止區、平溪區、瑞芳區、雙溪區、貢寮區",
+"area_nickname": "汐止區、瑞芳區、平溪區、雙溪區、貢寮區、金山區、萬里區",
 "county": "65000",
 "area": "12",
 "town": "240",
 "vill": "009",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":     40.6,
+"votePop":      298,
 "candidates": [
  {
  "candNo": "1",
 "name": "廖先翔",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":       48,
+"disagreeTks":       72,
+"agreeRate":       40,
+"disagreeRate":       60,
+"adptVictor": "N",
+"ytpRate":    16.11,
+"ntpRate":    24.16 
 } 
 ] 
 },
 {
  "range": "新北市 第12選區 平溪區新寮里",
-"area_nickname": "金山區、萬里區、汐止區、平溪區、瑞芳區、雙溪區、貢寮區",
+"area_nickname": "汐止區、瑞芳區、平溪區、雙溪區、貢寮區、金山區、萬里區",
 "county": "65000",
 "area": "12",
 "town": "240",
 "vill": "012",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    48.23,
+"votePop":      141,
 "candidates": [
  {
  "candNo": "1",
 "name": "廖先翔",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":       29,
+"disagreeTks":       39,
+"agreeRate":    42.65,
+"disagreeRate":    57.35,
+"adptVictor": "N",
+"ytpRate":    20.57,
+"ntpRate":    27.66 
 } 
 ] 
 },
 {
  "range": "新北市 第12選區 平溪區平湖里",
-"area_nickname": "金山區、萬里區、汐止區、平溪區、瑞芳區、雙溪區、貢寮區",
+"area_nickname": "汐止區、瑞芳區、平溪區、雙溪區、貢寮區、金山區、萬里區",
 "county": "65000",
 "area": "12",
 "town": "240",
 "vill": "010",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    48.92,
+"votePop":      139,
 "candidates": [
  {
  "candNo": "1",
 "name": "廖先翔",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":       40,
+"disagreeTks":       27,
+"agreeRate":     59.7,
+"disagreeRate":     40.3,
+"adptVictor": "N",
+"ytpRate":    28.78,
+"ntpRate":    19.42 
 } 
 ] 
 },
 {
  "range": "新北市 第12選區 瑞芳區龍潭里",
-"area_nickname": "金山區、萬里區、汐止區、平溪區、瑞芳區、雙溪區、貢寮區",
+"area_nickname": "汐止區、瑞芳區、平溪區、雙溪區、貢寮區、金山區、萬里區",
 "county": "65000",
 "area": "12",
 "town": "120",
 "vill": "001",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    55.63,
+"votePop":      631,
 "candidates": [
  {
  "candNo": "1",
 "name": "廖先翔",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      133,
+"disagreeTks":      216,
+"agreeRate":    38.11,
+"disagreeRate":    61.89,
+"adptVictor": "N",
+"ytpRate":    21.08,
+"ntpRate":    34.23 
 } 
 ] 
 },
 {
  "range": "新北市 第12選區 瑞芳區龍興里",
-"area_nickname": "金山區、萬里區、汐止區、平溪區、瑞芳區、雙溪區、貢寮區",
+"area_nickname": "汐止區、瑞芳區、平溪區、雙溪區、貢寮區、金山區、萬里區",
 "county": "65000",
 "area": "12",
 "town": "120",
 "vill": "002",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":     52.1,
+"votePop":     1764,
 "candidates": [
  {
  "candNo": "1",
 "name": "廖先翔",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      358,
+"disagreeTks":      556,
+"agreeRate":    39.17,
+"disagreeRate":    60.83,
+"adptVictor": "N",
+"ytpRate":    20.29,
+"ntpRate":    31.52 
 } 
 ] 
 },
 {
  "range": "新北市 第12選區 瑞芳區龍鎮里",
-"area_nickname": "金山區、萬里區、汐止區、平溪區、瑞芳區、雙溪區、貢寮區",
+"area_nickname": "汐止區、瑞芳區、平溪區、雙溪區、貢寮區、金山區、萬里區",
 "county": "65000",
 "area": "12",
 "town": "120",
 "vill": "003",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    53.71,
+"votePop":     1106,
 "candidates": [
  {
  "candNo": "1",
 "name": "廖先翔",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      259,
+"disagreeTks":      335,
+"agreeRate":     43.6,
+"disagreeRate":     56.4,
+"adptVictor": "N",
+"ytpRate":    23.42,
+"ntpRate":    30.29 
 } 
 ] 
 },
 {
  "range": "新北市 第12選區 瑞芳區龍安里",
-"area_nickname": "金山區、萬里區、汐止區、平溪區、瑞芳區、雙溪區、貢寮區",
+"area_nickname": "汐止區、瑞芳區、平溪區、雙溪區、貢寮區、金山區、萬里區",
 "county": "65000",
 "area": "12",
 "town": "120",
 "vill": "006",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    53.36,
+"votePop":      521,
 "candidates": [
  {
  "candNo": "1",
 "name": "廖先翔",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":       92,
+"disagreeTks":      183,
+"agreeRate":    33.45,
+"disagreeRate":    66.55,
+"adptVictor": "N",
+"ytpRate":    17.66,
+"ntpRate":    35.12 
 } 
 ] 
 },
 {
  "range": "新北市 第12選區 瑞芳區龍川里",
-"area_nickname": "金山區、萬里區、汐止區、平溪區、瑞芳區、雙溪區、貢寮區",
+"area_nickname": "汐止區、瑞芳區、平溪區、雙溪區、貢寮區、金山區、萬里區",
 "county": "65000",
 "area": "12",
 "town": "120",
 "vill": "004",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    49.83,
+"votePop":     1463,
 "candidates": [
  {
  "candNo": "1",
 "name": "廖先翔",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      275,
+"disagreeTks":      452,
+"agreeRate":    37.83,
+"disagreeRate":    62.17,
+"adptVictor": "N",
+"ytpRate":     18.8,
+"ntpRate":     30.9 
 } 
 ] 
 },
 {
  "range": "新北市 第12選區 瑞芳區龍山里",
-"area_nickname": "金山區、萬里區、汐止區、平溪區、瑞芳區、雙溪區、貢寮區",
+"area_nickname": "汐止區、瑞芳區、平溪區、雙溪區、貢寮區、金山區、萬里區",
 "county": "65000",
 "area": "12",
 "town": "120",
 "vill": "005",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    48.53,
+"votePop":     1187,
 "candidates": [
  {
  "candNo": "1",
 "name": "廖先翔",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      202,
+"disagreeTks":      370,
+"agreeRate":    35.31,
+"disagreeRate":    64.69,
+"adptVictor": "N",
+"ytpRate":    17.02,
+"ntpRate":    31.17 
 } 
 ] 
 },
 {
  "range": "新北市 第12選區 瑞芳區爪峯里",
-"area_nickname": "金山區、萬里區、汐止區、平溪區、瑞芳區、雙溪區、貢寮區",
+"area_nickname": "汐止區、瑞芳區、平溪區、雙溪區、貢寮區、金山區、萬里區",
 "county": "65000",
 "area": "12",
 "town": "120",
 "vill": "007",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    49.05,
+"votePop":     3264,
 "candidates": [
  {
  "candNo": "1",
 "name": "廖先翔",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      624,
+"disagreeTks":      968,
+"agreeRate":     39.2,
+"disagreeRate":     60.8,
+"adptVictor": "N",
+"ytpRate":    19.12,
+"ntpRate":    29.66 
 } 
 ] 
 },
 {
  "range": "新北市 第12選區 瑞芳區新峰里",
-"area_nickname": "金山區、萬里區、汐止區、平溪區、瑞芳區、雙溪區、貢寮區",
+"area_nickname": "汐止區、瑞芳區、平溪區、雙溪區、貢寮區、金山區、萬里區",
 "county": "65000",
 "area": "12",
 "town": "120",
 "vill": "034",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    47.34,
+"votePop":     2763,
 "candidates": [
  {
  "candNo": "1",
 "name": "廖先翔",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      487,
+"disagreeTks":      814,
+"agreeRate":    37.43,
+"disagreeRate":    62.57,
+"adptVictor": "N",
+"ytpRate":    17.63,
+"ntpRate":    29.46 
 } 
 ] 
 },
 {
  "range": "新北市 第12選區 瑞芳區東和里",
-"area_nickname": "金山區、萬里區、汐止區、平溪區、瑞芳區、雙溪區、貢寮區",
+"area_nickname": "汐止區、瑞芳區、平溪區、雙溪區、貢寮區、金山區、萬里區",
 "county": "65000",
 "area": "12",
 "town": "120",
 "vill": "009",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    50.14,
+"votePop":     1480,
 "candidates": [
  {
  "candNo": "1",
 "name": "廖先翔",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      324,
+"disagreeTks":      413,
+"agreeRate":    43.96,
+"disagreeRate":    56.04,
+"adptVictor": "N",
+"ytpRate":    21.89,
+"ntpRate":    27.91 
 } 
 ] 
 },
 {
  "range": "新北市 第12選區 瑞芳區柑坪里",
-"area_nickname": "金山區、萬里區、汐止區、平溪區、瑞芳區、雙溪區、貢寮區",
+"area_nickname": "汐止區、瑞芳區、平溪區、雙溪區、貢寮區、金山區、萬里區",
 "county": "65000",
 "area": "12",
 "town": "120",
 "vill": "008",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    49.27,
+"votePop":      958,
 "candidates": [
  {
  "candNo": "1",
 "name": "廖先翔",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      250,
+"disagreeTks":      221,
+"agreeRate":    53.08,
+"disagreeRate":    46.92,
+"adptVictor": "N",
+"ytpRate":     26.1,
+"ntpRate":    23.07 
 } 
 ] 
 },
 {
  "range": "新北市 第12選區 瑞芳區弓橋里",
-"area_nickname": "金山區、萬里區、汐止區、平溪區、瑞芳區、雙溪區、貢寮區",
+"area_nickname": "汐止區、瑞芳區、平溪區、雙溪區、貢寮區、金山區、萬里區",
 "county": "65000",
 "area": "12",
 "town": "120",
 "vill": "016",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    58.03,
+"votePop":      274,
 "candidates": [
  {
  "candNo": "1",
 "name": "廖先翔",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":       85,
+"disagreeTks":       74,
+"agreeRate":    53.46,
+"disagreeRate":    46.54,
+"adptVictor": "N",
+"ytpRate":    31.02,
+"ntpRate":    27.01 
 } 
 ] 
 },
 {
  "range": "新北市 第12選區 瑞芳區猴硐里",
-"area_nickname": "金山區、萬里區、汐止區、平溪區、瑞芳區、雙溪區、貢寮區",
+"area_nickname": "汐止區、瑞芳區、平溪區、雙溪區、貢寮區、金山區、萬里區",
 "county": "65000",
 "area": "12",
 "town": "120",
 "vill": "014",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    40.28,
+"votePop":      360,
 "candidates": [
  {
  "candNo": "1",
 "name": "廖先翔",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":       75,
+"disagreeTks":       70,
+"agreeRate":    51.72,
+"disagreeRate":    48.28,
+"adptVictor": "N",
+"ytpRate":    20.83,
+"ntpRate":    19.44 
 } 
 ] 
 },
 {
  "range": "新北市 第12選區 瑞芳區光復里",
-"area_nickname": "金山區、萬里區、汐止區、平溪區、瑞芳區、雙溪區、貢寮區",
+"area_nickname": "汐止區、瑞芳區、平溪區、雙溪區、貢寮區、金山區、萬里區",
 "county": "65000",
 "area": "12",
 "town": "120",
 "vill": "015",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    52.44,
+"votePop":      225,
 "candidates": [
  {
  "candNo": "1",
 "name": "廖先翔",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":       59,
+"disagreeTks":       59,
+"agreeRate":       50,
+"disagreeRate":       50,
+"adptVictor": "N",
+"ytpRate":    26.22,
+"ntpRate":    26.22 
 } 
 ] 
 },
 {
  "range": "新北市 第12選區 瑞芳區碩仁里",
-"area_nickname": "金山區、萬里區、汐止區、平溪區、瑞芳區、雙溪區、貢寮區",
+"area_nickname": "汐止區、瑞芳區、平溪區、雙溪區、貢寮區、金山區、萬里區",
 "county": "65000",
 "area": "12",
 "town": "120",
 "vill": "017",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    48.57,
+"votePop":      140,
 "candidates": [
  {
  "candNo": "1",
 "name": "廖先翔",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":       32,
+"disagreeTks":       35,
+"agreeRate":    47.76,
+"disagreeRate":    52.24,
+"adptVictor": "N",
+"ytpRate":    22.86,
+"ntpRate":       25 
 } 
 ] 
 },
 {
  "range": "新北市 第12選區 瑞芳區吉慶里",
-"area_nickname": "金山區、萬里區、汐止區、平溪區、瑞芳區、雙溪區、貢寮區",
+"area_nickname": "汐止區、瑞芳區、平溪區、雙溪區、貢寮區、金山區、萬里區",
 "county": "65000",
 "area": "12",
 "town": "120",
 "vill": "011",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    50.23,
+"votePop":     1543,
 "candidates": [
  {
  "candNo": "1",
 "name": "廖先翔",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      282,
+"disagreeTks":      489,
+"agreeRate":    36.58,
+"disagreeRate":    63.42,
+"adptVictor": "N",
+"ytpRate":    18.28,
+"ntpRate":    31.69 
 } 
 ] 
 },
 {
  "range": "新北市 第12選區 瑞芳區吉安里",
-"area_nickname": "金山區、萬里區、汐止區、平溪區、瑞芳區、雙溪區、貢寮區",
+"area_nickname": "汐止區、瑞芳區、平溪區、雙溪區、貢寮區、金山區、萬里區",
 "county": "65000",
 "area": "12",
 "town": "120",
 "vill": "012",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":     48.5,
+"votePop":     2707,
 "candidates": [
  {
  "candNo": "1",
 "name": "廖先翔",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      514,
+"disagreeTks":      790,
+"agreeRate":    39.42,
+"disagreeRate":    60.58,
+"adptVictor": "N",
+"ytpRate":    18.99,
+"ntpRate":    29.18 
 } 
 ] 
 },
 {
  "range": "新北市 第12選區 瑞芳區上天里",
-"area_nickname": "金山區、萬里區、汐止區、平溪區、瑞芳區、雙溪區、貢寮區",
+"area_nickname": "汐止區、瑞芳區、平溪區、雙溪區、貢寮區、金山區、萬里區",
 "county": "65000",
 "area": "12",
 "town": "120",
 "vill": "010",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    48.59,
+"votePop":     1138,
 "candidates": [
  {
  "candNo": "1",
 "name": "廖先翔",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      212,
+"disagreeTks":      338,
+"agreeRate":    38.55,
+"disagreeRate":    61.45,
+"adptVictor": "N",
+"ytpRate":    18.63,
+"ntpRate":     29.7 
 } 
 ] 
 },
 {
  "range": "新北市 第12選區 瑞芳區傑魚里",
-"area_nickname": "金山區、萬里區、汐止區、平溪區、瑞芳區、雙溪區、貢寮區",
+"area_nickname": "汐止區、瑞芳區、平溪區、雙溪區、貢寮區、金山區、萬里區",
 "county": "65000",
 "area": "12",
 "town": "120",
 "vill": "013",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    47.05,
+"votePop":     1711,
 "candidates": [
  {
  "candNo": "1",
 "name": "廖先翔",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      329,
+"disagreeTks":      473,
+"agreeRate":    41.02,
+"disagreeRate":    58.98,
+"adptVictor": "N",
+"ytpRate":    19.23,
+"ntpRate":    27.64 
 } 
 ] 
 },
 {
  "range": "新北市 第12選區 瑞芳區基山里",
-"area_nickname": "金山區、萬里區、汐止區、平溪區、瑞芳區、雙溪區、貢寮區",
+"area_nickname": "汐止區、瑞芳區、平溪區、雙溪區、貢寮區、金山區、萬里區",
 "county": "65000",
 "area": "12",
 "town": "120",
 "vill": "018",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    48.56,
+"votePop":      383,
 "candidates": [
  {
  "candNo": "1",
 "name": "廖先翔",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":       93,
+"disagreeTks":       93,
+"agreeRate":       50,
+"disagreeRate":       50,
+"adptVictor": "N",
+"ytpRate":    24.28,
+"ntpRate":    24.28 
 } 
 ] 
 },
 {
  "range": "新北市 第12選區 瑞芳區永慶里",
-"area_nickname": "金山區、萬里區、汐止區、平溪區、瑞芳區、雙溪區、貢寮區",
+"area_nickname": "汐止區、瑞芳區、平溪區、雙溪區、貢寮區、金山區、萬里區",
 "county": "65000",
 "area": "12",
 "town": "120",
 "vill": "019",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":     43.4,
+"votePop":      371,
 "candidates": [
  {
  "candNo": "1",
 "name": "廖先翔",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":       78,
+"disagreeTks":       82,
+"agreeRate":    48.75,
+"disagreeRate":    51.25,
+"adptVictor": "N",
+"ytpRate":    21.02,
+"ntpRate":     22.1 
 } 
 ] 
 },
 {
  "range": "新北市 第12選區 瑞芳區崇文里",
-"area_nickname": "金山區、萬里區、汐止區、平溪區、瑞芳區、雙溪區、貢寮區",
+"area_nickname": "汐止區、瑞芳區、平溪區、雙溪區、貢寮區、金山區、萬里區",
 "county": "65000",
 "area": "12",
 "town": "120",
 "vill": "020",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    46.92,
+"votePop":      260,
 "candidates": [
  {
  "candNo": "1",
 "name": "廖先翔",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":       53,
+"disagreeTks":       67,
+"agreeRate":    44.17,
+"disagreeRate":    55.83,
+"adptVictor": "N",
+"ytpRate":    20.38,
+"ntpRate":    25.77 
 } 
 ] 
 },
 {
  "range": "新北市 第12選區 瑞芳區福住里",
-"area_nickname": "金山區、萬里區、汐止區、平溪區、瑞芳區、雙溪區、貢寮區",
+"area_nickname": "汐止區、瑞芳區、平溪區、雙溪區、貢寮區、金山區、萬里區",
 "county": "65000",
 "area": "12",
 "town": "120",
 "vill": "021",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    60.71,
+"votePop":      140,
 "candidates": [
  {
  "candNo": "1",
 "name": "廖先翔",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":       25,
+"disagreeTks":       60,
+"agreeRate":    29.41,
+"disagreeRate":    70.59,
+"adptVictor": "N",
+"ytpRate":    17.86,
+"ntpRate":    42.86 
 } 
 ] 
 },
 {
  "range": "新北市 第12選區 瑞芳區頌德里",
-"area_nickname": "金山區、萬里區、汐止區、平溪區、瑞芳區、雙溪區、貢寮區",
+"area_nickname": "汐止區、瑞芳區、平溪區、雙溪區、貢寮區、金山區、萬里區",
 "county": "65000",
 "area": "12",
 "town": "120",
 "vill": "022",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    47.74,
+"votePop":      287,
 "candidates": [
  {
  "candNo": "1",
 "name": "廖先翔",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":       60,
+"disagreeTks":       76,
+"agreeRate":    44.12,
+"disagreeRate":    55.88,
+"adptVictor": "N",
+"ytpRate":    20.91,
+"ntpRate":    26.48 
 } 
 ] 
 },
 {
  "range": "新北市 第12選區 瑞芳區瓜山里",
-"area_nickname": "金山區、萬里區、汐止區、平溪區、瑞芳區、雙溪區、貢寮區",
+"area_nickname": "汐止區、瑞芳區、平溪區、雙溪區、貢寮區、金山區、萬里區",
 "county": "65000",
 "area": "12",
 "town": "120",
 "vill": "024",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    57.05,
+"votePop":      156,
 "candidates": [
  {
  "candNo": "1",
 "name": "廖先翔",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":       27,
+"disagreeTks":       62,
+"agreeRate":    30.34,
+"disagreeRate":    69.66,
+"adptVictor": "N",
+"ytpRate":    17.31,
+"ntpRate":    39.74 
 } 
 ] 
 },
 {
  "range": "新北市 第12選區 瑞芳區銅山里",
-"area_nickname": "金山區、萬里區、汐止區、平溪區、瑞芳區、雙溪區、貢寮區",
+"area_nickname": "汐止區、瑞芳區、平溪區、雙溪區、貢寮區、金山區、萬里區",
 "county": "65000",
 "area": "12",
 "town": "120",
 "vill": "025",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":     49.7,
+"votePop":      167,
 "candidates": [
  {
  "candNo": "1",
 "name": "廖先翔",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":       44,
+"disagreeTks":       38,
+"agreeRate":    53.66,
+"disagreeRate":    46.34,
+"adptVictor": "N",
+"ytpRate":    26.35,
+"ntpRate":    22.75 
 } 
 ] 
 },
 {
  "range": "新北市 第12選區 瑞芳區新山里",
-"area_nickname": "金山區、萬里區、汐止區、平溪區、瑞芳區、雙溪區、貢寮區",
+"area_nickname": "汐止區、瑞芳區、平溪區、雙溪區、貢寮區、金山區、萬里區",
 "county": "65000",
 "area": "12",
 "town": "120",
 "vill": "023",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    50.16,
+"votePop":      317,
 "candidates": [
  {
  "candNo": "1",
 "name": "廖先翔",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":       65,
+"disagreeTks":       92,
+"agreeRate":     41.4,
+"disagreeRate":     58.6,
+"adptVictor": "N",
+"ytpRate":     20.5,
+"ntpRate":    29.02 
 } 
 ] 
 },
 {
  "range": "新北市 第12選區 瑞芳區石山里",
-"area_nickname": "金山區、萬里區、汐止區、平溪區、瑞芳區、雙溪區、貢寮區",
+"area_nickname": "汐止區、瑞芳區、平溪區、雙溪區、貢寮區、金山區、萬里區",
 "county": "65000",
 "area": "12",
 "town": "120",
 "vill": "026",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    46.69,
+"votePop":      272,
 "candidates": [
  {
  "candNo": "1",
 "name": "廖先翔",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":       51,
+"disagreeTks":       76,
+"agreeRate":    40.16,
+"disagreeRate":    59.84,
+"adptVictor": "N",
+"ytpRate":    18.75,
+"ntpRate":    27.94 
 } 
 ] 
 },
 {
  "range": "新北市 第12選區 瑞芳區濓洞里",
-"area_nickname": "金山區、萬里區、汐止區、平溪區、瑞芳區、雙溪區、貢寮區",
+"area_nickname": "汐止區、瑞芳區、平溪區、雙溪區、貢寮區、金山區、萬里區",
 "county": "65000",
 "area": "12",
 "town": "120",
 "vill": "028",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":     45.5,
+"votePop":      389,
 "candidates": [
  {
  "candNo": "1",
 "name": "廖先翔",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":       60,
+"disagreeTks":      117,
+"agreeRate":     33.9,
+"disagreeRate":     66.1,
+"adptVictor": "N",
+"ytpRate":    15.42,
+"ntpRate":    30.08 
 } 
 ] 
 },
 {
  "range": "新北市 第12選區 瑞芳區濓新里",
-"area_nickname": "金山區、萬里區、汐止區、平溪區、瑞芳區、雙溪區、貢寮區",
+"area_nickname": "汐止區、瑞芳區、平溪區、雙溪區、貢寮區、金山區、萬里區",
 "county": "65000",
 "area": "12",
 "town": "120",
 "vill": "027",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":       38,
+"votePop":      250,
 "candidates": [
  {
  "candNo": "1",
 "name": "廖先翔",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":       41,
+"disagreeTks":       54,
+"agreeRate":    43.16,
+"disagreeRate":    56.84,
+"adptVictor": "N",
+"ytpRate":     16.4,
+"ntpRate":     21.6 
 } 
 ] 
 },
 {
  "range": "新北市 第12選區 瑞芳區南雅里",
-"area_nickname": "金山區、萬里區、汐止區、平溪區、瑞芳區、雙溪區、貢寮區",
+"area_nickname": "汐止區、瑞芳區、平溪區、雙溪區、貢寮區、金山區、萬里區",
 "county": "65000",
 "area": "12",
 "town": "120",
 "vill": "032",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    49.38,
+"votePop":      243,
 "candidates": [
  {
  "candNo": "1",
 "name": "廖先翔",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":       54,
+"disagreeTks":       64,
+"agreeRate":    45.76,
+"disagreeRate":    54.24,
+"adptVictor": "N",
+"ytpRate":    22.22,
+"ntpRate":    26.34 
 } 
 ] 
 },
 {
  "range": "新北市 第12選區 瑞芳區鼻頭里",
-"area_nickname": "金山區、萬里區、汐止區、平溪區、瑞芳區、雙溪區、貢寮區",
+"area_nickname": "汐止區、瑞芳區、平溪區、雙溪區、貢寮區、金山區、萬里區",
 "county": "65000",
 "area": "12",
 "town": "120",
 "vill": "033",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    36.26,
+"votePop":      775,
 "candidates": [
  {
  "candNo": "1",
 "name": "廖先翔",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      122,
+"disagreeTks":      157,
+"agreeRate":    43.73,
+"disagreeRate":    56.27,
+"adptVictor": "N",
+"ytpRate":    15.74,
+"ntpRate":    20.26 
 } 
 ] 
 },
 {
  "range": "新北市 第12選區 瑞芳區海濱里",
-"area_nickname": "金山區、萬里區、汐止區、平溪區、瑞芳區、雙溪區、貢寮區",
+"area_nickname": "汐止區、瑞芳區、平溪區、雙溪區、貢寮區、金山區、萬里區",
 "county": "65000",
 "area": "12",
 "town": "120",
 "vill": "029",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    37.54,
+"votePop":     1039,
 "candidates": [
  {
  "candNo": "1",
 "name": "廖先翔",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      124,
+"disagreeTks":      263,
+"agreeRate":    32.04,
+"disagreeRate":    67.96,
+"adptVictor": "N",
+"ytpRate":    11.93,
+"ntpRate":    25.31 
 } 
 ] 
 },
 {
  "range": "新北市 第12選區 瑞芳區瑞濱里",
-"area_nickname": "金山區、萬里區、汐止區、平溪區、瑞芳區、雙溪區、貢寮區",
+"area_nickname": "汐止區、瑞芳區、平溪區、雙溪區、貢寮區、金山區、萬里區",
 "county": "65000",
 "area": "12",
 "town": "120",
 "vill": "030",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    47.74,
+"votePop":     1529,
 "candidates": [
  {
  "candNo": "1",
 "name": "廖先翔",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      274,
+"disagreeTks":      454,
+"agreeRate":    37.64,
+"disagreeRate":    62.36,
+"adptVictor": "N",
+"ytpRate":    17.92,
+"ntpRate":    29.69 
 } 
 ] 
 },
 {
  "range": "新北市 第12選區 瑞芳區深澳里",
-"area_nickname": "金山區、萬里區、汐止區、平溪區、瑞芳區、雙溪區、貢寮區",
+"area_nickname": "汐止區、瑞芳區、平溪區、雙溪區、貢寮區、金山區、萬里區",
 "county": "65000",
 "area": "12",
 "town": "120",
 "vill": "031",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    45.45,
+"votePop":     1120,
 "candidates": [
  {
  "candNo": "1",
 "name": "廖先翔",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      153,
+"disagreeTks":      354,
+"agreeRate":    30.18,
+"disagreeRate":    69.82,
+"adptVictor": "N",
+"ytpRate":    13.66,
+"ntpRate":    31.61 
 } 
 ] 
 },
 {
  "range": "新北市 第12選區 雙溪區雙溪里",
-"area_nickname": "金山區、萬里區、汐止區、平溪區、瑞芳區、雙溪區、貢寮區",
+"area_nickname": "汐止區、瑞芳區、平溪區、雙溪區、貢寮區、金山區、萬里區",
 "county": "65000",
 "area": "12",
 "town": "250",
 "vill": "001",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    49.24,
+"votePop":      396,
 "candidates": [
  {
  "candNo": "1",
 "name": "廖先翔",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":       61,
+"disagreeTks":      133,
+"agreeRate":    31.44,
+"disagreeRate":    68.56,
+"adptVictor": "N",
+"ytpRate":     15.4,
+"ntpRate":    33.59 
 } 
 ] 
 },
 {
  "range": "新北市 第12選區 雙溪區新基里",
-"area_nickname": "金山區、萬里區、汐止區、平溪區、瑞芳區、雙溪區、貢寮區",
+"area_nickname": "汐止區、瑞芳區、平溪區、雙溪區、貢寮區、金山區、萬里區",
 "county": "65000",
 "area": "12",
 "town": "250",
 "vill": "003",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    52.49,
+"votePop":      663,
 "candidates": [
  {
  "candNo": "1",
 "name": "廖先翔",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      133,
+"disagreeTks":      211,
+"agreeRate":    38.66,
+"disagreeRate":    61.34,
+"adptVictor": "N",
+"ytpRate":    20.06,
+"ntpRate":    31.83 
 } 
 ] 
 },
 {
  "range": "新北市 第12選區 雙溪區三港里",
-"area_nickname": "金山區、萬里區、汐止區、平溪區、瑞芳區、雙溪區、貢寮區",
+"area_nickname": "汐止區、瑞芳區、平溪區、雙溪區、貢寮區、金山區、萬里區",
 "county": "65000",
 "area": "12",
 "town": "250",
 "vill": "005",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    43.39,
+"votePop":      295,
 "candidates": [
  {
  "candNo": "1",
 "name": "廖先翔",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":       58,
+"disagreeTks":       70,
+"agreeRate":    45.31,
+"disagreeRate":    54.69,
+"adptVictor": "N",
+"ytpRate":    19.66,
+"ntpRate":    23.73 
 } 
 ] 
 },
 {
  "range": "新北市 第12選區 雙溪區牡丹里",
-"area_nickname": "金山區、萬里區、汐止區、平溪區、瑞芳區、雙溪區、貢寮區",
+"area_nickname": "汐止區、瑞芳區、平溪區、雙溪區、貢寮區、金山區、萬里區",
 "county": "65000",
 "area": "12",
 "town": "250",
 "vill": "006",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    43.87,
+"votePop":     1272,
 "candidates": [
  {
  "candNo": "1",
 "name": "廖先翔",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      244,
+"disagreeTks":      311,
+"agreeRate":    43.96,
+"disagreeRate":    56.04,
+"adptVictor": "N",
+"ytpRate":    19.18,
+"ntpRate":    24.45 
 } 
 ] 
 },
 {
  "range": "新北市 第12選區 雙溪區三貂里",
-"area_nickname": "金山區、萬里區、汐止區、平溪區、瑞芳區、雙溪區、貢寮區",
+"area_nickname": "汐止區、瑞芳區、平溪區、雙溪區、貢寮區、金山區、萬里區",
 "county": "65000",
 "area": "12",
 "town": "250",
 "vill": "007",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    48.51,
+"votePop":      303,
 "candidates": [
  {
  "candNo": "1",
 "name": "廖先翔",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":       71,
+"disagreeTks":       75,
+"agreeRate":    48.63,
+"disagreeRate":    51.37,
+"adptVictor": "N",
+"ytpRate":    23.43,
+"ntpRate":    24.75 
 } 
 ] 
 },
 {
  "range": "新北市 第12選區 雙溪區平林里",
-"area_nickname": "金山區、萬里區、汐止區、平溪區、瑞芳區、雙溪區、貢寮區",
+"area_nickname": "汐止區、瑞芳區、平溪區、雙溪區、貢寮區、金山區、萬里區",
 "county": "65000",
 "area": "12",
 "town": "250",
 "vill": "008",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":       50,
+"votePop":      778,
 "candidates": [
  {
  "candNo": "1",
 "name": "廖先翔",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      173,
+"disagreeTks":      215,
+"agreeRate":    44.59,
+"disagreeRate":    55.41,
+"adptVictor": "N",
+"ytpRate":    22.24,
+"ntpRate":    27.63 
 } 
 ] 
 },
 {
  "range": "新北市 第12選區 雙溪區上林里",
-"area_nickname": "金山區、萬里區、汐止區、平溪區、瑞芳區、雙溪區、貢寮區",
+"area_nickname": "汐止區、瑞芳區、平溪區、雙溪區、貢寮區、金山區、萬里區",
 "county": "65000",
 "area": "12",
 "town": "250",
 "vill": "009",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    50.66,
+"votePop":      533,
 "candidates": [
  {
  "candNo": "1",
 "name": "廖先翔",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      122,
+"disagreeTks":      145,
+"agreeRate":    45.69,
+"disagreeRate":    54.31,
+"adptVictor": "N",
+"ytpRate":    22.89,
+"ntpRate":     27.2 
 } 
 ] 
 },
 {
  "range": "新北市 第12選區 雙溪區外柑里",
-"area_nickname": "金山區、萬里區、汐止區、平溪區、瑞芳區、雙溪區、貢寮區",
+"area_nickname": "汐止區、瑞芳區、平溪區、雙溪區、貢寮區、金山區、萬里區",
 "county": "65000",
 "area": "12",
 "town": "250",
 "vill": "010",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    43.96,
+"votePop":      364,
 "candidates": [
  {
  "candNo": "1",
 "name": "廖先翔",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":       59,
+"disagreeTks":      100,
+"agreeRate":    37.11,
+"disagreeRate":    62.89,
+"adptVictor": "N",
+"ytpRate":    16.21,
+"ntpRate":    27.47 
 } 
 ] 
 },
 {
  "range": "新北市 第12選區 雙溪區長源里",
-"area_nickname": "金山區、萬里區、汐止區、平溪區、瑞芳區、雙溪區、貢寮區",
+"area_nickname": "汐止區、瑞芳區、平溪區、雙溪區、貢寮區、金山區、萬里區",
 "county": "65000",
 "area": "12",
 "town": "250",
 "vill": "011",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    40.63,
+"votePop":      315,
 "candidates": [
  {
  "candNo": "1",
 "name": "廖先翔",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":       69,
+"disagreeTks":       58,
+"agreeRate":    54.33,
+"disagreeRate":    45.67,
+"adptVictor": "N",
+"ytpRate":     21.9,
+"ntpRate":    18.41 
 } 
 ] 
 },
 {
  "range": "新北市 第12選區 雙溪區共和里",
-"area_nickname": "金山區、萬里區、汐止區、平溪區、瑞芳區、雙溪區、貢寮區",
+"area_nickname": "汐止區、瑞芳區、平溪區、雙溪區、貢寮區、金山區、萬里區",
 "county": "65000",
 "area": "12",
 "town": "250",
 "vill": "002",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    42.52,
+"votePop":      301,
 "candidates": [
  {
  "candNo": "1",
 "name": "廖先翔",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":       54,
+"disagreeTks":       74,
+"agreeRate":    42.19,
+"disagreeRate":    57.81,
+"adptVictor": "N",
+"ytpRate":    17.94,
+"ntpRate":    24.58 
 } 
 ] 
 },
 {
  "range": "新北市 第12選區 雙溪區魚行里",
-"area_nickname": "金山區、萬里區、汐止區、平溪區、瑞芳區、雙溪區、貢寮區",
+"area_nickname": "汐止區、瑞芳區、平溪區、雙溪區、貢寮區、金山區、萬里區",
 "county": "65000",
 "area": "12",
 "town": "250",
 "vill": "004",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    48.02,
+"votePop":      556,
 "candidates": [
  {
  "candNo": "1",
 "name": "廖先翔",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      114,
+"disagreeTks":      153,
+"agreeRate":     42.7,
+"disagreeRate":     57.3,
+"adptVictor": "N",
+"ytpRate":     20.5,
+"ntpRate":    27.52 
 } 
 ] 
 },
 {
  "range": "新北市 第12選區 雙溪區泰平里",
-"area_nickname": "金山區、萬里區、汐止區、平溪區、瑞芳區、雙溪區、貢寮區",
+"area_nickname": "汐止區、瑞芳區、平溪區、雙溪區、貢寮區、金山區、萬里區",
 "county": "65000",
 "area": "12",
 "town": "250",
 "vill": "012",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    37.59,
+"votePop":     1104,
 "candidates": [
  {
  "candNo": "1",
 "name": "廖先翔",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      172,
+"disagreeTks":      240,
+"agreeRate":    41.75,
+"disagreeRate":    58.25,
+"adptVictor": "N",
+"ytpRate":    15.58,
+"ntpRate":    21.74 
 } 
 ] 
 },
 {
  "range": "新北市 第12選區 貢寮區貢寮里",
-"area_nickname": "金山區、萬里區、汐止區、平溪區、瑞芳區、雙溪區、貢寮區",
+"area_nickname": "汐止區、瑞芳區、平溪區、雙溪區、貢寮區、金山區、萬里區",
 "county": "65000",
 "area": "12",
 "town": "260",
 "vill": "001",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    42.08,
+"votePop":      701,
 "candidates": [
  {
  "candNo": "1",
 "name": "廖先翔",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      142,
+"disagreeTks":      153,
+"agreeRate":    48.14,
+"disagreeRate":    51.86,
+"adptVictor": "N",
+"ytpRate":    20.26,
+"ntpRate":    21.83 
 } 
 ] 
 },
 {
  "range": "新北市 第12選區 貢寮區龍崗里",
-"area_nickname": "金山區、萬里區、汐止區、平溪區、瑞芳區、雙溪區、貢寮區",
+"area_nickname": "汐止區、瑞芳區、平溪區、雙溪區、貢寮區、金山區、萬里區",
 "county": "65000",
 "area": "12",
 "town": "260",
 "vill": "004",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    39.27,
+"votePop":      354,
 "candidates": [
  {
  "candNo": "1",
 "name": "廖先翔",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":       89,
+"disagreeTks":       50,
+"agreeRate":    64.03,
+"disagreeRate":    35.97,
+"adptVictor": "N",
+"ytpRate":    25.14,
+"ntpRate":    14.12 
 } 
 ] 
 },
 {
  "range": "新北市 第12選區 貢寮區吉林里",
-"area_nickname": "金山區、萬里區、汐止區、平溪區、瑞芳區、雙溪區、貢寮區",
+"area_nickname": "汐止區、瑞芳區、平溪區、雙溪區、貢寮區、金山區、萬里區",
 "county": "65000",
 "area": "12",
 "town": "260",
 "vill": "002",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    38.24,
+"votePop":      421,
 "candidates": [
  {
  "candNo": "1",
 "name": "廖先翔",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":       92,
+"disagreeTks":       69,
+"agreeRate":    57.14,
+"disagreeRate":    42.86,
+"adptVictor": "N",
+"ytpRate":    21.85,
+"ntpRate":    16.39 
 } 
 ] 
 },
 {
  "range": "新北市 第12選區 貢寮區雙玉里",
-"area_nickname": "金山區、萬里區、汐止區、平溪區、瑞芳區、雙溪區、貢寮區",
+"area_nickname": "汐止區、瑞芳區、平溪區、雙溪區、貢寮區、金山區、萬里區",
 "county": "65000",
 "area": "12",
 "town": "260",
 "vill": "003",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    42.29,
+"votePop":      558,
 "candidates": [
  {
  "candNo": "1",
 "name": "廖先翔",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      126,
+"disagreeTks":      108,
+"agreeRate":    53.85,
+"disagreeRate":    46.15,
+"adptVictor": "N",
+"ytpRate":    22.58,
+"ntpRate":    19.35 
 } 
 ] 
 },
 {
  "range": "新北市 第12選區 貢寮區福連里",
-"area_nickname": "金山區、萬里區、汐止區、平溪區、瑞芳區、雙溪區、貢寮區",
+"area_nickname": "汐止區、瑞芳區、平溪區、雙溪區、貢寮區、金山區、萬里區",
 "county": "65000",
 "area": "12",
 "town": "260",
 "vill": "009",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    40.35,
+"votePop":      803,
 "candidates": [
  {
  "candNo": "1",
 "name": "廖先翔",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      173,
+"disagreeTks":      150,
+"agreeRate":    53.56,
+"disagreeRate":    46.44,
+"adptVictor": "N",
+"ytpRate":    21.54,
+"ntpRate":    18.68 
 } 
 ] 
 },
 {
  "range": "新北市 第12選區 貢寮區福隆里",
-"area_nickname": "金山區、萬里區、汐止區、平溪區、瑞芳區、雙溪區、貢寮區",
+"area_nickname": "汐止區、瑞芳區、平溪區、雙溪區、貢寮區、金山區、萬里區",
 "county": "65000",
 "area": "12",
 "town": "260",
 "vill": "006",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    43.83,
+"votePop":     1451,
 "candidates": [
  {
  "candNo": "1",
 "name": "廖先翔",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      312,
+"disagreeTks":      320,
+"agreeRate":    49.37,
+"disagreeRate":    50.63,
+"adptVictor": "N",
+"ytpRate":     21.5,
+"ntpRate":    22.05 
 } 
 ] 
 },
 {
  "range": "新北市 第12選區 貢寮區龍門里",
-"area_nickname": "金山區、萬里區、汐止區、平溪區、瑞芳區、雙溪區、貢寮區",
+"area_nickname": "汐止區、瑞芳區、平溪區、雙溪區、貢寮區、金山區、萬里區",
 "county": "65000",
 "area": "12",
 "town": "260",
 "vill": "005",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    47.02,
+"votePop":      587,
 "candidates": [
  {
  "candNo": "1",
 "name": "廖先翔",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      194,
+"disagreeTks":       79,
+"agreeRate":    71.06,
+"disagreeRate":    28.94,
+"adptVictor": "N",
+"ytpRate":    33.05,
+"ntpRate":    13.46 
 } 
 ] 
 },
 {
  "range": "新北市 第12選區 貢寮區真理里",
-"area_nickname": "金山區、萬里區、汐止區、平溪區、瑞芳區、雙溪區、貢寮區",
+"area_nickname": "汐止區、瑞芳區、平溪區、雙溪區、貢寮區、金山區、萬里區",
 "county": "65000",
 "area": "12",
 "town": "260",
 "vill": "008",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    42.29,
+"votePop":     1804,
 "candidates": [
  {
  "candNo": "1",
 "name": "廖先翔",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      557,
+"disagreeTks":      199,
+"agreeRate":    73.68,
+"disagreeRate":    26.32,
+"adptVictor": "N",
+"ytpRate":    30.88,
+"ntpRate":    11.03 
 } 
 ] 
 },
 {
  "range": "新北市 第12選區 貢寮區仁里里",
-"area_nickname": "金山區、萬里區、汐止區、平溪區、瑞芳區、雙溪區、貢寮區",
+"area_nickname": "汐止區、瑞芳區、平溪區、雙溪區、貢寮區、金山區、萬里區",
 "county": "65000",
 "area": "12",
 "town": "260",
 "vill": "007",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    42.39,
+"votePop":     1576,
 "candidates": [
  {
  "candNo": "1",
 "name": "廖先翔",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      395,
+"disagreeTks":      268,
+"agreeRate":    59.58,
+"disagreeRate":    40.42,
+"adptVictor": "N",
+"ytpRate":    25.06,
+"ntpRate":    17.01 
 } 
 ] 
 },
 {
  "range": "新北市 第12選區 貢寮區美豐里",
-"area_nickname": "金山區、萬里區、汐止區、平溪區、瑞芳區、雙溪區、貢寮區",
+"area_nickname": "汐止區、瑞芳區、平溪區、雙溪區、貢寮區、金山區、萬里區",
 "county": "65000",
 "area": "12",
 "town": "260",
 "vill": "010",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    46.74,
+"votePop":      644,
 "candidates": [
  {
  "candNo": "1",
 "name": "廖先翔",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      156,
+"disagreeTks":      143,
+"agreeRate":    52.17,
+"disagreeRate":    47.83,
+"adptVictor": "N",
+"ytpRate":    24.22,
+"ntpRate":     22.2 
 } 
 ] 
 },
 {
  "range": "新北市 第12選區 貢寮區和美里",
-"area_nickname": "金山區、萬里區、汐止區、平溪區、瑞芳區、雙溪區、貢寮區",
+"area_nickname": "汐止區、瑞芳區、平溪區、雙溪區、貢寮區、金山區、萬里區",
 "county": "65000",
 "area": "12",
 "town": "260",
 "vill": "011",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    41.64,
+"votePop":      867,
 "candidates": [
  {
  "candNo": "1",
 "name": "廖先翔",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      233,
+"disagreeTks":      126,
+"agreeRate":     64.9,
+"disagreeRate":     35.1,
+"adptVictor": "N",
+"ytpRate":    26.87,
+"ntpRate":    14.53 
 } 
 ] 
 } 

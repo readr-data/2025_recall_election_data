@@ -1,5 +1,5 @@
 {
- "updatedAt": "2025-07-10 10:33:00",
+ "updatedAt": "2025-08-19 17:10:00",
 "is_running": false,
 "is_started": true,
 "districts": [
@@ -11,19 +11,20 @@
 "town": null,
 "vill": null,
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":       59,
+"votePop":   357063,
 "candidates": [
  {
  "candNo": "1",
 "name": "鄭正鈐",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":    89970,
+"disagreeTks":   119305,
+"agreeRate":    42.99,
+"disagreeRate":    57.01,
+"adptVictor": "N",
+"ytpRate":     25.2,
+"ntpRate":    33.41 
 } 
 ] 
 } 
