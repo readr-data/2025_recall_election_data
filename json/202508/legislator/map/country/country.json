@@ -1,0 +1,221 @@
+{
+ "updatedAt": "2025-08-23 20:10:28",
+"is_running": false,
+"is_started": true,
+"summary": {
+ "range": "全國",
+"county": null,
+"town": null,
+"vill": null,
+"type": "recall-august",
+"profRate":    49.26,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "林思銘",
+"party": "中國國民黨",
+"agreeTks":    33813,
+"disagreeTks":    76239,
+"agreeRate":    30.72,
+"disagreeRate":    69.28,
+"adptVictor": "N",
+"ytpRate":    14.18,
+"ntpRate":    31.97 
+},
+{
+ "candNo": "1",
+"name": "楊瓊瓔",
+"party": "中國國民黨",
+"agreeTks":    29914,
+"disagreeTks":    59828,
+"agreeRate":    33.33,
+"disagreeRate":    66.67,
+"adptVictor": "N",
+"ytpRate":    16.24,
+"ntpRate":    32.49 
+},
+{
+ "candNo": "1",
+"name": "江啟臣",
+"party": "中國國民黨",
+"agreeTks":    33853,
+"disagreeTks":    61443,
+"agreeRate":    35.52,
+"disagreeRate":    64.48,
+"adptVictor": "N",
+"ytpRate":    17.35,
+"ntpRate":     31.5 
+},
+{
+ "candNo": "1",
+"name": "游顥",
+"party": "中國國民黨",
+"agreeTks":    49990,
+"disagreeTks":    96691,
+"agreeRate":    34.08,
+"disagreeRate":    65.92,
+"adptVictor": "N",
+"ytpRate":    16.68,
+"ntpRate":    32.27 
+},
+{
+ "candNo": "1",
+"name": "羅明才",
+"party": "中國國民黨",
+"agreeTks":    54396,
+"disagreeTks":    98809,
+"agreeRate":    35.51,
+"disagreeRate":    64.49,
+"adptVictor": "N",
+"ytpRate":    17.68,
+"ntpRate":    32.11 
+},
+{
+ "candNo": "1",
+"name": "顏寬恒",
+"party": "中國國民黨",
+"agreeTks":    43677,
+"disagreeTks":    83511,
+"agreeRate":    34.34,
+"disagreeRate":    65.66,
+"adptVictor": "N",
+"ytpRate":    16.76,
+"ntpRate":    32.05 
+},
+{
+ "candNo": "1",
+"name": "馬文君",
+"party": "中國國民黨",
+"agreeTks":    33977,
+"disagreeTks":    69796,
+"agreeRate":    32.74,
+"disagreeRate":    67.26,
+"adptVictor": "N",
+"ytpRate":    16.27,
+"ntpRate":    33.42 
+} 
+] 
+},
+"districts": [
+ {
+ "range": "新竹縣",
+"county": "10004",
+"town": null,
+"vill": null,
+"profRate":    46.68,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "林思銘",
+"party": "中國國民黨",
+"agreeTks":    33813,
+"disagreeTks":    76239,
+"agreeRate":    30.72,
+"disagreeRate":    69.28,
+"adptVictor": "N",
+"ytpRate":    14.18,
+"ntpRate":    31.97 
+} 
+] 
+},
+{
+ "range": "南投縣",
+"county": "10008",
+"town": null,
+"vill": null,
+"profRate":    49.34,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "馬文君",
+"party": "中國國民黨",
+"agreeTks":    33977,
+"disagreeTks":    69796,
+"agreeRate":    32.74,
+"disagreeRate":    67.26,
+"adptVictor": "N",
+"ytpRate":    16.27,
+"ntpRate":    33.42 
+},
+{
+ "candNo": "1",
+"name": "游顥",
+"party": "中國國民黨",
+"agreeTks":    49990,
+"disagreeTks":    96691,
+"agreeRate":    34.08,
+"disagreeRate":    65.92,
+"adptVictor": "N",
+"ytpRate":    16.68,
+"ntpRate":    32.27 
+} 
+] 
+},
+{
+ "range": "新北市",
+"county": "65000",
+"town": null,
+"vill": null,
+"profRate":    49.38,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "羅明才",
+"party": "中國國民黨",
+"agreeTks":    54396,
+"disagreeTks":    98809,
+"agreeRate":    35.51,
+"disagreeRate":    64.49,
+"adptVictor": "N",
+"ytpRate":    17.68,
+"ntpRate":    32.11 
+} 
+] 
+},
+{
+ "range": "臺中市",
+"county": "66000",
+"town": null,
+"vill": null,
+"profRate":    49.97,
+"candidates": [
+ {
+ "candNo": "1",
+"name": "顏寬恒",
+"party": "中國國民黨",
+"agreeTks":    43677,
+"disagreeTks":    83511,
+"agreeRate":    34.34,
+"disagreeRate":    65.66,
+"adptVictor": "N",
+"ytpRate":    16.76,
+"ntpRate":    32.05 
+},
+{
+ "candNo": "1",
+"name": "楊瓊瓔",
+"party": "中國國民黨",
+"agreeTks":    29914,
+"disagreeTks":    59828,
+"agreeRate":    33.33,
+"disagreeRate":    66.67,
+"adptVictor": "N",
+"ytpRate":    16.24,
+"ntpRate":    32.49 
+},
+{
+ "candNo": "1",
+"name": "江啟臣",
+"party": "中國國民黨",
+"agreeTks":    33853,
+"disagreeTks":    61443,
+"agreeRate":    35.52,
+"disagreeRate":    64.48,
+"adptVictor": "N",
+"ytpRate":    17.35,
+"ntpRate":     31.5 
+} 
+] 
+} 
+] 
+}
