@@ -1,5 +1,5 @@
 {
- "updatedAt": "2025-08-23 20:10:28",
+ "updatedAt": "2025-09-02 13:10:00",
 "is_running": false,
 "is_started": true,
 "districts": [
@@ -2029,27 +2029,27 @@
 ] 
 },
 {
- "range": "南投縣 第01選區 魚池鄉新城村",
+ "range": "南投縣 第01選區 魚池鄉新城村(&共和村)",
 "area_nickname": "埔里鎮、草屯鎮、中寮鄉、魚池鄉、國姓鄉、仁愛鄉",
 "county": "10008",
 "area": "01",
 "town": "090",
 "vill": "004",
 "type": "normal",
-"profRate":    44.81,
-"votePop":     1214,
+"profRate":    45.57,
+"votePop":     2168,
 "candidates": [
  {
  "candNo": "1",
 "name": "馬文君",
 "party": "中國國民黨",
-"agreeTks":      188,
-"disagreeTks":      353,
-"agreeRate":    34.75,
-"disagreeRate":    65.25,
+"agreeTks":      333,
+"disagreeTks":      647,
+"agreeRate":    33.98,
+"disagreeRate":    66.03,
 "adptVictor": "N",
-"ytpRate":    15.49,
-"ntpRate":    29.08 
+"ytpRate":    15.36,
+"ntpRate":    29.84 
 } 
 ] 
 },
@@ -2104,27 +2104,27 @@
 ] 
 },
 {
- "range": "南投縣 第01選區 魚池鄉共和村",
+ "range": "南投縣 第01選區 魚池鄉共和村(&新城村)",
 "area_nickname": "埔里鎮、草屯鎮、中寮鄉、魚池鄉、國姓鄉、仁愛鄉",
 "county": "10008",
 "area": "01",
 "town": "090",
 "vill": "007",
 "type": "normal",
-"profRate":    46.54,
-"votePop":      954,
+"profRate":    45.57,
+"votePop":     2168,
 "candidates": [
  {
  "candNo": "1",
 "name": "馬文君",
 "party": "中國國民黨",
-"agreeTks":      145,
-"disagreeTks":      294,
-"agreeRate":    33.03,
-"disagreeRate":    66.97,
+"agreeTks":      333,
+"disagreeTks":      647,
+"agreeRate":    33.98,
+"disagreeRate":    66.03,
 "adptVictor": "N",
-"ytpRate":     15.2,
-"ntpRate":    30.82 
+"ytpRate":    15.36,
+"ntpRate":    29.84 
 } 
 ] 
 },
@@ -2611,7 +2611,7 @@
 "town": "130",
 "vill": "001",
 "type": "normal",
-"profRate":    40.63,
+"profRate":    40.62,
 "votePop":       32,
 "candidates": [
  {

@@ -1,5 +1,5 @@
 {
- "updatedAt": "2025-08-23 20:10:28",
+ "updatedAt": "2025-09-02 13:10:00",
 "is_running": false,
 "is_started": true,
 "summary": {
@@ -24,7 +24,7 @@
 },
 {
  "candNo": "1",
-"name": "楊瓊瓔",
+"name": "馬文君",
 "party": "中國國民黨",
 "agreeTks":    29914,
 "disagreeTks":    59828,
@@ -36,7 +36,7 @@
 },
 {
  "candNo": "1",
-"name": "江啟臣",
+"name": "游顥",
 "party": "中國國民黨",
 "agreeTks":    33853,
 "disagreeTks":    61443,
@@ -48,7 +48,7 @@
 },
 {
  "candNo": "1",
-"name": "游顥",
+"name": "羅明才",
 "party": "中國國民黨",
 "agreeTks":    49990,
 "disagreeTks":    96691,
@@ -60,7 +60,7 @@
 },
 {
  "candNo": "1",
-"name": "羅明才",
+"name": "顏寬恒",
 "party": "中國國民黨",
 "agreeTks":    54396,
 "disagreeTks":    98809,
@@ -72,7 +72,7 @@
 },
 {
  "candNo": "1",
-"name": "顏寬恒",
+"name": "楊瓊瓔",
 "party": "中國國民黨",
 "agreeTks":    43677,
 "disagreeTks":    83511,
@@ -84,7 +84,7 @@
 },
 {
  "candNo": "1",
-"name": "馬文君",
+"name": "江啟臣",
 "party": "中國國民黨",
 "agreeTks":    33977,
 "disagreeTks":    69796,
@@ -129,25 +129,25 @@
  "candNo": "1",
 "name": "馬文君",
 "party": "中國國民黨",
-"agreeTks":    33977,
-"disagreeTks":    69796,
-"agreeRate":    32.74,
-"disagreeRate":    67.26,
+"agreeTks":    29914,
+"disagreeTks":    59828,
+"agreeRate":    33.33,
+"disagreeRate":    66.67,
 "adptVictor": "N",
-"ytpRate":    16.27,
-"ntpRate":    33.42 
+"ytpRate":    16.24,
+"ntpRate":    32.49 
 },
 {
  "candNo": "1",
 "name": "游顥",
 "party": "中國國民黨",
-"agreeTks":    49990,
-"disagreeTks":    96691,
-"agreeRate":    34.08,
-"disagreeRate":    65.92,
+"agreeTks":    33853,
+"disagreeTks":    61443,
+"agreeRate":    35.52,
+"disagreeRate":    64.48,
 "adptVictor": "N",
-"ytpRate":    16.68,
-"ntpRate":    32.27 
+"ytpRate":    17.35,
+"ntpRate":     31.5 
 } 
 ] 
 },
@@ -162,13 +162,13 @@
  "candNo": "1",
 "name": "羅明才",
 "party": "中國國民黨",
-"agreeTks":    54396,
-"disagreeTks":    98809,
-"agreeRate":    35.51,
-"disagreeRate":    64.49,
+"agreeTks":    49990,
+"disagreeTks":    96691,
+"agreeRate":    34.08,
+"disagreeRate":    65.92,
 "adptVictor": "N",
-"ytpRate":    17.68,
-"ntpRate":    32.11 
+"ytpRate":    16.68,
+"ntpRate":    32.27 
 } 
 ] 
 },
@@ -183,6 +183,18 @@
  "candNo": "1",
 "name": "顏寬恒",
 "party": "中國國民黨",
+"agreeTks":    54396,
+"disagreeTks":    98809,
+"agreeRate":    35.51,
+"disagreeRate":    64.49,
+"adptVictor": "N",
+"ytpRate":    17.68,
+"ntpRate":    32.11 
+},
+{
+ "candNo": "1",
+"name": "楊瓊瓔",
+"party": "中國國民黨",
 "agreeTks":    43677,
 "disagreeTks":    83511,
 "agreeRate":    34.34,
@@ -193,27 +205,15 @@
 },
 {
  "candNo": "1",
-"name": "楊瓊瓔",
-"party": "中國國民黨",
-"agreeTks":    29914,
-"disagreeTks":    59828,
-"agreeRate":    33.33,
-"disagreeRate":    66.67,
-"adptVictor": "N",
-"ytpRate":    16.24,
-"ntpRate":    32.49 
-},
-{
- "candNo": "1",
 "name": "江啟臣",
 "party": "中國國民黨",
-"agreeTks":    33853,
-"disagreeTks":    61443,
-"agreeRate":    35.52,
-"disagreeRate":    64.48,
+"agreeTks":    33977,
+"disagreeTks":    69796,
+"agreeRate":    32.74,
+"disagreeRate":    67.26,
 "adptVictor": "N",
-"ytpRate":    17.35,
-"ntpRate":     31.5 
+"ytpRate":    16.27,
+"ntpRate":    33.42 
 } 
 ] 
 } 
