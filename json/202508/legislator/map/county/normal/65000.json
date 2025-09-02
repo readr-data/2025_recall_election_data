@@ -1,5 +1,5 @@
 {
- "updatedAt": "2025-07-10 10:33:00",
+ "updatedAt": "2025-08-23 20:10:28",
 "is_running": false,
 "is_started": true,
 "districts": [
@@ -11,19 +11,20 @@
 "town": null,
 "vill": null,
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    49.38,
+"votePop":   299652,
 "candidates": [
  {
  "candNo": "1",
 "name": "羅明才",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":    49990,
+"disagreeTks":    96691,
+"agreeRate":    34.08,
+"disagreeRate":    65.92,
+"adptVictor": "N",
+"ytpRate":    16.68,
+"ntpRate":    32.27 
 } 
 ] 
 } 

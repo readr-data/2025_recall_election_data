@@ -1,5 +1,5 @@
 {
- "updatedAt": "2025-07-10 10:33:00",
+ "updatedAt": "2025-08-23 20:10:28",
 "is_running": false,
 "is_started": true,
 "districts": [
@@ -11,19 +11,20 @@
 "town": "130",
 "vill": "001",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    48.98,
+"votePop":     1229,
 "candidates": [
  {
  "candNo": "1",
 "name": "顏寬恒",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      241,
+"disagreeTks":      356,
+"agreeRate":    40.37,
+"disagreeRate":    59.63,
+"adptVictor": "N",
+"ytpRate":    19.61,
+"ntpRate":    28.97 
 } 
 ] 
 },
@@ -35,19 +36,20 @@
 "town": "130",
 "vill": "002",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    56.11,
+"votePop":     1759,
 "candidates": [
  {
  "candNo": "1",
 "name": "顏寬恒",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      396,
+"disagreeTks":      577,
+"agreeRate":     40.7,
+"disagreeRate":     59.3,
+"adptVictor": "N",
+"ytpRate":    22.51,
+"ntpRate":     32.8 
 } 
 ] 
 },
@@ -59,19 +61,20 @@
 "town": "130",
 "vill": "003",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    47.23,
+"votePop":      758,
 "candidates": [
  {
  "candNo": "1",
 "name": "顏寬恒",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      181,
+"disagreeTks":      174,
+"agreeRate":    50.99,
+"disagreeRate":    49.01,
+"adptVictor": "N",
+"ytpRate":    23.88,
+"ntpRate":    22.96 
 } 
 ] 
 },
@@ -83,19 +86,20 @@
 "town": "130",
 "vill": "004",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    54.89,
+"votePop":      481,
 "candidates": [
  {
  "candNo": "1",
 "name": "顏寬恒",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":       90,
+"disagreeTks":      170,
+"agreeRate":    34.62,
+"disagreeRate":    65.38,
+"adptVictor": "N",
+"ytpRate":    18.71,
+"ntpRate":    35.34 
 } 
 ] 
 },
@@ -107,19 +111,20 @@
 "town": "130",
 "vill": "005",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    51.06,
+"votePop":     2272,
 "candidates": [
  {
  "candNo": "1",
 "name": "顏寬恒",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      421,
+"disagreeTks":      726,
+"agreeRate":     36.7,
+"disagreeRate":     63.3,
+"adptVictor": "N",
+"ytpRate":    18.53,
+"ntpRate":    31.95 
 } 
 ] 
 },
@@ -131,19 +136,20 @@
 "town": "130",
 "vill": "006",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    50.57,
+"votePop":     4497,
 "candidates": [
  {
  "candNo": "1",
 "name": "顏寬恒",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      817,
+"disagreeTks":     1438,
+"agreeRate":    36.23,
+"disagreeRate":    63.77,
+"adptVictor": "N",
+"ytpRate":    18.17,
+"ntpRate":    31.98 
 } 
 ] 
 },
@@ -155,19 +161,20 @@
 "town": "130",
 "vill": "007",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    47.67,
+"votePop":     5861,
 "candidates": [
  {
  "candNo": "1",
 "name": "顏寬恒",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":     1130,
+"disagreeTks":     1633,
+"agreeRate":     40.9,
+"disagreeRate":     59.1,
+"adptVictor": "N",
+"ytpRate":    19.28,
+"ntpRate":    27.86 
 } 
 ] 
 },
@@ -179,19 +186,20 @@
 "town": "130",
 "vill": "008",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    49.16,
+"votePop":     7337,
 "candidates": [
  {
  "candNo": "1",
 "name": "顏寬恒",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":     1569,
+"disagreeTks":     2001,
+"agreeRate":    43.95,
+"disagreeRate":    56.05,
+"adptVictor": "N",
+"ytpRate":    21.38,
+"ntpRate":    27.27 
 } 
 ] 
 },
@@ -203,19 +211,20 @@
 "town": "130",
 "vill": "009",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    47.36,
+"votePop":     7557,
 "candidates": [
  {
  "candNo": "1",
 "name": "顏寬恒",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":     1210,
+"disagreeTks":     2313,
+"agreeRate":    34.35,
+"disagreeRate":    65.65,
+"adptVictor": "N",
+"ytpRate":    16.01,
+"ntpRate":    30.61 
 } 
 ] 
 },
@@ -227,19 +236,20 @@
 "town": "130",
 "vill": "010",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    47.18,
+"votePop":     1047,
 "candidates": [
  {
  "candNo": "1",
 "name": "顏寬恒",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      187,
+"disagreeTks":      299,
+"agreeRate":    38.48,
+"disagreeRate":    61.52,
+"adptVictor": "N",
+"ytpRate":    17.86,
+"ntpRate":    28.56 
 } 
 ] 
 },
@@ -251,19 +261,20 @@
 "town": "130",
 "vill": "011",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    48.34,
+"votePop":     5166,
 "candidates": [
  {
  "candNo": "1",
 "name": "顏寬恒",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      861,
+"disagreeTks":     1609,
+"agreeRate":    34.86,
+"disagreeRate":    65.14,
+"adptVictor": "N",
+"ytpRate":    16.67,
+"ntpRate":    31.15 
 } 
 ] 
 },
@@ -275,19 +286,20 @@
 "town": "130",
 "vill": "012",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    49.94,
+"votePop":     3975,
 "candidates": [
  {
  "candNo": "1",
 "name": "顏寬恒",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      650,
+"disagreeTks":     1312,
+"agreeRate":    33.13,
+"disagreeRate":    66.87,
+"adptVictor": "N",
+"ytpRate":    16.35,
+"ntpRate":    33.01 
 } 
 ] 
 },
@@ -299,19 +311,20 @@
 "town": "130",
 "vill": "013",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    51.87,
+"votePop":     1814,
 "candidates": [
  {
  "candNo": "1",
 "name": "顏寬恒",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      314,
+"disagreeTks":      618,
+"agreeRate":    33.69,
+"disagreeRate":    66.31,
+"adptVictor": "N",
+"ytpRate":    17.31,
+"ntpRate":    34.07 
 } 
 ] 
 },
@@ -323,19 +336,20 @@
 "town": "130",
 "vill": "014",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    48.79,
+"votePop":     5600,
 "candidates": [
  {
  "candNo": "1",
 "name": "顏寬恒",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":     1004,
+"disagreeTks":     1692,
+"agreeRate":    37.24,
+"disagreeRate":    62.76,
+"adptVictor": "N",
+"ytpRate":    17.93,
+"ntpRate":    30.21 
 } 
 ] 
 },
@@ -347,19 +361,20 @@
 "town": "130",
 "vill": "015",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    49.56,
+"votePop":     3331,
 "candidates": [
  {
  "candNo": "1",
 "name": "顏寬恒",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      499,
+"disagreeTks":     1134,
+"agreeRate":    30.56,
+"disagreeRate":    69.44,
+"adptVictor": "N",
+"ytpRate":    14.98,
+"ntpRate":    34.04 
 } 
 ] 
 },
@@ -371,19 +386,20 @@
 "town": "130",
 "vill": "016",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    52.59,
+"votePop":     6026,
 "candidates": [
  {
  "candNo": "1",
 "name": "顏寬恒",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      838,
+"disagreeTks":     2295,
+"agreeRate":    26.75,
+"disagreeRate":    73.25,
+"adptVictor": "N",
+"ytpRate":    13.91,
+"ntpRate":    38.08 
 } 
 ] 
 },
@@ -395,19 +411,20 @@
 "town": "130",
 "vill": "017",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    49.47,
+"votePop":     4047,
 "candidates": [
  {
  "candNo": "1",
 "name": "顏寬恒",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      578,
+"disagreeTks":     1400,
+"agreeRate":    29.22,
+"disagreeRate":    70.78,
+"adptVictor": "N",
+"ytpRate":    14.28,
+"ntpRate":    34.59 
 } 
 ] 
 },
@@ -419,19 +436,20 @@
 "town": "130",
 "vill": "018",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    54.19,
+"votePop":     2253,
 "candidates": [
  {
  "candNo": "1",
 "name": "顏寬恒",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      369,
+"disagreeTks":      835,
+"agreeRate":    30.65,
+"disagreeRate":    69.35,
+"adptVictor": "N",
+"ytpRate":    16.38,
+"ntpRate":    37.06 
 } 
 ] 
 },
@@ -443,19 +461,20 @@
 "town": "130",
 "vill": "019",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    50.96,
+"votePop":     1929,
 "candidates": [
  {
  "candNo": "1",
 "name": "顏寬恒",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      261,
+"disagreeTks":      701,
+"agreeRate":    27.13,
+"disagreeRate":    72.87,
+"adptVictor": "N",
+"ytpRate":    13.53,
+"ntpRate":    36.34 
 } 
 ] 
 },
@@ -467,19 +486,20 @@
 "town": "130",
 "vill": "020",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    47.04,
+"votePop":     3782,
 "candidates": [
  {
  "candNo": "1",
 "name": "顏寬恒",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      682,
+"disagreeTks":     1080,
+"agreeRate":    38.71,
+"disagreeRate":    61.29,
+"adptVictor": "N",
+"ytpRate":    18.03,
+"ntpRate":    28.56 
 } 
 ] 
 },
@@ -491,19 +511,20 @@
 "town": "130",
 "vill": "021",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    48.16,
+"votePop":     8163,
 "candidates": [
  {
  "candNo": "1",
 "name": "顏寬恒",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":     1146,
+"disagreeTks":     2750,
+"agreeRate":    29.41,
+"disagreeRate":    70.59,
+"adptVictor": "N",
+"ytpRate":    14.04,
+"ntpRate":    33.69 
 } 
 ] 
 },
@@ -515,19 +536,20 @@
 "town": "230",
 "vill": "001",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    51.67,
+"votePop":     8540,
 "candidates": [
  {
  "candNo": "1",
 "name": "顏寬恒",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":     1837,
+"disagreeTks":     2534,
+"agreeRate":    42.03,
+"disagreeRate":    57.97,
+"adptVictor": "N",
+"ytpRate":    21.51,
+"ntpRate":    29.67 
 } 
 ] 
 },
@@ -539,19 +561,20 @@
 "town": "230",
 "vill": "002",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    47.11,
+"votePop":     2817,
 "candidates": [
  {
  "candNo": "1",
 "name": "顏寬恒",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      543,
+"disagreeTks":      765,
+"agreeRate":    41.51,
+"disagreeRate":    58.49,
+"adptVictor": "N",
+"ytpRate":    19.28,
+"ntpRate":    27.16 
 } 
 ] 
 },
@@ -563,19 +586,20 @@
 "town": "230",
 "vill": "003",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    44.77,
+"votePop":     9142,
 "candidates": [
  {
  "candNo": "1",
 "name": "顏寬恒",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":     1532,
+"disagreeTks":     2510,
+"agreeRate":     37.9,
+"disagreeRate":     62.1,
+"adptVictor": "N",
+"ytpRate":    16.76,
+"ntpRate":    27.46 
 } 
 ] 
 },
@@ -587,19 +611,20 @@
 "town": "230",
 "vill": "004",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    49.55,
+"votePop":     6593,
 "candidates": [
  {
  "candNo": "1",
 "name": "顏寬恒",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":     1192,
+"disagreeTks":     2040,
+"agreeRate":    36.88,
+"disagreeRate":    63.12,
+"adptVictor": "N",
+"ytpRate":    18.08,
+"ntpRate":    30.94 
 } 
 ] 
 },
@@ -611,19 +636,20 @@
 "town": "230",
 "vill": "005",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":     52.8,
+"votePop":     2466,
 "candidates": [
  {
  "candNo": "1",
 "name": "顏寬恒",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      443,
+"disagreeTks":      838,
+"agreeRate":    34.58,
+"disagreeRate":    65.42,
+"adptVictor": "N",
+"ytpRate":    17.96,
+"ntpRate":    33.98 
 } 
 ] 
 },
@@ -635,19 +661,20 @@
 "town": "230",
 "vill": "006",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    51.31,
+"votePop":    12089,
 "candidates": [
  {
  "candNo": "1",
 "name": "顏寬恒",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":     2488,
+"disagreeTks":     3645,
+"agreeRate":    40.57,
+"disagreeRate":    59.43,
+"adptVictor": "N",
+"ytpRate":    20.58,
+"ntpRate":    30.15 
 } 
 ] 
 },
@@ -659,19 +686,20 @@
 "town": "230",
 "vill": "007",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":       53,
+"votePop":     7209,
 "candidates": [
  {
  "candNo": "1",
 "name": "顏寬恒",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":     1566,
+"disagreeTks":     2229,
+"agreeRate":    41.26,
+"disagreeRate":    58.74,
+"adptVictor": "N",
+"ytpRate":    21.72,
+"ntpRate":    30.92 
 } 
 ] 
 },
@@ -683,19 +711,20 @@
 "town": "230",
 "vill": "008",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    54.43,
+"votePop":     1433,
 "candidates": [
  {
  "candNo": "1",
 "name": "顏寬恒",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      337,
+"disagreeTks":      435,
+"agreeRate":    43.65,
+"disagreeRate":    56.35,
+"adptVictor": "N",
+"ytpRate":    23.52,
+"ntpRate":    30.36 
 } 
 ] 
 },
@@ -707,19 +736,20 @@
 "town": "230",
 "vill": "009",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":     52.5,
+"votePop":     1640,
 "candidates": [
  {
  "candNo": "1",
 "name": "顏寬恒",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      320,
+"disagreeTks":      527,
+"agreeRate":    37.78,
+"disagreeRate":    62.22,
+"adptVictor": "N",
+"ytpRate":    19.51,
+"ntpRate":    32.13 
 } 
 ] 
 },
@@ -731,19 +761,20 @@
 "town": "230",
 "vill": "010",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    53.99,
+"votePop":     1982,
 "candidates": [
  {
  "candNo": "1",
 "name": "顏寬恒",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      409,
+"disagreeTks":      648,
+"agreeRate":    38.69,
+"disagreeRate":    61.31,
+"adptVictor": "N",
+"ytpRate":    20.64,
+"ntpRate":    32.69 
 } 
 ] 
 },
@@ -755,19 +786,20 @@
 "town": "230",
 "vill": "011",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    52.49,
+"votePop":     2208,
 "candidates": [
  {
  "candNo": "1",
 "name": "顏寬恒",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      398,
+"disagreeTks":      749,
+"agreeRate":     34.7,
+"disagreeRate":     65.3,
+"adptVictor": "N",
+"ytpRate":    18.03,
+"ntpRate":    33.92 
 } 
 ] 
 },
@@ -779,19 +811,20 @@
 "town": "230",
 "vill": "012",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    51.92,
+"votePop":     4366,
 "candidates": [
  {
  "candNo": "1",
 "name": "顏寬恒",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      816,
+"disagreeTks":     1422,
+"agreeRate":    36.46,
+"disagreeRate":    63.54,
+"adptVictor": "N",
+"ytpRate":    18.69,
+"ntpRate":    32.57 
 } 
 ] 
 },
@@ -803,19 +836,20 @@
 "town": "230",
 "vill": "013",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    55.51,
+"votePop":     2115,
 "candidates": [
  {
  "candNo": "1",
 "name": "顏寬恒",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      414,
+"disagreeTks":      747,
+"agreeRate":    35.66,
+"disagreeRate":    64.34,
+"adptVictor": "N",
+"ytpRate":    19.57,
+"ntpRate":    35.32 
 } 
 ] 
 },
@@ -827,19 +861,20 @@
 "town": "230",
 "vill": "014",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    51.77,
+"votePop":     1553,
 "candidates": [
  {
  "candNo": "1",
 "name": "顏寬恒",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      312,
+"disagreeTks":      481,
+"agreeRate":    39.34,
+"disagreeRate":    60.66,
+"adptVictor": "N",
+"ytpRate":    20.09,
+"ntpRate":    30.97 
 } 
 ] 
 },
@@ -851,19 +886,20 @@
 "town": "230",
 "vill": "015",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    56.29,
+"votePop":     1263,
 "candidates": [
  {
  "candNo": "1",
 "name": "顏寬恒",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      206,
+"disagreeTks":      496,
+"agreeRate":    29.34,
+"disagreeRate":    70.66,
+"adptVictor": "N",
+"ytpRate":    16.31,
+"ntpRate":    39.27 
 } 
 ] 
 },
@@ -875,19 +911,20 @@
 "town": "230",
 "vill": "016",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    52.32,
+"votePop":      797,
 "candidates": [
  {
  "candNo": "1",
 "name": "顏寬恒",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":       90,
+"disagreeTks":      319,
+"agreeRate":       22,
+"disagreeRate":       78,
+"adptVictor": "N",
+"ytpRate":    11.29,
+"ntpRate":    40.03 
 } 
 ] 
 },
@@ -899,19 +936,20 @@
 "town": "240",
 "vill": "001",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    49.95,
+"votePop":     4148,
 "candidates": [
  {
  "candNo": "1",
 "name": "顏寬恒",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      765,
+"disagreeTks":     1289,
+"agreeRate":    37.24,
+"disagreeRate":    62.76,
+"adptVictor": "N",
+"ytpRate":    18.44,
+"ntpRate":    31.08 
 } 
 ] 
 },
@@ -923,19 +961,20 @@
 "town": "240",
 "vill": "002",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    60.58,
+"votePop":      789,
 "candidates": [
  {
  "candNo": "1",
 "name": "顏寬恒",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      149,
+"disagreeTks":      318,
+"agreeRate":    31.91,
+"disagreeRate":    68.09,
+"adptVictor": "N",
+"ytpRate":    18.88,
+"ntpRate":     40.3 
 } 
 ] 
 },
@@ -947,19 +986,20 @@
 "town": "240",
 "vill": "003",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    52.17,
+"votePop":     3299,
 "candidates": [
  {
  "candNo": "1",
 "name": "顏寬恒",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      602,
+"disagreeTks":     1102,
+"agreeRate":    35.33,
+"disagreeRate":    64.67,
+"adptVictor": "N",
+"ytpRate":    18.25,
+"ntpRate":     33.4 
 } 
 ] 
 },
@@ -971,19 +1011,20 @@
 "town": "240",
 "vill": "004",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    54.62,
+"votePop":     1430,
 "candidates": [
  {
  "candNo": "1",
 "name": "顏寬恒",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      240,
+"disagreeTks":      534,
+"agreeRate":    31.01,
+"disagreeRate":    68.99,
+"adptVictor": "N",
+"ytpRate":    16.78,
+"ntpRate":    37.34 
 } 
 ] 
 },
@@ -995,19 +1036,20 @@
 "town": "240",
 "vill": "005",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    56.13,
+"votePop":     2218,
 "candidates": [
  {
  "candNo": "1",
 "name": "顏寬恒",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      354,
+"disagreeTks":      876,
+"agreeRate":    28.78,
+"disagreeRate":    71.22,
+"adptVictor": "N",
+"ytpRate":    15.96,
+"ntpRate":     39.5 
 } 
 ] 
 },
@@ -1019,19 +1061,20 @@
 "town": "240",
 "vill": "006",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    50.63,
+"votePop":     2386,
 "candidates": [
  {
  "candNo": "1",
 "name": "顏寬恒",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      395,
+"disagreeTks":      800,
+"agreeRate":    33.05,
+"disagreeRate":    66.95,
+"adptVictor": "N",
+"ytpRate":    16.55,
+"ntpRate":    33.53 
 } 
 ] 
 },
@@ -1043,19 +1086,20 @@
 "town": "240",
 "vill": "007",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    52.18,
+"votePop":     2802,
 "candidates": [
  {
  "candNo": "1",
 "name": "顏寬恒",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      499,
+"disagreeTks":      951,
+"agreeRate":    34.41,
+"disagreeRate":    65.59,
+"adptVictor": "N",
+"ytpRate":    17.81,
+"ntpRate":    33.94 
 } 
 ] 
 },
@@ -1067,19 +1111,20 @@
 "town": "240",
 "vill": "008",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    56.42,
+"votePop":     2042,
 "candidates": [
  {
  "candNo": "1",
 "name": "顏寬恒",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      402,
+"disagreeTks":      735,
+"agreeRate":    35.36,
+"disagreeRate":    64.64,
+"adptVictor": "N",
+"ytpRate":    19.69,
+"ntpRate":    35.99 
 } 
 ] 
 },
@@ -1091,19 +1136,20 @@
 "town": "240",
 "vill": "009",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    56.21,
+"votePop":      749,
 "candidates": [
  {
  "candNo": "1",
 "name": "顏寬恒",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      158,
+"disagreeTks":      256,
+"agreeRate":    38.16,
+"disagreeRate":    61.84,
+"adptVictor": "N",
+"ytpRate":    21.09,
+"ntpRate":    34.18 
 } 
 ] 
 },
@@ -1115,19 +1161,20 @@
 "town": "240",
 "vill": "010",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":     53.9,
+"votePop":     1603,
 "candidates": [
  {
  "candNo": "1",
 "name": "顏寬恒",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      251,
+"disagreeTks":      601,
+"agreeRate":    29.46,
+"disagreeRate":    70.54,
+"adptVictor": "N",
+"ytpRate":    15.66,
+"ntpRate":    37.49 
 } 
 ] 
 },
@@ -1139,19 +1186,20 @@
 "town": "240",
 "vill": "011",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":     53.4,
+"votePop":     1601,
 "candidates": [
  {
  "candNo": "1",
 "name": "顏寬恒",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      298,
+"disagreeTks":      540,
+"agreeRate":    35.56,
+"disagreeRate":    64.44,
+"adptVictor": "N",
+"ytpRate":    18.61,
+"ntpRate":    33.73 
 } 
 ] 
 },
@@ -1163,19 +1211,20 @@
 "town": "240",
 "vill": "012",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    64.06,
+"votePop":      871,
 "candidates": [
  {
  "candNo": "1",
 "name": "顏寬恒",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      127,
+"disagreeTks":      422,
+"agreeRate":    23.13,
+"disagreeRate":    76.87,
+"adptVictor": "N",
+"ytpRate":    14.58,
+"ntpRate":    48.45 
 } 
 ] 
 },
@@ -1187,19 +1236,20 @@
 "town": "240",
 "vill": "013",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":     50.4,
+"votePop":     1256,
 "candidates": [
  {
  "candNo": "1",
 "name": "顏寬恒",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      214,
+"disagreeTks":      412,
+"agreeRate":    34.19,
+"disagreeRate":    65.81,
+"adptVictor": "N",
+"ytpRate":    17.04,
+"ntpRate":     32.8 
 } 
 ] 
 },
@@ -1211,19 +1261,20 @@
 "town": "240",
 "vill": "014",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    50.59,
+"votePop":     7276,
 "candidates": [
  {
  "candNo": "1",
 "name": "顏寬恒",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":     1230,
+"disagreeTks":     2418,
+"agreeRate":    33.72,
+"disagreeRate":    66.28,
+"adptVictor": "N",
+"ytpRate":     16.9,
+"ntpRate":    33.23 
 } 
 ] 
 },
@@ -1235,19 +1286,20 @@
 "town": "240",
 "vill": "015",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    48.32,
+"votePop":     4870,
 "candidates": [
  {
  "candNo": "1",
 "name": "顏寬恒",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      877,
+"disagreeTks":     1455,
+"agreeRate":    37.61,
+"disagreeRate":    62.39,
+"adptVictor": "N",
+"ytpRate":    18.01,
+"ntpRate":    29.88 
 } 
 ] 
 },
@@ -1259,19 +1311,20 @@
 "town": "240",
 "vill": "016",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    46.51,
+"votePop":     4842,
 "candidates": [
  {
  "candNo": "1",
 "name": "顏寬恒",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      899,
+"disagreeTks":     1335,
+"agreeRate":    40.24,
+"disagreeRate":    59.76,
+"adptVictor": "N",
+"ytpRate":    18.57,
+"ntpRate":    27.57 
 } 
 ] 
 },
@@ -1283,19 +1336,20 @@
 "town": "240",
 "vill": "017",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":     50.8,
+"votePop":     3299,
 "candidates": [
  {
  "candNo": "1",
 "name": "顏寬恒",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      531,
+"disagreeTks":     1125,
+"agreeRate":    32.07,
+"disagreeRate":    67.93,
+"adptVictor": "N",
+"ytpRate":     16.1,
+"ntpRate":     34.1 
 } 
 ] 
 },
@@ -1307,19 +1361,20 @@
 "town": "250",
 "vill": "001",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    51.87,
+"votePop":     3104,
 "candidates": [
  {
  "candNo": "1",
 "name": "顏寬恒",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      464,
+"disagreeTks":     1129,
+"agreeRate":    29.13,
+"disagreeRate":    70.87,
+"adptVictor": "N",
+"ytpRate":    14.95,
+"ntpRate":    36.37 
 } 
 ] 
 },
@@ -1331,19 +1386,20 @@
 "town": "250",
 "vill": "002",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    49.16,
+"votePop":     2966,
 "candidates": [
  {
  "candNo": "1",
 "name": "顏寬恒",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      403,
+"disagreeTks":     1038,
+"agreeRate":    27.97,
+"disagreeRate":    72.03,
+"adptVictor": "N",
+"ytpRate":    13.59,
+"ntpRate":       35 
 } 
 ] 
 },
@@ -1355,19 +1411,20 @@
 "town": "250",
 "vill": "003",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    53.51,
+"votePop":     1740,
 "candidates": [
  {
  "candNo": "1",
 "name": "顏寬恒",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      295,
+"disagreeTks":      630,
+"agreeRate":    31.89,
+"disagreeRate":    68.11,
+"adptVictor": "N",
+"ytpRate":    16.95,
+"ntpRate":    36.21 
 } 
 ] 
 },
@@ -1379,19 +1436,20 @@
 "town": "250",
 "vill": "004",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    51.01,
+"votePop":     3929,
 "candidates": [
  {
  "candNo": "1",
 "name": "顏寬恒",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      625,
+"disagreeTks":     1356,
+"agreeRate":    31.55,
+"disagreeRate":    68.45,
+"adptVictor": "N",
+"ytpRate":    15.91,
+"ntpRate":    34.51 
 } 
 ] 
 },
@@ -1403,19 +1461,20 @@
 "town": "250",
 "vill": "005",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    50.79,
+"votePop":      955,
 "candidates": [
  {
  "candNo": "1",
 "name": "顏寬恒",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      126,
+"disagreeTks":      349,
+"agreeRate":    26.53,
+"disagreeRate":    73.47,
+"adptVictor": "N",
+"ytpRate":    13.19,
+"ntpRate":    36.54 
 } 
 ] 
 },
@@ -1427,19 +1486,20 @@
 "town": "250",
 "vill": "006",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    53.45,
+"votePop":     2114,
 "candidates": [
  {
  "candNo": "1",
 "name": "顏寬恒",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      250,
+"disagreeTks":      862,
+"agreeRate":    22.48,
+"disagreeRate":    77.52,
+"adptVictor": "N",
+"ytpRate":    11.83,
+"ntpRate":    40.78 
 } 
 ] 
 },
@@ -1451,19 +1511,20 @@
 "town": "250",
 "vill": "007",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    48.01,
+"votePop":     4676,
 "candidates": [
  {
  "candNo": "1",
 "name": "顏寬恒",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      764,
+"disagreeTks":     1445,
+"agreeRate":    34.59,
+"disagreeRate":    65.41,
+"adptVictor": "N",
+"ytpRate":    16.34,
+"ntpRate":     30.9 
 } 
 ] 
 },
@@ -1475,19 +1536,20 @@
 "town": "250",
 "vill": "008",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    47.62,
+"votePop":     2730,
 "candidates": [
  {
  "candNo": "1",
 "name": "顏寬恒",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      436,
+"disagreeTks":      852,
+"agreeRate":    33.85,
+"disagreeRate":    66.15,
+"adptVictor": "N",
+"ytpRate":    15.97,
+"ntpRate":    31.21 
 } 
 ] 
 },
@@ -1499,19 +1561,20 @@
 "town": "250",
 "vill": "009",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    50.36,
+"votePop":     4557,
 "candidates": [
  {
  "candNo": "1",
 "name": "顏寬恒",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      835,
+"disagreeTks":     1430,
+"agreeRate":    36.87,
+"disagreeRate":    63.13,
+"adptVictor": "N",
+"ytpRate":    18.32,
+"ntpRate":    31.38 
 } 
 ] 
 },
@@ -1523,19 +1586,20 @@
 "town": "250",
 "vill": "010",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    49.65,
+"votePop":     5650,
 "candidates": [
  {
  "candNo": "1",
 "name": "顏寬恒",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      947,
+"disagreeTks":     1829,
+"agreeRate":    34.11,
+"disagreeRate":    65.89,
+"adptVictor": "N",
+"ytpRate":    16.76,
+"ntpRate":    32.37 
 } 
 ] 
 },
@@ -1547,19 +1611,20 @@
 "town": "250",
 "vill": "011",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    47.17,
+"votePop":     8526,
 "candidates": [
  {
  "candNo": "1",
 "name": "顏寬恒",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":     1376,
+"disagreeTks":     2617,
+"agreeRate":    34.46,
+"disagreeRate":    65.54,
+"adptVictor": "N",
+"ytpRate":    16.14,
+"ntpRate":    30.69 
 } 
 ] 
 },
@@ -1571,19 +1636,20 @@
 "town": "250",
 "vill": "012",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    53.99,
+"votePop":     2634,
 "candidates": [
  {
  "candNo": "1",
 "name": "顏寬恒",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      429,
+"disagreeTks":      977,
+"agreeRate":    30.51,
+"disagreeRate":    69.49,
+"adptVictor": "N",
+"ytpRate":    16.29,
+"ntpRate":    37.09 
 } 
 ] 
 },
@@ -1595,19 +1661,20 @@
 "town": "250",
 "vill": "013",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    47.01,
+"votePop":     6031,
 "candidates": [
  {
  "candNo": "1",
 "name": "顏寬恒",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":     1023,
+"disagreeTks":     1778,
+"agreeRate":    36.52,
+"disagreeRate":    63.48,
+"adptVictor": "N",
+"ytpRate":    16.96,
+"ntpRate":    29.48 
 } 
 ] 
 },
@@ -1619,19 +1686,20 @@
 "town": "250",
 "vill": "014",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    59.72,
+"votePop":     1373,
 "candidates": [
  {
  "candNo": "1",
 "name": "顏寬恒",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      247,
+"disagreeTks":      560,
+"agreeRate":    30.61,
+"disagreeRate":    69.39,
+"adptVictor": "N",
+"ytpRate":    17.99,
+"ntpRate":    40.79 
 } 
 ] 
 },
@@ -1643,19 +1711,20 @@
 "town": "250",
 "vill": "015",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    47.41,
+"votePop":     4661,
 "candidates": [
  {
  "candNo": "1",
 "name": "顏寬恒",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      832,
+"disagreeTks":     1355,
+"agreeRate":    38.04,
+"disagreeRate":    61.96,
+"adptVictor": "N",
+"ytpRate":    17.85,
+"ntpRate":    29.07 
 } 
 ] 
 },
@@ -1667,19 +1736,20 @@
 "town": "250",
 "vill": "016",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    49.32,
+"votePop":     8557,
 "candidates": [
  {
  "candNo": "1",
 "name": "顏寬恒",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":     1498,
+"disagreeTks":     2674,
+"agreeRate":    35.91,
+"disagreeRate":    64.09,
+"adptVictor": "N",
+"ytpRate":    17.51,
+"ntpRate":    31.25 
 } 
 ] 
 },
@@ -1691,19 +1761,20 @@
 "town": "260",
 "vill": "001",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    52.12,
+"votePop":     1182,
 "candidates": [
  {
  "candNo": "1",
 "name": "顏寬恒",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      186,
+"disagreeTks":      429,
+"agreeRate":    30.24,
+"disagreeRate":    69.76,
+"adptVictor": "N",
+"ytpRate":    15.74,
+"ntpRate":    36.29 
 } 
 ] 
 },
@@ -1715,19 +1786,20 @@
 "town": "260",
 "vill": "002",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    49.52,
+"votePop":     8853,
 "candidates": [
  {
  "candNo": "1",
 "name": "顏寬恒",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":     1597,
+"disagreeTks":     2754,
+"agreeRate":     36.7,
+"disagreeRate":     63.3,
+"adptVictor": "N",
+"ytpRate":    18.04,
+"ntpRate":    31.11 
 } 
 ] 
 },
@@ -1739,19 +1811,20 @@
 "town": "260",
 "vill": "003",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":     50.1,
+"votePop":     4639,
 "candidates": [
  {
  "candNo": "1",
 "name": "顏寬恒",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      799,
+"disagreeTks":     1498,
+"agreeRate":    34.78,
+"disagreeRate":    65.22,
+"adptVictor": "N",
+"ytpRate":    17.22,
+"ntpRate":    32.29 
 } 
 ] 
 },
@@ -1763,19 +1836,20 @@
 "town": "260",
 "vill": "004",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    54.29,
+"votePop":     2157,
 "candidates": [
  {
  "candNo": "1",
 "name": "顏寬恒",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      435,
+"disagreeTks":      730,
+"agreeRate":    37.34,
+"disagreeRate":    62.66,
+"adptVictor": "N",
+"ytpRate":    20.17,
+"ntpRate":    33.84 
 } 
 ] 
 },
@@ -1787,19 +1861,20 @@
 "town": "260",
 "vill": "005",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    55.08,
+"votePop":     1879,
 "candidates": [
  {
  "candNo": "1",
 "name": "顏寬恒",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      390,
+"disagreeTks":      641,
+"agreeRate":    37.83,
+"disagreeRate":    62.17,
+"adptVictor": "N",
+"ytpRate":    20.76,
+"ntpRate":    34.11 
 } 
 ] 
 },
@@ -1811,19 +1886,20 @@
 "town": "260",
 "vill": "006",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    50.48,
+"votePop":     1238,
 "candidates": [
  {
  "candNo": "1",
 "name": "顏寬恒",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      220,
+"disagreeTks":      400,
+"agreeRate":    35.48,
+"disagreeRate":    64.52,
+"adptVictor": "N",
+"ytpRate":    17.77,
+"ntpRate":    32.31 
 } 
 ] 
 },
@@ -1835,19 +1911,20 @@
 "town": "260",
 "vill": "007",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    52.18,
+"votePop":      964,
 "candidates": [
  {
  "candNo": "1",
 "name": "顏寬恒",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      197,
+"disagreeTks":      297,
+"agreeRate":    39.88,
+"disagreeRate":    60.12,
+"adptVictor": "N",
+"ytpRate":    20.44,
+"ntpRate":    30.81 
 } 
 ] 
 },
@@ -1859,19 +1936,20 @@
 "town": "260",
 "vill": "008",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    51.57,
+"votePop":     5548,
 "candidates": [
  {
  "candNo": "1",
 "name": "顏寬恒",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      939,
+"disagreeTks":     1896,
+"agreeRate":    33.12,
+"disagreeRate":    66.88,
+"adptVictor": "N",
+"ytpRate":    16.93,
+"ntpRate":    34.17 
 } 
 ] 
 },
@@ -1883,19 +1961,20 @@
 "town": "260",
 "vill": "009",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    50.14,
+"votePop":     2844,
 "candidates": [
  {
  "candNo": "1",
 "name": "顏寬恒",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      476,
+"disagreeTks":      935,
+"agreeRate":    33.73,
+"disagreeRate":    66.27,
+"adptVictor": "N",
+"ytpRate":    16.74,
+"ntpRate":    32.88 
 } 
 ] 
 },
@@ -1907,19 +1986,20 @@
 "town": "260",
 "vill": "010",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    51.16,
+"votePop":     3831,
 "candidates": [
  {
  "candNo": "1",
 "name": "顏寬恒",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      740,
+"disagreeTks":     1195,
+"agreeRate":    38.24,
+"disagreeRate":    61.76,
+"adptVictor": "N",
+"ytpRate":    19.32,
+"ntpRate":    31.19 
 } 
 ] 
 },
@@ -1931,19 +2011,20 @@
 "town": "260",
 "vill": "011",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":     52.9,
+"votePop":     1828,
 "candidates": [
  {
  "candNo": "1",
 "name": "顏寬恒",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      337,
+"disagreeTks":      620,
+"agreeRate":    35.21,
+"disagreeRate":    64.79,
+"adptVictor": "N",
+"ytpRate":    18.44,
+"ntpRate":    33.92 
 } 
 ] 
 },
@@ -1955,19 +2036,20 @@
 "town": "260",
 "vill": "012",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    50.36,
+"votePop":     2381,
 "candidates": [
  {
  "candNo": "1",
 "name": "顏寬恒",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      459,
+"disagreeTks":      729,
+"agreeRate":    38.64,
+"disagreeRate":    61.36,
+"adptVictor": "N",
+"ytpRate":    19.28,
+"ntpRate":    30.62 
 } 
 ] 
 },
@@ -1979,19 +2061,20 @@
 "town": "260",
 "vill": "013",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":     49.6,
+"votePop":     2512,
 "candidates": [
  {
  "candNo": "1",
 "name": "顏寬恒",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      410,
+"disagreeTks":      819,
+"agreeRate":    33.36,
+"disagreeRate":    66.64,
+"adptVictor": "N",
+"ytpRate":    16.32,
+"ntpRate":     32.6 
 } 
 ] 
 },
@@ -2003,19 +2086,20 @@
 "town": "260",
 "vill": "014",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    47.48,
+"votePop":     2481,
 "candidates": [
  {
  "candNo": "1",
 "name": "顏寬恒",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      476,
+"disagreeTks":      692,
+"agreeRate":    40.75,
+"disagreeRate":    59.25,
+"adptVictor": "N",
+"ytpRate":    19.19,
+"ntpRate":    27.89 
 } 
 ] 
 },
@@ -2027,19 +2111,20 @@
 "town": "260",
 "vill": "015",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    47.87,
+"votePop":     1968,
 "candidates": [
  {
  "candNo": "1",
 "name": "顏寬恒",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      318,
+"disagreeTks":      613,
+"agreeRate":    34.16,
+"disagreeRate":    65.84,
+"adptVictor": "N",
+"ytpRate":    16.16,
+"ntpRate":    31.15 
 } 
 ] 
 },
@@ -2051,19 +2136,20 @@
 "town": "260",
 "vill": "016",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":     52.7,
+"votePop":     1076,
 "candidates": [
  {
  "candNo": "1",
 "name": "顏寬恒",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      181,
+"disagreeTks":      382,
+"agreeRate":    32.15,
+"disagreeRate":    67.85,
+"adptVictor": "N",
+"ytpRate":    16.82,
+"ntpRate":     35.5 
 } 
 ] 
 },
@@ -2075,19 +2161,20 @@
 "town": "260",
 "vill": "017",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    54.47,
+"votePop":     2203,
 "candidates": [
  {
  "candNo": "1",
 "name": "顏寬恒",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      467,
+"disagreeTks":      716,
+"agreeRate":    39.48,
+"disagreeRate":    60.52,
+"adptVictor": "N",
+"ytpRate":     21.2,
+"ntpRate":     32.5 
 } 
 ] 
 },
@@ -2099,19 +2186,20 @@
 "town": "260",
 "vill": "018",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    50.46,
+"votePop":     2188,
 "candidates": [
  {
  "candNo": "1",
 "name": "顏寬恒",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      413,
+"disagreeTks":      679,
+"agreeRate":    37.82,
+"disagreeRate":    62.18,
+"adptVictor": "N",
+"ytpRate":    18.88,
+"ntpRate":    31.03 
 } 
 ] 
 },
@@ -2123,19 +2211,20 @@
 "town": "260",
 "vill": "019",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":     56.3,
+"votePop":     1977,
 "candidates": [
  {
  "candNo": "1",
 "name": "顏寬恒",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      261,
+"disagreeTks":      840,
+"agreeRate":    23.71,
+"disagreeRate":    76.29,
+"adptVictor": "N",
+"ytpRate":     13.2,
+"ntpRate":    42.49 
 } 
 ] 
 },
@@ -2147,19 +2236,20 @@
 "town": "260",
 "vill": "020",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    50.17,
+"votePop":     1212,
 "candidates": [
  {
  "candNo": "1",
 "name": "顏寬恒",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      207,
+"disagreeTks":      396,
+"agreeRate":    34.33,
+"disagreeRate":    65.67,
+"adptVictor": "N",
+"ytpRate":    17.08,
+"ntpRate":    32.67 
 } 
 ] 
 } 

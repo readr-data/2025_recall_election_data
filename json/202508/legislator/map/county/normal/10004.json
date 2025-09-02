@@ -1,5 +1,5 @@
 {
- "updatedAt": "2025-07-10 10:33:00",
+ "updatedAt": "2025-08-23 20:10:28",
 "is_running": false,
 "is_started": true,
 "districts": [
@@ -11,19 +11,20 @@
 "town": null,
 "vill": null,
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    46.68,
+"votePop":   238499,
 "candidates": [
  {
  "candNo": "1",
 "name": "林思銘",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":    33813,
+"disagreeTks":    76239,
+"agreeRate":    30.72,
+"disagreeRate":    69.28,
+"adptVictor": "N",
+"ytpRate":    14.18,
+"ntpRate":    31.97 
 } 
 ] 
 } 

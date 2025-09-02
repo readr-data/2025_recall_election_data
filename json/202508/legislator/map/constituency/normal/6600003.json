@@ -1,5 +1,5 @@
 {
- "updatedAt": "2025-07-10 10:33:00",
+ "updatedAt": "2025-08-23 20:10:28",
 "is_running": false,
 "is_started": true,
 "districts": [
@@ -11,19 +11,20 @@
 "town": "150",
 "vill": "001",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    50.16,
+"votePop":     1856,
 "candidates": [
  {
  "candNo": "1",
 "name": "楊瓊瓔",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      197,
+"disagreeTks":      719,
+"agreeRate":    21.51,
+"disagreeRate":    78.49,
+"adptVictor": "N",
+"ytpRate":    10.61,
+"ntpRate":    38.74 
 } 
 ] 
 },
@@ -35,19 +36,20 @@
 "town": "150",
 "vill": "002",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    48.05,
+"votePop":      947,
 "candidates": [
  {
  "candNo": "1",
 "name": "楊瓊瓔",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      108,
+"disagreeTks":      344,
+"agreeRate":    23.89,
+"disagreeRate":    76.11,
+"adptVictor": "N",
+"ytpRate":     11.4,
+"ntpRate":    36.33 
 } 
 ] 
 },
@@ -59,19 +61,20 @@
 "town": "150",
 "vill": "003",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":     47.7,
+"votePop":     2910,
 "candidates": [
  {
  "candNo": "1",
 "name": "楊瓊瓔",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      333,
+"disagreeTks":     1039,
+"agreeRate":    24.27,
+"disagreeRate":    75.73,
+"adptVictor": "N",
+"ytpRate":    11.44,
+"ntpRate":     35.7 
 } 
 ] 
 },
@@ -83,19 +86,20 @@
 "town": "150",
 "vill": "004",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    52.45,
+"votePop":     3443,
 "candidates": [
  {
  "candNo": "1",
 "name": "楊瓊瓔",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      545,
+"disagreeTks":     1241,
+"agreeRate":    30.52,
+"disagreeRate":    69.48,
+"adptVictor": "N",
+"ytpRate":    15.83,
+"ntpRate":    36.04 
 } 
 ] 
 },
@@ -107,19 +111,20 @@
 "town": "150",
 "vill": "005",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":     53.9,
+"votePop":     2076,
 "candidates": [
  {
  "candNo": "1",
 "name": "楊瓊瓔",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      345,
+"disagreeTks":      764,
+"agreeRate":    31.11,
+"disagreeRate":    68.89,
+"adptVictor": "N",
+"ytpRate":    16.62,
+"ntpRate":     36.8 
 } 
 ] 
 },
@@ -131,19 +136,20 @@
 "town": "150",
 "vill": "006",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    50.22,
+"votePop":     4516,
 "candidates": [
  {
  "candNo": "1",
 "name": "楊瓊瓔",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      717,
+"disagreeTks":     1530,
+"agreeRate":    31.91,
+"disagreeRate":    68.09,
+"adptVictor": "N",
+"ytpRate":    15.88,
+"ntpRate":    33.88 
 } 
 ] 
 },
@@ -155,19 +161,20 @@
 "town": "150",
 "vill": "007",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    47.79,
+"votePop":     1854,
 "candidates": [
  {
  "candNo": "1",
 "name": "楊瓊瓔",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      318,
+"disagreeTks":      557,
+"agreeRate":    36.34,
+"disagreeRate":    63.66,
+"adptVictor": "N",
+"ytpRate":    17.15,
+"ntpRate":    30.04 
 } 
 ] 
 },
@@ -179,19 +186,20 @@
 "town": "150",
 "vill": "008",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    49.66,
+"votePop":     3381,
 "candidates": [
  {
  "candNo": "1",
 "name": "楊瓊瓔",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      566,
+"disagreeTks":     1095,
+"agreeRate":    34.08,
+"disagreeRate":    65.92,
+"adptVictor": "N",
+"ytpRate":    16.74,
+"ntpRate":    32.39 
 } 
 ] 
 },
@@ -203,19 +211,20 @@
 "town": "150",
 "vill": "009",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    50.75,
+"votePop":     3456,
 "candidates": [
  {
  "candNo": "1",
 "name": "楊瓊瓔",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      638,
+"disagreeTks":     1103,
+"agreeRate":    36.65,
+"disagreeRate":    63.35,
+"adptVictor": "N",
+"ytpRate":    18.46,
+"ntpRate":    31.92 
 } 
 ] 
 },
@@ -227,19 +236,20 @@
 "town": "150",
 "vill": "010",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    48.31,
+"votePop":     2391,
 "candidates": [
  {
  "candNo": "1",
 "name": "楊瓊瓔",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      386,
+"disagreeTks":      753,
+"agreeRate":    33.89,
+"disagreeRate":    66.11,
+"adptVictor": "N",
+"ytpRate":    16.14,
+"ntpRate":    31.49 
 } 
 ] 
 },
@@ -251,19 +261,20 @@
 "town": "150",
 "vill": "011",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":     45.6,
+"votePop":     2193,
 "candidates": [
  {
  "candNo": "1",
 "name": "楊瓊瓔",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      303,
+"disagreeTks":      687,
+"agreeRate":    30.61,
+"disagreeRate":    69.39,
+"adptVictor": "N",
+"ytpRate":    13.82,
+"ntpRate":    31.33 
 } 
 ] 
 },
@@ -275,19 +286,20 @@
 "town": "150",
 "vill": "012",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    46.73,
+"votePop":     1513,
 "candidates": [
  {
  "candNo": "1",
 "name": "楊瓊瓔",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      199,
+"disagreeTks":      494,
+"agreeRate":    28.72,
+"disagreeRate":    71.28,
+"adptVictor": "N",
+"ytpRate":    13.15,
+"ntpRate":    32.65 
 } 
 ] 
 },
@@ -299,19 +311,20 @@
 "town": "150",
 "vill": "013",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    46.62,
+"votePop":     1969,
 "candidates": [
  {
  "candNo": "1",
 "name": "楊瓊瓔",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      219,
+"disagreeTks":      691,
+"agreeRate":    24.07,
+"disagreeRate":    75.93,
+"adptVictor": "N",
+"ytpRate":    11.12,
+"ntpRate":    35.09 
 } 
 ] 
 },
@@ -323,19 +336,20 @@
 "town": "150",
 "vill": "014",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    47.05,
+"votePop":     3137,
 "candidates": [
  {
  "candNo": "1",
 "name": "楊瓊瓔",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      382,
+"disagreeTks":     1074,
+"agreeRate":    26.24,
+"disagreeRate":    73.76,
+"adptVictor": "N",
+"ytpRate":    12.18,
+"ntpRate":    34.24 
 } 
 ] 
 },
@@ -347,19 +361,20 @@
 "town": "150",
 "vill": "015",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    47.02,
+"votePop":     1342,
 "candidates": [
  {
  "candNo": "1",
 "name": "楊瓊瓔",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      214,
+"disagreeTks":      408,
+"agreeRate":    34.41,
+"disagreeRate":    65.59,
+"adptVictor": "N",
+"ytpRate":    15.95,
+"ntpRate":     30.4 
 } 
 ] 
 },
@@ -371,19 +386,20 @@
 "town": "150",
 "vill": "016",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    47.06,
+"votePop":     2040,
 "candidates": [
  {
  "candNo": "1",
 "name": "楊瓊瓔",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      274,
+"disagreeTks":      665,
+"agreeRate":    29.18,
+"disagreeRate":    70.82,
+"adptVictor": "N",
+"ytpRate":    13.43,
+"ntpRate":     32.6 
 } 
 ] 
 },
@@ -395,19 +411,20 @@
 "town": "150",
 "vill": "017",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    47.73,
+"votePop":     1892,
 "candidates": [
  {
  "candNo": "1",
 "name": "楊瓊瓔",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      322,
+"disagreeTks":      570,
+"agreeRate":     36.1,
+"disagreeRate":     63.9,
+"adptVictor": "N",
+"ytpRate":    17.02,
+"ntpRate":    30.13 
 } 
 ] 
 },
@@ -419,19 +436,20 @@
 "town": "150",
 "vill": "018",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    47.98,
+"votePop":     2380,
 "candidates": [
  {
  "candNo": "1",
 "name": "楊瓊瓔",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      302,
+"disagreeTks":      826,
+"agreeRate":    26.77,
+"disagreeRate":    73.23,
+"adptVictor": "N",
+"ytpRate":    12.69,
+"ntpRate":    34.71 
 } 
 ] 
 },
@@ -443,19 +461,20 @@
 "town": "160",
 "vill": "001",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    50.18,
+"votePop":     3029,
 "candidates": [
  {
  "candNo": "1",
 "name": "楊瓊瓔",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      497,
+"disagreeTks":     1004,
+"agreeRate":    33.11,
+"disagreeRate":    66.89,
+"adptVictor": "N",
+"ytpRate":    16.41,
+"ntpRate":    33.15 
 } 
 ] 
 },
@@ -467,19 +486,20 @@
 "town": "160",
 "vill": "002",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    55.78,
+"votePop":     2207,
 "candidates": [
  {
  "candNo": "1",
 "name": "楊瓊瓔",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      400,
+"disagreeTks":      820,
+"agreeRate":    32.79,
+"disagreeRate":    67.21,
+"adptVictor": "N",
+"ytpRate":    18.12,
+"ntpRate":    37.15 
 } 
 ] 
 },
@@ -491,19 +511,20 @@
 "town": "160",
 "vill": "003",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    54.72,
+"votePop":     2449,
 "candidates": [
  {
  "candNo": "1",
 "name": "楊瓊瓔",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      507,
+"disagreeTks":      808,
+"agreeRate":    38.56,
+"disagreeRate":    61.44,
+"adptVictor": "N",
+"ytpRate":     20.7,
+"ntpRate":    32.99 
 } 
 ] 
 },
@@ -515,19 +536,20 @@
 "town": "160",
 "vill": "004",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    51.24,
+"votePop":     2141,
 "candidates": [
  {
  "candNo": "1",
 "name": "楊瓊瓔",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      419,
+"disagreeTks":      659,
+"agreeRate":    38.87,
+"disagreeRate":    61.13,
+"adptVictor": "N",
+"ytpRate":    19.57,
+"ntpRate":    30.78 
 } 
 ] 
 },
@@ -539,19 +561,20 @@
 "town": "160",
 "vill": "005",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    48.99,
+"votePop":     7411,
 "candidates": [
  {
  "candNo": "1",
 "name": "楊瓊瓔",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":     1276,
+"disagreeTks":     2311,
+"agreeRate":    35.57,
+"disagreeRate":    64.43,
+"adptVictor": "N",
+"ytpRate":    17.22,
+"ntpRate":    31.18 
 } 
 ] 
 },
@@ -563,19 +586,20 @@
 "town": "160",
 "vill": "006",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    49.22,
+"votePop":     4972,
 "candidates": [
  {
  "candNo": "1",
 "name": "楊瓊瓔",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":     1003,
+"disagreeTks":     1416,
+"agreeRate":    41.46,
+"disagreeRate":    58.54,
+"adptVictor": "N",
+"ytpRate":    20.17,
+"ntpRate":    28.48 
 } 
 ] 
 },
@@ -587,19 +611,20 @@
 "town": "160",
 "vill": "007",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    50.06,
+"votePop":     2593,
 "candidates": [
  {
  "candNo": "1",
 "name": "楊瓊瓔",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      498,
+"disagreeTks":      789,
+"agreeRate":    38.69,
+"disagreeRate":    61.31,
+"adptVictor": "N",
+"ytpRate":    19.21,
+"ntpRate":    30.43 
 } 
 ] 
 },
@@ -611,19 +636,20 @@
 "town": "160",
 "vill": "008",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":     49.7,
+"votePop":     2674,
 "candidates": [
  {
  "candNo": "1",
 "name": "楊瓊瓔",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      559,
+"disagreeTks":      754,
+"agreeRate":    42.57,
+"disagreeRate":    57.43,
+"adptVictor": "N",
+"ytpRate":    20.91,
+"ntpRate":     28.2 
 } 
 ] 
 },
@@ -635,19 +661,20 @@
 "town": "160",
 "vill": "009",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    48.12,
+"votePop":     4393,
 "candidates": [
  {
  "candNo": "1",
 "name": "楊瓊瓔",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      758,
+"disagreeTks":     1343,
+"agreeRate":    36.08,
+"disagreeRate":    63.92,
+"adptVictor": "N",
+"ytpRate":    17.25,
+"ntpRate":    30.57 
 } 
 ] 
 },
@@ -659,19 +686,20 @@
 "town": "160",
 "vill": "010",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    49.96,
+"votePop":     6690,
 "candidates": [
  {
  "candNo": "1",
 "name": "楊瓊瓔",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":     1320,
+"disagreeTks":     1971,
+"agreeRate":    40.11,
+"disagreeRate":    59.89,
+"adptVictor": "N",
+"ytpRate":    19.73,
+"ntpRate":    29.46 
 } 
 ] 
 },
@@ -683,19 +711,20 @@
 "town": "160",
 "vill": "011",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    50.35,
+"votePop":     2397,
 "candidates": [
  {
  "candNo": "1",
 "name": "楊瓊瓔",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      495,
+"disagreeTks":      698,
+"agreeRate":    41.49,
+"disagreeRate":    58.51,
+"adptVictor": "N",
+"ytpRate":    20.65,
+"ntpRate":    29.12 
 } 
 ] 
 },
@@ -707,19 +736,20 @@
 "town": "160",
 "vill": "012",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    51.51,
+"votePop":     2613,
 "candidates": [
  {
  "candNo": "1",
 "name": "楊瓊瓔",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      486,
+"disagreeTks":      838,
+"agreeRate":    36.71,
+"disagreeRate":    63.29,
+"adptVictor": "N",
+"ytpRate":     18.6,
+"ntpRate":    32.07 
 } 
 ] 
 },
@@ -731,19 +761,20 @@
 "town": "160",
 "vill": "013",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    51.34,
+"votePop":     2059,
 "candidates": [
  {
  "candNo": "1",
 "name": "楊瓊瓔",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      347,
+"disagreeTks":      699,
+"agreeRate":    33.17,
+"disagreeRate":    66.83,
+"adptVictor": "N",
+"ytpRate":    16.85,
+"ntpRate":    33.95 
 } 
 ] 
 },
@@ -755,19 +786,20 @@
 "town": "160",
 "vill": "014",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    46.15,
+"votePop":     3831,
 "candidates": [
  {
  "candNo": "1",
 "name": "楊瓊瓔",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      605,
+"disagreeTks":     1141,
+"agreeRate":    34.65,
+"disagreeRate":    65.35,
+"adptVictor": "N",
+"ytpRate":    15.79,
+"ntpRate":    29.78 
 } 
 ] 
 },
@@ -779,19 +811,20 @@
 "town": "160",
 "vill": "015",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    51.72,
+"votePop":     2009,
 "candidates": [
  {
  "candNo": "1",
 "name": "楊瓊瓔",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      348,
+"disagreeTks":      684,
+"agreeRate":    33.72,
+"disagreeRate":    66.28,
+"adptVictor": "N",
+"ytpRate":    17.32,
+"ntpRate":    34.05 
 } 
 ] 
 },
@@ -803,19 +836,20 @@
 "town": "160",
 "vill": "016",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    51.66,
+"votePop":     1022,
 "candidates": [
  {
  "candNo": "1",
 "name": "楊瓊瓔",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      204,
+"disagreeTks":      311,
+"agreeRate":    39.61,
+"disagreeRate":    60.39,
+"adptVictor": "N",
+"ytpRate":    19.96,
+"ntpRate":    30.43 
 } 
 ] 
 },
@@ -827,19 +861,20 @@
 "town": "170",
 "vill": "001",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    48.44,
+"votePop":    10241,
 "candidates": [
  {
  "candNo": "1",
 "name": "楊瓊瓔",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":     1772,
+"disagreeTks":     3151,
+"agreeRate":    35.99,
+"disagreeRate":    64.01,
+"adptVictor": "N",
+"ytpRate":     17.3,
+"ntpRate":    30.77 
 } 
 ] 
 },
@@ -851,19 +886,20 @@
 "town": "170",
 "vill": "002",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    52.61,
+"votePop":     1148,
 "candidates": [
  {
  "candNo": "1",
 "name": "楊瓊瓔",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      261,
+"disagreeTks":      331,
+"agreeRate":    44.09,
+"disagreeRate":    55.91,
+"adptVictor": "N",
+"ytpRate":    22.74,
+"ntpRate":    28.83 
 } 
 ] 
 },
@@ -875,19 +911,20 @@
 "town": "170",
 "vill": "003",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    51.85,
+"votePop":     2399,
 "candidates": [
  {
  "candNo": "1",
 "name": "楊瓊瓔",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      389,
+"disagreeTks":      836,
+"agreeRate":    31.76,
+"disagreeRate":    68.24,
+"adptVictor": "N",
+"ytpRate":    16.22,
+"ntpRate":    34.85 
 } 
 ] 
 },
@@ -899,19 +936,20 @@
 "town": "170",
 "vill": "004",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":     49.2,
+"votePop":    10832,
 "candidates": [
  {
  "candNo": "1",
 "name": "楊瓊瓔",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":     1783,
+"disagreeTks":     3497,
+"agreeRate":    33.77,
+"disagreeRate":    66.23,
+"adptVictor": "N",
+"ytpRate":    16.46,
+"ntpRate":    32.28 
 } 
 ] 
 },
@@ -923,19 +961,20 @@
 "town": "170",
 "vill": "005",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    48.58,
+"votePop":     5159,
 "candidates": [
  {
  "candNo": "1",
 "name": "楊瓊瓔",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      807,
+"disagreeTks":     1690,
+"agreeRate":    32.32,
+"disagreeRate":    67.68,
+"adptVictor": "N",
+"ytpRate":    15.64,
+"ntpRate":    32.76 
 } 
 ] 
 },
@@ -947,19 +986,20 @@
 "town": "170",
 "vill": "006",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    48.21,
+"votePop":     9236,
 "candidates": [
  {
  "candNo": "1",
 "name": "楊瓊瓔",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":     1527,
+"disagreeTks":     2895,
+"agreeRate":    34.53,
+"disagreeRate":    65.47,
+"adptVictor": "N",
+"ytpRate":    16.53,
+"ntpRate":    31.34 
 } 
 ] 
 },
@@ -971,19 +1011,20 @@
 "town": "170",
 "vill": "007",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    49.07,
+"votePop":    11512,
 "candidates": [
  {
  "candNo": "1",
 "name": "楊瓊瓔",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":     2077,
+"disagreeTks":     3523,
+"agreeRate":    37.09,
+"disagreeRate":    62.91,
+"adptVictor": "N",
+"ytpRate":    18.04,
+"ntpRate":     30.6 
 } 
 ] 
 },
@@ -995,19 +1036,20 @@
 "town": "170",
 "vill": "008",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    52.82,
+"votePop":     2908,
 "candidates": [
  {
  "candNo": "1",
 "name": "楊瓊瓔",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      566,
+"disagreeTks":      950,
+"agreeRate":    37.34,
+"disagreeRate":    62.66,
+"adptVictor": "N",
+"ytpRate":    19.46,
+"ntpRate":    32.67 
 } 
 ] 
 },
@@ -1019,19 +1061,20 @@
 "town": "170",
 "vill": "009",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    49.56,
+"votePop":     6166,
 "candidates": [
  {
  "candNo": "1",
 "name": "楊瓊瓔",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":     1131,
+"disagreeTks":     1899,
+"agreeRate":    37.33,
+"disagreeRate":    62.67,
+"adptVictor": "N",
+"ytpRate":    18.34,
+"ntpRate":     30.8 
 } 
 ] 
 },
@@ -1043,19 +1086,20 @@
 "town": "170",
 "vill": "010",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    50.23,
+"votePop":     5001,
 "candidates": [
  {
  "candNo": "1",
 "name": "楊瓊瓔",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      939,
+"disagreeTks":     1546,
+"agreeRate":    37.79,
+"disagreeRate":    62.21,
+"adptVictor": "N",
+"ytpRate":    18.78,
+"ntpRate":    30.91 
 } 
 ] 
 },
@@ -1067,19 +1111,20 @@
 "town": "170",
 "vill": "011",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    50.07,
+"votePop":     3777,
 "candidates": [
  {
  "candNo": "1",
 "name": "楊瓊瓔",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      691,
+"disagreeTks":     1183,
+"agreeRate":    36.87,
+"disagreeRate":    63.13,
+"adptVictor": "N",
+"ytpRate":    18.29,
+"ntpRate":    31.32 
 } 
 ] 
 },
@@ -1091,19 +1136,20 @@
 "town": "170",
 "vill": "012",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    47.03,
+"votePop":     1395,
 "candidates": [
  {
  "candNo": "1",
 "name": "楊瓊瓔",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      270,
+"disagreeTks":      378,
+"agreeRate":    41.67,
+"disagreeRate":    58.33,
+"adptVictor": "N",
+"ytpRate":    19.35,
+"ntpRate":     27.1 
 } 
 ] 
 },
@@ -1115,19 +1161,20 @@
 "town": "170",
 "vill": "013",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    43.54,
+"votePop":     4258,
 "candidates": [
  {
  "candNo": "1",
 "name": "楊瓊瓔",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      612,
+"disagreeTks":     1214,
+"agreeRate":    33.52,
+"disagreeRate":    66.48,
+"adptVictor": "N",
+"ytpRate":    14.37,
+"ntpRate":    28.51 
 } 
 ] 
 },
@@ -1139,19 +1186,20 @@
 "town": "170",
 "vill": "014",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    47.56,
+"votePop":     4138,
 "candidates": [
  {
  "candNo": "1",
 "name": "楊瓊瓔",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      664,
+"disagreeTks":     1290,
+"agreeRate":    33.98,
+"disagreeRate":    66.02,
+"adptVictor": "N",
+"ytpRate":    16.05,
+"ntpRate":    31.17 
 } 
 ] 
 },
@@ -1163,19 +1211,20 @@
 "town": "170",
 "vill": "015",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    50.93,
+"votePop":     6742,
 "candidates": [
  {
  "candNo": "1",
 "name": "楊瓊瓔",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":     1182,
+"disagreeTks":     2213,
+"agreeRate":    34.82,
+"disagreeRate":    65.18,
+"adptVictor": "N",
+"ytpRate":    17.53,
+"ntpRate":    32.82 
 } 
 ] 
 },
@@ -1187,19 +1236,20 @@
 "town": "170",
 "vill": "016",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    50.58,
+"votePop":     4537,
 "candidates": [
  {
  "candNo": "1",
 "name": "楊瓊瓔",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      802,
+"disagreeTks":     1468,
+"agreeRate":    35.33,
+"disagreeRate":    64.67,
+"adptVictor": "N",
+"ytpRate":    17.68,
+"ntpRate":    32.36 
 } 
 ] 
 },
@@ -1211,19 +1261,20 @@
 "town": "180",
 "vill": "001",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    51.73,
+"votePop":     4168,
 "candidates": [
  {
  "candNo": "1",
 "name": "楊瓊瓔",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      680,
+"disagreeTks":     1455,
+"agreeRate":    31.85,
+"disagreeRate":    68.15,
+"adptVictor": "N",
+"ytpRate":    16.31,
+"ntpRate":    34.91 
 } 
 ] 
 },
@@ -1235,19 +1286,20 @@
 "town": "180",
 "vill": "002",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    50.39,
+"votePop":     9109,
 "candidates": [
  {
  "candNo": "1",
 "name": "楊瓊瓔",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":     1565,
+"disagreeTks":     2980,
+"agreeRate":    34.43,
+"disagreeRate":    65.57,
+"adptVictor": "N",
+"ytpRate":    17.18,
+"ntpRate":    32.71 
 } 
 ] 
 },
@@ -1259,19 +1311,20 @@
 "town": "180",
 "vill": "003",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":     49.4,
+"votePop":     5668,
 "candidates": [
  {
  "candNo": "1",
 "name": "楊瓊瓔",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      833,
+"disagreeTks":     1937,
+"agreeRate":    30.07,
+"disagreeRate":    69.93,
+"adptVictor": "N",
+"ytpRate":     14.7,
+"ntpRate":    34.17 
 } 
 ] 
 },
@@ -1283,19 +1336,20 @@
 "town": "180",
 "vill": "004",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    51.79,
+"votePop":     3192,
 "candidates": [
  {
  "candNo": "1",
 "name": "楊瓊瓔",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      534,
+"disagreeTks":     1099,
+"agreeRate":     32.7,
+"disagreeRate":     67.3,
+"adptVictor": "N",
+"ytpRate":    16.73,
+"ntpRate":    34.43 
 } 
 ] 
 },
@@ -1307,19 +1361,20 @@
 "town": "180",
 "vill": "005",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    50.07,
+"votePop":     3355,
 "candidates": [
  {
  "candNo": "1",
 "name": "楊瓊瓔",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      285,
+"disagreeTks":     1368,
+"agreeRate":    17.24,
+"disagreeRate":    82.76,
+"adptVictor": "N",
+"ytpRate":     8.49,
+"ntpRate":    40.77 
 } 
 ] 
 },
@@ -1331,19 +1386,20 @@
 "town": "180",
 "vill": "006",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    50.31,
+"votePop":     4045,
 "candidates": [
  {
  "candNo": "1",
 "name": "楊瓊瓔",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      708,
+"disagreeTks":     1309,
+"agreeRate":     35.1,
+"disagreeRate":     64.9,
+"adptVictor": "N",
+"ytpRate":     17.5,
+"ntpRate":    32.36 
 } 
 ] 
 },
@@ -1355,19 +1411,20 @@
 "town": "180",
 "vill": "007",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":       50,
+"votePop":     5042,
 "candidates": [
  {
  "candNo": "1",
 "name": "楊瓊瓔",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      857,
+"disagreeTks":     1631,
+"agreeRate":    34.45,
+"disagreeRate":    65.55,
+"adptVictor": "N",
+"ytpRate":       17,
+"ntpRate":    32.35 
 } 
 ] 
 },
@@ -1379,19 +1436,20 @@
 "town": "180",
 "vill": "008",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    47.48,
+"votePop":     4587,
 "candidates": [
  {
  "candNo": "1",
 "name": "楊瓊瓔",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      772,
+"disagreeTks":     1378,
+"agreeRate":    35.91,
+"disagreeRate":    64.09,
+"adptVictor": "N",
+"ytpRate":    16.83,
+"ntpRate":    30.04 
 } 
 ] 
 },
@@ -1403,19 +1461,20 @@
 "town": "180",
 "vill": "009",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    47.63,
+"votePop":     6246,
 "candidates": [
  {
  "candNo": "1",
 "name": "楊瓊瓔",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      995,
+"disagreeTks":     1957,
+"agreeRate":    33.71,
+"disagreeRate":    66.29,
+"adptVictor": "N",
+"ytpRate":    15.93,
+"ntpRate":    31.33 
 } 
 ] 
 },
@@ -1427,19 +1486,20 @@
 "town": "180",
 "vill": "010",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    48.88,
+"votePop":     6004,
 "candidates": [
  {
  "candNo": "1",
 "name": "楊瓊瓔",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      946,
+"disagreeTks":     1965,
+"agreeRate":     32.5,
+"disagreeRate":     67.5,
+"adptVictor": "N",
+"ytpRate":    15.76,
+"ntpRate":    32.73 
 } 
 ] 
 },
@@ -1451,19 +1511,20 @@
 "town": "180",
 "vill": "011",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    51.79,
+"votePop":     4296,
 "candidates": [
  {
  "candNo": "1",
 "name": "楊瓊瓔",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      763,
+"disagreeTks":     1439,
+"agreeRate":    34.65,
+"disagreeRate":    65.35,
+"adptVictor": "N",
+"ytpRate":    17.76,
+"ntpRate":     33.5 
 } 
 ] 
 },
@@ -1475,19 +1536,20 @@
 "town": "180",
 "vill": "012",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    46.82,
+"votePop":     5920,
 "candidates": [
  {
  "candNo": "1",
 "name": "楊瓊瓔",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      988,
+"disagreeTks":     1756,
+"agreeRate":    36.01,
+"disagreeRate":    63.99,
+"adptVictor": "N",
+"ytpRate":    16.69,
+"ntpRate":    29.66 
 } 
 ] 
 },
@@ -1499,19 +1561,20 @@
 "town": "180",
 "vill": "013",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":     48.3,
+"votePop":     5675,
 "candidates": [
  {
  "candNo": "1",
 "name": "楊瓊瓔",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      902,
+"disagreeTks":     1812,
+"agreeRate":    33.24,
+"disagreeRate":    66.76,
+"adptVictor": "N",
+"ytpRate":    15.89,
+"ntpRate":    31.93 
 } 
 ] 
 },
@@ -1523,19 +1586,20 @@
 "town": "180",
 "vill": "014",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    47.37,
+"votePop":     4796,
 "candidates": [
  {
  "candNo": "1",
 "name": "楊瓊瓔",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      793,
+"disagreeTks":     1452,
+"agreeRate":    35.32,
+"disagreeRate":    64.68,
+"adptVictor": "N",
+"ytpRate":    16.53,
+"ntpRate":    30.28 
 } 
 ] 
 },
@@ -1547,19 +1611,20 @@
 "town": "180",
 "vill": "015",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    49.37,
+"votePop":     3261,
 "candidates": [
  {
  "candNo": "1",
 "name": "楊瓊瓔",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      493,
+"disagreeTks":     1103,
+"agreeRate":    30.89,
+"disagreeRate":    69.11,
+"adptVictor": "N",
+"ytpRate":    15.12,
+"ntpRate":    33.82 
 } 
 ] 
 } 

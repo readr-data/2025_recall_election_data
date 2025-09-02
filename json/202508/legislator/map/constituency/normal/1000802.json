@@ -1,5 +1,5 @@
 {
- "updatedAt": "2025-07-10 10:33:00",
+ "updatedAt": "2025-08-23 20:10:28",
 "is_running": false,
 "is_started": true,
 "districts": [
@@ -11,19 +11,20 @@
 "town": "010",
 "vill": "001",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    52.08,
+"votePop":      841,
 "candidates": [
  {
  "candNo": "1",
 "name": "游顥",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      180,
+"disagreeTks":      252,
+"agreeRate":    41.67,
+"disagreeRate":    58.33,
+"adptVictor": "N",
+"ytpRate":     21.4,
+"ntpRate":    29.96 
 } 
 ] 
 },
@@ -35,19 +36,20 @@
 "town": "010",
 "vill": "002",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    57.74,
+"votePop":     1266,
 "candidates": [
  {
  "candNo": "1",
 "name": "游顥",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      295,
+"disagreeTks":      430,
+"agreeRate":    40.69,
+"disagreeRate":    59.31,
+"adptVictor": "N",
+"ytpRate":     23.3,
+"ntpRate":    33.97 
 } 
 ] 
 },
@@ -59,19 +61,20 @@
 "town": "010",
 "vill": "003",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    55.32,
+"votePop":      799,
 "candidates": [
  {
  "candNo": "1",
 "name": "游顥",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      165,
+"disagreeTks":      276,
+"agreeRate":    37.41,
+"disagreeRate":    62.59,
+"adptVictor": "N",
+"ytpRate":    20.65,
+"ntpRate":    34.54 
 } 
 ] 
 },
@@ -83,19 +86,20 @@
 "town": "010",
 "vill": "004",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    61.28,
+"votePop":      452,
 "candidates": [
  {
  "candNo": "1",
 "name": "游顥",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      125,
+"disagreeTks":      151,
+"agreeRate":    45.29,
+"disagreeRate":    54.71,
+"adptVictor": "N",
+"ytpRate":    27.65,
+"ntpRate":    33.41 
 } 
 ] 
 },
@@ -107,19 +111,20 @@
 "town": "010",
 "vill": "005",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    52.61,
+"votePop":      479,
 "candidates": [
  {
  "candNo": "1",
 "name": "游顥",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      111,
+"disagreeTks":      134,
+"agreeRate":    45.31,
+"disagreeRate":    54.69,
+"adptVictor": "N",
+"ytpRate":    23.17,
+"ntpRate":    27.97 
 } 
 ] 
 },
@@ -131,19 +136,20 @@
 "town": "010",
 "vill": "006",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    60.49,
+"votePop":      329,
 "candidates": [
  {
  "candNo": "1",
 "name": "游顥",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":       97,
+"disagreeTks":      101,
+"agreeRate":    48.99,
+"disagreeRate":    51.01,
+"adptVictor": "N",
+"ytpRate":    29.48,
+"ntpRate":     30.7 
 } 
 ] 
 },
@@ -155,19 +161,20 @@
 "town": "010",
 "vill": "007",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    51.29,
+"votePop":      856,
 "candidates": [
  {
  "candNo": "1",
 "name": "游顥",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      173,
+"disagreeTks":      262,
+"agreeRate":    39.77,
+"disagreeRate":    60.23,
+"adptVictor": "N",
+"ytpRate":    20.21,
+"ntpRate":    30.61 
 } 
 ] 
 },
@@ -179,19 +186,20 @@
 "town": "010",
 "vill": "008",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    53.42,
+"votePop":     2499,
 "candidates": [
  {
  "candNo": "1",
 "name": "游顥",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      538,
+"disagreeTks":      790,
+"agreeRate":    40.51,
+"disagreeRate":    59.49,
+"adptVictor": "N",
+"ytpRate":    21.53,
+"ntpRate":    31.61 
 } 
 ] 
 },
@@ -203,19 +211,20 @@
 "town": "010",
 "vill": "009",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    53.38,
+"votePop":     6802,
 "candidates": [
  {
  "candNo": "1",
 "name": "游顥",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":     1290,
+"disagreeTks":     2318,
+"agreeRate":    35.75,
+"disagreeRate":    64.25,
+"adptVictor": "N",
+"ytpRate":    18.97,
+"ntpRate":    34.08 
 } 
 ] 
 },
@@ -227,19 +236,20 @@
 "town": "010",
 "vill": "010",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    49.45,
+"votePop":     4087,
 "candidates": [
  {
  "candNo": "1",
 "name": "游顥",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      684,
+"disagreeTks":     1312,
+"agreeRate":    34.27,
+"disagreeRate":    65.73,
+"adptVictor": "N",
+"ytpRate":    16.74,
+"ntpRate":     32.1 
 } 
 ] 
 },
@@ -251,19 +261,20 @@
 "town": "010",
 "vill": "011",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    46.55,
+"votePop":      348,
 "candidates": [
  {
  "candNo": "1",
 "name": "游顥",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":       58,
+"disagreeTks":      101,
+"agreeRate":    36.48,
+"disagreeRate":    63.52,
+"adptVictor": "N",
+"ytpRate":    16.67,
+"ntpRate":    29.02 
 } 
 ] 
 },
@@ -275,19 +286,20 @@
 "town": "010",
 "vill": "012",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    50.36,
+"votePop":     5900,
 "candidates": [
  {
  "candNo": "1",
 "name": "游顥",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":     1084,
+"disagreeTks":     1864,
+"agreeRate":    36.77,
+"disagreeRate":    63.23,
+"adptVictor": "N",
+"ytpRate":    18.37,
+"ntpRate":    31.59 
 } 
 ] 
 },
@@ -299,19 +311,20 @@
 "town": "010",
 "vill": "013",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    50.73,
+"votePop":     1975,
 "candidates": [
  {
  "candNo": "1",
 "name": "游顥",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      391,
+"disagreeTks":      604,
+"agreeRate":     39.3,
+"disagreeRate":     60.7,
+"adptVictor": "N",
+"ytpRate":     19.8,
+"ntpRate":    30.58 
 } 
 ] 
 },
@@ -323,19 +336,20 @@
 "town": "010",
 "vill": "014",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    48.16,
+"votePop":      949,
 "candidates": [
  {
  "candNo": "1",
 "name": "游顥",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      161,
+"disagreeTks":      288,
+"agreeRate":    35.86,
+"disagreeRate":    64.14,
+"adptVictor": "N",
+"ytpRate":    16.97,
+"ntpRate":    30.35 
 } 
 ] 
 },
@@ -347,19 +361,20 @@
 "town": "010",
 "vill": "015",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    52.43,
+"votePop":     5102,
 "candidates": [
  {
  "candNo": "1",
 "name": "游顥",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      914,
+"disagreeTks":     1719,
+"agreeRate":    34.71,
+"disagreeRate":    65.29,
+"adptVictor": "N",
+"ytpRate":    17.91,
+"ntpRate":    33.69 
 } 
 ] 
 },
@@ -371,19 +386,20 @@
 "town": "010",
 "vill": "016",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    56.19,
+"votePop":     2527,
 "candidates": [
  {
  "candNo": "1",
 "name": "游顥",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      521,
+"disagreeTks":      888,
+"agreeRate":    36.98,
+"disagreeRate":    63.02,
+"adptVictor": "N",
+"ytpRate":    20.62,
+"ntpRate":    35.14 
 } 
 ] 
 },
@@ -395,19 +411,20 @@
 "town": "010",
 "vill": "017",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    50.02,
+"votePop":     2077,
 "candidates": [
  {
  "candNo": "1",
 "name": "游顥",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      447,
+"disagreeTks":      577,
+"agreeRate":    43.65,
+"disagreeRate":    56.35,
+"adptVictor": "N",
+"ytpRate":    21.52,
+"ntpRate":    27.78 
 } 
 ] 
 },
@@ -419,19 +436,20 @@
 "town": "010",
 "vill": "018",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    48.43,
+"votePop":     4363,
 "candidates": [
  {
  "candNo": "1",
 "name": "游顥",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      772,
+"disagreeTks":     1324,
+"agreeRate":    36.83,
+"disagreeRate":    63.17,
+"adptVictor": "N",
+"ytpRate":    17.69,
+"ntpRate":    30.35 
 } 
 ] 
 },
@@ -443,19 +461,20 @@
 "town": "010",
 "vill": "019",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":     44.4,
+"votePop":     1795,
 "candidates": [
  {
  "candNo": "1",
 "name": "游顥",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      268,
+"disagreeTks":      518,
+"agreeRate":     34.1,
+"disagreeRate":     65.9,
+"adptVictor": "N",
+"ytpRate":    14.93,
+"ntpRate":    28.86 
 } 
 ] 
 },
@@ -467,19 +486,20 @@
 "town": "010",
 "vill": "020",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    53.07,
+"votePop":      733,
 "candidates": [
  {
  "candNo": "1",
 "name": "游顥",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      137,
+"disagreeTks":      244,
+"agreeRate":    35.96,
+"disagreeRate":    64.04,
+"adptVictor": "N",
+"ytpRate":    18.69,
+"ntpRate":    33.29 
 } 
 ] 
 },
@@ -491,19 +511,20 @@
 "town": "010",
 "vill": "021",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    37.24,
+"votePop":      537,
 "candidates": [
  {
  "candNo": "1",
 "name": "游顥",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      102,
+"disagreeTks":       96,
+"agreeRate":    51.52,
+"disagreeRate":    48.48,
+"adptVictor": "N",
+"ytpRate":    18.99,
+"ntpRate":    17.88 
 } 
 ] 
 },
@@ -515,19 +536,20 @@
 "town": "010",
 "vill": "022",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    38.96,
+"votePop":      942,
 "candidates": [
  {
  "candNo": "1",
 "name": "游顥",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      162,
+"disagreeTks":      201,
+"agreeRate":    44.63,
+"disagreeRate":    55.37,
+"adptVictor": "N",
+"ytpRate":     17.2,
+"ntpRate":    21.34 
 } 
 ] 
 },
@@ -539,19 +561,20 @@
 "town": "010",
 "vill": "023",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    51.21,
+"votePop":     5280,
 "candidates": [
  {
  "candNo": "1",
 "name": "游顥",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      998,
+"disagreeTks":     1684,
+"agreeRate":    37.21,
+"disagreeRate":    62.79,
+"adptVictor": "N",
+"ytpRate":     18.9,
+"ntpRate":    31.89 
 } 
 ] 
 },
@@ -563,19 +586,20 @@
 "town": "010",
 "vill": "024",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    47.27,
+"votePop":     4957,
 "candidates": [
  {
  "candNo": "1",
 "name": "游顥",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      829,
+"disagreeTks":     1494,
+"agreeRate":    35.69,
+"disagreeRate":    64.31,
+"adptVictor": "N",
+"ytpRate":    16.72,
+"ntpRate":    30.14 
 } 
 ] 
 },
@@ -587,19 +611,20 @@
 "town": "010",
 "vill": "025",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    50.26,
+"votePop":     2702,
 "candidates": [
  {
  "candNo": "1",
 "name": "游顥",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      498,
+"disagreeTks":      846,
+"agreeRate":    37.05,
+"disagreeRate":    62.95,
+"adptVictor": "N",
+"ytpRate":    18.43,
+"ntpRate":    31.31 
 } 
 ] 
 },
@@ -611,19 +636,20 @@
 "town": "010",
 "vill": "026",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    50.24,
+"votePop":     2896,
 "candidates": [
  {
  "candNo": "1",
 "name": "游顥",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      499,
+"disagreeTks":      944,
+"agreeRate":    34.58,
+"disagreeRate":    65.42,
+"adptVictor": "N",
+"ytpRate":    17.23,
+"ntpRate":     32.6 
 } 
 ] 
 },
@@ -635,19 +661,20 @@
 "town": "010",
 "vill": "027",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    60.84,
+"votePop":     5636,
 "candidates": [
  {
  "candNo": "1",
 "name": "游顥",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      885,
+"disagreeTks":     2521,
+"agreeRate":    25.98,
+"disagreeRate":    74.02,
+"adptVictor": "N",
+"ytpRate":     15.7,
+"ntpRate":    44.73 
 } 
 ] 
 },
@@ -659,19 +686,20 @@
 "town": "010",
 "vill": "028",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":     54.7,
+"votePop":     2384,
 "candidates": [
  {
  "candNo": "1",
 "name": "游顥",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      394,
+"disagreeTks":      894,
+"agreeRate":    30.59,
+"disagreeRate":    69.41,
+"adptVictor": "N",
+"ytpRate":    16.53,
+"ntpRate":     37.5 
 } 
 ] 
 },
@@ -683,19 +711,20 @@
 "town": "010",
 "vill": "029",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    54.44,
+"votePop":     5055,
 "candidates": [
  {
  "candNo": "1",
 "name": "游顥",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      767,
+"disagreeTks":     1954,
+"agreeRate":    28.19,
+"disagreeRate":    71.81,
+"adptVictor": "N",
+"ytpRate":    15.17,
+"ntpRate":    38.65 
 } 
 ] 
 },
@@ -707,19 +736,20 @@
 "town": "010",
 "vill": "030",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":     54.3,
+"votePop":     3131,
 "candidates": [
  {
  "candNo": "1",
 "name": "游顥",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      569,
+"disagreeTks":     1098,
+"agreeRate":    34.13,
+"disagreeRate":    65.87,
+"adptVictor": "N",
+"ytpRate":    18.17,
+"ntpRate":    35.07 
 } 
 ] 
 },
@@ -731,19 +761,20 @@
 "town": "010",
 "vill": "031",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":       60,
+"votePop":      505,
 "candidates": [
  {
  "candNo": "1",
 "name": "游顥",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":       45,
+"disagreeTks":      255,
+"agreeRate":       15,
+"disagreeRate":       85,
+"adptVictor": "N",
+"ytpRate":     8.91,
+"ntpRate":     50.5 
 } 
 ] 
 },
@@ -755,19 +786,20 @@
 "town": "010",
 "vill": "032",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    57.16,
+"votePop":      782,
 "candidates": [
  {
  "candNo": "1",
 "name": "游顥",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":       64,
+"disagreeTks":      380,
+"agreeRate":    14.41,
+"disagreeRate":    85.59,
+"adptVictor": "N",
+"ytpRate":     8.18,
+"ntpRate":    48.59 
 } 
 ] 
 },
@@ -779,19 +811,20 @@
 "town": "010",
 "vill": "033",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    61.51,
+"votePop":      608,
 "candidates": [
  {
  "candNo": "1",
 "name": "游顥",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":       55,
+"disagreeTks":      312,
+"agreeRate":    14.99,
+"disagreeRate":    85.01,
+"adptVictor": "N",
+"ytpRate":     9.05,
+"ntpRate":    51.32 
 } 
 ] 
 },
@@ -803,19 +836,20 @@
 "town": "010",
 "vill": "034",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    55.92,
+"votePop":      456,
 "candidates": [
  {
  "candNo": "1",
 "name": "游顥",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":       69,
+"disagreeTks":      186,
+"agreeRate":    27.06,
+"disagreeRate":    72.94,
+"adptVictor": "N",
+"ytpRate":    15.13,
+"ntpRate":    40.79 
 } 
 ] 
 },
@@ -827,19 +861,20 @@
 "town": "040",
 "vill": "001",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    50.08,
+"votePop":     1791,
 "candidates": [
  {
  "candNo": "1",
 "name": "游顥",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      327,
+"disagreeTks":      562,
+"agreeRate":    36.78,
+"disagreeRate":    63.22,
+"adptVictor": "N",
+"ytpRate":    18.26,
+"ntpRate":    31.38 
 } 
 ] 
 },
@@ -851,19 +886,20 @@
 "town": "040",
 "vill": "002",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    52.66,
+"votePop":      545,
 "candidates": [
  {
  "candNo": "1",
 "name": "游顥",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      106,
+"disagreeTks":      179,
+"agreeRate":    37.19,
+"disagreeRate":    62.81,
+"adptVictor": "N",
+"ytpRate":    19.45,
+"ntpRate":    32.84 
 } 
 ] 
 },
@@ -875,19 +911,20 @@
 "town": "040",
 "vill": "003",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    46.85,
+"votePop":     4435,
 "candidates": [
  {
  "candNo": "1",
 "name": "游顥",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      780,
+"disagreeTks":     1272,
+"agreeRate":    38.01,
+"disagreeRate":    61.99,
+"adptVictor": "N",
+"ytpRate":    17.59,
+"ntpRate":    28.68 
 } 
 ] 
 },
@@ -899,19 +936,20 @@
 "town": "040",
 "vill": "004",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    48.79,
+"votePop":     3214,
 "candidates": [
  {
  "candNo": "1",
 "name": "游顥",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      545,
+"disagreeTks":     1007,
+"agreeRate":    35.12,
+"disagreeRate":    64.88,
+"adptVictor": "N",
+"ytpRate":    16.96,
+"ntpRate":    31.33 
 } 
 ] 
 },
@@ -923,19 +961,20 @@
 "town": "040",
 "vill": "005",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    45.18,
+"votePop":     1711,
 "candidates": [
  {
  "candNo": "1",
 "name": "游顥",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      295,
+"disagreeTks":      471,
+"agreeRate":    38.51,
+"disagreeRate":    61.49,
+"adptVictor": "N",
+"ytpRate":    17.24,
+"ntpRate":    27.53 
 } 
 ] 
 },
@@ -947,19 +986,20 @@
 "town": "040",
 "vill": "006",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    44.86,
+"votePop":     1148,
 "candidates": [
  {
  "candNo": "1",
 "name": "游顥",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      182,
+"disagreeTks":      329,
+"agreeRate":    35.62,
+"disagreeRate":    64.38,
+"adptVictor": "N",
+"ytpRate":    15.85,
+"ntpRate":    28.66 
 } 
 ] 
 },
@@ -971,19 +1011,20 @@
 "town": "040",
 "vill": "007",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    46.72,
+"votePop":     3431,
 "candidates": [
  {
  "candNo": "1",
 "name": "游顥",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      616,
+"disagreeTks":      971,
+"agreeRate":    38.82,
+"disagreeRate":    61.18,
+"adptVictor": "N",
+"ytpRate":    17.95,
+"ntpRate":     28.3 
 } 
 ] 
 },
@@ -995,19 +1036,20 @@
 "town": "040",
 "vill": "008",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    44.99,
+"votePop":      778,
 "candidates": [
  {
  "candNo": "1",
 "name": "游顥",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      184,
+"disagreeTks":      162,
+"agreeRate":    53.18,
+"disagreeRate":    46.82,
+"adptVictor": "N",
+"ytpRate":    23.65,
+"ntpRate":    20.82 
 } 
 ] 
 },
@@ -1019,19 +1061,20 @@
 "town": "040",
 "vill": "009",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    46.27,
+"votePop":     1368,
 "candidates": [
  {
  "candNo": "1",
 "name": "游顥",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      210,
+"disagreeTks":      416,
+"agreeRate":    33.55,
+"disagreeRate":    66.45,
+"adptVictor": "N",
+"ytpRate":    15.35,
+"ntpRate":    30.41 
 } 
 ] 
 },
@@ -1043,19 +1086,20 @@
 "town": "040",
 "vill": "010",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":     48.4,
+"votePop":      814,
 "candidates": [
  {
  "candNo": "1",
 "name": "游顥",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      109,
+"disagreeTks":      277,
+"agreeRate":    28.24,
+"disagreeRate":    71.76,
+"adptVictor": "N",
+"ytpRate":    13.39,
+"ntpRate":    34.03 
 } 
 ] 
 },
@@ -1067,19 +1111,20 @@
 "town": "040",
 "vill": "011",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    44.38,
+"votePop":     2596,
 "candidates": [
  {
  "candNo": "1",
 "name": "游顥",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      423,
+"disagreeTks":      714,
+"agreeRate":     37.2,
+"disagreeRate":     62.8,
+"adptVictor": "N",
+"ytpRate":    16.29,
+"ntpRate":     27.5 
 } 
 ] 
 },
@@ -1091,19 +1136,20 @@
 "town": "040",
 "vill": "012",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    41.92,
+"votePop":     1591,
 "candidates": [
  {
  "candNo": "1",
 "name": "游顥",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      233,
+"disagreeTks":      421,
+"agreeRate":    35.63,
+"disagreeRate":    64.37,
+"adptVictor": "N",
+"ytpRate":    14.64,
+"ntpRate":    26.46 
 } 
 ] 
 },
@@ -1115,19 +1161,20 @@
 "town": "040",
 "vill": "013",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    45.48,
+"votePop":      763,
 "candidates": [
  {
  "candNo": "1",
 "name": "游顥",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      147,
+"disagreeTks":      199,
+"agreeRate":    42.49,
+"disagreeRate":    57.51,
+"adptVictor": "N",
+"ytpRate":    19.27,
+"ntpRate":    26.08 
 } 
 ] 
 },
@@ -1139,19 +1186,20 @@
 "town": "040",
 "vill": "014",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    44.97,
+"votePop":     4543,
 "candidates": [
  {
  "candNo": "1",
 "name": "游顥",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      736,
+"disagreeTks":     1286,
+"agreeRate":     36.4,
+"disagreeRate":     63.6,
+"adptVictor": "N",
+"ytpRate":     16.2,
+"ntpRate":    28.31 
 } 
 ] 
 },
@@ -1163,19 +1211,20 @@
 "town": "040",
 "vill": "015",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    44.57,
+"votePop":     1685,
 "candidates": [
  {
  "candNo": "1",
 "name": "游顥",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      256,
+"disagreeTks":      477,
+"agreeRate":    34.92,
+"disagreeRate":    65.08,
+"adptVictor": "N",
+"ytpRate":    15.19,
+"ntpRate":    28.31 
 } 
 ] 
 },
@@ -1187,19 +1236,20 @@
 "town": "040",
 "vill": "016",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    47.63,
+"votePop":     1264,
 "candidates": [
  {
  "candNo": "1",
 "name": "游顥",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      204,
+"disagreeTks":      390,
+"agreeRate":    34.34,
+"disagreeRate":    65.66,
+"adptVictor": "N",
+"ytpRate":    16.14,
+"ntpRate":    30.85 
 } 
 ] 
 },
@@ -1211,19 +1261,20 @@
 "town": "040",
 "vill": "017",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    47.28,
+"votePop":      994,
 "candidates": [
  {
  "candNo": "1",
 "name": "游顥",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      166,
+"disagreeTks":      292,
+"agreeRate":    36.24,
+"disagreeRate":    63.76,
+"adptVictor": "N",
+"ytpRate":     16.7,
+"ntpRate":    29.38 
 } 
 ] 
 },
@@ -1235,19 +1286,20 @@
 "town": "040",
 "vill": "018",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    47.85,
+"votePop":      558,
 "candidates": [
  {
  "candNo": "1",
 "name": "游顥",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":       79,
+"disagreeTks":      181,
+"agreeRate":    30.38,
+"disagreeRate":    69.62,
+"adptVictor": "N",
+"ytpRate":    14.16,
+"ntpRate":    32.44 
 } 
 ] 
 },
@@ -1259,19 +1311,20 @@
 "town": "040",
 "vill": "019",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    39.47,
+"votePop":      380,
 "candidates": [
  {
  "candNo": "1",
 "name": "游顥",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":       42,
+"disagreeTks":      107,
+"agreeRate":    28.19,
+"disagreeRate":    71.81,
+"adptVictor": "N",
+"ytpRate":    11.05,
+"ntpRate":    28.16 
 } 
 ] 
 },
@@ -1283,19 +1336,20 @@
 "town": "040",
 "vill": "020",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    42.01,
+"votePop":      507,
 "candidates": [
  {
  "candNo": "1",
 "name": "游顥",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":       70,
+"disagreeTks":      141,
+"agreeRate":    33.18,
+"disagreeRate":    66.82,
+"adptVictor": "N",
+"ytpRate":    13.81,
+"ntpRate":    27.81 
 } 
 ] 
 },
@@ -1307,19 +1361,20 @@
 "town": "040",
 "vill": "021",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    44.83,
+"votePop":      551,
 "candidates": [
  {
  "candNo": "1",
 "name": "游顥",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":       71,
+"disagreeTks":      175,
+"agreeRate":    28.86,
+"disagreeRate":    71.14,
+"adptVictor": "N",
+"ytpRate":    12.89,
+"ntpRate":    31.76 
 } 
 ] 
 },
@@ -1331,19 +1386,20 @@
 "town": "040",
 "vill": "022",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    40.63,
+"votePop":      694,
 "candidates": [
  {
  "candNo": "1",
 "name": "游顥",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      102,
+"disagreeTks":      176,
+"agreeRate":    36.69,
+"disagreeRate":    63.31,
+"adptVictor": "N",
+"ytpRate":     14.7,
+"ntpRate":    25.36 
 } 
 ] 
 },
@@ -1355,19 +1411,20 @@
 "town": "040",
 "vill": "023",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    42.86,
+"votePop":      518,
 "candidates": [
  {
  "candNo": "1",
 "name": "游顥",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":       82,
+"disagreeTks":      138,
+"agreeRate":    37.27,
+"disagreeRate":    62.73,
+"adptVictor": "N",
+"ytpRate":    15.83,
+"ntpRate":    26.64 
 } 
 ] 
 },
@@ -1379,19 +1436,20 @@
 "town": "040",
 "vill": "024",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    44.31,
+"votePop":      404,
 "candidates": [
  {
  "candNo": "1",
 "name": "游顥",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":       51,
+"disagreeTks":      124,
+"agreeRate":    29.14,
+"disagreeRate":    70.86,
+"adptVictor": "N",
+"ytpRate":    12.62,
+"ntpRate":    30.69 
 } 
 ] 
 },
@@ -1403,19 +1461,20 @@
 "town": "040",
 "vill": "025",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    39.24,
+"votePop":      790,
 "candidates": [
  {
  "candNo": "1",
 "name": "游顥",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":       88,
+"disagreeTks":      217,
+"agreeRate":    28.85,
+"disagreeRate":    71.15,
+"adptVictor": "N",
+"ytpRate":    11.14,
+"ntpRate":    27.47 
 } 
 ] 
 },
@@ -1427,19 +1486,20 @@
 "town": "040",
 "vill": "026",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    44.52,
+"votePop":      602,
 "candidates": [
  {
  "candNo": "1",
 "name": "游顥",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":       99,
+"disagreeTks":      164,
+"agreeRate":    37.64,
+"disagreeRate":    62.36,
+"adptVictor": "N",
+"ytpRate":    16.45,
+"ntpRate":    27.24 
 } 
 ] 
 },
@@ -1451,19 +1511,20 @@
 "town": "040",
 "vill": "027",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    49.03,
+"votePop":     3355,
 "candidates": [
  {
  "candNo": "1",
 "name": "游顥",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      587,
+"disagreeTks":     1041,
+"agreeRate":    36.06,
+"disagreeRate":    63.94,
+"adptVictor": "N",
+"ytpRate":     17.5,
+"ntpRate":    31.03 
 } 
 ] 
 },
@@ -1475,19 +1536,20 @@
 "town": "040",
 "vill": "028",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    45.04,
+"votePop":     2105,
 "candidates": [
  {
  "candNo": "1",
 "name": "游顥",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      327,
+"disagreeTks":      605,
+"agreeRate":    35.09,
+"disagreeRate":    64.91,
+"adptVictor": "N",
+"ytpRate":    15.53,
+"ntpRate":    28.74 
 } 
 ] 
 },
@@ -1499,19 +1561,20 @@
 "town": "050",
 "vill": "001",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    54.58,
+"votePop":      982,
 "candidates": [
  {
  "candNo": "1",
 "name": "游顥",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      152,
+"disagreeTks":      381,
+"agreeRate":    28.52,
+"disagreeRate":    71.48,
+"adptVictor": "N",
+"ytpRate":    15.48,
+"ntpRate":     38.8 
 } 
 ] 
 },
@@ -1523,19 +1586,20 @@
 "town": "050",
 "vill": "002",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    49.53,
+"votePop":      846,
 "candidates": [
  {
  "candNo": "1",
 "name": "游顥",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      121,
+"disagreeTks":      292,
+"agreeRate":     29.3,
+"disagreeRate":     70.7,
+"adptVictor": "N",
+"ytpRate":     14.3,
+"ntpRate":    34.52 
 } 
 ] 
 },
@@ -1547,19 +1611,20 @@
 "town": "050",
 "vill": "003",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":     50.3,
+"votePop":      497,
 "candidates": [
  {
  "candNo": "1",
 "name": "游顥",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":       84,
+"disagreeTks":      164,
+"agreeRate":    33.87,
+"disagreeRate":    66.13,
+"adptVictor": "N",
+"ytpRate":     16.9,
+"ntpRate":       33 
 } 
 ] 
 },
@@ -1571,19 +1636,20 @@
 "town": "050",
 "vill": "004",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    52.42,
+"votePop":     1011,
 "candidates": [
  {
  "candNo": "1",
 "name": "游顥",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      196,
+"disagreeTks":      323,
+"agreeRate":    37.76,
+"disagreeRate":    62.24,
+"adptVictor": "N",
+"ytpRate":    19.39,
+"ntpRate":    31.95 
 } 
 ] 
 },
@@ -1595,19 +1661,20 @@
 "town": "050",
 "vill": "005",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    49.53,
+"votePop":      426,
 "candidates": [
  {
  "candNo": "1",
 "name": "游顥",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":       70,
+"disagreeTks":      133,
+"agreeRate":    34.48,
+"disagreeRate":    65.52,
+"adptVictor": "N",
+"ytpRate":    16.43,
+"ntpRate":    31.22 
 } 
 ] 
 },
@@ -1619,19 +1686,20 @@
 "town": "050",
 "vill": "006",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    53.04,
+"votePop":      460,
 "candidates": [
  {
  "candNo": "1",
 "name": "游顥",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":       80,
+"disagreeTks":      159,
+"agreeRate":    33.47,
+"disagreeRate":    66.53,
+"adptVictor": "N",
+"ytpRate":    17.39,
+"ntpRate":    34.57 
 } 
 ] 
 },
@@ -1643,19 +1711,20 @@
 "town": "050",
 "vill": "007",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    52.61,
+"votePop":      785,
 "candidates": [
  {
  "candNo": "1",
 "name": "游顥",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      110,
+"disagreeTks":      298,
+"agreeRate":    26.96,
+"disagreeRate":    73.04,
+"adptVictor": "N",
+"ytpRate":    14.01,
+"ntpRate":    37.96 
 } 
 ] 
 },
@@ -1667,19 +1736,20 @@
 "town": "050",
 "vill": "008",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":     49.1,
+"votePop":     1326,
 "candidates": [
  {
  "candNo": "1",
 "name": "游顥",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      202,
+"disagreeTks":      440,
+"agreeRate":    31.46,
+"disagreeRate":    68.54,
+"adptVictor": "N",
+"ytpRate":    15.23,
+"ntpRate":    33.18 
 } 
 ] 
 },
@@ -1691,19 +1761,20 @@
 "town": "050",
 "vill": "009",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    52.76,
+"votePop":      868,
 "candidates": [
  {
  "candNo": "1",
 "name": "游顥",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      174,
+"disagreeTks":      275,
+"agreeRate":    38.75,
+"disagreeRate":    61.25,
+"adptVictor": "N",
+"ytpRate":    20.05,
+"ntpRate":    31.68 
 } 
 ] 
 },
@@ -1715,19 +1786,20 @@
 "town": "050",
 "vill": "010",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    48.17,
+"votePop":      492,
 "candidates": [
  {
  "candNo": "1",
 "name": "游顥",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":       67,
+"disagreeTks":      169,
+"agreeRate":    28.39,
+"disagreeRate":    71.61,
+"adptVictor": "N",
+"ytpRate":    13.62,
+"ntpRate":    34.35 
 } 
 ] 
 },
@@ -1739,19 +1811,20 @@
 "town": "050",
 "vill": "011",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    47.97,
+"votePop":      788,
 "candidates": [
  {
  "candNo": "1",
 "name": "游顥",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      108,
+"disagreeTks":      266,
+"agreeRate":    28.88,
+"disagreeRate":    71.12,
+"adptVictor": "N",
+"ytpRate":    13.71,
+"ntpRate":    33.76 
 } 
 ] 
 },
@@ -1763,19 +1836,20 @@
 "town": "060",
 "vill": "001",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    53.64,
+"votePop":      947,
 "candidates": [
  {
  "candNo": "1",
 "name": "游顥",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      186,
+"disagreeTks":      318,
+"agreeRate":     36.9,
+"disagreeRate":     63.1,
+"adptVictor": "N",
+"ytpRate":    19.64,
+"ntpRate":    33.58 
 } 
 ] 
 },
@@ -1787,19 +1861,20 @@
 "town": "060",
 "vill": "002",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    52.77,
+"votePop":     3178,
 "candidates": [
  {
  "candNo": "1",
 "name": "游顥",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      644,
+"disagreeTks":     1012,
+"agreeRate":    38.89,
+"disagreeRate":    61.11,
+"adptVictor": "N",
+"ytpRate":    20.26,
+"ntpRate":    31.84 
 } 
 ] 
 },
@@ -1811,19 +1886,20 @@
 "town": "060",
 "vill": "003",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    49.81,
+"votePop":     2078,
 "candidates": [
  {
  "candNo": "1",
 "name": "游顥",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      378,
+"disagreeTks":      647,
+"agreeRate":    36.88,
+"disagreeRate":    63.12,
+"adptVictor": "N",
+"ytpRate":    18.19,
+"ntpRate":    31.14 
 } 
 ] 
 },
@@ -1835,19 +1911,20 @@
 "town": "060",
 "vill": "004",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    50.41,
+"votePop":     1452,
 "candidates": [
  {
  "candNo": "1",
 "name": "游顥",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      300,
+"disagreeTks":      421,
+"agreeRate":    41.61,
+"disagreeRate":    58.39,
+"adptVictor": "N",
+"ytpRate":    20.66,
+"ntpRate":    28.99 
 } 
 ] 
 },
@@ -1859,19 +1936,20 @@
 "town": "060",
 "vill": "005",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    47.32,
+"votePop":      894,
 "candidates": [
  {
  "candNo": "1",
 "name": "游顥",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      184,
+"disagreeTks":      237,
+"agreeRate":    43.71,
+"disagreeRate":    56.29,
+"adptVictor": "N",
+"ytpRate":    20.58,
+"ntpRate":    26.51 
 } 
 ] 
 },
@@ -1883,19 +1961,20 @@
 "town": "060",
 "vill": "006",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    49.29,
+"votePop":      915,
 "candidates": [
  {
  "candNo": "1",
 "name": "游顥",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      217,
+"disagreeTks":      229,
+"agreeRate":    48.65,
+"disagreeRate":    51.35,
+"adptVictor": "N",
+"ytpRate":    23.72,
+"ntpRate":    25.03 
 } 
 ] 
 },
@@ -1907,19 +1986,20 @@
 "town": "060",
 "vill": "007",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    49.89,
+"votePop":     4011,
 "candidates": [
  {
  "candNo": "1",
 "name": "游顥",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      844,
+"disagreeTks":     1121,
+"agreeRate":    42.95,
+"disagreeRate":    57.05,
+"adptVictor": "N",
+"ytpRate":    21.04,
+"ntpRate":    27.95 
 } 
 ] 
 },
@@ -1931,19 +2011,20 @@
 "town": "060",
 "vill": "008",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    47.04,
+"votePop":     1469,
 "candidates": [
  {
  "candNo": "1",
 "name": "游顥",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      292,
+"disagreeTks":      384,
+"agreeRate":     43.2,
+"disagreeRate":     56.8,
+"adptVictor": "N",
+"ytpRate":    19.88,
+"ntpRate":    26.14 
 } 
 ] 
 },
@@ -1955,19 +2036,20 @@
 "town": "060",
 "vill": "009",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    49.11,
+"votePop":      843,
 "candidates": [
  {
  "candNo": "1",
 "name": "游顥",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      209,
+"disagreeTks":      197,
+"agreeRate":    51.48,
+"disagreeRate":    48.52,
+"adptVictor": "N",
+"ytpRate":    24.79,
+"ntpRate":    23.37 
 } 
 ] 
 },
@@ -1979,19 +2061,20 @@
 "town": "060",
 "vill": "010",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    47.56,
+"votePop":     1167,
 "candidates": [
  {
  "candNo": "1",
 "name": "游顥",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      263,
+"disagreeTks":      286,
+"agreeRate":    47.91,
+"disagreeRate":    52.09,
+"adptVictor": "N",
+"ytpRate":    22.54,
+"ntpRate":    24.51 
 } 
 ] 
 },
@@ -2003,19 +2086,20 @@
 "town": "060",
 "vill": "011",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":     51.1,
+"votePop":     1685,
 "candidates": [
  {
  "candNo": "1",
 "name": "游顥",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      425,
+"disagreeTks":      422,
+"agreeRate":    50.18,
+"disagreeRate":    49.82,
+"adptVictor": "N",
+"ytpRate":    25.22,
+"ntpRate":    25.04 
 } 
 ] 
 },
@@ -2027,19 +2111,20 @@
 "town": "060",
 "vill": "012",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    43.64,
+"votePop":      857,
 "candidates": [
  {
  "candNo": "1",
 "name": "游顥",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      153,
+"disagreeTks":      217,
+"agreeRate":    41.35,
+"disagreeRate":    58.65,
+"adptVictor": "N",
+"ytpRate":    17.85,
+"ntpRate":    25.32 
 } 
 ] 
 },
@@ -2051,19 +2136,20 @@
 "town": "060",
 "vill": "013",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    44.73,
+"votePop":      673,
 "candidates": [
  {
  "candNo": "1",
 "name": "游顥",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      144,
+"disagreeTks":      151,
+"agreeRate":    48.81,
+"disagreeRate":    51.19,
+"adptVictor": "N",
+"ytpRate":     21.4,
+"ntpRate":    22.44 
 } 
 ] 
 },
@@ -2075,19 +2161,20 @@
 "town": "060",
 "vill": "014",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    47.89,
+"votePop":      854,
 "candidates": [
  {
  "candNo": "1",
 "name": "游顥",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      170,
+"disagreeTks":      233,
+"agreeRate":    42.18,
+"disagreeRate":    57.82,
+"adptVictor": "N",
+"ytpRate":    19.91,
+"ntpRate":    27.28 
 } 
 ] 
 },
@@ -2099,19 +2186,20 @@
 "town": "060",
 "vill": "015",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    46.23,
+"votePop":     1073,
 "candidates": [
  {
  "candNo": "1",
 "name": "游顥",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      220,
+"disagreeTks":      271,
+"agreeRate":    44.81,
+"disagreeRate":    55.19,
+"adptVictor": "N",
+"ytpRate":     20.5,
+"ntpRate":    25.26 
 } 
 ] 
 },
@@ -2123,19 +2211,20 @@
 "town": "060",
 "vill": "016",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    51.32,
+"votePop":     1436,
 "candidates": [
  {
  "candNo": "1",
 "name": "游顥",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      311,
+"disagreeTks":      418,
+"agreeRate":    42.66,
+"disagreeRate":    57.34,
+"adptVictor": "N",
+"ytpRate":    21.66,
+"ntpRate":    29.11 
 } 
 ] 
 },
@@ -2147,19 +2236,20 @@
 "town": "060",
 "vill": "017",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    53.87,
+"votePop":     1381,
 "candidates": [
  {
  "candNo": "1",
 "name": "游顥",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      342,
+"disagreeTks":      391,
+"agreeRate":    46.66,
+"disagreeRate":    53.34,
+"adptVictor": "N",
+"ytpRate":    24.76,
+"ntpRate":    28.31 
 } 
 ] 
 },
@@ -2171,19 +2261,20 @@
 "town": "060",
 "vill": "018",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    50.71,
+"votePop":     1059,
 "candidates": [
  {
  "candNo": "1",
 "name": "游顥",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      239,
+"disagreeTks":      284,
+"agreeRate":     45.7,
+"disagreeRate":     54.3,
+"adptVictor": "N",
+"ytpRate":    22.57,
+"ntpRate":    26.82 
 } 
 ] 
 },
@@ -2195,19 +2286,20 @@
 "town": "060",
 "vill": "019",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    54.61,
+"votePop":      749,
 "candidates": [
  {
  "candNo": "1",
 "name": "游顥",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      188,
+"disagreeTks":      212,
+"agreeRate":       47,
+"disagreeRate":       53,
+"adptVictor": "N",
+"ytpRate":     25.1,
+"ntpRate":     28.3 
 } 
 ] 
 },
@@ -2219,19 +2311,20 @@
 "town": "060",
 "vill": "020",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    52.14,
+"votePop":      796,
 "candidates": [
  {
  "candNo": "1",
 "name": "游顥",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      136,
+"disagreeTks":      273,
+"agreeRate":    33.25,
+"disagreeRate":    66.75,
+"adptVictor": "N",
+"ytpRate":    17.09,
+"ntpRate":     34.3 
 } 
 ] 
 },
@@ -2243,19 +2336,20 @@
 "town": "060",
 "vill": "021",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    52.61,
+"votePop":      671,
 "candidates": [
  {
  "candNo": "1",
 "name": "游顥",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      131,
+"disagreeTks":      217,
+"agreeRate":    37.64,
+"disagreeRate":    62.36,
+"adptVictor": "N",
+"ytpRate":    19.52,
+"ntpRate":    32.34 
 } 
 ] 
 },
@@ -2267,19 +2361,20 @@
 "town": "060",
 "vill": "022",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    49.11,
+"votePop":     1631,
 "candidates": [
  {
  "candNo": "1",
 "name": "游顥",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      326,
+"disagreeTks":      462,
+"agreeRate":    41.37,
+"disagreeRate":    58.63,
+"adptVictor": "N",
+"ytpRate":    19.99,
+"ntpRate":    28.33 
 } 
 ] 
 },
@@ -2291,19 +2386,20 @@
 "town": "060",
 "vill": "023",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    49.69,
+"votePop":      817,
 "candidates": [
  {
  "candNo": "1",
 "name": "游顥",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      142,
+"disagreeTks":      257,
+"agreeRate":    35.59,
+"disagreeRate":    64.41,
+"adptVictor": "N",
+"ytpRate":    17.38,
+"ntpRate":    31.46 
 } 
 ] 
 },
@@ -2315,19 +2411,20 @@
 "town": "070",
 "vill": "001",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    45.58,
+"votePop":     1731,
 "candidates": [
  {
  "candNo": "1",
 "name": "游顥",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      239,
+"disagreeTks":      542,
+"agreeRate":     30.6,
+"disagreeRate":     69.4,
+"adptVictor": "N",
+"ytpRate":    13.81,
+"ntpRate":    31.31 
 } 
 ] 
 },
@@ -2339,19 +2436,20 @@
 "town": "070",
 "vill": "002",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    46.09,
+"votePop":     1278,
 "candidates": [
  {
  "candNo": "1",
 "name": "游顥",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      155,
+"disagreeTks":      428,
+"agreeRate":    26.59,
+"disagreeRate":    73.41,
+"adptVictor": "N",
+"ytpRate":    12.13,
+"ntpRate":    33.49 
 } 
 ] 
 },
@@ -2363,19 +2461,20 @@
 "town": "070",
 "vill": "003",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":     51.5,
+"votePop":     1169,
 "candidates": [
  {
  "candNo": "1",
 "name": "游顥",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      140,
+"disagreeTks":      456,
+"agreeRate":    23.49,
+"disagreeRate":    76.51,
+"adptVictor": "N",
+"ytpRate":    11.98,
+"ntpRate":    39.01 
 } 
 ] 
 },
@@ -2387,19 +2486,20 @@
 "town": "070",
 "vill": "004",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    50.03,
+"votePop":     1775,
 "candidates": [
  {
  "candNo": "1",
 "name": "游顥",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      254,
+"disagreeTks":      628,
+"agreeRate":     28.8,
+"disagreeRate":     71.2,
+"adptVictor": "N",
+"ytpRate":    14.31,
+"ntpRate":    35.38 
 } 
 ] 
 },
@@ -2411,19 +2511,20 @@
 "town": "070",
 "vill": "005",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    47.41,
+"votePop":      907,
 "candidates": [
  {
  "candNo": "1",
 "name": "游顥",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      109,
+"disagreeTks":      312,
+"agreeRate":    25.89,
+"disagreeRate":    74.11,
+"adptVictor": "N",
+"ytpRate":    12.02,
+"ntpRate":     34.4 
 } 
 ] 
 },
@@ -2435,19 +2536,20 @@
 "town": "070",
 "vill": "006",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    47.59,
+"votePop":     1351,
 "candidates": [
  {
  "candNo": "1",
 "name": "游顥",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      178,
+"disagreeTks":      454,
+"agreeRate":    28.16,
+"disagreeRate":    71.84,
+"adptVictor": "N",
+"ytpRate":    13.18,
+"ntpRate":     33.6 
 } 
 ] 
 },
@@ -2459,19 +2561,20 @@
 "town": "070",
 "vill": "007",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    54.17,
+"votePop":      803,
 "candidates": [
  {
  "candNo": "1",
 "name": "游顥",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":       95,
+"disagreeTks":      334,
+"agreeRate":    22.14,
+"disagreeRate":    77.86,
+"adptVictor": "N",
+"ytpRate":    11.83,
+"ntpRate":    41.59 
 } 
 ] 
 },
@@ -2483,19 +2586,20 @@
 "town": "070",
 "vill": "008",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    50.52,
+"votePop":      580,
 "candidates": [
  {
  "candNo": "1",
 "name": "游顥",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":       67,
+"disagreeTks":      223,
+"agreeRate":     23.1,
+"disagreeRate":     76.9,
+"adptVictor": "N",
+"ytpRate":    11.55,
+"ntpRate":    38.45 
 } 
 ] 
 },
@@ -2507,19 +2611,20 @@
 "town": "070",
 "vill": "009",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    45.51,
+"votePop":     1180,
 "candidates": [
  {
  "candNo": "1",
 "name": "游顥",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      185,
+"disagreeTks":      346,
+"agreeRate":    34.84,
+"disagreeRate":    65.16,
+"adptVictor": "N",
+"ytpRate":    15.68,
+"ntpRate":    29.32 
 } 
 ] 
 },
@@ -2531,19 +2636,20 @@
 "town": "070",
 "vill": "010",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    45.19,
+"votePop":     1403,
 "candidates": [
  {
  "candNo": "1",
 "name": "游顥",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      218,
+"disagreeTks":      410,
+"agreeRate":    34.71,
+"disagreeRate":    65.29,
+"adptVictor": "N",
+"ytpRate":    15.54,
+"ntpRate":    29.22 
 } 
 ] 
 },
@@ -2555,19 +2661,20 @@
 "town": "070",
 "vill": "011",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    41.52,
+"votePop":      672,
 "candidates": [
  {
  "candNo": "1",
 "name": "游顥",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      101,
+"disagreeTks":      169,
+"agreeRate":    37.41,
+"disagreeRate":    62.59,
+"adptVictor": "N",
+"ytpRate":    15.03,
+"ntpRate":    25.15 
 } 
 ] 
 },
@@ -2579,19 +2686,20 @@
 "town": "070",
 "vill": "012",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    44.86,
+"votePop":      593,
 "candidates": [
  {
  "candNo": "1",
 "name": "游顥",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      106,
+"disagreeTks":      156,
+"agreeRate":    40.46,
+"disagreeRate":    59.54,
+"adptVictor": "N",
+"ytpRate":    17.88,
+"ntpRate":    26.31 
 } 
 ] 
 },
@@ -2603,19 +2711,20 @@
 "town": "070",
 "vill": "013",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    37.65,
+"votePop":      648,
 "candidates": [
  {
  "candNo": "1",
 "name": "游顥",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":       70,
+"disagreeTks":      168,
+"agreeRate":    29.41,
+"disagreeRate":    70.59,
+"adptVictor": "N",
+"ytpRate":     10.8,
+"ntpRate":    25.93 
 } 
 ] 
 },
@@ -2627,19 +2736,20 @@
 "town": "110",
 "vill": "001",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    45.73,
+"votePop":      632,
 "candidates": [
  {
  "candNo": "1",
 "name": "游顥",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":       86,
+"disagreeTks":      202,
+"agreeRate":    29.86,
+"disagreeRate":    70.14,
+"adptVictor": "N",
+"ytpRate":    13.61,
+"ntpRate":    31.96 
 } 
 ] 
 },
@@ -2651,19 +2761,20 @@
 "town": "110",
 "vill": "002",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":     56.2,
+"votePop":      379,
 "candidates": [
  {
  "candNo": "1",
 "name": "游顥",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":       79,
+"disagreeTks":      132,
+"agreeRate":    37.44,
+"disagreeRate":    62.56,
+"adptVictor": "N",
+"ytpRate":    20.84,
+"ntpRate":    34.83 
 } 
 ] 
 },
@@ -2675,19 +2786,20 @@
 "town": "110",
 "vill": "003",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    42.81,
+"votePop":     1329,
 "candidates": [
  {
  "candNo": "1",
 "name": "游顥",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      218,
+"disagreeTks":      342,
+"agreeRate":    38.93,
+"disagreeRate":    61.07,
+"adptVictor": "N",
+"ytpRate":     16.4,
+"ntpRate":    25.73 
 } 
 ] 
 },
@@ -2699,19 +2811,20 @@
 "town": "110",
 "vill": "004",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    49.24,
+"votePop":      528,
 "candidates": [
  {
  "candNo": "1",
 "name": "游顥",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":       64,
+"disagreeTks":      192,
+"agreeRate":       25,
+"disagreeRate":       75,
+"adptVictor": "N",
+"ytpRate":    12.12,
+"ntpRate":    36.36 
 } 
 ] 
 },
@@ -2723,19 +2836,20 @@
 "town": "110",
 "vill": "005",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    50.65,
+"votePop":      774,
 "candidates": [
  {
  "candNo": "1",
 "name": "游顥",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      112,
+"disagreeTks":      275,
+"agreeRate":    28.94,
+"disagreeRate":    71.06,
+"adptVictor": "N",
+"ytpRate":    14.47,
+"ntpRate":    35.53 
 } 
 ] 
 },
@@ -2747,19 +2861,20 @@
 "town": "110",
 "vill": "006",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    46.17,
+"votePop":      966,
 "candidates": [
  {
  "candNo": "1",
 "name": "游顥",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      140,
+"disagreeTks":      302,
+"agreeRate":    31.67,
+"disagreeRate":    68.33,
+"adptVictor": "N",
+"ytpRate":    14.49,
+"ntpRate":    31.26 
 } 
 ] 
 },
@@ -2771,19 +2886,20 @@
 "town": "110",
 "vill": "007",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    46.45,
+"votePop":      775,
 "candidates": [
  {
  "candNo": "1",
 "name": "游顥",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      115,
+"disagreeTks":      242,
+"agreeRate":    32.21,
+"disagreeRate":    67.79,
+"adptVictor": "N",
+"ytpRate":    14.84,
+"ntpRate":    31.23 
 } 
 ] 
 },
@@ -2795,19 +2911,20 @@
 "town": "110",
 "vill": "008",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    45.75,
+"votePop":     1189,
 "candidates": [
  {
  "candNo": "1",
 "name": "游顥",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      181,
+"disagreeTks":      356,
+"agreeRate":    33.71,
+"disagreeRate":    66.29,
+"adptVictor": "N",
+"ytpRate":    15.22,
+"ntpRate":    29.94 
 } 
 ] 
 },
@@ -2819,19 +2936,20 @@
 "town": "110",
 "vill": "009",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    49.95,
+"votePop":     1033,
 "candidates": [
  {
  "candNo": "1",
 "name": "游顥",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      159,
+"disagreeTks":      353,
+"agreeRate":    31.05,
+"disagreeRate":    68.95,
+"adptVictor": "N",
+"ytpRate":    15.39,
+"ntpRate":    34.17 
 } 
 ] 
 },
@@ -2843,19 +2961,20 @@
 "town": "110",
 "vill": "010",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    46.45,
+"votePop":      394,
 "candidates": [
  {
  "candNo": "1",
 "name": "游顥",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":       55,
+"disagreeTks":      126,
+"agreeRate":    30.39,
+"disagreeRate":    69.61,
+"adptVictor": "N",
+"ytpRate":    13.96,
+"ntpRate":    31.98 
 } 
 ] 
 },
@@ -2867,19 +2986,20 @@
 "town": "110",
 "vill": "011",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    41.98,
+"votePop":      567,
 "candidates": [
  {
  "candNo": "1",
 "name": "游顥",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":       47,
+"disagreeTks":      185,
+"agreeRate":    20.26,
+"disagreeRate":    79.74,
+"adptVictor": "N",
+"ytpRate":     8.29,
+"ntpRate":    32.63 
 } 
 ] 
 },
@@ -2891,19 +3011,20 @@
 "town": "110",
 "vill": "012",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    31.82,
+"votePop":      176,
 "candidates": [
  {
  "candNo": "1",
 "name": "游顥",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":       13,
+"disagreeTks":       43,
+"agreeRate":    23.21,
+"disagreeRate":    76.79,
+"adptVictor": "N",
+"ytpRate":     7.39,
+"ntpRate":    24.43 
 } 
 ] 
 },
@@ -2915,19 +3036,20 @@
 "town": "110",
 "vill": "013",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    51.02,
+"votePop":      294,
 "candidates": [
  {
  "candNo": "1",
 "name": "游顥",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":       39,
+"disagreeTks":      109,
+"agreeRate":    26.35,
+"disagreeRate":    73.65,
+"adptVictor": "N",
+"ytpRate":    13.27,
+"ntpRate":    37.07 
 } 
 ] 
 },
@@ -2939,19 +3061,20 @@
 "town": "110",
 "vill": "014",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    45.95,
+"votePop":      975,
 "candidates": [
  {
  "candNo": "1",
 "name": "游顥",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      137,
+"disagreeTks":      310,
+"agreeRate":    30.65,
+"disagreeRate":    69.35,
+"adptVictor": "N",
+"ytpRate":    14.05,
+"ntpRate":    31.79 
 } 
 ] 
 },
@@ -2963,19 +3086,20 @@
 "town": "110",
 "vill": "015",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    40.11,
+"votePop":      743,
 "candidates": [
  {
  "candNo": "1",
 "name": "游顥",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":       99,
+"disagreeTks":      197,
+"agreeRate":    33.45,
+"disagreeRate":    66.55,
+"adptVictor": "N",
+"ytpRate":    13.32,
+"ntpRate":    26.51 
 } 
 ] 
 },
@@ -2987,19 +3111,20 @@
 "town": "110",
 "vill": "016",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    51.93,
+"votePop":      285,
 "candidates": [
  {
  "candNo": "1",
 "name": "游顥",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":       62,
+"disagreeTks":       82,
+"agreeRate":    43.06,
+"disagreeRate":    56.94,
+"adptVictor": "N",
+"ytpRate":    21.75,
+"ntpRate":    28.77 
 } 
 ] 
 },
@@ -3011,19 +3136,20 @@
 "town": "110",
 "vill": "017",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    45.06,
+"votePop":      759,
 "candidates": [
  {
  "candNo": "1",
 "name": "游顥",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      163,
+"disagreeTks":      173,
+"agreeRate":    48.51,
+"disagreeRate":    51.49,
+"adptVictor": "N",
+"ytpRate":    21.48,
+"ntpRate":    22.79 
 } 
 ] 
 },
@@ -3035,19 +3161,20 @@
 "town": "110",
 "vill": "018",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    41.67,
+"votePop":      240,
 "candidates": [
  {
  "candNo": "1",
 "name": "游顥",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":       34,
+"disagreeTks":       61,
+"agreeRate":    35.79,
+"disagreeRate":    64.21,
+"adptVictor": "N",
+"ytpRate":    14.17,
+"ntpRate":    25.42 
 } 
 ] 
 },
@@ -3059,19 +3186,20 @@
 "town": "110",
 "vill": "019",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    47.62,
+"votePop":     1451,
 "candidates": [
  {
  "candNo": "1",
 "name": "游顥",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      235,
+"disagreeTks":      448,
+"agreeRate":    34.41,
+"disagreeRate":    65.59,
+"adptVictor": "N",
+"ytpRate":     16.2,
+"ntpRate":    30.88 
 } 
 ] 
 },
@@ -3083,19 +3211,20 @@
 "town": "120",
 "vill": "001",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    34.81,
+"votePop":      158,
 "candidates": [
  {
  "candNo": "1",
 "name": "游顥",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":       16,
+"disagreeTks":       39,
+"agreeRate":    29.09,
+"disagreeRate":    70.91,
+"adptVictor": "N",
+"ytpRate":    10.13,
+"ntpRate":    24.68 
 } 
 ] 
 },
@@ -3107,19 +3236,20 @@
 "town": "120",
 "vill": "002",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    34.25,
+"votePop":       73,
 "candidates": [
  {
  "candNo": "1",
 "name": "游顥",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":       16,
+"disagreeTks":        9,
+"agreeRate":       64,
+"disagreeRate":       36,
+"adptVictor": "N",
+"ytpRate":    21.92,
+"ntpRate":    12.33 
 } 
 ] 
 },
@@ -3131,19 +3261,20 @@
 "town": "120",
 "vill": "003",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    38.46,
+"votePop":       13,
 "candidates": [
  {
  "candNo": "1",
 "name": "游顥",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":        1,
+"disagreeTks":        3,
+"agreeRate":       25,
+"disagreeRate":       75,
+"adptVictor": "N",
+"ytpRate":     7.69,
+"ntpRate":    23.08 
 } 
 ] 
 },
@@ -3155,19 +3286,20 @@
 "town": "120",
 "vill": "004",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":     48.4,
+"votePop":      905,
 "candidates": [
  {
  "candNo": "1",
 "name": "游顥",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      125,
+"disagreeTks":      308,
+"agreeRate":    28.87,
+"disagreeRate":    71.13,
+"adptVictor": "N",
+"ytpRate":    13.81,
+"ntpRate":    34.03 
 } 
 ] 
 },
@@ -3179,19 +3311,20 @@
 "town": "120",
 "vill": "005",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    48.16,
+"votePop":      434,
 "candidates": [
  {
  "candNo": "1",
 "name": "游顥",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":       49,
+"disagreeTks":      159,
+"agreeRate":    23.56,
+"disagreeRate":    76.44,
+"adptVictor": "N",
+"ytpRate":    11.29,
+"ntpRate":    36.64 
 } 
 ] 
 },
@@ -3203,19 +3336,20 @@
 "town": "120",
 "vill": "006",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    45.56,
+"votePop":      608,
 "candidates": [
  {
  "candNo": "1",
 "name": "游顥",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":       86,
+"disagreeTks":      190,
+"agreeRate":    31.16,
+"disagreeRate":    68.84,
+"adptVictor": "N",
+"ytpRate":    14.14,
+"ntpRate":    31.25 
 } 
 ] 
 },
@@ -3227,19 +3361,20 @@
 "town": "120",
 "vill": "007",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    49.33,
+"votePop":      225,
 "candidates": [
  {
  "candNo": "1",
 "name": "游顥",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":       32,
+"disagreeTks":       77,
+"agreeRate":    29.36,
+"disagreeRate":    70.64,
+"adptVictor": "N",
+"ytpRate":    14.22,
+"ntpRate":    34.22 
 } 
 ] 
 },
@@ -3251,19 +3386,20 @@
 "town": "120",
 "vill": "008",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    34.95,
+"votePop":      289,
 "candidates": [
  {
  "candNo": "1",
 "name": "游顥",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":       25,
+"disagreeTks":       76,
+"agreeRate":    24.75,
+"disagreeRate":    75.25,
+"adptVictor": "N",
+"ytpRate":     8.65,
+"ntpRate":     26.3 
 } 
 ] 
 },
@@ -3275,19 +3411,20 @@
 "town": "120",
 "vill": "009",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    43.74,
+"votePop":     1246,
 "candidates": [
  {
  "candNo": "1",
 "name": "游顥",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      130,
+"disagreeTks":      403,
+"agreeRate":    24.39,
+"disagreeRate":    75.61,
+"adptVictor": "N",
+"ytpRate":    10.43,
+"ntpRate":    32.34 
 } 
 ] 
 },
@@ -3299,19 +3436,20 @@
 "town": "120",
 "vill": "010",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    39.96,
+"votePop":      538,
 "candidates": [
  {
  "candNo": "1",
 "name": "游顥",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":       37,
+"disagreeTks":      177,
+"agreeRate":    17.29,
+"disagreeRate":    82.71,
+"adptVictor": "N",
+"ytpRate":     6.88,
+"ntpRate":     32.9 
 } 
 ] 
 },
@@ -3323,19 +3461,20 @@
 "town": "120",
 "vill": "011",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    36.59,
+"votePop":      276,
 "candidates": [
  {
  "candNo": "1",
 "name": "游顥",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":       39,
+"disagreeTks":       62,
+"agreeRate":    38.61,
+"disagreeRate":    61.39,
+"adptVictor": "N",
+"ytpRate":    14.13,
+"ntpRate":    22.46 
 } 
 ] 
 },
@@ -3347,19 +3486,20 @@
 "town": "120",
 "vill": "012",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    42.86,
+"votePop":       14,
 "candidates": [
  {
  "candNo": "1",
 "name": "游顥",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":        0,
+"disagreeTks":        6,
+"agreeRate":        0,
+"disagreeRate":      100,
+"adptVictor": "N",
+"ytpRate":        0,
+"ntpRate":    42.86 
 } 
 ] 
 },
@@ -3371,19 +3511,20 @@
 "town": "120",
 "vill": "013",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    37.04,
+"votePop":       54,
 "candidates": [
  {
  "candNo": "1",
 "name": "游顥",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":       13,
+"disagreeTks":        7,
+"agreeRate":       65,
+"disagreeRate":       35,
+"adptVictor": "N",
+"ytpRate":    24.07,
+"ntpRate":    12.96 
 } 
 ] 
 },
@@ -3395,19 +3536,20 @@
 "town": "120",
 "vill": "014",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    44.01,
+"votePop":      309,
 "candidates": [
  {
  "candNo": "1",
 "name": "游顥",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":       55,
+"disagreeTks":       80,
+"agreeRate":    40.74,
+"disagreeRate":    59.26,
+"adptVictor": "N",
+"ytpRate":     17.8,
+"ntpRate":    25.89 
 } 
 ] 
 },
@@ -3419,19 +3561,20 @@
 "town": "120",
 "vill": "015",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    46.67,
+"votePop":       45,
 "candidates": [
  {
  "candNo": "1",
 "name": "游顥",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":        2,
+"disagreeTks":       19,
+"agreeRate":     9.52,
+"disagreeRate":    90.48,
+"adptVictor": "N",
+"ytpRate":     4.44,
+"ntpRate":    42.22 
 } 
 ] 
 } 

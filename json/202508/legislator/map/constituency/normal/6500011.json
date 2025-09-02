@@ -1,5 +1,5 @@
 {
- "updatedAt": "2025-07-10 10:33:00",
+ "updatedAt": "2025-08-23 20:10:28",
 "is_running": false,
 "is_started": true,
 "districts": [
@@ -11,19 +11,20 @@
 "town": "060",
 "vill": "001",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    52.48,
+"votePop":     2660,
 "candidates": [
  {
  "candNo": "1",
 "name": "羅明才",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      426,
+"disagreeTks":      954,
+"agreeRate":    30.87,
+"disagreeRate":    69.13,
+"adptVictor": "N",
+"ytpRate":    16.02,
+"ntpRate":    35.86 
 } 
 ] 
 },
@@ -35,19 +36,20 @@
 "town": "060",
 "vill": "002",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    50.03,
+"votePop":     3450,
 "candidates": [
  {
  "candNo": "1",
 "name": "羅明才",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      571,
+"disagreeTks":     1140,
+"agreeRate":    33.37,
+"disagreeRate":    66.63,
+"adptVictor": "N",
+"ytpRate":    16.55,
+"ntpRate":    33.04 
 } 
 ] 
 },
@@ -59,19 +61,20 @@
 "town": "060",
 "vill": "003",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    53.04,
+"votePop":     3145,
 "candidates": [
  {
  "candNo": "1",
 "name": "羅明才",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      567,
+"disagreeTks":     1084,
+"agreeRate":    34.34,
+"disagreeRate":    65.66,
+"adptVictor": "N",
+"ytpRate":    18.03,
+"ntpRate":    34.47 
 } 
 ] 
 },
@@ -83,19 +86,20 @@
 "town": "060",
 "vill": "004",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    55.68,
+"votePop":     3330,
 "candidates": [
  {
  "candNo": "1",
 "name": "羅明才",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      615,
+"disagreeTks":     1226,
+"agreeRate":    33.41,
+"disagreeRate":    66.59,
+"adptVictor": "N",
+"ytpRate":    18.47,
+"ntpRate":    36.82 
 } 
 ] 
 },
@@ -107,19 +111,20 @@
 "town": "060",
 "vill": "005",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    53.06,
+"votePop":     4768,
 "candidates": [
  {
  "candNo": "1",
 "name": "羅明才",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      812,
+"disagreeTks":     1690,
+"agreeRate":    32.45,
+"disagreeRate":    67.55,
+"adptVictor": "N",
+"ytpRate":    17.03,
+"ntpRate":    35.44 
 } 
 ] 
 },
@@ -131,19 +136,20 @@
 "town": "060",
 "vill": "006",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    53.03,
+"votePop":     4941,
 "candidates": [
  {
  "candNo": "1",
 "name": "羅明才",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      885,
+"disagreeTks":     1714,
+"agreeRate":    34.05,
+"disagreeRate":    65.95,
+"adptVictor": "N",
+"ytpRate":    17.91,
+"ntpRate":    34.69 
 } 
 ] 
 },
@@ -155,19 +161,20 @@
 "town": "060",
 "vill": "007",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    52.75,
+"votePop":     4715,
 "candidates": [
  {
  "candNo": "1",
 "name": "羅明才",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      788,
+"disagreeTks":     1680,
+"agreeRate":    31.93,
+"disagreeRate":    68.07,
+"adptVictor": "N",
+"ytpRate":    16.71,
+"ntpRate":    35.63 
 } 
 ] 
 },
@@ -179,19 +186,20 @@
 "town": "060",
 "vill": "008",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    52.48,
+"votePop":     5854,
 "candidates": [
  {
  "candNo": "1",
 "name": "羅明才",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":     1163,
+"disagreeTks":     1878,
+"agreeRate":    38.24,
+"disagreeRate":    61.76,
+"adptVictor": "N",
+"ytpRate":    19.87,
+"ntpRate":    32.08 
 } 
 ] 
 },
@@ -203,19 +211,20 @@
 "town": "060",
 "vill": "009",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":     51.9,
+"votePop":     2478,
 "candidates": [
  {
  "candNo": "1",
 "name": "羅明才",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      369,
+"disagreeTks":      906,
+"agreeRate":    28.94,
+"disagreeRate":    71.06,
+"adptVictor": "N",
+"ytpRate":    14.89,
+"ntpRate":    36.56 
 } 
 ] 
 },
@@ -227,19 +236,20 @@
 "town": "060",
 "vill": "010",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    58.89,
+"votePop":     2435,
 "candidates": [
  {
  "candNo": "1",
 "name": "羅明才",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      244,
+"disagreeTks":     1178,
+"agreeRate":    17.16,
+"disagreeRate":    82.84,
+"adptVictor": "N",
+"ytpRate":    10.02,
+"ntpRate":    48.38 
 } 
 ] 
 },
@@ -251,19 +261,20 @@
 "town": "060",
 "vill": "011",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    52.19,
+"votePop":     2688,
 "candidates": [
  {
  "candNo": "1",
 "name": "羅明才",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      445,
+"disagreeTks":      947,
+"agreeRate":    31.97,
+"disagreeRate":    68.03,
+"adptVictor": "N",
+"ytpRate":    16.56,
+"ntpRate":    35.23 
 } 
 ] 
 },
@@ -275,19 +286,20 @@
 "town": "060",
 "vill": "012",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    40.92,
+"votePop":     1256,
 "candidates": [
  {
  "candNo": "1",
 "name": "羅明才",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      164,
+"disagreeTks":      347,
+"agreeRate":    32.09,
+"disagreeRate":    67.91,
+"adptVictor": "N",
+"ytpRate":    13.06,
+"ntpRate":    27.63 
 } 
 ] 
 },
@@ -299,19 +311,20 @@
 "town": "060",
 "vill": "013",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    45.09,
+"votePop":     2843,
 "candidates": [
  {
  "candNo": "1",
 "name": "羅明才",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      531,
+"disagreeTks":      741,
+"agreeRate":    41.75,
+"disagreeRate":    58.25,
+"adptVictor": "N",
+"ytpRate":    18.68,
+"ntpRate":    26.06 
 } 
 ] 
 },
@@ -323,19 +336,20 @@
 "town": "060",
 "vill": "014",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    45.89,
+"votePop":     7924,
 "candidates": [
  {
  "candNo": "1",
 "name": "羅明才",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":     1237,
+"disagreeTks":     2375,
+"agreeRate":    34.25,
+"disagreeRate":    65.75,
+"adptVictor": "N",
+"ytpRate":    15.61,
+"ntpRate":    29.97 
 } 
 ] 
 },
@@ -347,19 +361,20 @@
 "town": "060",
 "vill": "015",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    48.01,
+"votePop":     4270,
 "candidates": [
  {
  "candNo": "1",
 "name": "羅明才",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      719,
+"disagreeTks":     1314,
+"agreeRate":    35.37,
+"disagreeRate":    64.63,
+"adptVictor": "N",
+"ytpRate":    16.84,
+"ntpRate":    30.77 
 } 
 ] 
 },
@@ -371,19 +386,20 @@
 "town": "060",
 "vill": "016",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    47.65,
+"votePop":    11676,
 "candidates": [
  {
  "candNo": "1",
 "name": "羅明才",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":     1829,
+"disagreeTks":     3694,
+"agreeRate":    33.12,
+"disagreeRate":    66.88,
+"adptVictor": "N",
+"ytpRate":    15.66,
+"ntpRate":    31.64 
 } 
 ] 
 },
@@ -395,19 +411,20 @@
 "town": "060",
 "vill": "017",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    48.47,
+"votePop":     5048,
 "candidates": [
  {
  "candNo": "1",
 "name": "羅明才",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      908,
+"disagreeTks":     1513,
+"agreeRate":    37.51,
+"disagreeRate":    62.49,
+"adptVictor": "N",
+"ytpRate":    17.99,
+"ntpRate":    29.97 
 } 
 ] 
 },
@@ -419,19 +436,20 @@
 "town": "060",
 "vill": "018",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    47.92,
+"votePop":     5134,
 "candidates": [
  {
  "candNo": "1",
 "name": "羅明才",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      898,
+"disagreeTks":     1547,
+"agreeRate":    36.73,
+"disagreeRate":    63.27,
+"adptVictor": "N",
+"ytpRate":    17.49,
+"ntpRate":    30.13 
 } 
 ] 
 },
@@ -443,19 +461,20 @@
 "town": "060",
 "vill": "019",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    42.35,
+"votePop":     5077,
 "candidates": [
  {
  "candNo": "1",
 "name": "羅明才",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      794,
+"disagreeTks":     1340,
+"agreeRate":    37.21,
+"disagreeRate":    62.79,
+"adptVictor": "N",
+"ytpRate":    15.64,
+"ntpRate":    26.39 
 } 
 ] 
 },
@@ -467,19 +486,20 @@
 "town": "060",
 "vill": "020",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    49.97,
+"votePop":     5083,
 "candidates": [
  {
  "candNo": "1",
 "name": "羅明才",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      742,
+"disagreeTks":     1787,
+"agreeRate":    29.34,
+"disagreeRate":    70.66,
+"adptVictor": "N",
+"ytpRate":     14.6,
+"ntpRate":    35.16 
 } 
 ] 
 },
@@ -491,19 +511,20 @@
 "town": "060",
 "vill": "021",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    40.55,
+"votePop":      873,
 "candidates": [
  {
  "candNo": "1",
 "name": "羅明才",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      205,
+"disagreeTks":      146,
+"agreeRate":     58.4,
+"disagreeRate":     41.6,
+"adptVictor": "N",
+"ytpRate":    23.48,
+"ntpRate":    16.72 
 } 
 ] 
 },
@@ -515,19 +536,20 @@
 "town": "060",
 "vill": "022",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    49.34,
+"votePop":     4540,
 "candidates": [
  {
  "candNo": "1",
 "name": "羅明才",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      789,
+"disagreeTks":     1434,
+"agreeRate":    35.49,
+"disagreeRate":    64.51,
+"adptVictor": "N",
+"ytpRate":    17.38,
+"ntpRate":    31.59 
 } 
 ] 
 },
@@ -539,19 +561,20 @@
 "town": "060",
 "vill": "023",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    48.55,
+"votePop":     4597,
 "candidates": [
  {
  "candNo": "1",
 "name": "羅明才",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      714,
+"disagreeTks":     1496,
+"agreeRate":    32.31,
+"disagreeRate":    67.69,
+"adptVictor": "N",
+"ytpRate":    15.53,
+"ntpRate":    32.54 
 } 
 ] 
 },
@@ -563,19 +586,20 @@
 "town": "060",
 "vill": "024",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    40.85,
+"votePop":      661,
 "candidates": [
  {
  "candNo": "1",
 "name": "羅明才",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      109,
+"disagreeTks":      158,
+"agreeRate":    40.82,
+"disagreeRate":    59.18,
+"adptVictor": "N",
+"ytpRate":    16.49,
+"ntpRate":     23.9 
 } 
 ] 
 },
@@ -587,19 +611,20 @@
 "town": "060",
 "vill": "025",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    50.52,
+"votePop":     2686,
 "candidates": [
  {
  "candNo": "1",
 "name": "羅明才",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      633,
+"disagreeTks":      708,
+"agreeRate":     47.2,
+"disagreeRate":     52.8,
+"adptVictor": "N",
+"ytpRate":    23.57,
+"ntpRate":    26.36 
 } 
 ] 
 },
@@ -611,19 +636,20 @@
 "town": "060",
 "vill": "026",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    43.79,
+"votePop":     2231,
 "candidates": [
  {
  "candNo": "1",
 "name": "羅明才",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      416,
+"disagreeTks":      552,
+"agreeRate":    42.98,
+"disagreeRate":    57.02,
+"adptVictor": "N",
+"ytpRate":    18.65,
+"ntpRate":    24.74 
 } 
 ] 
 },
@@ -635,19 +661,20 @@
 "town": "060",
 "vill": "027",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    42.38,
+"votePop":     1510,
 "candidates": [
  {
  "candNo": "1",
 "name": "羅明才",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      258,
+"disagreeTks":      379,
+"agreeRate":     40.5,
+"disagreeRate":     59.5,
+"adptVictor": "N",
+"ytpRate":    17.09,
+"ntpRate":     25.1 
 } 
 ] 
 },
@@ -659,19 +686,20 @@
 "town": "060",
 "vill": "028",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    37.86,
+"votePop":     1215,
 "candidates": [
  {
  "candNo": "1",
 "name": "羅明才",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      232,
+"disagreeTks":      226,
+"agreeRate":    50.66,
+"disagreeRate":    49.34,
+"adptVictor": "N",
+"ytpRate":    19.09,
+"ntpRate":     18.6 
 } 
 ] 
 },
@@ -683,19 +711,20 @@
 "town": "060",
 "vill": "029",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    51.37,
+"votePop":     1129,
 "candidates": [
  {
  "candNo": "1",
 "name": "羅明才",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      319,
+"disagreeTks":      256,
+"agreeRate":    55.48,
+"disagreeRate":    44.52,
+"adptVictor": "N",
+"ytpRate":    28.26,
+"ntpRate":    22.67 
 } 
 ] 
 },
@@ -707,19 +736,20 @@
 "town": "060",
 "vill": "030",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    48.02,
+"votePop":     4838,
 "candidates": [
  {
  "candNo": "1",
 "name": "羅明才",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      824,
+"disagreeTks":     1484,
+"agreeRate":     35.7,
+"disagreeRate":     64.3,
+"adptVictor": "N",
+"ytpRate":    17.03,
+"ntpRate":    30.67 
 } 
 ] 
 },
@@ -731,19 +761,20 @@
 "town": "060",
 "vill": "031",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    51.85,
+"votePop":     1564,
 "candidates": [
  {
  "candNo": "1",
 "name": "羅明才",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      364,
+"disagreeTks":      441,
+"agreeRate":    45.22,
+"disagreeRate":    54.78,
+"adptVictor": "N",
+"ytpRate":    23.27,
+"ntpRate":     28.2 
 } 
 ] 
 },
@@ -755,19 +786,20 @@
 "town": "060",
 "vill": "032",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    50.71,
+"votePop":     2339,
 "candidates": [
  {
  "candNo": "1",
 "name": "羅明才",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      378,
+"disagreeTks":      803,
+"agreeRate":    32.01,
+"disagreeRate":    67.99,
+"adptVictor": "N",
+"ytpRate":    16.16,
+"ntpRate":    34.33 
 } 
 ] 
 },
@@ -779,19 +811,20 @@
 "town": "060",
 "vill": "033",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    48.72,
+"votePop":     2258,
 "candidates": [
  {
  "candNo": "1",
 "name": "羅明才",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      411,
+"disagreeTks":      675,
+"agreeRate":    37.85,
+"disagreeRate":    62.15,
+"adptVictor": "N",
+"ytpRate":     18.2,
+"ntpRate":    29.89 
 } 
 ] 
 },
@@ -803,19 +836,20 @@
 "town": "060",
 "vill": "034",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    53.45,
+"votePop":     1607,
 "candidates": [
  {
  "candNo": "1",
 "name": "羅明才",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      255,
+"disagreeTks":      593,
+"agreeRate":    30.07,
+"disagreeRate":    69.93,
+"adptVictor": "N",
+"ytpRate":    15.87,
+"ntpRate":     36.9 
 } 
 ] 
 },
@@ -827,19 +861,20 @@
 "town": "060",
 "vill": "035",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    55.73,
+"votePop":      768,
 "candidates": [
  {
  "candNo": "1",
 "name": "羅明才",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      224,
+"disagreeTks":      198,
+"agreeRate":    53.08,
+"disagreeRate":    46.92,
+"adptVictor": "N",
+"ytpRate":    29.17,
+"ntpRate":    25.78 
 } 
 ] 
 },
@@ -851,19 +886,20 @@
 "town": "060",
 "vill": "036",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    52.77,
+"votePop":     2185,
 "candidates": [
  {
  "candNo": "1",
 "name": "羅明才",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      467,
+"disagreeTks":      678,
+"agreeRate":    40.79,
+"disagreeRate":    59.21,
+"adptVictor": "N",
+"ytpRate":    21.37,
+"ntpRate":    31.03 
 } 
 ] 
 },
@@ -875,19 +911,20 @@
 "town": "060",
 "vill": "037",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    37.81,
+"votePop":     6999,
 "candidates": [
  {
  "candNo": "1",
 "name": "羅明才",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      834,
+"disagreeTks":     1790,
+"agreeRate":    31.78,
+"disagreeRate":    68.22,
+"adptVictor": "N",
+"ytpRate":    11.92,
+"ntpRate":    25.58 
 } 
 ] 
 },
@@ -899,19 +936,20 @@
 "town": "060",
 "vill": "038",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":       54,
+"votePop":     5061,
 "candidates": [
  {
  "candNo": "1",
 "name": "羅明才",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      845,
+"disagreeTks":     1868,
+"agreeRate":    31.15,
+"disagreeRate":    68.85,
+"adptVictor": "N",
+"ytpRate":     16.7,
+"ntpRate":    36.91 
 } 
 ] 
 },
@@ -923,19 +961,20 @@
 "town": "060",
 "vill": "039",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    49.98,
+"votePop":     2279,
 "candidates": [
  {
  "candNo": "1",
 "name": "羅明才",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      430,
+"disagreeTks":      701,
+"agreeRate":    38.02,
+"disagreeRate":    61.98,
+"adptVictor": "N",
+"ytpRate":    18.87,
+"ntpRate":    30.76 
 } 
 ] 
 },
@@ -947,19 +986,20 @@
 "town": "060",
 "vill": "040",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    51.18,
+"votePop":     8095,
 "candidates": [
  {
  "candNo": "1",
 "name": "羅明才",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":     1342,
+"disagreeTks":     2757,
+"agreeRate":    32.74,
+"disagreeRate":    67.26,
+"adptVictor": "N",
+"ytpRate":    16.58,
+"ntpRate":    34.06 
 } 
 ] 
 },
@@ -971,19 +1011,20 @@
 "town": "060",
 "vill": "041",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    51.64,
+"votePop":     6663,
 "candidates": [
  {
  "candNo": "1",
 "name": "羅明才",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":     1163,
+"disagreeTks":     2251,
+"agreeRate":    34.07,
+"disagreeRate":    65.93,
+"adptVictor": "N",
+"ytpRate":    17.45,
+"ntpRate":    33.78 
 } 
 ] 
 },
@@ -995,19 +1036,20 @@
 "town": "060",
 "vill": "042",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    51.82,
+"votePop":     3634,
 "candidates": [
  {
  "candNo": "1",
 "name": "羅明才",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      589,
+"disagreeTks":     1282,
+"agreeRate":    31.48,
+"disagreeRate":    68.52,
+"adptVictor": "N",
+"ytpRate":    16.21,
+"ntpRate":    35.28 
 } 
 ] 
 },
@@ -1019,19 +1061,20 @@
 "town": "060",
 "vill": "043",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    56.43,
+"votePop":     1997,
 "candidates": [
  {
  "candNo": "1",
 "name": "羅明才",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      383,
+"disagreeTks":      735,
+"agreeRate":    34.26,
+"disagreeRate":    65.74,
+"adptVictor": "N",
+"ytpRate":    19.18,
+"ntpRate":    36.81 
 } 
 ] 
 },
@@ -1043,19 +1086,20 @@
 "town": "060",
 "vill": "044",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    52.64,
+"votePop":     5049,
 "candidates": [
  {
  "candNo": "1",
 "name": "羅明才",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      873,
+"disagreeTks":     1754,
+"agreeRate":    33.23,
+"disagreeRate":    66.77,
+"adptVictor": "N",
+"ytpRate":    17.29,
+"ntpRate":    34.74 
 } 
 ] 
 },
@@ -1067,19 +1111,20 @@
 "town": "060",
 "vill": "045",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    50.76,
+"votePop":     3889,
 "candidates": [
  {
  "candNo": "1",
 "name": "羅明才",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      581,
+"disagreeTks":     1368,
+"agreeRate":    29.81,
+"disagreeRate":    70.19,
+"adptVictor": "N",
+"ytpRate":    14.94,
+"ntpRate":    35.18 
 } 
 ] 
 },
@@ -1091,19 +1136,20 @@
 "town": "060",
 "vill": "046",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    54.85,
+"votePop":     1741,
 "candidates": [
  {
  "candNo": "1",
 "name": "羅明才",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      309,
+"disagreeTks":      642,
+"agreeRate":    32.49,
+"disagreeRate":    67.51,
+"adptVictor": "N",
+"ytpRate":    17.75,
+"ntpRate":    36.88 
 } 
 ] 
 },
@@ -1115,19 +1161,20 @@
 "town": "060",
 "vill": "047",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":     54.1,
+"votePop":     3157,
 "candidates": [
  {
  "candNo": "1",
 "name": "羅明才",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      535,
+"disagreeTks":     1148,
+"agreeRate":    31.79,
+"disagreeRate":    68.21,
+"adptVictor": "N",
+"ytpRate":    16.95,
+"ntpRate":    36.36 
 } 
 ] 
 },
@@ -1139,19 +1186,20 @@
 "town": "060",
 "vill": "048",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    53.51,
+"votePop":     2760,
 "candidates": [
  {
  "candNo": "1",
 "name": "羅明才",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      491,
+"disagreeTks":      981,
+"agreeRate":    33.36,
+"disagreeRate":    66.64,
+"adptVictor": "N",
+"ytpRate":    17.79,
+"ntpRate":    35.54 
 } 
 ] 
 },
@@ -1163,19 +1211,20 @@
 "town": "060",
 "vill": "049",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    47.88,
+"votePop":     3277,
 "candidates": [
  {
  "candNo": "1",
 "name": "羅明才",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      495,
+"disagreeTks":     1065,
+"agreeRate":    31.73,
+"disagreeRate":    68.27,
+"adptVictor": "N",
+"ytpRate":    15.11,
+"ntpRate":     32.5 
 } 
 ] 
 },
@@ -1187,19 +1236,20 @@
 "town": "060",
 "vill": "050",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    53.88,
+"votePop":     3257,
 "candidates": [
  {
  "candNo": "1",
 "name": "羅明才",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      585,
+"disagreeTks":     1153,
+"agreeRate":    33.66,
+"disagreeRate":    66.34,
+"adptVictor": "N",
+"ytpRate":    17.96,
+"ntpRate":     35.4 
 } 
 ] 
 },
@@ -1211,19 +1261,20 @@
 "town": "060",
 "vill": "051",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    51.32,
+"votePop":     3603,
 "candidates": [
  {
  "candNo": "1",
 "name": "羅明才",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      492,
+"disagreeTks":     1343,
+"agreeRate":    26.81,
+"disagreeRate":    73.19,
+"adptVictor": "N",
+"ytpRate":    13.66,
+"ntpRate":    37.27 
 } 
 ] 
 },
@@ -1235,19 +1286,20 @@
 "town": "060",
 "vill": "052",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    52.85,
+"votePop":     9195,
 "candidates": [
  {
  "candNo": "1",
 "name": "羅明才",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":     1524,
+"disagreeTks":     3286,
+"agreeRate":    31.68,
+"disagreeRate":    68.32,
+"adptVictor": "N",
+"ytpRate":    16.57,
+"ntpRate":    35.74 
 } 
 ] 
 },
@@ -1259,19 +1311,20 @@
 "town": "060",
 "vill": "053",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":     48.8,
+"votePop":     1418,
 "candidates": [
  {
  "candNo": "1",
 "name": "羅明才",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      174,
+"disagreeTks":      507,
+"agreeRate":    25.55,
+"disagreeRate":    74.45,
+"adptVictor": "N",
+"ytpRate":    12.27,
+"ntpRate":    35.75 
 } 
 ] 
 },
@@ -1283,19 +1336,20 @@
 "town": "060",
 "vill": "054",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    56.27,
+"votePop":     5282,
 "candidates": [
  {
  "candNo": "1",
 "name": "羅明才",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      913,
+"disagreeTks":     2027,
+"agreeRate":    31.05,
+"disagreeRate":    68.95,
+"adptVictor": "N",
+"ytpRate":    17.29,
+"ntpRate":    38.38 
 } 
 ] 
 },
@@ -1307,19 +1361,20 @@
 "town": "060",
 "vill": "055",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    51.04,
+"votePop":     3041,
 "candidates": [
  {
  "candNo": "1",
 "name": "羅明才",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      437,
+"disagreeTks":     1107,
+"agreeRate":     28.3,
+"disagreeRate":     71.7,
+"adptVictor": "N",
+"ytpRate":    14.37,
+"ntpRate":     36.4 
 } 
 ] 
 },
@@ -1331,19 +1386,20 @@
 "town": "060",
 "vill": "056",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    47.44,
+"votePop":     6844,
 "candidates": [
  {
  "candNo": "1",
 "name": "羅明才",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":     1099,
+"disagreeTks":     2124,
+"agreeRate":     34.1,
+"disagreeRate":     65.9,
+"adptVictor": "N",
+"ytpRate":    16.06,
+"ntpRate":    31.03 
 } 
 ] 
 },
@@ -1355,19 +1411,20 @@
 "town": "060",
 "vill": "057",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    51.65,
+"votePop":     4103,
 "candidates": [
  {
  "candNo": "1",
 "name": "羅明才",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      537,
+"disagreeTks":     1561,
+"agreeRate":     25.6,
+"disagreeRate":     74.4,
+"adptVictor": "N",
+"ytpRate":    13.09,
+"ntpRate":    38.05 
 } 
 ] 
 },
@@ -1379,19 +1436,20 @@
 "town": "060",
 "vill": "058",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    52.55,
+"votePop":     6265,
 "candidates": [
  {
  "candNo": "1",
 "name": "羅明才",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":     1028,
+"disagreeTks":     2236,
+"agreeRate":     31.5,
+"disagreeRate":     68.5,
+"adptVictor": "N",
+"ytpRate":    16.41,
+"ntpRate":    35.69 
 } 
 ] 
 },
@@ -1403,19 +1461,20 @@
 "town": "060",
 "vill": "059",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    51.19,
+"votePop":     3180,
 "candidates": [
  {
  "candNo": "1",
 "name": "羅明才",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      501,
+"disagreeTks":     1116,
+"agreeRate":    30.98,
+"disagreeRate":    69.02,
+"adptVictor": "N",
+"ytpRate":    15.75,
+"ntpRate":    35.09 
 } 
 ] 
 },
@@ -1427,19 +1486,20 @@
 "town": "060",
 "vill": "060",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    48.81,
+"votePop":    10546,
 "candidates": [
  {
  "candNo": "1",
 "name": "羅明才",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":     1477,
+"disagreeTks":     3632,
+"agreeRate":    28.91,
+"disagreeRate":    71.09,
+"adptVictor": "N",
+"ytpRate":    14.01,
+"ntpRate":    34.44 
 } 
 ] 
 },
@@ -1451,19 +1511,20 @@
 "town": "060",
 "vill": "061",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    55.08,
+"votePop":     2600,
 "candidates": [
  {
  "candNo": "1",
 "name": "羅明才",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      408,
+"disagreeTks":     1006,
+"agreeRate":    28.85,
+"disagreeRate":    71.15,
+"adptVictor": "N",
+"ytpRate":    15.69,
+"ntpRate":    38.69 
 } 
 ] 
 },
@@ -1475,19 +1536,20 @@
 "town": "060",
 "vill": "062",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    45.89,
+"votePop":     2626,
 "candidates": [
  {
  "candNo": "1",
 "name": "羅明才",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      396,
+"disagreeTks":      798,
+"agreeRate":    33.17,
+"disagreeRate":    66.83,
+"adptVictor": "N",
+"ytpRate":    15.08,
+"ntpRate":    30.39 
 } 
 ] 
 },
@@ -1499,19 +1561,20 @@
 "town": "060",
 "vill": "063",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":     52.3,
+"votePop":     2323,
 "candidates": [
  {
  "candNo": "1",
 "name": "羅明才",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      389,
+"disagreeTks":      814,
+"agreeRate":    32.34,
+"disagreeRate":    67.66,
+"adptVictor": "N",
+"ytpRate":    16.75,
+"ntpRate":    35.04 
 } 
 ] 
 },
@@ -1523,19 +1586,20 @@
 "town": "060",
 "vill": "064",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    53.43,
+"votePop":     4743,
 "candidates": [
  {
  "candNo": "1",
 "name": "羅明才",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      807,
+"disagreeTks":     1699,
+"agreeRate":     32.2,
+"disagreeRate":     67.8,
+"adptVictor": "N",
+"ytpRate":    17.01,
+"ntpRate":    35.82 
 } 
 ] 
 },
@@ -1547,19 +1611,20 @@
 "town": "060",
 "vill": "065",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    54.27,
+"votePop":     2261,
 "candidates": [
  {
  "candNo": "1",
 "name": "羅明才",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      421,
+"disagreeTks":      795,
+"agreeRate":    34.62,
+"disagreeRate":    65.38,
+"adptVictor": "N",
+"ytpRate":    18.62,
+"ntpRate":    35.16 
 } 
 ] 
 },
@@ -1571,19 +1636,20 @@
 "town": "060",
 "vill": "066",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    50.85,
+"votePop":     3481,
 "candidates": [
  {
  "candNo": "1",
 "name": "羅明才",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      495,
+"disagreeTks":     1263,
+"agreeRate":    28.16,
+"disagreeRate":    71.84,
+"adptVictor": "N",
+"ytpRate":    14.22,
+"ntpRate":    36.28 
 } 
 ] 
 },
@@ -1595,19 +1661,20 @@
 "town": "060",
 "vill": "067",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    49.72,
+"votePop":     4753,
 "candidates": [
  {
  "candNo": "1",
 "name": "羅明才",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      799,
+"disagreeTks":     1539,
+"agreeRate":    34.17,
+"disagreeRate":    65.83,
+"adptVictor": "N",
+"ytpRate":    16.81,
+"ntpRate":    32.38 
 } 
 ] 
 },
@@ -1619,19 +1686,20 @@
 "town": "060",
 "vill": "068",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    50.23,
+"votePop":     3737,
 "candidates": [
  {
  "candNo": "1",
 "name": "羅明才",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      484,
+"disagreeTks":     1384,
+"agreeRate":    25.91,
+"disagreeRate":    74.09,
+"adptVictor": "N",
+"ytpRate":    12.95,
+"ntpRate":    37.04 
 } 
 ] 
 },
@@ -1643,19 +1711,20 @@
 "town": "060",
 "vill": "069",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    49.05,
+"votePop":     2671,
 "candidates": [
  {
  "candNo": "1",
 "name": "羅明才",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      460,
+"disagreeTks":      841,
+"agreeRate":    35.36,
+"disagreeRate":    64.64,
+"adptVictor": "N",
+"ytpRate":    17.22,
+"ntpRate":    31.49 
 } 
 ] 
 },
@@ -1667,19 +1736,20 @@
 "town": "180",
 "vill": "001",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    47.09,
+"votePop":     3109,
 "candidates": [
  {
  "candNo": "1",
 "name": "羅明才",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      656,
+"disagreeTks":      797,
+"agreeRate":    45.15,
+"disagreeRate":    54.85,
+"adptVictor": "N",
+"ytpRate":     21.1,
+"ntpRate":    25.64 
 } 
 ] 
 },
@@ -1691,19 +1761,20 @@
 "town": "180",
 "vill": "002",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":     43.5,
+"votePop":     2301,
 "candidates": [
  {
  "candNo": "1",
 "name": "羅明才",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      424,
+"disagreeTks":      570,
+"agreeRate":    42.66,
+"disagreeRate":    57.34,
+"adptVictor": "N",
+"ytpRate":    18.43,
+"ntpRate":    24.77 
 } 
 ] 
 },
@@ -1715,19 +1786,20 @@
 "town": "180",
 "vill": "003",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    45.79,
+"votePop":     2671,
 "candidates": [
  {
  "candNo": "1",
 "name": "羅明才",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      448,
+"disagreeTks":      769,
+"agreeRate":    36.81,
+"disagreeRate":    63.19,
+"adptVictor": "N",
+"ytpRate":    16.77,
+"ntpRate":    28.79 
 } 
 ] 
 },
@@ -1739,19 +1811,20 @@
 "town": "180",
 "vill": "004",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    50.68,
+"votePop":     1845,
 "candidates": [
  {
  "candNo": "1",
 "name": "羅明才",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      307,
+"disagreeTks":      619,
+"agreeRate":    33.15,
+"disagreeRate":    66.85,
+"adptVictor": "N",
+"ytpRate":    16.64,
+"ntpRate":    33.55 
 } 
 ] 
 },
@@ -1763,19 +1836,20 @@
 "town": "180",
 "vill": "005",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    43.22,
+"votePop":      509,
 "candidates": [
  {
  "candNo": "1",
 "name": "羅明才",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":       80,
+"disagreeTks":      136,
+"agreeRate":    37.04,
+"disagreeRate":    62.96,
+"adptVictor": "N",
+"ytpRate":    15.72,
+"ntpRate":    26.72 
 } 
 ] 
 },
@@ -1787,19 +1861,20 @@
 "town": "180",
 "vill": "006",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    49.21,
+"votePop":     5507,
 "candidates": [
  {
  "candNo": "1",
 "name": "羅明才",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":     1072,
+"disagreeTks":     1612,
+"agreeRate":    39.94,
+"disagreeRate":    60.06,
+"adptVictor": "N",
+"ytpRate":    19.47,
+"ntpRate":    29.27 
 } 
 ] 
 },
@@ -1811,19 +1886,20 @@
 "town": "180",
 "vill": "007",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    45.38,
+"votePop":     2435,
 "candidates": [
  {
  "candNo": "1",
 "name": "羅明才",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      473,
+"disagreeTks":      626,
+"agreeRate":    43.04,
+"disagreeRate":    56.96,
+"adptVictor": "N",
+"ytpRate":    19.43,
+"ntpRate":    25.71 
 } 
 ] 
 },
@@ -1835,19 +1911,20 @@
 "town": "180",
 "vill": "008",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    47.24,
+"votePop":     2193,
 "candidates": [
  {
  "candNo": "1",
 "name": "羅明才",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      366,
+"disagreeTks":      655,
+"agreeRate":    35.85,
+"disagreeRate":    64.15,
+"adptVictor": "N",
+"ytpRate":    16.69,
+"ntpRate":    29.87 
 } 
 ] 
 },
@@ -1859,19 +1936,20 @@
 "town": "190",
 "vill": "001",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    52.63,
+"votePop":      342,
 "candidates": [
  {
  "candNo": "1",
 "name": "羅明才",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":       74,
+"disagreeTks":      105,
+"agreeRate":    41.34,
+"disagreeRate":    58.66,
+"adptVictor": "N",
+"ytpRate":    21.64,
+"ntpRate":     30.7 
 } 
 ] 
 },
@@ -1883,19 +1961,20 @@
 "town": "190",
 "vill": "002",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    41.97,
+"votePop":      741,
 "candidates": [
  {
  "candNo": "1",
 "name": "羅明才",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      115,
+"disagreeTks":      195,
+"agreeRate":     37.1,
+"disagreeRate":     62.9,
+"adptVictor": "N",
+"ytpRate":    15.52,
+"ntpRate":    26.32 
 } 
 ] 
 },
@@ -1907,19 +1986,20 @@
 "town": "190",
 "vill": "003",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    39.63,
+"votePop":      593,
 "candidates": [
  {
  "candNo": "1",
 "name": "羅明才",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      116,
+"disagreeTks":      117,
+"agreeRate":    49.79,
+"disagreeRate":    50.21,
+"adptVictor": "N",
+"ytpRate":    19.56,
+"ntpRate":    19.73 
 } 
 ] 
 },
@@ -1931,19 +2011,20 @@
 "town": "190",
 "vill": "004",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    41.86,
+"votePop":      516,
 "candidates": [
  {
  "candNo": "1",
 "name": "羅明才",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":       98,
+"disagreeTks":      115,
+"agreeRate":    46.01,
+"disagreeRate":    53.99,
+"adptVictor": "N",
+"ytpRate":    18.99,
+"ntpRate":    22.29 
 } 
 ] 
 },
@@ -1955,19 +2036,20 @@
 "town": "190",
 "vill": "005",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    45.33,
+"votePop":      289,
 "candidates": [
  {
  "candNo": "1",
 "name": "羅明才",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":       46,
+"disagreeTks":       84,
+"agreeRate":    35.38,
+"disagreeRate":    64.62,
+"adptVictor": "N",
+"ytpRate":    15.92,
+"ntpRate":    29.07 
 } 
 ] 
 },
@@ -1979,19 +2061,20 @@
 "town": "190",
 "vill": "006",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    40.33,
+"votePop":      367,
 "candidates": [
  {
  "candNo": "1",
 "name": "羅明才",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":       68,
+"disagreeTks":       79,
+"agreeRate":    46.26,
+"disagreeRate":    53.74,
+"adptVictor": "N",
+"ytpRate":    18.53,
+"ntpRate":    21.53 
 } 
 ] 
 },
@@ -2003,19 +2086,20 @@
 "town": "190",
 "vill": "007",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    35.09,
+"votePop":      550,
 "candidates": [
  {
  "candNo": "1",
 "name": "羅明才",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":       81,
+"disagreeTks":      111,
+"agreeRate":    42.19,
+"disagreeRate":    57.81,
+"adptVictor": "N",
+"ytpRate":    14.73,
+"ntpRate":    20.18 
 } 
 ] 
 },
@@ -2027,19 +2111,20 @@
 "town": "190",
 "vill": "008",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    41.05,
+"votePop":      687,
 "candidates": [
  {
  "candNo": "1",
 "name": "羅明才",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      124,
+"disagreeTks":      154,
+"agreeRate":     44.6,
+"disagreeRate":     55.4,
+"adptVictor": "N",
+"ytpRate":    18.05,
+"ntpRate":    22.42 
 } 
 ] 
 },
@@ -2051,19 +2136,20 @@
 "town": "190",
 "vill": "009",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    40.23,
+"votePop":      256,
 "candidates": [
  {
  "candNo": "1",
 "name": "羅明才",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":       43,
+"disagreeTks":       58,
+"agreeRate":    42.57,
+"disagreeRate":    57.43,
+"adptVictor": "N",
+"ytpRate":     16.8,
+"ntpRate":    22.66 
 } 
 ] 
 },
@@ -2075,19 +2161,20 @@
 "town": "190",
 "vill": "010",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    49.45,
+"votePop":      273,
 "candidates": [
  {
  "candNo": "1",
 "name": "羅明才",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":       55,
+"disagreeTks":       76,
+"agreeRate":    41.98,
+"disagreeRate":    58.02,
+"adptVictor": "N",
+"ytpRate":    20.15,
+"ntpRate":    27.84 
 } 
 ] 
 },
@@ -2099,19 +2186,20 @@
 "town": "190",
 "vill": "011",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    40.26,
+"votePop":      755,
 "candidates": [
  {
  "candNo": "1",
 "name": "羅明才",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      134,
+"disagreeTks":      170,
+"agreeRate":    44.08,
+"disagreeRate":    55.92,
+"adptVictor": "N",
+"ytpRate":    17.75,
+"ntpRate":    22.52 
 } 
 ] 
 },
@@ -2123,19 +2211,20 @@
 "town": "190",
 "vill": "012",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    41.19,
+"votePop":      908,
 "candidates": [
  {
  "candNo": "1",
 "name": "羅明才",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      211,
+"disagreeTks":      157,
+"agreeRate":    57.34,
+"disagreeRate":    42.66,
+"adptVictor": "N",
+"ytpRate":    23.24,
+"ntpRate":    17.29 
 } 
 ] 
 },
@@ -2147,19 +2236,20 @@
 "town": "200",
 "vill": "001",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    33.17,
+"votePop":      814,
 "candidates": [
  {
  "candNo": "1",
 "name": "羅明才",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      122,
+"disagreeTks":      147,
+"agreeRate":    45.35,
+"disagreeRate":    54.65,
+"adptVictor": "N",
+"ytpRate":    14.99,
+"ntpRate":    18.06 
 } 
 ] 
 },
@@ -2171,19 +2261,20 @@
 "town": "200",
 "vill": "002",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    36.06,
+"votePop":     1184,
 "candidates": [
  {
  "candNo": "1",
 "name": "羅明才",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      188,
+"disagreeTks":      232,
+"agreeRate":    44.76,
+"disagreeRate":    55.24,
+"adptVictor": "N",
+"ytpRate":    15.88,
+"ntpRate":    19.59 
 } 
 ] 
 },
@@ -2195,19 +2286,20 @@
 "town": "200",
 "vill": "003",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    35.93,
+"votePop":     1038,
 "candidates": [
  {
  "candNo": "1",
 "name": "羅明才",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      197,
+"disagreeTks":      172,
+"agreeRate":    53.39,
+"disagreeRate":    46.61,
+"adptVictor": "N",
+"ytpRate":    18.98,
+"ntpRate":    16.57 
 } 
 ] 
 },
@@ -2219,19 +2311,20 @@
 "town": "200",
 "vill": "004",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    29.46,
+"votePop":      387,
 "candidates": [
  {
  "candNo": "1",
 "name": "羅明才",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":       54,
+"disagreeTks":       58,
+"agreeRate":    48.21,
+"disagreeRate":    51.79,
+"adptVictor": "N",
+"ytpRate":    13.95,
+"ntpRate":    14.99 
 } 
 ] 
 },
@@ -2243,19 +2336,20 @@
 "town": "200",
 "vill": "005",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    40.35,
+"votePop":      798,
 "candidates": [
  {
  "candNo": "1",
 "name": "羅明才",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      137,
+"disagreeTks":      179,
+"agreeRate":    43.35,
+"disagreeRate":    56.65,
+"adptVictor": "N",
+"ytpRate":    17.17,
+"ntpRate":    22.43 
 } 
 ] 
 },
@@ -2267,19 +2361,20 @@
 "town": "200",
 "vill": "006",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    38.69,
+"votePop":      641,
 "candidates": [
  {
  "candNo": "1",
 "name": "羅明才",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      116,
+"disagreeTks":      128,
+"agreeRate":    47.54,
+"disagreeRate":    52.46,
+"adptVictor": "N",
+"ytpRate":     18.1,
+"ntpRate":    19.97 
 } 
 ] 
 },
@@ -2291,19 +2386,20 @@
 "town": "200",
 "vill": "007",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    29.66,
+"votePop":      799,
 "candidates": [
  {
  "candNo": "1",
 "name": "羅明才",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      131,
+"disagreeTks":      102,
+"agreeRate":    56.22,
+"disagreeRate":    43.78,
+"adptVictor": "N",
+"ytpRate":     16.4,
+"ntpRate":    12.77 
 } 
 ] 
 },
@@ -2315,19 +2411,20 @@
 "town": "290",
 "vill": "001",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    37.57,
+"votePop":     1315,
 "candidates": [
  {
  "candNo": "1",
 "name": "羅明才",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      208,
+"disagreeTks":      281,
+"agreeRate":    42.54,
+"disagreeRate":    57.46,
+"adptVictor": "N",
+"ytpRate":    15.82,
+"ntpRate":    21.37 
 } 
 ] 
 },
@@ -2339,19 +2436,20 @@
 "town": "290",
 "vill": "002",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":       42,
+"votePop":      919,
 "candidates": [
  {
  "candNo": "1",
 "name": "羅明才",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      158,
+"disagreeTks":      226,
+"agreeRate":    41.15,
+"disagreeRate":    58.85,
+"adptVictor": "N",
+"ytpRate":    17.19,
+"ntpRate":    24.59 
 } 
 ] 
 },
@@ -2363,19 +2461,20 @@
 "town": "290",
 "vill": "003",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    23.39,
+"votePop":      124,
 "candidates": [
  {
  "candNo": "1",
 "name": "羅明才",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":       19,
+"disagreeTks":       10,
+"agreeRate":    65.52,
+"disagreeRate":    34.48,
+"adptVictor": "N",
+"ytpRate":    15.32,
+"ntpRate":     8.06 
 } 
 ] 
 },
@@ -2387,19 +2486,20 @@
 "town": "290",
 "vill": "004",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":     34.2,
+"votePop":      269,
 "candidates": [
  {
  "candNo": "1",
 "name": "羅明才",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":       44,
+"disagreeTks":       48,
+"agreeRate":    47.83,
+"disagreeRate":    52.17,
+"adptVictor": "N",
+"ytpRate":    16.36,
+"ntpRate":    17.84 
 } 
 ] 
 },
@@ -2411,19 +2511,20 @@
 "town": "290",
 "vill": "005",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    34.12,
+"votePop":      211,
 "candidates": [
  {
  "candNo": "1",
 "name": "羅明才",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":       24,
+"disagreeTks":       48,
+"agreeRate":    33.33,
+"disagreeRate":    66.67,
+"adptVictor": "N",
+"ytpRate":    11.37,
+"ntpRate":    22.75 
 } 
 ] 
 } 

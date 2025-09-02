@@ -1,5 +1,5 @@
 {
- "updatedAt": "2025-07-10 10:33:00",
+ "updatedAt": "2025-08-23 20:10:28",
 "is_running": false,
 "is_started": true,
 "districts": [
@@ -11,19 +11,20 @@
 "town": "010",
 "vill": "001",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    47.52,
+"votePop":     7258,
 "candidates": [
  {
  "candNo": "1",
 "name": "林思銘",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":     1252,
+"disagreeTks":     2165,
+"agreeRate":    36.64,
+"disagreeRate":    63.36,
+"adptVictor": "N",
+"ytpRate":    17.25,
+"ntpRate":    29.83 
 } 
 ] 
 },
@@ -35,19 +36,20 @@
 "town": "010",
 "vill": "002",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    47.64,
+"votePop":    10905,
 "candidates": [
  {
  "candNo": "1",
 "name": "林思銘",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":     1912,
+"disagreeTks":     3231,
+"agreeRate":    37.18,
+"disagreeRate":    62.82,
+"adptVictor": "N",
+"ytpRate":    17.53,
+"ntpRate":    29.63 
 } 
 ] 
 },
@@ -59,19 +61,20 @@
 "town": "010",
 "vill": "003",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    46.81,
+"votePop":    12615,
 "candidates": [
  {
  "candNo": "1",
 "name": "林思銘",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":     2533,
+"disagreeTks":     3304,
+"agreeRate":     43.4,
+"disagreeRate":     56.6,
+"adptVictor": "N",
+"ytpRate":    20.08,
+"ntpRate":    26.19 
 } 
 ] 
 },
@@ -83,19 +86,20 @@
 "town": "010",
 "vill": "004",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    47.87,
+"votePop":     8824,
 "candidates": [
  {
  "candNo": "1",
 "name": "林思銘",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":     1624,
+"disagreeTks":     2571,
+"agreeRate":    38.71,
+"disagreeRate":    61.29,
+"adptVictor": "N",
+"ytpRate":     18.4,
+"ntpRate":    29.14 
 } 
 ] 
 },
@@ -107,19 +111,20 @@
 "town": "010",
 "vill": "005",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    47.88,
+"votePop":     4267,
 "candidates": [
  {
  "candNo": "1",
 "name": "林思銘",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      782,
+"disagreeTks":     1233,
+"agreeRate":    38.81,
+"disagreeRate":    61.19,
+"adptVictor": "N",
+"ytpRate":    18.33,
+"ntpRate":     28.9 
 } 
 ] 
 },
@@ -131,19 +136,20 @@
 "town": "010",
 "vill": "006",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    45.55,
+"votePop":     3350,
 "candidates": [
  {
  "candNo": "1",
 "name": "林思銘",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      408,
+"disagreeTks":     1094,
+"agreeRate":    27.16,
+"disagreeRate":    72.84,
+"adptVictor": "N",
+"ytpRate":    12.18,
+"ntpRate":    32.66 
 } 
 ] 
 },
@@ -155,19 +161,20 @@
 "town": "010",
 "vill": "007",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    42.47,
+"votePop":     8566,
 "candidates": [
  {
  "candNo": "1",
 "name": "林思銘",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":     1212,
+"disagreeTks":     2387,
+"agreeRate":    33.68,
+"disagreeRate":    66.32,
+"adptVictor": "N",
+"ytpRate":    14.15,
+"ntpRate":    27.87 
 } 
 ] 
 },
@@ -179,19 +186,20 @@
 "town": "010",
 "vill": "008",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    46.82,
+"votePop":     8497,
 "candidates": [
  {
  "candNo": "1",
 "name": "林思銘",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":     1175,
+"disagreeTks":     2753,
+"agreeRate":    29.91,
+"disagreeRate":    70.09,
+"adptVictor": "N",
+"ytpRate":    13.83,
+"ntpRate":     32.4 
 } 
 ] 
 },
@@ -203,19 +211,20 @@
 "town": "010",
 "vill": "009",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    40.58,
+"votePop":     6040,
 "candidates": [
  {
  "candNo": "1",
 "name": "林思銘",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      738,
+"disagreeTks":     1682,
+"agreeRate":     30.5,
+"disagreeRate":     69.5,
+"adptVictor": "N",
+"ytpRate":    12.22,
+"ntpRate":    27.85 
 } 
 ] 
 },
@@ -227,19 +236,20 @@
 "town": "010",
 "vill": "010",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    45.04,
+"votePop":     6043,
 "candidates": [
  {
  "candNo": "1",
 "name": "林思銘",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      802,
+"disagreeTks":     1883,
+"agreeRate":    29.87,
+"disagreeRate":    70.13,
+"adptVictor": "N",
+"ytpRate":    13.27,
+"ntpRate":    31.16 
 } 
 ] 
 },
@@ -251,19 +261,20 @@
 "town": "010",
 "vill": "021",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    45.42,
+"votePop":     6964,
 "candidates": [
  {
  "candNo": "1",
 "name": "林思銘",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":     1262,
+"disagreeTks":     1867,
+"agreeRate":    40.33,
+"disagreeRate":    59.67,
+"adptVictor": "N",
+"ytpRate":    18.12,
+"ntpRate":    26.81 
 } 
 ] 
 },
@@ -275,19 +286,20 @@
 "town": "010",
 "vill": "024",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    48.53,
+"votePop":     3765,
 "candidates": [
  {
  "candNo": "1",
 "name": "林思銘",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      519,
+"disagreeTks":     1287,
+"agreeRate":    28.74,
+"disagreeRate":    71.26,
+"adptVictor": "N",
+"ytpRate":    13.78,
+"ntpRate":    34.18 
 } 
 ] 
 },
@@ -299,19 +311,20 @@
 "town": "010",
 "vill": "025",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    45.18,
+"votePop":     6766,
 "candidates": [
  {
  "candNo": "1",
 "name": "林思銘",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":     1001,
+"disagreeTks":     2031,
+"agreeRate":    33.01,
+"disagreeRate":    66.99,
+"adptVictor": "N",
+"ytpRate":    14.79,
+"ntpRate":    30.02 
 } 
 ] 
 },
@@ -323,19 +336,20 @@
 "town": "010",
 "vill": "026",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    48.02,
+"votePop":     3105,
 "candidates": [
  {
  "candNo": "1",
 "name": "林思銘",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      458,
+"disagreeTks":     1016,
+"agreeRate":    31.07,
+"disagreeRate":    68.93,
+"adptVictor": "N",
+"ytpRate":    14.75,
+"ntpRate":    32.72 
 } 
 ] 
 },
@@ -347,19 +361,20 @@
 "town": "010",
 "vill": "027",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    46.92,
+"votePop":     8525,
 "candidates": [
  {
  "candNo": "1",
 "name": "林思銘",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":     1573,
+"disagreeTks":     2379,
+"agreeRate":     39.8,
+"disagreeRate":     60.2,
+"adptVictor": "N",
+"ytpRate":    18.45,
+"ntpRate":    27.91 
 } 
 ] 
 },
@@ -371,19 +386,20 @@
 "town": "010",
 "vill": "028",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    43.98,
+"votePop":     6932,
 "candidates": [
  {
  "candNo": "1",
 "name": "林思銘",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":     1200,
+"disagreeTks":     1822,
+"agreeRate":    39.71,
+"disagreeRate":    60.29,
+"adptVictor": "N",
+"ytpRate":    17.31,
+"ntpRate":    26.28 
 } 
 ] 
 },
@@ -395,19 +411,20 @@
 "town": "010",
 "vill": "029",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    47.31,
+"votePop":     3587,
 "candidates": [
  {
  "candNo": "1",
 "name": "林思銘",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      536,
+"disagreeTks":     1150,
+"agreeRate":    31.79,
+"disagreeRate":    68.21,
+"adptVictor": "N",
+"ytpRate":    14.94,
+"ntpRate":    32.06 
 } 
 ] 
 },
@@ -419,19 +436,20 @@
 "town": "010",
 "vill": "030",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    50.14,
+"votePop":     3225,
 "candidates": [
  {
  "candNo": "1",
 "name": "林思銘",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      524,
+"disagreeTks":     1070,
+"agreeRate":    32.87,
+"disagreeRate":    67.13,
+"adptVictor": "N",
+"ytpRate":    16.25,
+"ntpRate":    33.18 
 } 
 ] 
 },
@@ -443,19 +461,20 @@
 "town": "010",
 "vill": "031",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    47.36,
+"votePop":     6871,
 "candidates": [
  {
  "candNo": "1",
 "name": "林思銘",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":     1123,
+"disagreeTks":     2102,
+"agreeRate":    34.82,
+"disagreeRate":    65.18,
+"adptVictor": "N",
+"ytpRate":    16.34,
+"ntpRate":    30.59 
 } 
 ] 
 },
@@ -467,19 +486,20 @@
 "town": "020",
 "vill": "001",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    46.96,
+"votePop":      247,
 "candidates": [
  {
  "candNo": "1",
 "name": "林思銘",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":       28,
+"disagreeTks":       87,
+"agreeRate":    24.35,
+"disagreeRate":    75.65,
+"adptVictor": "N",
+"ytpRate":    11.34,
+"ntpRate":    35.22 
 } 
 ] 
 },
@@ -491,19 +511,20 @@
 "town": "020",
 "vill": "002",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    49.73,
+"votePop":      364,
 "candidates": [
  {
  "candNo": "1",
 "name": "林思銘",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":       52,
+"disagreeTks":      127,
+"agreeRate":    29.05,
+"disagreeRate":    70.95,
+"adptVictor": "N",
+"ytpRate":    14.29,
+"ntpRate":    34.89 
 } 
 ] 
 },
@@ -515,19 +536,20 @@
 "town": "020",
 "vill": "003",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    47.11,
+"votePop":      346,
 "candidates": [
  {
  "candNo": "1",
 "name": "林思銘",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":       49,
+"disagreeTks":      112,
+"agreeRate":    30.43,
+"disagreeRate":    69.57,
+"adptVictor": "N",
+"ytpRate":    14.16,
+"ntpRate":    32.37 
 } 
 ] 
 },
@@ -539,19 +561,20 @@
 "town": "020",
 "vill": "004",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    47.14,
+"votePop":     2009,
 "candidates": [
  {
  "candNo": "1",
 "name": "林思銘",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      180,
+"disagreeTks":      757,
+"agreeRate":    19.21,
+"disagreeRate":    80.79,
+"adptVictor": "N",
+"ytpRate":     8.96,
+"ntpRate":    37.68 
 } 
 ] 
 },
@@ -563,19 +586,20 @@
 "town": "020",
 "vill": "005",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    49.36,
+"votePop":     3136,
 "candidates": [
  {
  "candNo": "1",
 "name": "林思銘",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      350,
+"disagreeTks":     1186,
+"agreeRate":    22.79,
+"disagreeRate":    77.21,
+"adptVictor": "N",
+"ytpRate":    11.16,
+"ntpRate":    37.82 
 } 
 ] 
 },
@@ -587,19 +611,20 @@
 "town": "020",
 "vill": "006",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    47.17,
+"votePop":     8399,
 "candidates": [
  {
  "candNo": "1",
 "name": "林思銘",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      888,
+"disagreeTks":     3039,
+"agreeRate":    22.61,
+"disagreeRate":    77.39,
+"adptVictor": "N",
+"ytpRate":    10.57,
+"ntpRate":    36.18 
 } 
 ] 
 },
@@ -611,19 +636,20 @@
 "town": "020",
 "vill": "007",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    45.99,
+"votePop":     4231,
 "candidates": [
  {
  "candNo": "1",
 "name": "林思銘",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      440,
+"disagreeTks":     1492,
+"agreeRate":    22.77,
+"disagreeRate":    77.23,
+"adptVictor": "N",
+"ytpRate":     10.4,
+"ntpRate":    35.26 
 } 
 ] 
 },
@@ -635,19 +661,20 @@
 "town": "020",
 "vill": "008",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    51.19,
+"votePop":      590,
 "candidates": [
  {
  "candNo": "1",
 "name": "林思銘",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":       71,
+"disagreeTks":      223,
+"agreeRate":    24.15,
+"disagreeRate":    75.85,
+"adptVictor": "N",
+"ytpRate":    12.03,
+"ntpRate":     37.8 
 } 
 ] 
 },
@@ -659,19 +686,20 @@
 "town": "020",
 "vill": "009",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    39.92,
+"votePop":     2613,
 "candidates": [
  {
  "candNo": "1",
 "name": "林思銘",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      242,
+"disagreeTks":      788,
+"agreeRate":     23.5,
+"disagreeRate":     76.5,
+"adptVictor": "N",
+"ytpRate":     9.26,
+"ntpRate":    30.16 
 } 
 ] 
 },
@@ -683,19 +711,20 @@
 "town": "020",
 "vill": "010",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    52.61,
+"votePop":     1186,
 "candidates": [
  {
  "candNo": "1",
 "name": "林思銘",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      194,
+"disagreeTks":      422,
+"agreeRate":    31.49,
+"disagreeRate":    68.51,
+"adptVictor": "N",
+"ytpRate":    16.36,
+"ntpRate":    35.58 
 } 
 ] 
 },
@@ -707,19 +736,20 @@
 "town": "020",
 "vill": "011",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    50.83,
+"votePop":     1198,
 "candidates": [
  {
  "candNo": "1",
 "name": "林思銘",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      145,
+"disagreeTks":      452,
+"agreeRate":    24.29,
+"disagreeRate":    75.71,
+"adptVictor": "N",
+"ytpRate":     12.1,
+"ntpRate":    37.73 
 } 
 ] 
 },
@@ -731,19 +761,20 @@
 "town": "020",
 "vill": "012",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    48.49,
+"votePop":     3335,
 "candidates": [
  {
  "candNo": "1",
 "name": "林思銘",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      373,
+"disagreeTks":     1222,
+"agreeRate":    23.39,
+"disagreeRate":    76.61,
+"adptVictor": "N",
+"ytpRate":    11.18,
+"ntpRate":    36.64 
 } 
 ] 
 },
@@ -755,19 +786,20 @@
 "town": "020",
 "vill": "013",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    47.55,
+"votePop":     3081,
 "candidates": [
  {
  "candNo": "1",
 "name": "林思銘",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      377,
+"disagreeTks":     1070,
+"agreeRate":    26.05,
+"disagreeRate":    73.95,
+"adptVictor": "N",
+"ytpRate":    12.24,
+"ntpRate":    34.73 
 } 
 ] 
 },
@@ -779,19 +811,20 @@
 "town": "020",
 "vill": "014",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    43.81,
+"votePop":     6994,
 "candidates": [
  {
  "candNo": "1",
 "name": "林思銘",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      734,
+"disagreeTks":     2285,
+"agreeRate":    24.31,
+"disagreeRate":    75.69,
+"adptVictor": "N",
+"ytpRate":    10.49,
+"ntpRate":    32.67 
 } 
 ] 
 },
@@ -803,19 +836,20 @@
 "town": "020",
 "vill": "015",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    47.26,
+"votePop":     6200,
 "candidates": [
  {
  "candNo": "1",
 "name": "林思銘",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      774,
+"disagreeTks":     2127,
+"agreeRate":    26.68,
+"disagreeRate":    73.32,
+"adptVictor": "N",
+"ytpRate":    12.48,
+"ntpRate":    34.31 
 } 
 ] 
 },
@@ -827,19 +861,20 @@
 "town": "020",
 "vill": "016",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    49.55,
+"votePop":     4470,
 "candidates": [
  {
  "candNo": "1",
 "name": "林思銘",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      634,
+"disagreeTks":     1548,
+"agreeRate":    29.06,
+"disagreeRate":    70.94,
+"adptVictor": "N",
+"ytpRate":    14.18,
+"ntpRate":    34.63 
 } 
 ] 
 },
@@ -851,19 +886,20 @@
 "town": "020",
 "vill": "017",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    48.48,
+"votePop":     1873,
 "candidates": [
  {
  "candNo": "1",
 "name": "林思銘",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      245,
+"disagreeTks":      657,
+"agreeRate":    27.16,
+"disagreeRate":    72.84,
+"adptVictor": "N",
+"ytpRate":    13.08,
+"ntpRate":    35.08 
 } 
 ] 
 },
@@ -875,19 +911,20 @@
 "town": "020",
 "vill": "018",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    52.17,
+"votePop":      552,
 "candidates": [
  {
  "candNo": "1",
 "name": "林思銘",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":       77,
+"disagreeTks":      206,
+"agreeRate":    27.21,
+"disagreeRate":    72.79,
+"adptVictor": "N",
+"ytpRate":    13.95,
+"ntpRate":    37.32 
 } 
 ] 
 },
@@ -899,19 +936,20 @@
 "town": "020",
 "vill": "019",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    45.84,
+"votePop":    12381,
 "candidates": [
  {
  "candNo": "1",
 "name": "林思銘",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":     1640,
+"disagreeTks":     3965,
+"agreeRate":    29.26,
+"disagreeRate":    70.74,
+"adptVictor": "N",
+"ytpRate":    13.25,
+"ntpRate":    32.02 
 } 
 ] 
 },
@@ -923,19 +961,20 @@
 "town": "020",
 "vill": "020",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    48.19,
+"votePop":     1494,
 "candidates": [
  {
  "candNo": "1",
 "name": "林思銘",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      149,
+"disagreeTks":      560,
+"agreeRate":    21.02,
+"disagreeRate":    78.98,
+"adptVictor": "N",
+"ytpRate":     9.97,
+"ntpRate":    37.48 
 } 
 ] 
 },
@@ -947,19 +986,20 @@
 "town": "020",
 "vill": "021",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":     50.2,
+"votePop":     2542,
 "candidates": [
  {
  "candNo": "1",
 "name": "林思銘",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      332,
+"disagreeTks":      932,
+"agreeRate":    26.27,
+"disagreeRate":    73.73,
+"adptVictor": "N",
+"ytpRate":    13.06,
+"ntpRate":    36.66 
 } 
 ] 
 },
@@ -971,19 +1011,20 @@
 "town": "020",
 "vill": "022",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    49.54,
+"votePop":      971,
 "candidates": [
  {
  "candNo": "1",
 "name": "林思銘",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      117,
+"disagreeTks":      357,
+"agreeRate":    24.68,
+"disagreeRate":    75.32,
+"adptVictor": "N",
+"ytpRate":    12.05,
+"ntpRate":    36.77 
 } 
 ] 
 },
@@ -995,19 +1036,20 @@
 "town": "020",
 "vill": "023",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    50.23,
+"votePop":     7031,
 "candidates": [
  {
  "candNo": "1",
 "name": "林思銘",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      876,
+"disagreeTks":     2613,
+"agreeRate":    25.11,
+"disagreeRate":    74.89,
+"adptVictor": "N",
+"ytpRate":    12.46,
+"ntpRate":    37.16 
 } 
 ] 
 },
@@ -1019,19 +1061,20 @@
 "town": "020",
 "vill": "024",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    44.79,
+"votePop":     1344,
 "candidates": [
  {
  "candNo": "1",
 "name": "林思銘",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      141,
+"disagreeTks":      454,
+"agreeRate":     23.7,
+"disagreeRate":     76.3,
+"adptVictor": "N",
+"ytpRate":    10.49,
+"ntpRate":    33.78 
 } 
 ] 
 },
@@ -1043,19 +1086,20 @@
 "town": "020",
 "vill": "025",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    54.36,
+"votePop":      528,
 "candidates": [
  {
  "candNo": "1",
 "name": "林思銘",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":       62,
+"disagreeTks":      221,
+"agreeRate":    21.91,
+"disagreeRate":    78.09,
+"adptVictor": "N",
+"ytpRate":    11.74,
+"ntpRate":    41.86 
 } 
 ] 
 },
@@ -1067,19 +1111,20 @@
 "town": "080",
 "vill": "001",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    47.46,
+"votePop":     3070,
 "candidates": [
  {
  "candNo": "1",
 "name": "林思銘",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      302,
+"disagreeTks":     1132,
+"agreeRate":    21.06,
+"disagreeRate":    78.94,
+"adptVictor": "N",
+"ytpRate":     9.84,
+"ntpRate":    36.87 
 } 
 ] 
 },
@@ -1091,19 +1136,20 @@
 "town": "080",
 "vill": "002",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    51.48,
+"votePop":      812,
 "candidates": [
  {
  "candNo": "1",
 "name": "林思銘",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      108,
+"disagreeTks":      305,
+"agreeRate":    26.15,
+"disagreeRate":    73.85,
+"adptVictor": "N",
+"ytpRate":     13.3,
+"ntpRate":    37.56 
 } 
 ] 
 },
@@ -1115,19 +1161,20 @@
 "town": "080",
 "vill": "003",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    47.74,
+"votePop":      155,
 "candidates": [
  {
  "candNo": "1",
 "name": "林思銘",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":       16,
+"disagreeTks":       57,
+"agreeRate":    21.92,
+"disagreeRate":    78.08,
+"adptVictor": "N",
+"ytpRate":    10.32,
+"ntpRate":    36.77 
 } 
 ] 
 },
@@ -1139,19 +1186,20 @@
 "town": "080",
 "vill": "004",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    39.05,
+"votePop":      210,
 "candidates": [
  {
  "candNo": "1",
 "name": "林思銘",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":       29,
+"disagreeTks":       52,
+"agreeRate":     35.8,
+"disagreeRate":     64.2,
+"adptVictor": "N",
+"ytpRate":    13.81,
+"ntpRate":    24.76 
 } 
 ] 
 },
@@ -1163,19 +1211,20 @@
 "town": "080",
 "vill": "005",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    47.14,
+"votePop":      297,
 "candidates": [
  {
  "candNo": "1",
 "name": "林思銘",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":       44,
+"disagreeTks":       95,
+"agreeRate":    31.65,
+"disagreeRate":    68.35,
+"adptVictor": "N",
+"ytpRate":    14.81,
+"ntpRate":    31.99 
 } 
 ] 
 },
@@ -1187,19 +1236,20 @@
 "town": "080",
 "vill": "006",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    46.19,
+"votePop":      801,
 "candidates": [
  {
  "candNo": "1",
 "name": "林思銘",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":       83,
+"disagreeTks":      281,
+"agreeRate":     22.8,
+"disagreeRate":     77.2,
+"adptVictor": "N",
+"ytpRate":    10.36,
+"ntpRate":    35.08 
 } 
 ] 
 },
@@ -1211,19 +1261,20 @@
 "town": "080",
 "vill": "007",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    44.59,
+"votePop":      370,
 "candidates": [
  {
  "candNo": "1",
 "name": "林思銘",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":       39,
+"disagreeTks":      123,
+"agreeRate":    24.07,
+"disagreeRate":    75.93,
+"adptVictor": "N",
+"ytpRate":    10.54,
+"ntpRate":    33.24 
 } 
 ] 
 },
@@ -1235,19 +1286,20 @@
 "town": "080",
 "vill": "008",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    48.95,
+"votePop":      854,
 "candidates": [
  {
  "candNo": "1",
 "name": "林思銘",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      116,
+"disagreeTks":      293,
+"agreeRate":    28.36,
+"disagreeRate":    71.64,
+"adptVictor": "N",
+"ytpRate":    13.58,
+"ntpRate":    34.31 
 } 
 ] 
 },
@@ -1259,19 +1311,20 @@
 "town": "080",
 "vill": "009",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    50.21,
+"votePop":     1416,
 "candidates": [
  {
  "candNo": "1",
 "name": "林思銘",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      145,
+"disagreeTks":      556,
+"agreeRate":    20.68,
+"disagreeRate":    79.32,
+"adptVictor": "N",
+"ytpRate":    10.24,
+"ntpRate":    39.27 
 } 
 ] 
 },
@@ -1283,19 +1336,20 @@
 "town": "080",
 "vill": "010",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    47.46,
+"votePop":     1597,
 "candidates": [
  {
  "candNo": "1",
 "name": "林思銘",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      147,
+"disagreeTks":      605,
+"agreeRate":    19.55,
+"disagreeRate":    80.45,
+"adptVictor": "N",
+"ytpRate":      9.2,
+"ntpRate":    37.88 
 } 
 ] 
 },
@@ -1307,19 +1361,20 @@
 "town": "080",
 "vill": "011",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    53.85,
+"votePop":      715,
 "candidates": [
  {
  "candNo": "1",
 "name": "林思銘",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":       69,
+"disagreeTks":      311,
+"agreeRate":    18.16,
+"disagreeRate":    81.84,
+"adptVictor": "N",
+"ytpRate":     9.65,
+"ntpRate":     43.5 
 } 
 ] 
 },
@@ -1331,19 +1386,20 @@
 "town": "090",
 "vill": "001",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    46.61,
+"votePop":     1019,
 "candidates": [
  {
  "candNo": "1",
 "name": "林思銘",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      117,
+"disagreeTks":      351,
+"agreeRate":       25,
+"disagreeRate":       75,
+"adptVictor": "N",
+"ytpRate":    11.48,
+"ntpRate":    34.45 
 } 
 ] 
 },
@@ -1355,19 +1411,20 @@
 "town": "090",
 "vill": "002",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    46.51,
+"votePop":     1090,
 "candidates": [
  {
  "candNo": "1",
 "name": "林思銘",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      104,
+"disagreeTks":      396,
+"agreeRate":     20.8,
+"disagreeRate":     79.2,
+"adptVictor": "N",
+"ytpRate":     9.54,
+"ntpRate":    36.33 
 } 
 ] 
 },
@@ -1379,19 +1436,20 @@
 "town": "090",
 "vill": "003",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    46.42,
+"votePop":     2387,
 "candidates": [
  {
  "candNo": "1",
 "name": "林思銘",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      271,
+"disagreeTks":      821,
+"agreeRate":    24.82,
+"disagreeRate":    75.18,
+"adptVictor": "N",
+"ytpRate":    11.35,
+"ntpRate":    34.39 
 } 
 ] 
 },
@@ -1403,19 +1461,20 @@
 "town": "090",
 "vill": "004",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    43.86,
+"votePop":      798,
 "candidates": [
  {
  "candNo": "1",
 "name": "林思銘",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":       85,
+"disagreeTks":      258,
+"agreeRate":    24.78,
+"disagreeRate":    75.22,
+"adptVictor": "N",
+"ytpRate":    10.65,
+"ntpRate":    32.33 
 } 
 ] 
 },
@@ -1427,19 +1486,20 @@
 "town": "090",
 "vill": "005",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    55.46,
+"votePop":      339,
 "candidates": [
  {
  "candNo": "1",
 "name": "林思銘",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":       46,
+"disagreeTks":      142,
+"agreeRate":    24.47,
+"disagreeRate":    75.53,
+"adptVictor": "N",
+"ytpRate":    13.57,
+"ntpRate":    41.89 
 } 
 ] 
 },
@@ -1451,19 +1511,20 @@
 "town": "090",
 "vill": "006",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    54.31,
+"votePop":      685,
 "candidates": [
  {
  "candNo": "1",
 "name": "林思銘",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":       72,
+"disagreeTks":      296,
+"agreeRate":    19.57,
+"disagreeRate":    80.43,
+"adptVictor": "N",
+"ytpRate":    10.51,
+"ntpRate":    43.21 
 } 
 ] 
 },
@@ -1475,19 +1536,20 @@
 "town": "090",
 "vill": "007",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    48.65,
+"votePop":      483,
 "candidates": [
  {
  "candNo": "1",
 "name": "林思銘",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":       40,
+"disagreeTks":      191,
+"agreeRate":    17.32,
+"disagreeRate":    82.68,
+"adptVictor": "N",
+"ytpRate":     8.28,
+"ntpRate":    39.54 
 } 
 ] 
 },
@@ -1499,19 +1561,20 @@
 "town": "090",
 "vill": "008",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    49.17,
+"votePop":      303,
 "candidates": [
  {
  "candNo": "1",
 "name": "林思銘",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":       31,
+"disagreeTks":      118,
+"agreeRate":    20.81,
+"disagreeRate":    79.19,
+"adptVictor": "N",
+"ytpRate":    10.23,
+"ntpRate":    38.94 
 } 
 ] 
 },
@@ -1523,19 +1586,20 @@
 "town": "090",
 "vill": "009",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    45.28,
+"votePop":      265,
 "candidates": [
  {
  "candNo": "1",
 "name": "林思銘",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":       43,
+"disagreeTks":       75,
+"agreeRate":    36.44,
+"disagreeRate":    63.56,
+"adptVictor": "N",
+"ytpRate":    16.23,
+"ntpRate":     28.3 
 } 
 ] 
 },
@@ -1547,19 +1611,20 @@
 "town": "100",
 "vill": "001",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    43.26,
+"votePop":     2605,
 "candidates": [
  {
  "candNo": "1",
 "name": "林思銘",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      311,
+"disagreeTks":      799,
+"agreeRate":    28.02,
+"disagreeRate":    71.98,
+"adptVictor": "N",
+"ytpRate":    11.94,
+"ntpRate":    30.67 
 } 
 ] 
 },
@@ -1571,19 +1636,20 @@
 "town": "100",
 "vill": "002",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    47.68,
+"votePop":     1917,
 "candidates": [
  {
  "candNo": "1",
 "name": "林思銘",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      242,
+"disagreeTks":      666,
+"agreeRate":    26.65,
+"disagreeRate":    73.35,
+"adptVictor": "N",
+"ytpRate":    12.62,
+"ntpRate":    34.74 
 } 
 ] 
 },
@@ -1595,19 +1661,20 @@
 "town": "100",
 "vill": "003",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    47.72,
+"votePop":      964,
 "candidates": [
  {
  "candNo": "1",
 "name": "林思銘",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      114,
+"disagreeTks":      338,
+"agreeRate":    25.22,
+"disagreeRate":    74.78,
+"adptVictor": "N",
+"ytpRate":    11.83,
+"ntpRate":    35.06 
 } 
 ] 
 },
@@ -1619,19 +1686,20 @@
 "town": "100",
 "vill": "004",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    46.46,
+"votePop":     1089,
 "candidates": [
  {
  "candNo": "1",
 "name": "林思銘",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      129,
+"disagreeTks":      370,
+"agreeRate":    25.85,
+"disagreeRate":    74.15,
+"adptVictor": "N",
+"ytpRate":    11.85,
+"ntpRate":    33.98 
 } 
 ] 
 },
@@ -1643,19 +1711,20 @@
 "town": "100",
 "vill": "005",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    46.26,
+"votePop":      735,
 "candidates": [
  {
  "candNo": "1",
 "name": "林思銘",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":       71,
+"disagreeTks":      266,
+"agreeRate":    21.07,
+"disagreeRate":    78.93,
+"adptVictor": "N",
+"ytpRate":     9.66,
+"ntpRate":    36.19 
 } 
 ] 
 },
@@ -1667,19 +1736,20 @@
 "town": "100",
 "vill": "006",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    39.58,
+"votePop":      667,
 "candidates": [
  {
  "candNo": "1",
 "name": "林思銘",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":       53,
+"disagreeTks":      210,
+"agreeRate":    20.15,
+"disagreeRate":    79.85,
+"adptVictor": "N",
+"ytpRate":     7.95,
+"ntpRate":    31.48 
 } 
 ] 
 },
@@ -1691,19 +1761,20 @@
 "town": "100",
 "vill": "007",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    52.05,
+"votePop":      511,
 "candidates": [
  {
  "candNo": "1",
 "name": "林思銘",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":       74,
+"disagreeTks":      189,
+"agreeRate":    28.14,
+"disagreeRate":    71.86,
+"adptVictor": "N",
+"ytpRate":    14.48,
+"ntpRate":    36.99 
 } 
 ] 
 },
@@ -1715,19 +1786,20 @@
 "town": "100",
 "vill": "008",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    48.97,
+"votePop":     1072,
 "candidates": [
  {
  "candNo": "1",
 "name": "林思銘",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      132,
+"disagreeTks":      386,
+"agreeRate":    25.48,
+"disagreeRate":    74.52,
+"adptVictor": "N",
+"ytpRate":    12.31,
+"ntpRate":    36.01 
 } 
 ] 
 },
@@ -1739,19 +1811,20 @@
 "town": "100",
 "vill": "009",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    55.31,
+"votePop":      546,
 "candidates": [
  {
  "candNo": "1",
 "name": "林思銘",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":       71,
+"disagreeTks":      228,
+"agreeRate":    23.75,
+"disagreeRate":    76.25,
+"adptVictor": "N",
+"ytpRate":       13,
+"ntpRate":    41.76 
 } 
 ] 
 },
@@ -1763,19 +1836,20 @@
 "town": "100",
 "vill": "010",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    42.51,
+"votePop":     2644,
 "candidates": [
  {
  "candNo": "1",
 "name": "林思銘",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      327,
+"disagreeTks":      782,
+"agreeRate":    29.49,
+"disagreeRate":    70.51,
+"adptVictor": "N",
+"ytpRate":    12.37,
+"ntpRate":    29.58 
 } 
 ] 
 },
@@ -1787,19 +1861,20 @@
 "town": "110",
 "vill": "001",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    51.29,
+"votePop":      739,
 "candidates": [
  {
  "candNo": "1",
 "name": "林思銘",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":       84,
+"disagreeTks":      287,
+"agreeRate":    22.64,
+"disagreeRate":    77.36,
+"adptVictor": "N",
+"ytpRate":    11.37,
+"ntpRate":    38.84 
 } 
 ] 
 },
@@ -1811,19 +1886,20 @@
 "town": "110",
 "vill": "002",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    46.14,
+"votePop":      648,
 "candidates": [
  {
  "candNo": "1",
 "name": "林思銘",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":       83,
+"disagreeTks":      213,
+"agreeRate":    28.04,
+"disagreeRate":    71.96,
+"adptVictor": "N",
+"ytpRate":    12.81,
+"ntpRate":    32.87 
 } 
 ] 
 },
@@ -1835,19 +1911,20 @@
 "town": "110",
 "vill": "003",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    51.39,
+"votePop":      502,
 "candidates": [
  {
  "candNo": "1",
 "name": "林思銘",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":       72,
+"disagreeTks":      180,
+"agreeRate":    28.57,
+"disagreeRate":    71.43,
+"adptVictor": "N",
+"ytpRate":    14.34,
+"ntpRate":    35.86 
 } 
 ] 
 },
@@ -1859,19 +1936,20 @@
 "town": "110",
 "vill": "004",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":     46.1,
+"votePop":     1245,
 "candidates": [
  {
  "candNo": "1",
 "name": "林思銘",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      136,
+"disagreeTks":      429,
+"agreeRate":    24.07,
+"disagreeRate":    75.93,
+"adptVictor": "N",
+"ytpRate":    10.92,
+"ntpRate":    34.46 
 } 
 ] 
 },
@@ -1883,19 +1961,20 @@
 "town": "110",
 "vill": "005",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    42.33,
+"votePop":      567,
 "candidates": [
  {
  "candNo": "1",
 "name": "林思銘",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":       55,
+"disagreeTks":      177,
+"agreeRate":    23.71,
+"disagreeRate":    76.29,
+"adptVictor": "N",
+"ytpRate":      9.7,
+"ntpRate":    31.22 
 } 
 ] 
 },
@@ -1907,19 +1986,20 @@
 "town": "110",
 "vill": "006",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    45.74,
+"votePop":      809,
 "candidates": [
  {
  "candNo": "1",
 "name": "林思銘",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      109,
+"disagreeTks":      256,
+"agreeRate":    29.86,
+"disagreeRate":    70.14,
+"adptVictor": "N",
+"ytpRate":    13.47,
+"ntpRate":    31.64 
 } 
 ] 
 },
@@ -1931,19 +2011,20 @@
 "town": "130",
 "vill": "001",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":     35.8,
+"votePop":       81,
 "candidates": [
  {
  "candNo": "1",
 "name": "林思銘",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":        5,
+"disagreeTks":       24,
+"agreeRate":    17.24,
+"disagreeRate":    82.76,
+"adptVictor": "N",
+"ytpRate":     6.17,
+"ntpRate":    29.63 
 } 
 ] 
 },
@@ -1955,19 +2036,20 @@
 "town": "130",
 "vill": "002",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    37.18,
+"votePop":       78,
 "candidates": [
  {
  "candNo": "1",
 "name": "林思銘",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":       11,
+"disagreeTks":       18,
+"agreeRate":    37.93,
+"disagreeRate":    62.07,
+"adptVictor": "N",
+"ytpRate":     14.1,
+"ntpRate":    23.08 
 } 
 ] 
 },
@@ -1979,19 +2061,20 @@
 "town": "130",
 "vill": "003",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    48.28,
+"votePop":       29,
 "candidates": [
  {
  "candNo": "1",
 "name": "林思銘",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":        1,
+"disagreeTks":       13,
+"agreeRate":     7.14,
+"disagreeRate":    92.86,
+"adptVictor": "N",
+"ytpRate":     3.45,
+"ntpRate":    44.83 
 } 
 ] 
 },
@@ -2003,19 +2086,20 @@
 "town": "130",
 "vill": "004",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    27.27,
+"votePop":      165,
 "candidates": [
  {
  "candNo": "1",
 "name": "林思銘",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":       22,
+"disagreeTks":       21,
+"agreeRate":    51.16,
+"disagreeRate":    48.84,
+"adptVictor": "N",
+"ytpRate":    13.33,
+"ntpRate":    12.73 
 } 
 ] 
 } 

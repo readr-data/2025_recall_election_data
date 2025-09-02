@@ -1,5 +1,5 @@
 {
- "updatedAt": "2025-07-10 10:33:00",
+ "updatedAt": "2025-08-23 20:10:28",
 "is_running": false,
 "is_started": true,
 "districts": [
@@ -11,19 +11,20 @@
 "town": null,
 "vill": null,
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    49.24,
+"votePop":   184153,
 "candidates": [
  {
  "candNo": "1",
 "name": "馬文君",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":    29914,
+"disagreeTks":    59828,
+"agreeRate":    33.33,
+"disagreeRate":    66.67,
+"adptVictor": "N",
+"ytpRate":    16.24,
+"ntpRate":    32.49 
 } 
 ] 
 },
@@ -35,19 +36,20 @@
 "town": null,
 "vill": null,
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    49.44,
+"votePop":   195068,
 "candidates": [
  {
  "candNo": "1",
 "name": "游顥",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":    33853,
+"disagreeTks":    61443,
+"agreeRate":    35.52,
+"disagreeRate":    64.48,
+"adptVictor": "N",
+"ytpRate":    17.35,
+"ntpRate":     31.5 
 } 
 ] 
 } 

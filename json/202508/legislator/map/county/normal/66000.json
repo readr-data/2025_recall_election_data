@@ -1,5 +1,5 @@
 {
- "updatedAt": "2025-07-10 10:33:00",
+ "updatedAt": "2025-08-23 20:10:28",
 "is_running": false,
 "is_started": true,
 "districts": [
@@ -11,19 +11,20 @@
 "town": null,
 "vill": null,
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    50.34,
+"votePop":   307742,
 "candidates": [
  {
  "candNo": "1",
 "name": "顏寬恒",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":    54396,
+"disagreeTks":    98809,
+"agreeRate":    35.51,
+"disagreeRate":    64.49,
+"adptVictor": "N",
+"ytpRate":    17.68,
+"ntpRate":    32.11 
 } 
 ] 
 },
@@ -35,19 +36,20 @@
 "town": null,
 "vill": null,
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    49.33,
+"votePop":   260599,
 "candidates": [
  {
  "candNo": "1",
 "name": "楊瓊瓔",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":    43677,
+"disagreeTks":    83511,
+"agreeRate":    34.34,
+"disagreeRate":    65.66,
+"adptVictor": "N",
+"ytpRate":    16.76,
+"ntpRate":    32.05 
 } 
 ] 
 },
@@ -59,19 +61,20 @@
 "town": null,
 "vill": null,
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    50.24,
+"votePop":   208849,
 "candidates": [
  {
  "candNo": "1",
 "name": "江啟臣",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":    33977,
+"disagreeTks":    69796,
+"agreeRate":    32.74,
+"disagreeRate":    67.26,
+"adptVictor": "N",
+"ytpRate":    16.27,
+"ntpRate":    33.42 
 } 
 ] 
 } 

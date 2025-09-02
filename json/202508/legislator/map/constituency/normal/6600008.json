@@ -1,5 +1,5 @@
 {
- "updatedAt": "2025-07-10 10:33:00",
+ "updatedAt": "2025-08-23 20:10:28",
 "is_running": false,
 "is_started": true,
 "districts": [
@@ -11,19 +11,20 @@
 "town": "090",
 "vill": "001",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    52.35,
+"votePop":     2128,
 "candidates": [
  {
  "candNo": "1",
 "name": "江啟臣",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      343,
+"disagreeTks":      768,
+"agreeRate":    30.87,
+"disagreeRate":    69.13,
+"adptVictor": "N",
+"ytpRate":    16.12,
+"ntpRate":    36.09 
 } 
 ] 
 },
@@ -35,19 +36,20 @@
 "town": "090",
 "vill": "002",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    52.39,
+"votePop":      880,
 "candidates": [
  {
  "candNo": "1",
 "name": "江啟臣",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      196,
+"disagreeTks":      261,
+"agreeRate":    42.89,
+"disagreeRate":    57.11,
+"adptVictor": "N",
+"ytpRate":    22.27,
+"ntpRate":    29.66 
 } 
 ] 
 },
@@ -59,19 +61,20 @@
 "town": "090",
 "vill": "003",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    56.45,
+"votePop":      737,
 "candidates": [
  {
  "candNo": "1",
 "name": "江啟臣",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      189,
+"disagreeTks":      223,
+"agreeRate":    45.87,
+"disagreeRate":    54.13,
+"adptVictor": "N",
+"ytpRate":    25.64,
+"ntpRate":    30.26 
 } 
 ] 
 },
@@ -83,19 +86,20 @@
 "town": "090",
 "vill": "004",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    50.15,
+"votePop":     1033,
 "candidates": [
  {
  "candNo": "1",
 "name": "江啟臣",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      210,
+"disagreeTks":      306,
+"agreeRate":     40.7,
+"disagreeRate":     59.3,
+"adptVictor": "N",
+"ytpRate":    20.33,
+"ntpRate":    29.62 
 } 
 ] 
 },
@@ -107,19 +111,20 @@
 "town": "090",
 "vill": "005",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    55.73,
+"votePop":      689,
 "candidates": [
  {
  "candNo": "1",
 "name": "江啟臣",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      139,
+"disagreeTks":      236,
+"agreeRate":    37.07,
+"disagreeRate":    62.93,
+"adptVictor": "N",
+"ytpRate":    20.17,
+"ntpRate":    34.25 
 } 
 ] 
 },
@@ -131,19 +136,20 @@
 "town": "090",
 "vill": "006",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":     60.9,
+"votePop":      624,
 "candidates": [
  {
  "candNo": "1",
 "name": "江啟臣",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      144,
+"disagreeTks":      231,
+"agreeRate":     38.4,
+"disagreeRate":     61.6,
+"adptVictor": "N",
+"ytpRate":    23.08,
+"ntpRate":    37.02 
 } 
 ] 
 },
@@ -155,19 +161,20 @@
 "town": "090",
 "vill": "007",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    55.25,
+"votePop":      543,
 "candidates": [
  {
  "candNo": "1",
 "name": "江啟臣",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      133,
+"disagreeTks":      160,
+"agreeRate":    45.39,
+"disagreeRate":    54.61,
+"adptVictor": "N",
+"ytpRate":    24.49,
+"ntpRate":    29.47 
 } 
 ] 
 },
@@ -179,19 +186,20 @@
 "town": "090",
 "vill": "008",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    52.52,
+"votePop":     1565,
 "candidates": [
  {
  "candNo": "1",
 "name": "江啟臣",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      312,
+"disagreeTks":      500,
+"agreeRate":    38.42,
+"disagreeRate":    61.58,
+"adptVictor": "N",
+"ytpRate":    19.94,
+"ntpRate":    31.95 
 } 
 ] 
 },
@@ -203,19 +211,20 @@
 "town": "090",
 "vill": "009",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    52.72,
+"votePop":     4406,
 "candidates": [
  {
  "candNo": "1",
 "name": "江啟臣",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      880,
+"disagreeTks":     1422,
+"agreeRate":    38.23,
+"disagreeRate":    61.77,
+"adptVictor": "N",
+"ytpRate":    19.97,
+"ntpRate":    32.27 
 } 
 ] 
 },
@@ -227,19 +236,20 @@
 "town": "090",
 "vill": "010",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    52.72,
+"votePop":     2001,
 "candidates": [
  {
  "candNo": "1",
 "name": "江啟臣",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      390,
+"disagreeTks":      658,
+"agreeRate":    37.21,
+"disagreeRate":    62.79,
+"adptVictor": "N",
+"ytpRate":    19.49,
+"ntpRate":    32.88 
 } 
 ] 
 },
@@ -251,19 +261,20 @@
 "town": "090",
 "vill": "011",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    52.17,
+"votePop":     1315,
 "candidates": [
  {
  "candNo": "1",
 "name": "江啟臣",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      282,
+"disagreeTks":      390,
+"agreeRate":    41.96,
+"disagreeRate":    58.04,
+"adptVictor": "N",
+"ytpRate":    21.44,
+"ntpRate":    29.66 
 } 
 ] 
 },
@@ -275,19 +286,20 @@
 "town": "090",
 "vill": "012",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    50.77,
+"votePop":     1040,
 "candidates": [
  {
  "candNo": "1",
 "name": "江啟臣",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      214,
+"disagreeTks":      306,
+"agreeRate":    41.15,
+"disagreeRate":    58.85,
+"adptVictor": "N",
+"ytpRate":    20.58,
+"ntpRate":    29.42 
 } 
 ] 
 },
@@ -299,19 +311,20 @@
 "town": "090",
 "vill": "013",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    50.54,
+"votePop":     2396,
 "candidates": [
  {
  "candNo": "1",
 "name": "江啟臣",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      434,
+"disagreeTks":      769,
+"agreeRate":    36.08,
+"disagreeRate":    63.92,
+"adptVictor": "N",
+"ytpRate":    18.11,
+"ntpRate":     32.1 
 } 
 ] 
 },
@@ -323,19 +336,20 @@
 "town": "090",
 "vill": "014",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    51.77,
+"votePop":     2944,
 "candidates": [
  {
  "candNo": "1",
 "name": "江啟臣",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      528,
+"disagreeTks":      980,
+"agreeRate":    35.01,
+"disagreeRate":    64.99,
+"adptVictor": "N",
+"ytpRate":    17.93,
+"ntpRate":    33.29 
 } 
 ] 
 },
@@ -347,19 +361,20 @@
 "town": "090",
 "vill": "015",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    49.95,
+"votePop":     3782,
 "candidates": [
  {
  "candNo": "1",
 "name": "江啟臣",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      774,
+"disagreeTks":     1093,
+"agreeRate":    41.46,
+"disagreeRate":    58.54,
+"adptVictor": "N",
+"ytpRate":    20.47,
+"ntpRate":     28.9 
 } 
 ] 
 },
@@ -371,19 +386,20 @@
 "town": "090",
 "vill": "016",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    49.05,
+"votePop":     9168,
 "candidates": [
  {
  "candNo": "1",
 "name": "江啟臣",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":     1724,
+"disagreeTks":     2725,
+"agreeRate":    38.75,
+"disagreeRate":    61.25,
+"adptVictor": "N",
+"ytpRate":     18.8,
+"ntpRate":    29.72 
 } 
 ] 
 },
@@ -395,19 +411,20 @@
 "town": "090",
 "vill": "017",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    57.37,
+"votePop":     1140,
 "candidates": [
  {
  "candNo": "1",
 "name": "江啟臣",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      269,
+"disagreeTks":      377,
+"agreeRate":    41.64,
+"disagreeRate":    58.36,
+"adptVictor": "N",
+"ytpRate":     23.6,
+"ntpRate":    33.07 
 } 
 ] 
 },
@@ -419,19 +436,20 @@
 "town": "090",
 "vill": "018",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    54.69,
+"votePop":     3083,
 "candidates": [
  {
  "candNo": "1",
 "name": "江啟臣",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      561,
+"disagreeTks":     1107,
+"agreeRate":    33.63,
+"disagreeRate":    66.37,
+"adptVictor": "N",
+"ytpRate":     18.2,
+"ntpRate":    35.91 
 } 
 ] 
 },
@@ -443,19 +461,20 @@
 "town": "090",
 "vill": "019",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":     48.6,
+"votePop":     9485,
 "candidates": [
  {
  "candNo": "1",
 "name": "江啟臣",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":     1520,
+"disagreeTks":     3040,
+"agreeRate":    33.33,
+"disagreeRate":    66.67,
+"adptVictor": "N",
+"ytpRate":    16.03,
+"ntpRate":    32.05 
 } 
 ] 
 },
@@ -467,19 +486,20 @@
 "town": "090",
 "vill": "020",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    52.45,
+"votePop":     6031,
 "candidates": [
  {
  "candNo": "1",
 "name": "江啟臣",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":     1222,
+"disagreeTks":     1909,
+"agreeRate":    39.03,
+"disagreeRate":    60.97,
+"adptVictor": "N",
+"ytpRate":    20.26,
+"ntpRate":    31.65 
 } 
 ] 
 },
@@ -491,19 +511,20 @@
 "town": "090",
 "vill": "021",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    50.87,
+"votePop":     2709,
 "candidates": [
  {
  "candNo": "1",
 "name": "江啟臣",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      395,
+"disagreeTks":      969,
+"agreeRate":    28.96,
+"disagreeRate":    71.04,
+"adptVictor": "N",
+"ytpRate":    14.58,
+"ntpRate":    35.77 
 } 
 ] 
 },
@@ -515,19 +536,20 @@
 "town": "090",
 "vill": "022",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    45.87,
+"votePop":     6121,
 "candidates": [
  {
  "candNo": "1",
 "name": "江啟臣",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":     1005,
+"disagreeTks":     1786,
+"agreeRate":    36.01,
+"disagreeRate":    63.99,
+"adptVictor": "N",
+"ytpRate":    16.42,
+"ntpRate":    29.18 
 } 
 ] 
 },
@@ -539,19 +561,20 @@
 "town": "090",
 "vill": "023",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    50.02,
+"votePop":     9737,
 "candidates": [
  {
  "candNo": "1",
 "name": "江啟臣",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":     1742,
+"disagreeTks":     3079,
+"agreeRate":    36.13,
+"disagreeRate":    63.87,
+"adptVictor": "N",
+"ytpRate":    17.89,
+"ntpRate":    31.62 
 } 
 ] 
 },
@@ -563,19 +586,20 @@
 "town": "090",
 "vill": "024",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    51.54,
+"votePop":     4358,
 "candidates": [
  {
  "candNo": "1",
 "name": "江啟臣",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      762,
+"disagreeTks":     1461,
+"agreeRate":    34.28,
+"disagreeRate":    65.72,
+"adptVictor": "N",
+"ytpRate":    17.49,
+"ntpRate":    33.52 
 } 
 ] 
 },
@@ -587,19 +611,20 @@
 "town": "090",
 "vill": "025",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    49.38,
+"votePop":    10183,
 "candidates": [
  {
  "candNo": "1",
 "name": "江啟臣",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":     1739,
+"disagreeTks":     3240,
+"agreeRate":    34.93,
+"disagreeRate":    65.07,
+"adptVictor": "N",
+"ytpRate":    17.08,
+"ntpRate":    31.82 
 } 
 ] 
 },
@@ -611,19 +636,20 @@
 "town": "090",
 "vill": "026",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    52.76,
+"votePop":     2481,
 "candidates": [
  {
  "candNo": "1",
 "name": "江啟臣",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      483,
+"disagreeTks":      814,
+"agreeRate":    37.24,
+"disagreeRate":    62.76,
+"adptVictor": "N",
+"ytpRate":    19.47,
+"ntpRate":    32.81 
 } 
 ] 
 },
@@ -635,19 +661,20 @@
 "town": "090",
 "vill": "027",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    51.07,
+"votePop":    12696,
 "candidates": [
  {
  "candNo": "1",
 "name": "江啟臣",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":     2278,
+"disagreeTks":     4142,
+"agreeRate":    35.48,
+"disagreeRate":    64.52,
+"adptVictor": "N",
+"ytpRate":    17.94,
+"ntpRate":    32.62 
 } 
 ] 
 },
@@ -659,19 +686,20 @@
 "town": "090",
 "vill": "028",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    54.19,
+"votePop":     5036,
 "candidates": [
  {
  "candNo": "1",
 "name": "江啟臣",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":     1034,
+"disagreeTks":     1672,
+"agreeRate":    38.21,
+"disagreeRate":    61.79,
+"adptVictor": "N",
+"ytpRate":    20.53,
+"ntpRate":     33.2 
 } 
 ] 
 },
@@ -683,19 +711,20 @@
 "town": "090",
 "vill": "029",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    51.26,
+"votePop":     1469,
 "candidates": [
  {
  "candNo": "1",
 "name": "江啟臣",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      306,
+"disagreeTks":      434,
+"agreeRate":    41.35,
+"disagreeRate":    58.65,
+"adptVictor": "N",
+"ytpRate":    20.83,
+"ntpRate":    29.54 
 } 
 ] 
 },
@@ -707,19 +736,20 @@
 "town": "090",
 "vill": "030",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    50.98,
+"votePop":     5161,
 "candidates": [
  {
  "candNo": "1",
 "name": "江啟臣",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":     1038,
+"disagreeTks":     1575,
+"agreeRate":    39.72,
+"disagreeRate":    60.28,
+"adptVictor": "N",
+"ytpRate":    20.11,
+"ntpRate":    30.52 
 } 
 ] 
 },
@@ -731,19 +761,20 @@
 "town": "090",
 "vill": "031",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    51.76,
+"votePop":     2981,
 "candidates": [
  {
  "candNo": "1",
 "name": "江啟臣",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      581,
+"disagreeTks":      938,
+"agreeRate":    38.25,
+"disagreeRate":    61.75,
+"adptVictor": "N",
+"ytpRate":    19.49,
+"ntpRate":    31.47 
 } 
 ] 
 },
@@ -755,19 +786,20 @@
 "town": "090",
 "vill": "032",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    50.45,
+"votePop":     3223,
 "candidates": [
  {
  "candNo": "1",
 "name": "江啟臣",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      616,
+"disagreeTks":      994,
+"agreeRate":    38.26,
+"disagreeRate":    61.74,
+"adptVictor": "N",
+"ytpRate":    19.11,
+"ntpRate":    30.84 
 } 
 ] 
 },
@@ -779,19 +811,20 @@
 "town": "090",
 "vill": "033",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    52.08,
+"votePop":     2141,
 "candidates": [
  {
  "candNo": "1",
 "name": "江啟臣",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      371,
+"disagreeTks":      733,
+"agreeRate":    33.61,
+"disagreeRate":    66.39,
+"adptVictor": "N",
+"ytpRate":    17.33,
+"ntpRate":    34.24 
 } 
 ] 
 },
@@ -803,19 +836,20 @@
 "town": "090",
 "vill": "034",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":     50.7,
+"votePop":     3306,
 "candidates": [
  {
  "candNo": "1",
 "name": "江啟臣",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      524,
+"disagreeTks":     1136,
+"agreeRate":    31.57,
+"disagreeRate":    68.43,
+"adptVictor": "N",
+"ytpRate":    15.85,
+"ntpRate":    34.36 
 } 
 ] 
 },
@@ -827,19 +861,20 @@
 "town": "090",
 "vill": "035",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    55.82,
+"votePop":     1940,
 "candidates": [
  {
  "candNo": "1",
 "name": "江啟臣",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      352,
+"disagreeTks":      719,
+"agreeRate":    32.87,
+"disagreeRate":    67.13,
+"adptVictor": "N",
+"ytpRate":    18.14,
+"ntpRate":    37.06 
 } 
 ] 
 },
@@ -851,19 +886,20 @@
 "town": "090",
 "vill": "036",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    49.75,
+"votePop":     3198,
 "candidates": [
  {
  "candNo": "1",
 "name": "江啟臣",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      579,
+"disagreeTks":      992,
+"agreeRate":    36.86,
+"disagreeRate":    63.14,
+"adptVictor": "N",
+"ytpRate":    18.11,
+"ntpRate":    31.02 
 } 
 ] 
 },
@@ -875,19 +911,20 @@
 "town": "100",
 "vill": "001",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    49.52,
+"votePop":     1359,
 "candidates": [
  {
  "candNo": "1",
 "name": "江啟臣",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      149,
+"disagreeTks":      515,
+"agreeRate":    22.44,
+"disagreeRate":    77.56,
+"adptVictor": "N",
+"ytpRate":    10.96,
+"ntpRate":     37.9 
 } 
 ] 
 },
@@ -899,19 +936,20 @@
 "town": "100",
 "vill": "002",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    51.25,
+"votePop":      761,
 "candidates": [
  {
  "candNo": "1",
 "name": "江啟臣",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":       71,
+"disagreeTks":      315,
+"agreeRate":    18.39,
+"disagreeRate":    81.61,
+"adptVictor": "N",
+"ytpRate":     9.33,
+"ntpRate":    41.39 
 } 
 ] 
 },
@@ -923,19 +961,20 @@
 "town": "100",
 "vill": "003",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    52.59,
+"votePop":      926,
 "candidates": [
  {
  "candNo": "1",
 "name": "江啟臣",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      114,
+"disagreeTks":      371,
+"agreeRate":    23.51,
+"disagreeRate":    76.49,
+"adptVictor": "N",
+"ytpRate":    12.31,
+"ntpRate":    40.06 
 } 
 ] 
 },
@@ -947,19 +986,20 @@
 "town": "100",
 "vill": "004",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":     55.2,
+"votePop":     1605,
 "candidates": [
  {
  "candNo": "1",
 "name": "江啟臣",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      175,
+"disagreeTks":      702,
+"agreeRate":    19.95,
+"disagreeRate":    80.05,
+"adptVictor": "N",
+"ytpRate":     10.9,
+"ntpRate":    43.74 
 } 
 ] 
 },
@@ -971,19 +1011,20 @@
 "town": "100",
 "vill": "005",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":     49.4,
+"votePop":     1929,
 "candidates": [
  {
  "candNo": "1",
 "name": "江啟臣",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      252,
+"disagreeTks":      694,
+"agreeRate":    26.64,
+"disagreeRate":    73.36,
+"adptVictor": "N",
+"ytpRate":    13.06,
+"ntpRate":    35.98 
 } 
 ] 
 },
@@ -995,19 +1036,20 @@
 "town": "100",
 "vill": "006",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    57.29,
+"votePop":      857,
 "candidates": [
  {
  "candNo": "1",
 "name": "江啟臣",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      113,
+"disagreeTks":      374,
+"agreeRate":     23.2,
+"disagreeRate":     76.8,
+"adptVictor": "N",
+"ytpRate":    13.19,
+"ntpRate":    43.64 
 } 
 ] 
 },
@@ -1019,19 +1061,20 @@
 "town": "100",
 "vill": "007",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    53.06,
+"votePop":     1274,
 "candidates": [
  {
  "candNo": "1",
 "name": "江啟臣",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      158,
+"disagreeTks":      510,
+"agreeRate":    23.65,
+"disagreeRate":    76.35,
+"adptVictor": "N",
+"ytpRate":     12.4,
+"ntpRate":    40.03 
 } 
 ] 
 },
@@ -1043,19 +1086,20 @@
 "town": "100",
 "vill": "008",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    50.91,
+"votePop":     3092,
 "candidates": [
  {
  "candNo": "1",
 "name": "江啟臣",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      345,
+"disagreeTks":     1212,
+"agreeRate":    22.16,
+"disagreeRate":    77.84,
+"adptVictor": "N",
+"ytpRate":    11.16,
+"ntpRate":     39.2 
 } 
 ] 
 },
@@ -1067,19 +1111,20 @@
 "town": "100",
 "vill": "009",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    51.32,
+"votePop":     1746,
 "candidates": [
  {
  "candNo": "1",
 "name": "江啟臣",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      197,
+"disagreeTks":      690,
+"agreeRate":    22.21,
+"disagreeRate":    77.79,
+"adptVictor": "N",
+"ytpRate":    11.28,
+"ntpRate":    39.52 
 } 
 ] 
 },
@@ -1091,19 +1136,20 @@
 "town": "100",
 "vill": "010",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    51.68,
+"votePop":     3578,
 "candidates": [
  {
  "candNo": "1",
 "name": "江啟臣",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      430,
+"disagreeTks":     1397,
+"agreeRate":    23.54,
+"disagreeRate":    76.46,
+"adptVictor": "N",
+"ytpRate":    12.02,
+"ntpRate":    39.04 
 } 
 ] 
 },
@@ -1115,19 +1161,20 @@
 "town": "100",
 "vill": "011",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    45.21,
+"votePop":     1378,
 "candidates": [
  {
  "candNo": "1",
 "name": "江啟臣",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      164,
+"disagreeTks":      452,
+"agreeRate":    26.62,
+"disagreeRate":    73.38,
+"adptVictor": "N",
+"ytpRate":     11.9,
+"ntpRate":     32.8 
 } 
 ] 
 },
@@ -1139,19 +1186,20 @@
 "town": "100",
 "vill": "012",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":     52.9,
+"votePop":     4775,
 "candidates": [
  {
  "candNo": "1",
 "name": "江啟臣",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      689,
+"disagreeTks":     1812,
+"agreeRate":    27.55,
+"disagreeRate":    72.45,
+"adptVictor": "N",
+"ytpRate":    14.43,
+"ntpRate":    37.95 
 } 
 ] 
 },
@@ -1163,19 +1211,20 @@
 "town": "100",
 "vill": "013",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    48.72,
+"votePop":     1521,
 "candidates": [
  {
  "candNo": "1",
 "name": "江啟臣",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      218,
+"disagreeTks":      510,
+"agreeRate":    29.95,
+"disagreeRate":    70.05,
+"adptVictor": "N",
+"ytpRate":    14.33,
+"ntpRate":    33.53 
 } 
 ] 
 },
@@ -1187,19 +1236,20 @@
 "town": "100",
 "vill": "014",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    57.44,
+"votePop":      921,
 "candidates": [
  {
  "candNo": "1",
 "name": "江啟臣",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      145,
+"disagreeTks":      377,
+"agreeRate":    27.78,
+"disagreeRate":    72.22,
+"adptVictor": "N",
+"ytpRate":    15.74,
+"ntpRate":    40.93 
 } 
 ] 
 },
@@ -1211,19 +1261,20 @@
 "town": "100",
 "vill": "015",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    51.83,
+"votePop":      791,
 "candidates": [
  {
  "candNo": "1",
 "name": "江啟臣",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      126,
+"disagreeTks":      278,
+"agreeRate":    31.19,
+"disagreeRate":    68.81,
+"adptVictor": "N",
+"ytpRate":    15.93,
+"ntpRate":    35.15 
 } 
 ] 
 },
@@ -1235,19 +1286,20 @@
 "town": "100",
 "vill": "016",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":     48.7,
+"votePop":     1733,
 "candidates": [
  {
  "candNo": "1",
 "name": "江啟臣",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      218,
+"disagreeTks":      608,
+"agreeRate":    26.39,
+"disagreeRate":    73.61,
+"adptVictor": "N",
+"ytpRate":    12.58,
+"ntpRate":    35.08 
 } 
 ] 
 },
@@ -1259,19 +1311,20 @@
 "town": "100",
 "vill": "017",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    42.63,
+"votePop":     1119,
 "candidates": [
  {
  "candNo": "1",
 "name": "江啟臣",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      125,
+"disagreeTks":      346,
+"agreeRate":    26.54,
+"disagreeRate":    73.46,
+"adptVictor": "N",
+"ytpRate":    11.17,
+"ntpRate":    30.92 
 } 
 ] 
 },
@@ -1283,19 +1336,20 @@
 "town": "100",
 "vill": "018",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    53.61,
+"votePop":     1871,
 "candidates": [
  {
  "candNo": "1",
 "name": "江啟臣",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      251,
+"disagreeTks":      745,
+"agreeRate":     25.2,
+"disagreeRate":     74.8,
+"adptVictor": "N",
+"ytpRate":    13.42,
+"ntpRate":    39.82 
 } 
 ] 
 },
@@ -1307,19 +1361,20 @@
 "town": "100",
 "vill": "019",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    50.72,
+"votePop":     1871,
 "candidates": [
  {
  "candNo": "1",
 "name": "江啟臣",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      274,
+"disagreeTks":      661,
+"agreeRate":     29.3,
+"disagreeRate":     70.7,
+"adptVictor": "N",
+"ytpRate":    14.64,
+"ntpRate":    35.33 
 } 
 ] 
 },
@@ -1331,19 +1386,20 @@
 "town": "100",
 "vill": "020",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    49.84,
+"votePop":     1533,
 "candidates": [
  {
  "candNo": "1",
 "name": "江啟臣",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      211,
+"disagreeTks":      542,
+"agreeRate":    28.02,
+"disagreeRate":    71.98,
+"adptVictor": "N",
+"ytpRate":    13.76,
+"ntpRate":    35.36 
 } 
 ] 
 },
@@ -1355,19 +1411,20 @@
 "town": "100",
 "vill": "021",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    43.94,
+"votePop":     1122,
 "candidates": [
  {
  "candNo": "1",
 "name": "江啟臣",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      174,
+"disagreeTks":      308,
+"agreeRate":     36.1,
+"disagreeRate":     63.9,
+"adptVictor": "N",
+"ytpRate":    15.51,
+"ntpRate":    27.45 
 } 
 ] 
 },
@@ -1379,19 +1436,20 @@
 "town": "100",
 "vill": "022",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    49.14,
+"votePop":     1750,
 "candidates": [
  {
  "candNo": "1",
 "name": "江啟臣",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      212,
+"disagreeTks":      640,
+"agreeRate":    24.88,
+"disagreeRate":    75.12,
+"adptVictor": "N",
+"ytpRate":    12.11,
+"ntpRate":    36.57 
 } 
 ] 
 },
@@ -1403,19 +1461,20 @@
 "town": "100",
 "vill": "023",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    48.19,
+"votePop":      689,
 "candidates": [
  {
  "candNo": "1",
 "name": "江啟臣",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":       87,
+"disagreeTks":      239,
+"agreeRate":    26.69,
+"disagreeRate":    73.31,
+"adptVictor": "N",
+"ytpRate":    12.63,
+"ntpRate":    34.69 
 } 
 ] 
 },
@@ -1427,19 +1486,20 @@
 "town": "100",
 "vill": "024",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    54.43,
+"votePop":      610,
 "candidates": [
  {
  "candNo": "1",
 "name": "江啟臣",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      114,
+"disagreeTks":      213,
+"agreeRate":    34.86,
+"disagreeRate":    65.14,
+"adptVictor": "N",
+"ytpRate":    18.69,
+"ntpRate":    34.92 
 } 
 ] 
 },
@@ -1451,19 +1511,20 @@
 "town": "100",
 "vill": "025",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    44.36,
+"votePop":     1251,
 "candidates": [
  {
  "candNo": "1",
 "name": "江啟臣",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      165,
+"disagreeTks":      387,
+"agreeRate":    29.89,
+"disagreeRate":    70.11,
+"adptVictor": "N",
+"ytpRate":    13.19,
+"ntpRate":    30.94 
 } 
 ] 
 },
@@ -1475,19 +1536,20 @@
 "town": "190",
 "vill": "001",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    50.89,
+"votePop":     3101,
 "candidates": [
  {
  "candNo": "1",
 "name": "江啟臣",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      394,
+"disagreeTks":     1165,
+"agreeRate":    25.27,
+"disagreeRate":    74.73,
+"adptVictor": "N",
+"ytpRate":    12.71,
+"ntpRate":    37.57 
 } 
 ] 
 },
@@ -1499,19 +1561,20 @@
 "town": "190",
 "vill": "002",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    43.76,
+"votePop":     1659,
 "candidates": [
  {
  "candNo": "1",
 "name": "江啟臣",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      175,
+"disagreeTks":      543,
+"agreeRate":    24.37,
+"disagreeRate":    75.63,
+"adptVictor": "N",
+"ytpRate":    10.55,
+"ntpRate":    32.73 
 } 
 ] 
 },
@@ -1523,19 +1586,20 @@
 "town": "190",
 "vill": "003",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    48.87,
+"votePop":     1332,
 "candidates": [
  {
  "candNo": "1",
 "name": "江啟臣",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      163,
+"disagreeTks":      482,
+"agreeRate":    25.27,
+"disagreeRate":    74.73,
+"adptVictor": "N",
+"ytpRate":    12.24,
+"ntpRate":    36.19 
 } 
 ] 
 },
@@ -1547,19 +1611,20 @@
 "town": "190",
 "vill": "004",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    46.47,
+"votePop":      962,
 "candidates": [
  {
  "candNo": "1",
 "name": "江啟臣",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      138,
+"disagreeTks":      304,
+"agreeRate":    31.22,
+"disagreeRate":    68.78,
+"adptVictor": "N",
+"ytpRate":    14.35,
+"ntpRate":     31.6 
 } 
 ] 
 },
@@ -1571,19 +1636,20 @@
 "town": "190",
 "vill": "005",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":     40.6,
+"votePop":     1059,
 "candidates": [
  {
  "candNo": "1",
 "name": "江啟臣",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      142,
+"disagreeTks":      277,
+"agreeRate":    33.89,
+"disagreeRate":    66.11,
+"adptVictor": "N",
+"ytpRate":    13.41,
+"ntpRate":    26.16 
 } 
 ] 
 },
@@ -1595,19 +1661,20 @@
 "town": "190",
 "vill": "006",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    48.91,
+"votePop":     1742,
 "candidates": [
  {
  "candNo": "1",
 "name": "江啟臣",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      226,
+"disagreeTks":      617,
+"agreeRate":    26.81,
+"disagreeRate":    73.19,
+"adptVictor": "N",
+"ytpRate":    12.97,
+"ntpRate":    35.42 
 } 
 ] 
 },
@@ -1619,19 +1686,20 @@
 "town": "190",
 "vill": "007",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    46.48,
+"votePop":     2786,
 "candidates": [
  {
  "candNo": "1",
 "name": "江啟臣",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      402,
+"disagreeTks":      872,
+"agreeRate":    31.55,
+"disagreeRate":    68.45,
+"adptVictor": "N",
+"ytpRate":    14.43,
+"ntpRate":     31.3 
 } 
 ] 
 },
@@ -1643,19 +1711,20 @@
 "town": "190",
 "vill": "008",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    56.17,
+"votePop":      559,
 "candidates": [
  {
  "candNo": "1",
 "name": "江啟臣",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":       49,
+"disagreeTks":      256,
+"agreeRate":    16.07,
+"disagreeRate":    83.93,
+"adptVictor": "N",
+"ytpRate":     8.77,
+"ntpRate":     45.8 
 } 
 ] 
 },
@@ -1667,19 +1736,20 @@
 "town": "190",
 "vill": "009",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    44.94,
+"votePop":     2797,
 "candidates": [
  {
  "candNo": "1",
 "name": "江啟臣",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      344,
+"disagreeTks":      894,
+"agreeRate":    27.79,
+"disagreeRate":    72.21,
+"adptVictor": "N",
+"ytpRate":     12.3,
+"ntpRate":    31.96 
 } 
 ] 
 },
@@ -1691,19 +1761,20 @@
 "town": "190",
 "vill": "010",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    48.29,
+"votePop":     1170,
 "candidates": [
  {
  "candNo": "1",
 "name": "江啟臣",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      131,
+"disagreeTks":      430,
+"agreeRate":    23.35,
+"disagreeRate":    76.65,
+"adptVictor": "N",
+"ytpRate":     11.2,
+"ntpRate":    36.75 
 } 
 ] 
 },
@@ -1715,19 +1786,20 @@
 "town": "190",
 "vill": "011",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    46.12,
+"votePop":      837,
 "candidates": [
  {
  "candNo": "1",
 "name": "江啟臣",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      114,
+"disagreeTks":      265,
+"agreeRate":    30.08,
+"disagreeRate":    69.92,
+"adptVictor": "N",
+"ytpRate":    13.62,
+"ntpRate":    31.66 
 } 
 ] 
 },
@@ -1739,19 +1811,20 @@
 "town": "190",
 "vill": "012",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    54.12,
+"votePop":      534,
 "candidates": [
  {
  "candNo": "1",
 "name": "江啟臣",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":       38,
+"disagreeTks":      248,
+"agreeRate":    13.29,
+"disagreeRate":    86.71,
+"adptVictor": "N",
+"ytpRate":     7.12,
+"ntpRate":    46.44 
 } 
 ] 
 },
@@ -1763,19 +1836,20 @@
 "town": "190",
 "vill": "013",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    50.99,
+"votePop":     1010,
 "candidates": [
  {
  "candNo": "1",
 "name": "江啟臣",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      117,
+"disagreeTks":      391,
+"agreeRate":    23.03,
+"disagreeRate":    76.97,
+"adptVictor": "N",
+"ytpRate":    11.58,
+"ntpRate":    38.71 
 } 
 ] 
 },
@@ -1787,19 +1861,20 @@
 "town": "200",
 "vill": "001",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    49.77,
+"votePop":     1101,
 "candidates": [
  {
  "candNo": "1",
 "name": "江啟臣",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      164,
+"disagreeTks":      379,
+"agreeRate":     30.2,
+"disagreeRate":     69.8,
+"adptVictor": "N",
+"ytpRate":     14.9,
+"ntpRate":    34.42 
 } 
 ] 
 },
@@ -1811,19 +1886,20 @@
 "town": "200",
 "vill": "002",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":     50.8,
+"votePop":     1445,
 "candidates": [
  {
  "candNo": "1",
 "name": "江啟臣",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      212,
+"disagreeTks":      511,
+"agreeRate":    29.32,
+"disagreeRate":    70.68,
+"adptVictor": "N",
+"ytpRate":    14.67,
+"ntpRate":    35.36 
 } 
 ] 
 },
@@ -1835,19 +1911,20 @@
 "town": "200",
 "vill": "003",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    50.73,
+"votePop":     1163,
 "candidates": [
  {
  "candNo": "1",
 "name": "江啟臣",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      176,
+"disagreeTks":      397,
+"agreeRate":    30.72,
+"disagreeRate":    69.28,
+"adptVictor": "N",
+"ytpRate":    15.13,
+"ntpRate":    34.14 
 } 
 ] 
 },
@@ -1859,19 +1936,20 @@
 "town": "200",
 "vill": "004",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    48.67,
+"votePop":     1126,
 "candidates": [
  {
  "candNo": "1",
 "name": "江啟臣",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      153,
+"disagreeTks":      393,
+"agreeRate":    28.02,
+"disagreeRate":    71.98,
+"adptVictor": "N",
+"ytpRate":    13.59,
+"ntpRate":     34.9 
 } 
 ] 
 },
@@ -1883,19 +1961,20 @@
 "town": "200",
 "vill": "005",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    45.53,
+"votePop":      593,
 "candidates": [
  {
  "candNo": "1",
 "name": "江啟臣",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":       62,
+"disagreeTks":      202,
+"agreeRate":    23.48,
+"disagreeRate":    76.52,
+"adptVictor": "N",
+"ytpRate":    10.46,
+"ntpRate":    34.06 
 } 
 ] 
 },
@@ -1907,19 +1986,20 @@
 "town": "200",
 "vill": "006",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    52.31,
+"votePop":     1344,
 "candidates": [
  {
  "candNo": "1",
 "name": "江啟臣",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      202,
+"disagreeTks":      490,
+"agreeRate":    29.19,
+"disagreeRate":    70.81,
+"adptVictor": "N",
+"ytpRate":    15.03,
+"ntpRate":    36.46 
 } 
 ] 
 },
@@ -1931,19 +2011,20 @@
 "town": "200",
 "vill": "007",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    50.65,
+"votePop":     1688,
 "candidates": [
  {
  "candNo": "1",
 "name": "江啟臣",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      234,
+"disagreeTks":      607,
+"agreeRate":    27.82,
+"disagreeRate":    72.18,
+"adptVictor": "N",
+"ytpRate":    13.86,
+"ntpRate":    35.96 
 } 
 ] 
 },
@@ -1955,19 +2036,20 @@
 "town": "200",
 "vill": "008",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    51.49,
+"votePop":      975,
 "candidates": [
  {
  "candNo": "1",
 "name": "江啟臣",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      135,
+"disagreeTks":      359,
+"agreeRate":    27.33,
+"disagreeRate":    72.67,
+"adptVictor": "N",
+"ytpRate":    13.85,
+"ntpRate":    36.82 
 } 
 ] 
 },
@@ -1979,19 +2061,20 @@
 "town": "200",
 "vill": "009",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    52.47,
+"votePop":     1296,
 "candidates": [
  {
  "candNo": "1",
 "name": "江啟臣",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      163,
+"disagreeTks":      510,
+"agreeRate":    24.22,
+"disagreeRate":    75.78,
+"adptVictor": "N",
+"ytpRate":    12.58,
+"ntpRate":    39.35 
 } 
 ] 
 },
@@ -2003,19 +2086,20 @@
 "town": "200",
 "vill": "010",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    50.98,
+"votePop":     1128,
 "candidates": [
  {
  "candNo": "1",
 "name": "江啟臣",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      128,
+"disagreeTks":      442,
+"agreeRate":    22.46,
+"disagreeRate":    77.54,
+"adptVictor": "N",
+"ytpRate":    11.35,
+"ntpRate":    39.18 
 } 
 ] 
 },
@@ -2027,19 +2111,20 @@
 "town": "290",
 "vill": "001",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    41.53,
+"votePop":     1423,
 "candidates": [
  {
  "candNo": "1",
 "name": "江啟臣",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":      138,
+"disagreeTks":      450,
+"agreeRate":    23.47,
+"disagreeRate":    76.53,
+"adptVictor": "N",
+"ytpRate":      9.7,
+"ntpRate":    31.62 
 } 
 ] 
 },
@@ -2051,19 +2136,20 @@
 "town": "290",
 "vill": "002",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    42.07,
+"votePop":      397,
 "candidates": [
  {
  "candNo": "1",
 "name": "江啟臣",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":       48,
+"disagreeTks":      116,
+"agreeRate":    29.27,
+"disagreeRate":    70.73,
+"adptVictor": "N",
+"ytpRate":    12.09,
+"ntpRate":    29.22 
 } 
 ] 
 },
@@ -2075,19 +2161,20 @@
 "town": "290",
 "vill": "003",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    39.59,
+"votePop":      826,
 "candidates": [
  {
  "candNo": "1",
 "name": "江啟臣",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":       58,
+"disagreeTks":      265,
+"agreeRate":    17.96,
+"disagreeRate":    82.04,
+"adptVictor": "N",
+"ytpRate":     7.02,
+"ntpRate":    32.08 
 } 
 ] 
 },
@@ -2099,19 +2186,20 @@
 "town": "290",
 "vill": "004",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    50.12,
+"votePop":      421,
 "candidates": [
  {
  "candNo": "1",
 "name": "江啟臣",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":       49,
+"disagreeTks":      161,
+"agreeRate":    23.33,
+"disagreeRate":    76.67,
+"adptVictor": "N",
+"ytpRate":    11.64,
+"ntpRate":    38.24 
 } 
 ] 
 },
@@ -2123,19 +2211,20 @@
 "town": "290",
 "vill": "005",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    52.18,
+"votePop":      527,
 "candidates": [
  {
  "candNo": "1",
 "name": "江啟臣",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":       47,
+"disagreeTks":      226,
+"agreeRate":    17.22,
+"disagreeRate":    82.78,
+"adptVictor": "N",
+"ytpRate":     8.92,
+"ntpRate":    42.88 
 } 
 ] 
 },
@@ -2147,19 +2236,20 @@
 "town": "290",
 "vill": "006",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    42.93,
+"votePop":      566,
 "candidates": [
  {
  "candNo": "1",
 "name": "江啟臣",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":       57,
+"disagreeTks":      183,
+"agreeRate":    23.75,
+"disagreeRate":    76.25,
+"adptVictor": "N",
+"ytpRate":    10.07,
+"ntpRate":    32.33 
 } 
 ] 
 },
@@ -2171,19 +2261,20 @@
 "town": "290",
 "vill": "007",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    25.57,
+"votePop":     1142,
 "candidates": [
  {
  "candNo": "1",
 "name": "江啟臣",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":       56,
+"disagreeTks":      230,
+"agreeRate":    19.58,
+"disagreeRate":    80.42,
+"adptVictor": "N",
+"ytpRate":      4.9,
+"ntpRate":    20.14 
 } 
 ] 
 },
@@ -2195,19 +2286,20 @@
 "town": "290",
 "vill": "008",
 "type": "normal",
-"profRate": null,
-"votePop": null,
+"profRate":    29.89,
+"votePop":      348,
 "candidates": [
  {
  "candNo": "1",
 "name": "江啟臣",
 "party": "中國國民黨",
-"agreeTks": null,
-"disagreeTks": null,
-"agreeRate": null,
-"disagreeRate": null,
-"adptVictor": "",
-"ytpRate": null 
+"agreeTks":       16,
+"disagreeTks":       88,
+"agreeRate":    15.38,
+"disagreeRate":    84.62,
+"adptVictor": "N",
+"ytpRate":      4.6,
+"ntpRate":    25.29 
 } 
 ] 
 } 
