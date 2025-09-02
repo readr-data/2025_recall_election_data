@@ -1,0 +1,61 @@
+{
+ "updatedAt": "2025-08-23 20:10:28",
+"year": "2025",
+"type": "legislator-recall",
+"title": "立法委員罷免（南投縣）",
+"version": "v2",
+"is_running": false,
+"is_started": true,
+"districts": [
+ {
+ "districtName": "02",
+"candidates": [
+ {
+ "candNo":        1,
+"name": {
+ "label": "游顥",
+"href": "https://whoareyou.readr.tw/person/39919",
+"imgSrc": "https://storage.googleapis.com/whoareyou-gcs.readr.tw/person/%E6%B8%B8%E9%A1%A5.jpg" 
+},
+"party": {
+ "label": "中國國民黨",
+"href": null,
+"imgSrc": null 
+},
+"agreeTks":    49990,
+"disagreeTks":    96691,
+"agreeRate":    34.08,
+"disagreeRate":    65.92,
+"adptVictor": "N",
+"ytpRate":    16.68,
+"ntpRate":    32.27 
+} 
+] 
+},
+{
+ "districtName": "01",
+"candidates": [
+ {
+ "candNo":        1,
+"name": {
+ "label": "馬文君",
+"href": "https://whoareyou.readr.tw/person/402",
+"imgSrc": "https://storage.googleapis.com/whoareyou-gcs.readr.tw/person/%E9%A6%AC%E6%96%87%E5%90%9B.jpg" 
+},
+"party": {
+ "label": "中國國民黨",
+"href": null,
+"imgSrc": null 
+},
+"agreeTks":    33977,
+"disagreeTks":    69796,
+"agreeRate":    32.74,
+"disagreeRate":    67.26,
+"adptVictor": "N",
+"ytpRate":    16.27,
+"ntpRate":    33.42 
+} 
+] 
+} 
+] 
+}

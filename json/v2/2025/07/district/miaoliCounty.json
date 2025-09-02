@@ -1,0 +1,51 @@
+{
+ "updatedAt": "2024-01-13 22:21",
+"year": "2025",
+"type": "legislator-district",
+"title": "立法委員罷免（苗栗縣）",
+"version": "v2",
+"districts": [
+ {
+ "districtName": "01",
+"candidates": [
+ {
+ "candNo":        2,
+"name": {
+ "label": "陳超明",
+"href": "https://whoareyou.readr.tw/person/180",
+"imgSrc": "http://www.ly.gov.tw//Images/Legislators/100067.jpg" 
+},
+"party": {
+ "label": "無黨籍",
+"href": null,
+"imgSrc": null 
+},
+"tks":    79521,
+"tksRate":    56.85,
+"candVictor": true 
+} 
+] 
+},
+{
+ "districtName": "02",
+"candidates": [
+ {
+ "candNo":        1,
+"name": {
+ "label": "邱鎮軍",
+"href": "https://whoareyou.readr.tw/person/838",
+"imgSrc": null 
+},
+"party": {
+ "label": "中國國民黨",
+"href": null,
+"imgSrc": null 
+},
+"tks":    89111,
+"tksRate":    55.05,
+"candVictor": true 
+} 
+] 
+} 
+] 
+}

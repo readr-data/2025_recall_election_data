@@ -1,0 +1,30 @@
+{
+ "updatedAt": "2024-01-13 22:21",
+"year": "2025",
+"type": "legislator-district",
+"title": "立法委員罷免（新竹市）",
+"version": "v2",
+"districts": [
+ {
+ "districtName": "01",
+"candidates": [
+ {
+ "candNo":        7,
+"name": {
+ "label": "鄭正鈐",
+"href": "https://whoareyou.readr.tw/person/444",
+"imgSrc": "https://storage.googleapis.com/whoareyou-gcs.readr.tw/person/%E9%84%AD%E6%AD%A3%E9%88%90.jpg" 
+},
+"party": {
+ "label": "中國國民黨",
+"href": null,
+"imgSrc": null 
+},
+"tks":    92014,
+"tksRate":    35.22,
+"candVictor": true 
+} 
+] 
+} 
+] 
+}

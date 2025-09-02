@@ -1,0 +1,86 @@
+{
+ "updatedAt": "2025-08-23 20:10:28",
+"year": "2025",
+"type": "legislator-recall",
+"title": "立法委員罷免（臺中市）",
+"version": "v2",
+"is_running": false,
+"is_started": true,
+"districts": [
+ {
+ "districtName": "02",
+"candidates": [
+ {
+ "candNo":        1,
+"name": {
+ "label": "顏寬恒",
+"href": "https://whoareyou.readr.tw/person/461",
+"imgSrc": "https://storage.googleapis.com/whoareyou-gcs.readr.tw/person/%E9%A1%8F%E5%AF%AC%E6%81%92.jpg" 
+},
+"party": {
+ "label": "中國國民黨",
+"href": null,
+"imgSrc": null 
+},
+"agreeTks":    43677,
+"disagreeTks":    83511,
+"agreeRate":    34.34,
+"disagreeRate":    65.66,
+"adptVictor": "N",
+"ytpRate":    16.76,
+"ntpRate":    32.05 
+} 
+] 
+},
+{
+ "districtName": "03",
+"candidates": [
+ {
+ "candNo":        1,
+"name": {
+ "label": "楊瓊瓔",
+"href": "https://whoareyou.readr.tw/person/208",
+"imgSrc": "http://www.ly.gov.tw//Images/Legislators/100079.jpg" 
+},
+"party": {
+ "label": "中國國民黨",
+"href": null,
+"imgSrc": null 
+},
+"agreeTks":    29914,
+"disagreeTks":    59828,
+"agreeRate":    33.33,
+"disagreeRate":    66.67,
+"adptVictor": "N",
+"ytpRate":    16.24,
+"ntpRate":    32.49 
+} 
+] 
+},
+{
+ "districtName": "08",
+"candidates": [
+ {
+ "candNo":        1,
+"name": {
+ "label": "江啟臣",
+"href": "https://whoareyou.readr.tw/person/390",
+"imgSrc": "http://www.ly.gov.tw//Images/Legislators/100007.jpg" 
+},
+"party": {
+ "label": "中國國民黨",
+"href": null,
+"imgSrc": null 
+},
+"agreeTks":    33853,
+"disagreeTks":    61443,
+"agreeRate":    35.52,
+"disagreeRate":    64.48,
+"adptVictor": "N",
+"ytpRate":    17.35,
+"ntpRate":     31.5 
+} 
+] 
+} 
+] 
+}

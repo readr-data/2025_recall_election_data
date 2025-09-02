@@ -1,0 +1,135 @@
+{
+ "updatedAt": "2024-01-13 22:21",
+"year": "2025",
+"type": "legislator-district",
+"title": "立法委員罷免（桃園市）",
+"version": "v2",
+"districts": [
+ {
+ "districtName": "01",
+"candidates": [
+ {
+ "candNo":        1,
+"name": {
+ "label": "牛煦庭",
+"href": null,
+"imgSrc": null 
+},
+"party": {
+ "label": "中國國民黨",
+"href": null,
+"imgSrc": null 
+},
+"tks": null,
+"tksRate": null,
+"candVictor": null 
+} 
+] 
+},
+{
+ "districtName": "02",
+"candidates": [
+ {
+ "candNo":        1,
+"name": {
+ "label": "涂權吉",
+"href": null,
+"imgSrc": null 
+},
+"party": {
+ "label": "中國國民黨",
+"href": null,
+"imgSrc": null 
+},
+"tks": null,
+"tksRate": null,
+"candVictor": null 
+} 
+] 
+},
+{
+ "districtName": "03",
+"candidates": [
+ {
+ "candNo":        1,
+"name": {
+ "label": "魯明哲",
+"href": null,
+"imgSrc": null 
+},
+"party": {
+ "label": "中國國民黨",
+"href": null,
+"imgSrc": null 
+},
+"tks": null,
+"tksRate": null,
+"candVictor": null 
+} 
+] 
+},
+{
+ "districtName": "04",
+"candidates": [
+ {
+ "candNo":        1,
+"name": {
+ "label": "萬美玲",
+"href": null,
+"imgSrc": null 
+},
+"party": {
+ "label": "中國國民黨",
+"href": null,
+"imgSrc": null 
+},
+"tks": null,
+"tksRate": null,
+"candVictor": null 
+} 
+] 
+},
+{
+ "districtName": "05",
+"candidates": [
+ {
+ "candNo":        1,
+"name": {
+ "label": "呂玉玲",
+"href": null,
+"imgSrc": null 
+},
+"party": {
+ "label": "中國國民黨",
+"href": null,
+"imgSrc": null 
+},
+"tks": null,
+"tksRate": null,
+"candVictor": null 
+} 
+] 
+},
+{
+ "districtName": "06",
+"candidates": [
+ {
+ "candNo":        1,
+"name": {
+ "label": "邱若華",
+"href": null,
+"imgSrc": null 
+},
+"party": {
+ "label": "中國國民黨",
+"href": null,
+"imgSrc": null 
+},
+"tks": null,
+"tksRate": null,
+"candVictor": null 
+} 
+] 
+} 
+] 
+}

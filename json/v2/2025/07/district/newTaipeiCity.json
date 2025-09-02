@@ -1,0 +1,114 @@
+{
+ "updatedAt": "2024-01-13 22:21",
+"year": "2025",
+"type": "legislator-district",
+"title": "立法委員罷免（新北市）",
+"version": "v2",
+"districts": [
+ {
+ "districtName": "01",
+"candidates": [
+ {
+ "candNo":        1,
+"name": {
+ "label": "洪孟楷",
+"href": null,
+"imgSrc": null 
+},
+"party": {
+ "label": "中國國民黨",
+"href": null,
+"imgSrc": null 
+},
+"tks": null,
+"tksRate": null,
+"candVictor": null 
+} 
+] 
+},
+{
+ "districtName": "07",
+"candidates": [
+ {
+ "candNo":        1,
+"name": {
+ "label": "葉元之",
+"href": null,
+"imgSrc": null 
+},
+"party": {
+ "label": "中國國民黨",
+"href": null,
+"imgSrc": null 
+},
+"tks": null,
+"tksRate": null,
+"candVictor": null 
+} 
+] 
+},
+{
+ "districtName": "08",
+"candidates": [
+ {
+ "candNo":        1,
+"name": {
+ "label": "張智倫",
+"href": null,
+"imgSrc": null 
+},
+"party": {
+ "label": "中國國民黨",
+"href": null,
+"imgSrc": null 
+},
+"tks": null,
+"tksRate": null,
+"candVictor": null 
+} 
+] 
+},
+{
+ "districtName": "09",
+"candidates": [
+ {
+ "candNo":        1,
+"name": {
+ "label": "林德福",
+"href": null,
+"imgSrc": null 
+},
+"party": {
+ "label": "中國國民黨",
+"href": null,
+"imgSrc": null 
+},
+"tks": null,
+"tksRate": null,
+"candVictor": null 
+} 
+] 
+},
+{
+ "districtName": "12",
+"candidates": [
+ {
+ "candNo":        1,
+"name": {
+ "label": "廖先翔",
+"href": null,
+"imgSrc": null 
+},
+"party": {
+ "label": "中國國民黨",
+"href": null,
+"imgSrc": null 
+},
+"tks": null,
+"tksRate": null,
+"candVictor": null 
+} 
+] 
+} 
+] 
+}

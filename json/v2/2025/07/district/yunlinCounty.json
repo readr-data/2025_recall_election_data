@@ -1,0 +1,30 @@
+{
+ "updatedAt": "2024-01-13 22:21",
+"year": "2025",
+"type": "legislator-district",
+"title": "立法委員罷免（雲林縣）",
+"version": "v2",
+"districts": [
+ {
+ "districtName": "01",
+"candidates": [
+ {
+ "candNo":        1,
+"name": {
+ "label": "丁學忠",
+"href": null,
+"imgSrc": null 
+},
+"party": {
+ "label": "中國國民黨",
+"href": null,
+"imgSrc": null 
+},
+"tks": null,
+"tksRate": null,
+"candVictor": null 
+} 
+] 
+} 
+] 
+}

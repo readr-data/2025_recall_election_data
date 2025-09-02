@@ -1,0 +1,36 @@
+{
+ "updatedAt": "2025-08-23 20:10:28",
+"year": "2025",
+"type": "legislator-recall",
+"title": "立法委員罷免（新竹縣）",
+"version": "v2",
+"is_running": false,
+"is_started": true,
+"districts": [
+ {
+ "districtName": "02",
+"candidates": [
+ {
+ "candNo":        1,
+"name": {
+ "label": "林思銘",
+"href": "https://whoareyou.readr.tw/person/421",
+"imgSrc": "https://storage.googleapis.com/whoareyou-gcs.readr.tw/person/%E6%9E%97%E6%80%9D%E9%8A%98.jpg" 
+},
+"party": {
+ "label": "中國國民黨",
+"href": null,
+"imgSrc": null 
+},
+"agreeTks":    33813,
+"disagreeTks":    76239,
+"agreeRate":    30.72,
+"disagreeRate":    69.28,
+"adptVictor": "N",
+"ytpRate":    14.18,
+"ntpRate":    31.97 
+} 
+] 
+} 
+] 
+}

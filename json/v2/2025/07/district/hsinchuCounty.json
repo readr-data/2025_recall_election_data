@@ -1,0 +1,51 @@
+{
+ "updatedAt": "2024-01-13 22:21",
+"year": "2025",
+"type": "legislator-district",
+"title": "立法委員罷免（新竹縣）",
+"version": "v2",
+"districts": [
+ {
+ "districtName": "01",
+"candidates": [
+ {
+ "candNo":        2,
+"name": {
+ "label": "徐欣瑩",
+"href": "https://whoareyou.readr.tw/person/399",
+"imgSrc": "https://storage.googleapis.com/whoareyou-gcs.readr.tw/person/%E5%BE%90%E6%AC%A3%E7%91%A9.jpg" 
+},
+"party": {
+ "label": "中國國民黨",
+"href": null,
+"imgSrc": null 
+},
+"tks":    84959,
+"tksRate":    55.91,
+"candVictor": true 
+} 
+] 
+},
+{
+ "districtName": "02",
+"candidates": [
+ {
+ "candNo":        3,
+"name": {
+ "label": "林思銘",
+"href": "https://whoareyou.readr.tw/person/421",
+"imgSrc": "https://storage.googleapis.com/whoareyou-gcs.readr.tw/person/%E6%9E%97%E6%80%9D%E9%8A%98.jpg" 
+},
+"party": {
+ "label": "中國國民黨",
+"href": null,
+"imgSrc": null 
+},
+"tks":    76608,
+"tksRate":    44.82,
+"candVictor": true 
+} 
+] 
+} 
+] 
+}

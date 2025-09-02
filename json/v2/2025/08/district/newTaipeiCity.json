@@ -1,0 +1,36 @@
+{
+ "updatedAt": "2025-08-23 20:10:28",
+"year": "2025",
+"type": "legislator-recall",
+"title": "立法委員罷免（新北市）",
+"version": "v2",
+"is_running": false,
+"is_started": true,
+"districts": [
+ {
+ "districtName": "11",
+"candidates": [
+ {
+ "candNo":        1,
+"name": {
+ "label": "羅明才",
+"href": "https://whoareyou.readr.tw/person/230",
+"imgSrc": "http://www.ly.gov.tw//Images/Legislators/100108.jpg" 
+},
+"party": {
+ "label": "中國國民黨",
+"href": null,
+"imgSrc": null 
+},
+"agreeTks":    54396,
+"disagreeTks":    98809,
+"agreeRate":    35.51,
+"disagreeRate":    64.49,
+"adptVictor": "N",
+"ytpRate":    17.68,
+"ntpRate":    32.11 
+} 
+] 
+} 
+] 
+}
