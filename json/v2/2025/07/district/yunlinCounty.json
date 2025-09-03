@@ -1,9 +1,11 @@
 {
- "updatedAt": "2024-01-13 22:21",
+ "updatedAt": "2025-09-02 16:55:00",
 "year": "2025",
-"type": "legislator-district",
+"type": "legislator-recall",
 "title": "立法委員罷免（雲林縣）",
 "version": "v2",
+"is_running": false,
+"is_started": true,
 "districts": [
  {
  "districtName": "01",
@@ -12,7 +14,7 @@
  "candNo":        1,
 "name": {
  "label": "丁學忠",
-"href": null,
+"href": "https://whoareyou.readr.tw/person/1004",
 "imgSrc": null 
 },
 "party": {
@@ -20,11 +22,19 @@
 "href": null,
 "imgSrc": null 
 },
-"tks": null,
-"tksRate": null,
-"candVictor": null 
+"agreeTks":    57331,
+"disagreeTks":    77164,
+"agreeRate":    42.63,
+"disagreeRate":    57.37,
+"adptVictor": "N",
+"ytpRate":     21.1,
+"ntpRate":     28.4 
 } 
 ] 
+},
+{
+ "districtName": "02",
+"candidates": [] 
 } 
 ] 
 }

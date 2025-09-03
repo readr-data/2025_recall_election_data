@@ -1,10 +1,35 @@
 {
- "updatedAt": "2025-08-23 20:10:28",
+ "updatedAt": "2025-09-02 16:55:00",
 "year": "2025",
 "type": "legislator-recall",
 "title": "立法委員罷免（臺南市）",
 "version": "v2",
 "is_running": false,
 "is_started": true,
-"districts": [] 
+"districts": [
+ {
+ "districtName": "01",
+"candidates": [] 
+},
+{
+ "districtName": "02",
+"candidates": [] 
+},
+{
+ "districtName": "03",
+"candidates": [] 
+},
+{
+ "districtName": "04",
+"candidates": [] 
+},
+{
+ "districtName": "05",
+"candidates": [] 
+},
+{
+ "districtName": "06",
+"candidates": [] 
+} 
+] 
 }

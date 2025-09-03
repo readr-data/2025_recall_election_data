@@ -1,9 +1,11 @@
 {
- "updatedAt": "2024-01-13 22:21",
+ "updatedAt": "2025-09-02 16:55:00",
 "year": "2025",
-"type": "legislator-district",
+"type": "legislator-recall",
 "title": "立法委員罷免（彰化縣）",
 "version": "v2",
+"is_running": false,
+"is_started": true,
 "districts": [
  {
  "districtName": "01",
@@ -15,24 +17,7 @@
 },
 {
  "districtName": "03",
-"candidates": [
- {
- "candNo":        2,
-"name": {
- "label": "謝衣鳯",
-"href": "https://whoareyou.readr.tw/person/449",
-"imgSrc": "https://storage.googleapis.com/whoareyou-gcs.readr.tw/person/%E8%AC%9D%E8%A1%A3%E9%B3%AF.jpg" 
-},
-"party": {
- "label": "中國國民黨",
-"href": null,
-"imgSrc": null 
-},
-"tks":    97681,
-"tksRate":    53.75,
-"candVictor": true 
-} 
-] 
+"candidates": [] 
 },
 {
  "districtName": "04",

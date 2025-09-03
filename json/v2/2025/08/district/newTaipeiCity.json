@@ -1,5 +1,5 @@
 {
- "updatedAt": "2025-08-23 20:10:28",
+ "updatedAt": "2025-09-02 16:55:00",
 "year": "2025",
 "type": "legislator-recall",
 "title": "立法委員罷免（新北市）",
@@ -8,6 +8,46 @@
 "is_started": true,
 "districts": [
  {
+ "districtName": "01",
+"candidates": [] 
+},
+{
+ "districtName": "02",
+"candidates": [] 
+},
+{
+ "districtName": "03",
+"candidates": [] 
+},
+{
+ "districtName": "04",
+"candidates": [] 
+},
+{
+ "districtName": "05",
+"candidates": [] 
+},
+{
+ "districtName": "06",
+"candidates": [] 
+},
+{
+ "districtName": "07",
+"candidates": [] 
+},
+{
+ "districtName": "08",
+"candidates": [] 
+},
+{
+ "districtName": "09",
+"candidates": [] 
+},
+{
+ "districtName": "10",
+"candidates": [] 
+},
+{
  "districtName": "11",
 "candidates": [
  {
@@ -22,15 +62,19 @@
 "href": null,
 "imgSrc": null 
 },
-"agreeTks":    54396,
-"disagreeTks":    98809,
-"agreeRate":    35.51,
-"disagreeRate":    64.49,
+"agreeTks":    49990,
+"disagreeTks":    96691,
+"agreeRate":    34.08,
+"disagreeRate":    65.92,
 "adptVictor": "N",
-"ytpRate":    17.68,
-"ntpRate":    32.11 
+"ytpRate":    16.68,
+"ntpRate":    32.27 
 } 
 ] 
+},
+{
+ "districtName": "12",
+"candidates": [] 
 } 
 ] 
 }

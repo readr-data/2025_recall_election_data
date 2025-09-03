@@ -1,9 +1,11 @@
 {
- "updatedAt": "2024-01-13 22:21",
+ "updatedAt": "2025-09-02 16:55:00",
 "year": "2025",
-"type": "legislator-district",
+"type": "legislator-recall",
 "title": "立法委員罷免（臺東縣）",
 "version": "v2",
+"is_running": false,
+"is_started": true,
 "districts": [
  {
  "districtName": "01",
@@ -12,17 +14,21 @@
  "candNo":        1,
 "name": {
  "label": "黃建賓",
-"href": null,
-"imgSrc": null 
+"href": "https://whoareyou.readr.tw/person/1184",
+"imgSrc": "https://storage.googleapis.com/whoareyou-gcs.readr.tw/person/%E9%BB%83%E5%BB%BA%E8%B3%93.jpg" 
 },
 "party": {
  "label": "中國國民黨",
 "href": null,
 "imgSrc": null 
 },
-"tks": null,
-"tksRate": null,
-"candVictor": null 
+"agreeTks":    21105,
+"disagreeTks":    34907,
+"agreeRate":    37.68,
+"disagreeRate":    62.32,
+"adptVictor": "N",
+"ytpRate":    18.61,
+"ntpRate":    30.79 
 } 
 ] 
 } 

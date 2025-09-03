@@ -1,5 +1,5 @@
 {
- "updatedAt": "2025-08-23 20:10:28",
+ "updatedAt": "2025-09-02 16:55:00",
 "year": "2025",
 "type": "legislator-recall",
 "title": "立法委員罷免（臺中市）",
@@ -8,6 +8,10 @@
 "is_started": true,
 "districts": [
  {
+ "districtName": "01",
+"candidates": [] 
+},
+{
  "districtName": "02",
 "candidates": [
  {
@@ -22,13 +26,13 @@
 "href": null,
 "imgSrc": null 
 },
-"agreeTks":    43677,
-"disagreeTks":    83511,
-"agreeRate":    34.34,
-"disagreeRate":    65.66,
+"agreeTks":    54396,
+"disagreeTks":    98809,
+"agreeRate":    35.51,
+"disagreeRate":    64.49,
 "adptVictor": "N",
-"ytpRate":    16.76,
-"ntpRate":    32.05 
+"ytpRate":    17.68,
+"ntpRate":    32.11 
 } 
 ] 
 },
@@ -47,15 +51,31 @@
 "href": null,
 "imgSrc": null 
 },
-"agreeTks":    29914,
-"disagreeTks":    59828,
-"agreeRate":    33.33,
-"disagreeRate":    66.67,
+"agreeTks":    43677,
+"disagreeTks":    83511,
+"agreeRate":    34.34,
+"disagreeRate":    65.66,
 "adptVictor": "N",
-"ytpRate":    16.24,
-"ntpRate":    32.49 
+"ytpRate":    16.76,
+"ntpRate":    32.05 
 } 
 ] 
+},
+{
+ "districtName": "04",
+"candidates": [] 
+},
+{
+ "districtName": "05",
+"candidates": [] 
+},
+{
+ "districtName": "06",
+"candidates": [] 
+},
+{
+ "districtName": "07",
+"candidates": [] 
 },
 {
  "districtName": "08",
@@ -72,13 +92,13 @@
 "href": null,
 "imgSrc": null 
 },
-"agreeTks":    33853,
-"disagreeTks":    61443,
-"agreeRate":    35.52,
-"disagreeRate":    64.48,
+"agreeTks":    33977,
+"disagreeTks":    69796,
+"agreeRate":    32.74,
+"disagreeRate":    67.26,
 "adptVictor": "N",
-"ytpRate":    17.35,
-"ntpRate":     31.5 
+"ytpRate":    16.27,
+"ntpRate":    33.42 
 } 
 ] 
 } 

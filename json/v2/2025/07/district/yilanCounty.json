@@ -1,9 +1,11 @@
 {
- "updatedAt": "2024-01-13 22:21",
+ "updatedAt": "2025-09-02 16:55:00",
 "year": "2025",
-"type": "legislator-district",
+"type": "legislator-recall",
 "title": "立法委員罷免（宜蘭縣）",
 "version": "v2",
+"is_running": false,
+"is_started": true,
 "districts": [
  {
  "districtName": "01",

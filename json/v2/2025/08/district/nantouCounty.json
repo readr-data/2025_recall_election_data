@@ -1,5 +1,5 @@
 {
- "updatedAt": "2025-08-23 20:10:28",
+ "updatedAt": "2025-09-02 16:55:00",
 "year": "2025",
 "type": "legislator-recall",
 "title": "立法委員罷免（南投縣）",
@@ -8,31 +8,6 @@
 "is_started": true,
 "districts": [
  {
- "districtName": "02",
-"candidates": [
- {
- "candNo":        1,
-"name": {
- "label": "游顥",
-"href": "https://whoareyou.readr.tw/person/39919",
-"imgSrc": "https://storage.googleapis.com/whoareyou-gcs.readr.tw/person/%E6%B8%B8%E9%A1%A5.jpg" 
-},
-"party": {
- "label": "中國國民黨",
-"href": null,
-"imgSrc": null 
-},
-"agreeTks":    49990,
-"disagreeTks":    96691,
-"agreeRate":    34.08,
-"disagreeRate":    65.92,
-"adptVictor": "N",
-"ytpRate":    16.68,
-"ntpRate":    32.27 
-} 
-] 
-},
-{
  "districtName": "01",
 "candidates": [
  {
@@ -47,13 +22,38 @@
 "href": null,
 "imgSrc": null 
 },
-"agreeTks":    33977,
-"disagreeTks":    69796,
-"agreeRate":    32.74,
-"disagreeRate":    67.26,
+"agreeTks":    29914,
+"disagreeTks":    59828,
+"agreeRate":    33.33,
+"disagreeRate":    66.67,
 "adptVictor": "N",
-"ytpRate":    16.27,
-"ntpRate":    33.42 
+"ytpRate":    16.24,
+"ntpRate":    32.49 
+} 
+] 
+},
+{
+ "districtName": "02",
+"candidates": [
+ {
+ "candNo":        1,
+"name": {
+ "label": "游顥",
+"href": "https://whoareyou.readr.tw/person/39919",
+"imgSrc": "https://storage.googleapis.com/whoareyou-gcs.readr.tw/person/%E6%B8%B8%E9%A1%A5.jpg" 
+},
+"party": {
+ "label": "中國國民黨",
+"href": null,
+"imgSrc": null 
+},
+"agreeTks":    33853,
+"disagreeTks":    61443,
+"agreeRate":    35.52,
+"disagreeRate":    64.48,
+"adptVictor": "N",
+"ytpRate":    17.35,
+"ntpRate":     31.5 
 } 
 ] 
 } 

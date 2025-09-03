@@ -1,18 +1,32 @@
 {
- "updatedAt": "2024-01-13 22:21",
+ "updatedAt": "2025-09-02 16:55:00",
 "year": "2025",
-"type": "legislator-district",
+"type": "legislator-recall",
 "title": "立法委員罷免（臺中市）",
 "version": "v2",
+"is_running": false,
+"is_started": true,
 "districts": [
  {
+ "districtName": "01",
+"candidates": [] 
+},
+{
+ "districtName": "02",
+"candidates": [] 
+},
+{
+ "districtName": "03",
+"candidates": [] 
+},
+{
  "districtName": "04",
 "candidates": [
  {
  "candNo":        1,
 "name": {
  "label": "廖偉翔",
-"href": null,
+"href": "https://whoareyou.readr.tw/person/44367",
 "imgSrc": null 
 },
 "party": {
@@ -20,9 +34,13 @@
 "href": null,
 "imgSrc": null 
 },
-"tks": null,
-"tksRate": null,
-"candVictor": null 
+"agreeTks":    83812,
+"disagreeTks":   106534,
+"agreeRate":    44.03,
+"disagreeRate":    55.97,
+"adptVictor": "N",
+"ytpRate":    24.82,
+"ntpRate":    31.55 
 } 
 ] 
 },
@@ -33,17 +51,21 @@
  "candNo":        1,
 "name": {
  "label": "黃健豪",
-"href": null,
-"imgSrc": null 
+"href": "https://whoareyou.readr.tw/person/38607",
+"imgSrc": "https://storage.googleapis.com/whoareyou-gcs.readr.tw/person/38607.jpg" 
 },
 "party": {
  "label": "中國國民黨",
 "href": null,
 "imgSrc": null 
 },
-"tks": null,
-"tksRate": null,
-"candVictor": null 
+"agreeTks":    88914,
+"disagreeTks":   119540,
+"agreeRate":    42.65,
+"disagreeRate":    57.35,
+"adptVictor": "N",
+"ytpRate":    23.75,
+"ntpRate":    31.93 
 } 
 ] 
 },
@@ -54,19 +76,31 @@
  "candNo":        1,
 "name": {
  "label": "羅廷瑋",
-"href": null,
-"imgSrc": null 
+"href": "https://whoareyou.readr.tw/person/29018",
+"imgSrc": "https://storage.googleapis.com/whoareyou-gcs.readr.tw/person/29018.jpg" 
 },
 "party": {
  "label": "中國國民黨",
 "href": null,
 "imgSrc": null 
 },
-"tks": null,
-"tksRate": null,
-"candVictor": null 
+"agreeTks":    74012,
+"disagreeTks":    86422,
+"agreeRate":    46.13,
+"disagreeRate":    53.87,
+"adptVictor": "N",
+"ytpRate":    26.68,
+"ntpRate":    31.15 
 } 
 ] 
+},
+{
+ "districtName": "07",
+"candidates": [] 
+},
+{
+ "districtName": "08",
+"candidates": [] 
 } 
 ] 
 }

@@ -1,5 +1,5 @@
 {
- "updatedAt": "2025-08-23 20:10:28",
+ "updatedAt": "2025-09-02 16:55:00",
 "year": "2025",
 "type": "legislator-recall",
 "title": "立法委員罷免（新竹縣）",
@@ -8,6 +8,10 @@
 "is_started": true,
 "districts": [
  {
+ "districtName": "01",
+"candidates": [] 
+},
+{
  "districtName": "02",
 "candidates": [
  {

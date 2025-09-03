@@ -1,9 +1,11 @@
 {
- "updatedAt": "2024-01-13 22:21",
+ "updatedAt": "2025-09-02 16:55:00",
 "year": "2025",
-"type": "legislator-district",
+"type": "legislator-recall",
 "title": "立法委員罷免（新北市）",
 "version": "v2",
+"is_running": false,
+"is_started": true,
 "districts": [
  {
  "districtName": "01",
@@ -12,19 +14,43 @@
  "candNo":        1,
 "name": {
  "label": "洪孟楷",
-"href": null,
-"imgSrc": null 
+"href": "https://whoareyou.readr.tw/person/423",
+"imgSrc": "https://storage.googleapis.com/whoareyou-gcs.readr.tw/person/%E6%B4%AA%E5%AD%9F%E6%A5%B7.jpg" 
 },
 "party": {
  "label": "中國國民黨",
 "href": null,
 "imgSrc": null 
 },
-"tks": null,
-"tksRate": null,
-"candVictor": null 
+"agreeTks":    94808,
+"disagreeTks":   121592,
+"agreeRate":    43.81,
+"disagreeRate":    56.19,
+"adptVictor": "N",
+"ytpRate":    23.41,
+"ntpRate":    30.02 
 } 
 ] 
+},
+{
+ "districtName": "02",
+"candidates": [] 
+},
+{
+ "districtName": "03",
+"candidates": [] 
+},
+{
+ "districtName": "04",
+"candidates": [] 
+},
+{
+ "districtName": "05",
+"candidates": [] 
+},
+{
+ "districtName": "06",
+"candidates": [] 
 },
 {
  "districtName": "07",
@@ -33,17 +59,21 @@
  "candNo":        1,
 "name": {
  "label": "葉元之",
-"href": null,
-"imgSrc": null 
+"href": "https://whoareyou.readr.tw/person/38507",
+"imgSrc": "https://storage.googleapis.com/whoareyou-gcs.readr.tw/person/%E8%91%89%E5%85%83%E4%B9%8B.jpg" 
 },
 "party": {
  "label": "中國國民黨",
 "href": null,
 "imgSrc": null 
 },
-"tks": null,
-"tksRate": null,
-"candVictor": null 
+"agreeTks":    63357,
+"disagreeTks":    66917,
+"agreeRate":    48.63,
+"disagreeRate":    51.37,
+"adptVictor": "N",
+"ytpRate":    27.42,
+"ntpRate":    28.96 
 } 
 ] 
 },
@@ -54,17 +84,21 @@
  "candNo":        1,
 "name": {
  "label": "張智倫",
-"href": null,
-"imgSrc": null 
+"href": "https://whoareyou.readr.tw/person/44345",
+"imgSrc": "https://storage.googleapis.com/whoareyou-gcs.readr.tw/person/%E5%BC%B5%E6%99%BA%E5%80%AB.jpg" 
 },
 "party": {
  "label": "中國國民黨",
 "href": null,
 "imgSrc": null 
 },
-"tks": null,
-"tksRate": null,
-"candVictor": null 
+"agreeTks":    67131,
+"disagreeTks":    95319,
+"agreeRate":    41.32,
+"disagreeRate":    58.68,
+"adptVictor": "N",
+"ytpRate":    23.29,
+"ntpRate":    33.06 
 } 
 ] 
 },
@@ -75,19 +109,31 @@
  "candNo":        1,
 "name": {
  "label": "林德福",
-"href": null,
-"imgSrc": null 
+"href": "https://whoareyou.readr.tw/person/255",
+"imgSrc": "http://www.ly.gov.tw/Images/Legislators/100033.jpg" 
 },
 "party": {
  "label": "中國國民黨",
 "href": null,
 "imgSrc": null 
 },
-"tks": null,
-"tksRate": null,
-"candVictor": null 
+"agreeTks":    51288,
+"disagreeTks":    84058,
+"agreeRate":    37.89,
+"disagreeRate":    62.11,
+"adptVictor": "N",
+"ytpRate":    21.61,
+"ntpRate":    35.41 
 } 
 ] 
+},
+{
+ "districtName": "10",
+"candidates": [] 
+},
+{
+ "districtName": "11",
+"candidates": [] 
 },
 {
  "districtName": "12",
@@ -96,17 +142,21 @@
  "candNo":        1,
 "name": {
  "label": "廖先翔",
-"href": null,
-"imgSrc": null 
+"href": "https://whoareyou.readr.tw/person/38552",
+"imgSrc": "https://storage.googleapis.com/whoareyou-gcs.readr.tw/person/%E5%BB%96%E5%85%88%E7%BF%94.jpg" 
 },
 "party": {
  "label": "中國國民黨",
 "href": null,
 "imgSrc": null 
 },
-"tks": null,
-"tksRate": null,
-"candVictor": null 
+"agreeTks":    60632,
+"disagreeTks":    79110,
+"agreeRate":    43.39,
+"disagreeRate":    56.61,
+"adptVictor": "N",
+"ytpRate":    22.77,
+"ntpRate":    29.71 
 } 
 ] 
 } 

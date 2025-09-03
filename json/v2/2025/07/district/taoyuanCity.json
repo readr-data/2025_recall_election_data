@@ -1,9 +1,11 @@
 {
- "updatedAt": "2024-01-13 22:21",
+ "updatedAt": "2025-09-02 16:55:00",
 "year": "2025",
-"type": "legislator-district",
+"type": "legislator-recall",
 "title": "立法委員罷免（桃園市）",
 "version": "v2",
+"is_running": false,
+"is_started": true,
 "districts": [
  {
  "districtName": "01",
@@ -12,17 +14,21 @@
  "candNo":        1,
 "name": {
  "label": "牛煦庭",
-"href": null,
-"imgSrc": null 
+"href": "https://whoareyou.readr.tw/person/38740",
+"imgSrc": "https://storage.googleapis.com/whoareyou-gcs.readr.tw/person/38740.jpg" 
 },
 "party": {
  "label": "中國國民黨",
 "href": null,
 "imgSrc": null 
 },
-"tks": null,
-"tksRate": null,
-"candVictor": null 
+"agreeTks":    86734,
+"disagreeTks":   106637,
+"agreeRate":    44.85,
+"disagreeRate":    55.15,
+"adptVictor": "N",
+"ytpRate":     24.5,
+"ntpRate":    30.12 
 } 
 ] 
 },
@@ -33,17 +39,21 @@
  "candNo":        1,
 "name": {
  "label": "涂權吉",
-"href": null,
-"imgSrc": null 
+"href": "https://whoareyou.readr.tw/person/38784",
+"imgSrc": "https://storage.googleapis.com/whoareyou-gcs.readr.tw/person/38784.jpg" 
 },
 "party": {
  "label": "中國國民黨",
 "href": null,
 "imgSrc": null 
 },
-"tks": null,
-"tksRate": null,
-"candVictor": null 
+"agreeTks":    70310,
+"disagreeTks":   101419,
+"agreeRate":    40.94,
+"disagreeRate":    59.06,
+"adptVictor": "N",
+"ytpRate":    22.22,
+"ntpRate":    32.05 
 } 
 ] 
 },
@@ -54,7 +64,7 @@
  "candNo":        1,
 "name": {
  "label": "魯明哲",
-"href": null,
+"href": "https://whoareyou.readr.tw/person/445",
 "imgSrc": null 
 },
 "party": {
@@ -62,9 +72,13 @@
 "href": null,
 "imgSrc": null 
 },
-"tks": null,
-"tksRate": null,
-"candVictor": null 
+"agreeTks":    66301,
+"disagreeTks":   105323,
+"agreeRate":    38.63,
+"disagreeRate":    61.37,
+"adptVictor": "N",
+"ytpRate":    21.46,
+"ntpRate":    34.09 
 } 
 ] 
 },
@@ -75,7 +89,7 @@
  "candNo":        1,
 "name": {
  "label": "萬美玲",
-"href": null,
+"href": "https://whoareyou.readr.tw/person/438",
 "imgSrc": null 
 },
 "party": {
@@ -83,9 +97,13 @@
 "href": null,
 "imgSrc": null 
 },
-"tks": null,
-"tksRate": null,
-"candVictor": null 
+"agreeTks":    72626,
+"disagreeTks":    97544,
+"agreeRate":    42.68,
+"disagreeRate":    57.32,
+"adptVictor": "N",
+"ytpRate":    23.68,
+"ntpRate":    31.81 
 } 
 ] 
 },
@@ -96,7 +114,7 @@
  "candNo":        1,
 "name": {
  "label": "呂玉玲",
-"href": null,
+"href": "https://whoareyou.readr.tw/person/393",
 "imgSrc": null 
 },
 "party": {
@@ -104,9 +122,13 @@
 "href": null,
 "imgSrc": null 
 },
-"tks": null,
-"tksRate": null,
-"candVictor": null 
+"agreeTks":    59756,
+"disagreeTks":    98042,
+"agreeRate":    37.87,
+"disagreeRate":    62.13,
+"adptVictor": "N",
+"ytpRate":    21.14,
+"ntpRate":    34.68 
 } 
 ] 
 },
@@ -117,7 +139,7 @@
  "candNo":        1,
 "name": {
  "label": "邱若華",
-"href": null,
+"href": "https://whoareyou.readr.tw/person/44359",
 "imgSrc": null 
 },
 "party": {
@@ -125,9 +147,13 @@
 "href": null,
 "imgSrc": null 
 },
-"tks": null,
-"tksRate": null,
-"candVictor": null 
+"agreeTks":    61635,
+"disagreeTks":    92049,
+"agreeRate":    40.11,
+"disagreeRate":    59.89,
+"adptVictor": "N",
+"ytpRate":    21.62,
+"ntpRate":    32.29 
 } 
 ] 
 } 

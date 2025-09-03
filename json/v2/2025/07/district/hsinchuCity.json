@@ -1,15 +1,17 @@
 {
- "updatedAt": "2024-01-13 22:21",
+ "updatedAt": "2025-09-02 16:55:00",
 "year": "2025",
-"type": "legislator-district",
+"type": "legislator-recall",
 "title": "立法委員罷免（新竹市）",
 "version": "v2",
+"is_running": false,
+"is_started": true,
 "districts": [
  {
  "districtName": "01",
 "candidates": [
  {
- "candNo":        7,
+ "candNo":        1,
 "name": {
  "label": "鄭正鈐",
 "href": "https://whoareyou.readr.tw/person/444",
@@ -20,9 +22,13 @@
 "href": null,
 "imgSrc": null 
 },
-"tks":    92014,
-"tksRate":    35.22,
-"candVictor": true 
+"agreeTks":    89970,
+"disagreeTks":   119305,
+"agreeRate":    42.99,
+"disagreeRate":    57.01,
+"adptVictor": "N",
+"ytpRate":     25.2,
+"ntpRate":    33.41 
 } 
 ] 
 } 
